@@ -1,1 +1,154 @@
-[]
+[
+    {
+        "brand_name": "Generic",
+        "product_name": "powder blush",
+        "sentiment": "negative",
+        "spoken_timestamp_seconds": 1,
+        "visual_timestamp_seconds": 0,
+        "video_id": "AvveXaQ_Ri0"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Lumi Liquid Blush",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 11,
+        "visual_timestamp_seconds": 12,
+        "video_id": "AvveXaQ_Ri0"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Infallible 3 Second Setting Mist",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 15,
+        "video_id": "536tG6WuqLk"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless Foundation",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 6,
+        "video_id": "7COizuwizFQ"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me BB nude glow BB cream",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "video_id": "eLimlex3Azg"
+    },
+    {
+        "brand_name": "e.l.f.",
+        "product_name": "PowerGrip Dewey setting spray",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 0,
+        "video_id": "UZqxW94AXdM"
+    },
+    {
+        "brand_name": "e.l.f.",
+        "product_name": "Halo skin tint with mineral filters",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 0,
+        "video_id": "UZqxW94AXdM"
+    },
+    {
+        "brand_name": "e.l.f.",
+        "product_name": "Cream blushes",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 21,
+        "visual_timestamp_seconds": 21,
+        "video_id": "UZqxW94AXdM"
+    },
+    {
+        "brand_name": "e.l.f.",
+        "product_name": "Super Creamy Lip Liner",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 30,
+        "visual_timestamp_seconds": 0,
+        "video_id": "UZqxW94AXdM"
+    },
+    {
+        "brand_name": "e.l.f.",
+        "product_name": "Lip oils",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 37,
+        "visual_timestamp_seconds": 0,
+        "video_id": "UZqxW94AXdM"
+    },
+    {
+        "brand_name": "e.l.f.",
+        "product_name": "Finishing powder",
+        "sentiment": "comparison",
+        "spoken_timestamp_seconds": 48,
+        "visual_timestamp_seconds": 48,
+        "video_id": "UZqxW94AXdM"
+    },
+    {
+        "brand_name": "Funky Beauty",
+        "product_name": "Bright Fixed Powder",
+        "sentiment": "neutral",
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 6,
+        "video_id": "CiOoItReFaw"
+    },
+    {
+        "brand_name": "Fenty Beauty",
+        "product_name": "Diamond Bomb all over diamond veil",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "video_id": "HcTqbnFjbHM"
+    },
+    {
+        "brand_name": "null",
+        "product_name": "bronzer",
+        "sentiment": "neutral",
+        "spoken_timestamp_seconds": 18,
+        "visual_timestamp_seconds": 21,
+        "video_id": "HcTqbnFjbHM"
+    },
+    {
+        "brand_name": "Rare Beauty",
+        "product_name": "True to Myself Foundation",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 3,
+        "video_id": "Krxl71e2-eM"
+    },
+    {
+        "brand_name": "Rare Beauty",
+        "product_name": "Under Eye Brightener",
+        "sentiment": "neutral",
+        "spoken_timestamp_seconds": 14,
+        "visual_timestamp_seconds": 0,
+        "video_id": "Krxl71e2-eM"
+    },
+    {
+        "brand_name": "Rare Beauty",
+        "product_name": "Beauty Sponge",
+        "sentiment": "neutral",
+        "spoken_timestamp_seconds": 16,
+        "visual_timestamp_seconds": 18,
+        "video_id": "Krxl71e2-eM"
+    },
+    {
+        "brand_name": "Huda Beauty",
+        "product_name": "Easy Blur primer",
+        "sentiment": "neutral",
+        "spoken_timestamp_seconds": 22,
+        "visual_timestamp_seconds": 24,
+        "video_id": "Krxl71e2-eM"
+    },
+    {
+        "brand_name": "Elf",
+        "product_name": "Halo Glow",
+        "sentiment": "positive",
+        "spoken_timestamp_seconds": 27,
+        "visual_timestamp_seconds": 27,
+        "video_id": "Krxl71e2-eM"
+    }
+]
