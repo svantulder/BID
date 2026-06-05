@@ -25,8 +25,10 @@ YOUTUBE_URLS = [
     "https://www.youtube.com/shorts/HcTqbnFjbHM",
     "https://www.youtube.com/shorts/Krxl71e2-eM"
 ]
+
 OUTPUT_FILE = "transcript_data.json"
 FRAMES_DIR = "frames"
+TEMP_VIDEO = "temp_video.mp4"
 
 # Ensure frames directory exists
 os.makedirs(FRAMES_DIR, exist_ok=True)
@@ -39,14 +41,10 @@ results = []
 for url in YOUTUBE_URLS:
     print(f"\nProcessing: {url}")
     
-    import os
-
-    temp_dir = "temp_downloads"
-    os.makedirs(temp_dir, exist_ok=True)
-    
+    # Download both video and audio, and force the exact filename we need
     ydl_opts = {
-        'format': 'bestaudio/best',
-        'outtmpl': f'{temp_dir}/%(id)s.%(ext)s',
+        'format': 'best[ext=mp4]/best', 
+        'outtmpl': TEMP_VIDEO,
         'cookiefile': 'cookies.txt',
         'quiet': True,
         'no_warnings': True
@@ -59,7 +57,7 @@ for url in YOUTUBE_URLS:
             uploader = info_dict.get('uploader', 'Unknown Creator')
             
         print(f"Transcribing audio for {video_id}...")
-        result = model.transcribe("temp_video.mp4")
+        result = model.transcribe(TEMP_VIDEO)
         
         video_data = {
             "video_id": video_id,
@@ -75,14 +73,13 @@ for url in YOUTUBE_URLS:
                 "text": segment['text'].strip()
             })
             
-        # Extract frames every 3 seconds (fps=1/3)
         print(f"Extracting sparse frames for {video_id}...")
         video_frame_dir = os.path.join(FRAMES_DIR, video_id)
         os.makedirs(video_frame_dir, exist_ok=True)
         
-        # Call local ffmpeg.exe directly
+        # Use cloud-native 'ffmpeg', not Windows executable
         subprocess.run([
-            './ffmpeg.exe', '-y', '-i', 'temp_video.mp4', 
+            'ffmpeg', '-y', '-i', TEMP_VIDEO, 
             '-vf', 'fps=1/3', f"{video_frame_dir}/frame_%03d.jpg"
         ], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
@@ -97,8 +94,8 @@ for url in YOUTUBE_URLS:
 
         results.append(video_data)
         
-        if os.path.exists("temp_video.mp4"):
-            os.remove("temp_video.mp4")
+        if os.path.exists(TEMP_VIDEO):
+            os.remove(TEMP_VIDEO)
             
     except Exception as e:
         print(f"Failed to process {url}: {e}")
