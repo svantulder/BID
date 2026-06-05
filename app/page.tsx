@@ -83,6 +83,10 @@ export default function Dashboard() {
               <option value="All">All Creators</option>
               {uniqueInfluencers.map((inf: any) => <option key={inf} value={inf}>{inf}</option>)}
             </select>
+            <select className="bg-[rgba(15,23,42,0.8)] text-sm border border-[rgba(255,255,255,0.1)] rounded-lg px-3 py-1 text-white outline-none" value={filterCategory} onChange={(e) => setFilterCategory(e.target.value)}>
+              <option value="All">All Categories</option>
+              {uniqueCategories.map((cat: any) => <option key={cat} value={cat}>{cat}</option>)}
+            </select>
             
             <button className="g-cta-btn ml-4">Upgrade to Pro</button>
           </div>
