@@ -3,10 +3,8 @@ name: InsightEngine Pipeline
 on:
   workflow_dispatch: 
 
-# ADD THESE FOUR LINES:
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   run-extraction:
@@ -27,6 +25,11 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install yt-dlp openai-whisper google-genai pydantic
+
+      - name: Inject YouTube Cookies
+        env:
+          YOUTUBE_COOKIES: ${{ secrets.YOUTUBE_COOKIES }}
+        run: echo "$YOUTUBE_COOKIES" > cookies.txt
 
       - name: Run Video Processing
         run: python process_videos.py
