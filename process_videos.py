@@ -39,14 +39,18 @@ results = []
 for url in YOUTUBE_URLS:
     print(f"\nProcessing: {url}")
     
-    # Download MP4 Video (Video + Audio)
+    import os
+
+    temp_dir = "temp_downloads"
+    os.makedirs(temp_dir, exist_ok=True)
+    
     ydl_opts = {
-            'format': 'bestaudio/best',
-            'outtmpl': f'{temp_dir}/%(id)s.%(ext)s',
-            'cookiefile': 'cookies.txt', # Add this exact line
-            'quiet': True,
-            'no_warnings': True
-        }
+        'format': 'bestaudio/best',
+        'outtmpl': f'{temp_dir}/%(id)s.%(ext)s',
+        'cookiefile': 'cookies.txt',
+        'quiet': True,
+        'no_warnings': True
+    }
     
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
