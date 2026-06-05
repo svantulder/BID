@@ -151,7 +151,7 @@ export default function Dashboard() {
                   </div>
                   
                   <div className="my-3 bg-[rgba(0,0,0,0.2)] p-3 rounded border border-[rgba(255,255,255,0.03)]">
-                    <p className="text-white font-medium text-sm mb-1 tracking-wide">"{insight.primary_claim}"</p>
+                    <p className="text-white font-medium text-sm mb-1 tracking-wide">&quot;{insight.primary_claim}&quot;</p>
                     <p className="text-gray-500 text-xs italic border-l-2 border-[var(--c-netting)] pl-2">
                       {insight.anchor_quote}
                     </p>
