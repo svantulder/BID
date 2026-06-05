@@ -36,9 +36,8 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # Move the newly generated file into your Next.js data folder
+          mkdir -p data
           mv extracted_entities.json data/extracted_entities.json
           git add data/extracted_entities.json
-          # If the data changed, commit and push it. If not, do nothing.
           git commit -m "Auto-update spoken reality insights" || echo "No changes to commit"
           git push
