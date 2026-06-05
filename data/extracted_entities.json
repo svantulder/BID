@@ -1,12 +1,4 @@
 [
-    {
-        "brand_name": "Generic",
-        "product_name": "powder blush",
-        "sentiment": "negative",
-        "spoken_timestamp_seconds": 1,
-        "visual_timestamp_seconds": 0,
-        "video_id": "AvveXaQ_Ri0"
-    },
   {
     "brand_name": "L'Oréal",
     "product_name": "Lumi Le Liquid Blush",
@@ -43,6 +35,14 @@
     "video_id": "CxtcIPXL410",
     "influencer": "HonestBeauty"
   },
+    {
+        "brand_name": "Generic",
+        "product_name": "powder blush",
+        "sentiment": "negative",
+        "spoken_timestamp_seconds": 1,
+        "visual_timestamp_seconds": 0,
+        "video_id": "AvveXaQ_Ri0"
+    },
     {
         "brand_name": "L'Oreal",
         "product_name": "Lumi Liquid Blush",
