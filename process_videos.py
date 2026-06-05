@@ -41,11 +41,12 @@ for url in YOUTUBE_URLS:
     
     # Download MP4 Video (Video + Audio)
     ydl_opts = {
-        'format': 'best[ext=mp4]',
-        'outtmpl': 'temp_video.%(ext)s',
-        'quiet': True,
-        'ffmpeg_location': './' 
-    }
+            'format': 'bestaudio/best',
+            'outtmpl': f'{temp_dir}/%(id)s.%(ext)s',
+            'cookiefile': 'cookies.txt', # Add this exact line
+            'quiet': True,
+            'no_warnings': True
+        }
     
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
