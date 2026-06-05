@@ -16,6 +16,9 @@ YOUTUBE_URLS = [
     "https://www.youtube.com/shorts/DKmY_7_fdE8",
     "https://www.youtube.com/shorts/zitnZ0MGTzs",
     "https://www.youtube.com/shorts/ET35UahoL34",
+    "https://www.youtube.com/shorts/A-7BYaNzbLQ",
+    "https://www.youtube.com/shorts/AkOvcxFLJ7o",
+    "https://www.youtube.com/shorts/7d1BR3hAIlI",
     # Charlotte Tilbury
     "https://www.youtube.com/shorts/UB-PevK72JE",
     "https://www.youtube.com/shorts/ZvhGxG3Icwo",
