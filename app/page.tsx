@@ -138,16 +138,23 @@ export default function Dashboard() {
                   <div className="flex gap-2">
                     <button 
                       onClick={() => { setActiveInsight(insight); setActiveTimestamp(insight.spoken_timestamp_seconds); }}
-                      className="flex-1 bg-[rgba(255,255,255,0.05)] hover:bg-[rgba(56,189,248,0.2)] text-xs py-2 rounded transition-colors text-white border border-[rgba(255,255,255,0.1)]"
+                      className="flex-1 flex items-center justify-center gap-2 bg-[rgba(255,255,255,0.05)] hover:bg-[rgba(56,189,248,0.2)] text-xs py-2 rounded transition-colors text-white border border-[rgba(255,255,255,0.1)]"
                     >
-                      ▶ Play Spoken ({insight.spoken_timestamp_seconds}s)
+                      <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                      </svg>
+                      Play Spoken ({insight.spoken_timestamp_seconds}s)
                     </button>
                     {insight.visual_timestamp_seconds !== null && (
                       <button 
                         onClick={() => { setActiveInsight(insight); setActiveTimestamp(insight.visual_timestamp_seconds as number); }}
-                        className="flex-1 bg-[rgba(168,85,247,0.1)] hover:bg-[rgba(168,85,247,0.3)] text-xs py-2 rounded transition-colors text-white border border-[rgba(168,85,247,0.3)]"
+                        className="flex-1 flex items-center justify-center gap-2 bg-[rgba(168,85,247,0.1)] hover:bg-[rgba(168,85,247,0.3)] text-xs py-2 rounded transition-colors text-white border border-[rgba(168,85,247,0.3)]"
                       >
-                        👁️ View Visual ({insight.visual_timestamp_seconds}s)
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                          <path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path>
+                          <circle cx="12" cy="12" r="3"></circle>
+                        </svg>
+                        View Visual ({insight.visual_timestamp_seconds}s)
                       </button>
                     )}
                   </div>
