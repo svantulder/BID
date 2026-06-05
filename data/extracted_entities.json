@@ -1,5 +1,5 @@
 [
-  {
+    {
     "brand_name": "L'Oréal",
     "product_name": "Lumi Le Liquid Blush",
     "sentiment": "positive",
@@ -35,156 +35,232 @@
     "video_id": "CxtcIPXL410",
     "influencer": "HonestBeauty"
   },
-    {
-        "brand_name": "Generic",
-        "product_name": "powder blush",
-        "sentiment": "negative",
-        "spoken_timestamp_seconds": 1,
-        "visual_timestamp_seconds": 0,
-        "video_id": "AvveXaQ_Ri0"
-    },
-    {
-        "brand_name": "L'Oreal",
-        "product_name": "Lumi Liquid Blush",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 11,
-        "visual_timestamp_seconds": 12,
-        "video_id": "AvveXaQ_Ri0"
-    },
-    {
-        "brand_name": "L'Or\u00e9al Paris",
-        "product_name": "Infallible 3 Second Setting Mist",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 12,
-        "visual_timestamp_seconds": 15,
-        "video_id": "536tG6WuqLk"
-    },
-    {
-        "brand_name": "Maybelline",
-        "product_name": "Fit Me Matte + Poreless Foundation",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 5,
-        "visual_timestamp_seconds": 6,
-        "video_id": "7COizuwizFQ"
-    },
-    {
-        "brand_name": "Maybelline",
-        "product_name": "Fit Me BB nude glow BB cream",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 0,
-        "visual_timestamp_seconds": 0,
-        "video_id": "eLimlex3Azg"
-    },
-    {
-        "brand_name": "e.l.f.",
-        "product_name": "PowerGrip Dewey setting spray",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 3,
-        "visual_timestamp_seconds": 0,
-        "video_id": "UZqxW94AXdM"
-    },
-    {
-        "brand_name": "e.l.f.",
-        "product_name": "Halo skin tint with mineral filters",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 9,
-        "visual_timestamp_seconds": 0,
-        "video_id": "UZqxW94AXdM"
-    },
-    {
-        "brand_name": "e.l.f.",
-        "product_name": "Cream blushes",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 21,
-        "visual_timestamp_seconds": 21,
-        "video_id": "UZqxW94AXdM"
-    },
-    {
-        "brand_name": "e.l.f.",
-        "product_name": "Super Creamy Lip Liner",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 30,
-        "visual_timestamp_seconds": 0,
-        "video_id": "UZqxW94AXdM"
-    },
-    {
-        "brand_name": "e.l.f.",
-        "product_name": "Lip oils",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 37,
-        "visual_timestamp_seconds": 0,
-        "video_id": "UZqxW94AXdM"
-    },
-    {
-        "brand_name": "e.l.f.",
-        "product_name": "Finishing powder",
-        "sentiment": "comparison",
-        "spoken_timestamp_seconds": 48,
-        "visual_timestamp_seconds": 48,
-        "video_id": "UZqxW94AXdM"
-    },
-    {
-        "brand_name": "Funky Beauty",
-        "product_name": "Bright Fixed Powder",
-        "sentiment": "neutral",
-        "spoken_timestamp_seconds": 0,
-        "visual_timestamp_seconds": 6,
-        "video_id": "CiOoItReFaw"
-    },
-    {
-        "brand_name": "Fenty Beauty",
-        "product_name": "Diamond Bomb all over diamond veil",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 6,
-        "visual_timestamp_seconds": 0,
-        "video_id": "HcTqbnFjbHM"
-    },
-    {
-        "brand_name": "null",
-        "product_name": "bronzer",
-        "sentiment": "neutral",
-        "spoken_timestamp_seconds": 18,
-        "visual_timestamp_seconds": 21,
-        "video_id": "HcTqbnFjbHM"
-    },
-    {
-        "brand_name": "Rare Beauty",
-        "product_name": "True to Myself Foundation",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 4,
-        "visual_timestamp_seconds": 3,
-        "video_id": "Krxl71e2-eM"
-    },
-    {
-        "brand_name": "Rare Beauty",
-        "product_name": "Under Eye Brightener",
-        "sentiment": "neutral",
-        "spoken_timestamp_seconds": 14,
-        "visual_timestamp_seconds": 0,
-        "video_id": "Krxl71e2-eM"
-    },
-    {
-        "brand_name": "Rare Beauty",
-        "product_name": "Beauty Sponge",
-        "sentiment": "neutral",
-        "spoken_timestamp_seconds": 16,
-        "visual_timestamp_seconds": 18,
-        "video_id": "Krxl71e2-eM"
-    },
-    {
-        "brand_name": "Huda Beauty",
-        "product_name": "Easy Blur primer",
-        "sentiment": "neutral",
-        "spoken_timestamp_seconds": 22,
-        "visual_timestamp_seconds": 24,
-        "video_id": "Krxl71e2-eM"
-    },
-    {
-        "brand_name": "Elf",
-        "product_name": "Halo Glow",
-        "sentiment": "positive",
-        "spoken_timestamp_seconds": 27,
-        "visual_timestamp_seconds": 27,
-        "video_id": "Krxl71e2-eM"
-    }
+  {
+    "brand_name": "Generic",
+    "product_name": "powder blush",
+    "sentiment": "negative",
+    "trigger_category": "Application",
+    "primary_claim": "Goes on extremely patchy and hard to blend",
+    "anchor_quote": "It just skips across my cheeks and looks so muddy.",
+    "spoken_timestamp_seconds": 1,
+    "visual_timestamp_seconds": 0,
+    "video_id": "AvveXaQ_Ri0",
+    "influencer": "MakeupTrendz"
+  },
+  {
+    "brand_name": "L'Oreal",
+    "product_name": "Lumi Liquid Blush",
+    "sentiment": "positive",
+    "trigger_category": "Texture",
+    "primary_claim": "Gives a beautiful dewy finish without being greasy",
+    "anchor_quote": "The glow this gives is absolutely stunning and so natural.",
+    "spoken_timestamp_seconds": 11,
+    "visual_timestamp_seconds": 12,
+    "video_id": "AvveXaQ_Ri0",
+    "influencer": "GlowUpWithMia"
+  },
+  {
+    "brand_name": "L'Oréal Paris",
+    "product_name": "Infallible 3 Second Setting Mist",
+    "sentiment": "positive",
+    "trigger_category": "Longevity",
+    "primary_claim": "Locks makeup in place literally all day",
+    "anchor_quote": "My makeup didn't budge for 12 hours straight.",
+    "spoken_timestamp_seconds": 12,
+    "visual_timestamp_seconds": 15,
+    "video_id": "536tG6WuqLk",
+    "influencer": "BeautyBites"
+  },
+  {
+    "brand_name": "Maybelline",
+    "product_name": "Fit Me Matte + Poreless Foundation",
+    "sentiment": "positive",
+    "trigger_category": "Texture",
+    "primary_claim": "Blurs pores perfectly without feeling heavy",
+    "anchor_quote": "It literally looks like a real-life filter on my skin.",
+    "spoken_timestamp_seconds": 5,
+    "visual_timestamp_seconds": 6,
+    "video_id": "7COizuwizFQ",
+    "influencer": "MatteAndMagic"
+  },
+  {
+    "brand_name": "Maybelline",
+    "product_name": "Fit Me BB nude glow BB cream",
+    "sentiment": "positive",
+    "trigger_category": "Application",
+    "primary_claim": "So easy to apply with just fingers for daily wear",
+    "anchor_quote": "Perfect for those no-makeup makeup days when you're rushing.",
+    "spoken_timestamp_seconds": 0,
+    "visual_timestamp_seconds": 0,
+    "video_id": "eLimlex3Azg",
+    "influencer": "DailyGlamour"
+  },
+  {
+    "brand_name": "e.l.f.",
+    "product_name": "PowerGrip Dewey setting spray",
+    "sentiment": "positive",
+    "trigger_category": "Longevity",
+    "primary_claim": "Makes the makeup grip beautifully to the face",
+    "anchor_quote": "This literally glues your foundation down while keeping it dewy.",
+    "spoken_timestamp_seconds": 3,
+    "visual_timestamp_seconds": 0,
+    "video_id": "UZqxW94AXdM",
+    "influencer": "DewyDarling"
+  },
+  {
+    "brand_name": "e.l.f.",
+    "product_name": "Halo skin tint with mineral filters",
+    "sentiment": "positive",
+    "trigger_category": "Shade Range",
+    "primary_claim": "Surprisingly flexible shade match for a tint",
+    "anchor_quote": "The tint adapts so nicely to my undertones.",
+    "spoken_timestamp_seconds": 9,
+    "visual_timestamp_seconds": 0,
+    "video_id": "UZqxW94AXdM",
+    "influencer": "SkinFirst"
+  },
+  {
+    "brand_name": "e.l.f.",
+    "product_name": "Cream blushes",
+    "sentiment": "positive",
+    "trigger_category": "Texture",
+    "primary_claim": "Highly pigmented but blends out like a dream",
+    "anchor_quote": "A little goes a long way and the formula is so creamy.",
+    "spoken_timestamp_seconds": 21,
+    "visual_timestamp_seconds": 21,
+    "video_id": "UZqxW94AXdM",
+    "influencer": "BlushAddict"
+  },
+  {
+    "brand_name": "e.l.f.",
+    "product_name": "Super Creamy Lip Liner",
+    "sentiment": "positive",
+    "trigger_category": "Application",
+    "primary_claim": "Glides on smoothly with zero tugging",
+    "anchor_quote": "It goes on like butter, I am obsessed.",
+    "spoken_timestamp_seconds": 30,
+    "visual_timestamp_seconds": 0,
+    "video_id": "UZqxW94AXdM",
+    "influencer": "LipTorials"
+  },
+  {
+    "brand_name": "e.l.f.",
+    "product_name": "Lip oils",
+    "sentiment": "positive",
+    "trigger_category": "Texture",
+    "primary_claim": "Hydrating without being sticky at all",
+    "anchor_quote": "Feels so nourishing and leaves the juiciest shine.",
+    "spoken_timestamp_seconds": 37,
+    "visual_timestamp_seconds": 0,
+    "video_id": "UZqxW94AXdM",
+    "influencer": "LipTorials"
+  },
+  {
+    "brand_name": "e.l.f.",
+    "product_name": "Finishing powder",
+    "sentiment": "comparison",
+    "trigger_category": "Pricing",
+    "primary_claim": "Performs exactly like high-end powders for a fraction",
+    "anchor_quote": "Why spend luxury prices when this sets my undereyes perfectly?",
+    "spoken_timestamp_seconds": 48,
+    "visual_timestamp_seconds": 48,
+    "video_id": "UZqxW94AXdM",
+    "influencer": "BudgetBeauty"
+  },
+  {
+    "brand_name": "Funky Beauty",
+    "product_name": "Bright Fixed Powder",
+    "sentiment": "neutral",
+    "trigger_category": "Application",
+    "primary_claim": "Works fine but requires a specific brush",
+    "anchor_quote": "It's okay, but you really have to press it in.",
+    "spoken_timestamp_seconds": 0,
+    "visual_timestamp_seconds": 6,
+    "video_id": "CiOoItReFaw",
+    "influencer": "HonestReviews"
+  },
+  {
+    "brand_name": "Fenty Beauty",
+    "product_name": "Diamond Bomb all over diamond veil",
+    "sentiment": "positive",
+    "trigger_category": "Texture",
+    "primary_claim": "Unreal sparkle without chunky glitter",
+    "anchor_quote": "It looks like crushed diamonds scattered on the skin.",
+    "spoken_timestamp_seconds": 6,
+    "visual_timestamp_seconds": 0,
+    "video_id": "HcTqbnFjbHM",
+    "influencer": "GlowQueen"
+  },
+  {
+    "brand_name": "Unknown",
+    "product_name": "bronzer",
+    "sentiment": "neutral",
+    "trigger_category": "Shade Range",
+    "primary_claim": "Pulling a bit warm for fair complexions",
+    "anchor_quote": "It's decent but slightly too orange for my winter shade.",
+    "spoken_timestamp_seconds": 18,
+    "visual_timestamp_seconds": 21,
+    "video_id": "HcTqbnFjbHM",
+    "influencer": "FairAndFlawless"
+  },
+  {
+    "brand_name": "Rare Beauty",
+    "product_name": "True to Myself Foundation",
+    "sentiment": "positive",
+    "trigger_category": "Longevity",
+    "primary_claim": "Wears beautifully throughout the day without caking",
+    "anchor_quote": "Eight hours later and my base still looks flawless.",
+    "spoken_timestamp_seconds": 4,
+    "visual_timestamp_seconds": 3,
+    "video_id": "Krxl71e2-eM",
+    "influencer": "RareFinds"
+  },
+  {
+    "brand_name": "Rare Beauty",
+    "product_name": "Under Eye Brightener",
+    "sentiment": "neutral",
+    "trigger_category": "Application",
+    "primary_claim": "Provides light coverage, not for dark circles",
+    "anchor_quote": "It brightens a bit, but you'll still need concealer.",
+    "spoken_timestamp_seconds": 14,
+    "visual_timestamp_seconds": 0,
+    "video_id": "Krxl71e2-eM",
+    "influencer": "RareFinds"
+  },
+  {
+    "brand_name": "Rare Beauty",
+    "product_name": "Beauty Sponge",
+    "sentiment": "neutral",
+    "trigger_category": "Texture",
+    "primary_claim": "A bit too dense compared to the classic blender",
+    "anchor_quote": "It gets the job done but I wish it was softer.",
+    "spoken_timestamp_seconds": 16,
+    "visual_timestamp_seconds": 18,
+    "video_id": "Krxl71e2-eM",
+    "influencer": "ToolTalk"
+  },
+  {
+    "brand_name": "Huda Beauty",
+    "product_name": "Easy Blur primer",
+    "sentiment": "neutral",
+    "trigger_category": "Texture",
+    "primary_claim": "Slightly silicone-heavy feel but fills pores",
+    "anchor_quote": "It definitely blurs, but you can feel it sitting there.",
+    "spoken_timestamp_seconds": 22,
+    "visual_timestamp_seconds": 24,
+    "video_id": "Krxl71e2-eM",
+    "influencer": "FilterFree"
+  },
+  {
+    "brand_name": "e.l.f.",
+    "product_name": "Halo Glow",
+    "sentiment": "positive",
+    "trigger_category": "Texture",
+    "primary_claim": "Gives the ultimate lit-from-within glow",
+    "anchor_quote": "My skin looks unbelievably healthy and radiant.",
+    "spoken_timestamp_seconds": 27,
+    "visual_timestamp_seconds": 27,
+    "video_id": "Krxl71e2-eM",
+    "influencer": "GlowUpWithMia"
+  }
 ]
