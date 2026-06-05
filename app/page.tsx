@@ -10,57 +10,84 @@ interface Insight {
   spoken_timestamp_seconds: number;
   visual_timestamp_seconds: number | null;
   video_id: string;
+  influencer?: string; // Added to support the new Python data
 }
 
 export default function Dashboard() {
   const [activeInsight, setActiveInsight] = useState<Insight | null>(null);
-  // MOVED INSIDE THE COMPONENT:
   const [activeTimestamp, setActiveTimestamp] = useState<number>(0);
+  
+  // Filter States
+  const [filterBrand, setFilterBrand] = useState<string>('All');
+  const [filterSentiment, setFilterSentiment] = useState<string>('All');
+  const [filterInfluencer, setFilterInfluencer] = useState<string>('All');
 
-  // --- DATA AGGREGATION LOGIC ---
+  // --- DATA AGGREGATION & FILTERING ---
+  const filteredData = useMemo(() => {
+    return entityData.filter((item: any) => {
+      const matchBrand = filterBrand === 'All' || item.brand_name === filterBrand;
+      const matchSentiment = filterSentiment === 'All' || item.sentiment.toLowerCase() === filterSentiment.toLowerCase();
+      const matchInfluencer = filterInfluencer === 'All' || (item.influencer && item.influencer === filterInfluencer);
+      return matchBrand && matchSentiment && matchInfluencer;
+    }) as Insight[];
+  }, [filterBrand, filterSentiment, filterInfluencer]);
+
   const dashboardStats = useMemo(() => {
-    const total = entityData.length;
-    const positiveCount = entityData.filter(d => d.sentiment.toLowerCase() === 'positive').length;
+    const total = filteredData.length;
+    const positiveCount = filteredData.filter(d => d.sentiment.toLowerCase() === 'positive').length;
     const positivePercentage = total > 0 ? Math.round((positiveCount / total) * 100) : 0;
 
-    // Calculate most mentioned brand
-    const brandCounts = entityData.reduce((acc: Record<string, number>, curr) => {
+    const brandCounts = filteredData.reduce((acc: Record<string, number>, curr) => {
       acc[curr.brand_name] = (acc[curr.brand_name] || 0) + 1;
       return acc;
     }, {});
-    const topBrand = Object.keys(brandCounts).reduce((a, b) => brandCounts[a] > brandCounts[b] ? a : b, "N/A");
+    const topBrand = Object.keys(brandCounts).length > 0 ? Object.keys(brandCounts).reduce((a, b) => brandCounts[a] > brandCounts[b] ? a : b) : "N/A";
 
     return { total, positivePercentage, topBrand };
-  }, []);
+  }, [filteredData]);
+
+  // Extract unique values for dropdowns
+  const uniqueBrands = Array.from(new Set(entityData.map((d: any) => d.brand_name)));
+  const uniqueInfluencers = Array.from(new Set(entityData.map((d: any) => d.influencer).filter(Boolean)));
 
   return (
     <>
-      {/* Ambient Background Elements */}
       <div className="ambient-background"></div>
-      <div className="blob b-1"></div>
-      <div className="blob b-2"></div>
-      <div className="blob b-3"></div>
+      <div className="blob b-1"></div><div className="blob b-2"></div><div className="blob b-3"></div>
 
-      {/* Top Navigation */}
       <nav className="top-nav">
         <div className="nav-content">
           <div className="logo-container">
             <span style={{ fontWeight: 800, fontSize: '1.2rem', color: '#fff' }}>Insight<span style={{ color: 'var(--c-netting)' }}>Engine</span></span>
           </div>
-          <div className="nav-controls">
-            <a href="#" className="nav-cta-btn">Export CSV</a>
-            <button className="g-cta-btn">Upgrade to Pro</button>
+          <div className="nav-controls flex gap-4">
+            {/* FILTER BAR */}
+            <select className="bg-[rgba(15,23,42,0.8)] text-sm border border-[rgba(255,255,255,0.1)] rounded-lg px-3 py-1 text-white outline-none" value={filterBrand} onChange={(e) => setFilterBrand(e.target.value)}>
+              <option value="All">All Brands</option>
+              {uniqueBrands.map((b: any) => <option key={b} value={b}>{b}</option>)}
+            </select>
+            <select className="bg-[rgba(15,23,42,0.8)] text-sm border border-[rgba(255,255,255,0.1)] rounded-lg px-3 py-1 text-white outline-none" value={filterSentiment} onChange={(e) => setFilterSentiment(e.target.value)}>
+              <option value="All">All Sentiments</option>
+              <option value="positive">Positive</option>
+              <option value="negative">Negative</option>
+              <option value="neutral">Neutral</option>
+            </select>
+            <select className="bg-[rgba(15,23,42,0.8)] text-sm border border-[rgba(255,255,255,0.1)] rounded-lg px-3 py-1 text-white outline-none" value={filterInfluencer} onChange={(e) => setFilterInfluencer(e.target.value)}>
+              <option value="All">All Creators</option>
+              {uniqueInfluencers.map((inf: any) => <option key={inf} value={inf}>{inf}</option>)}
+            </select>
+            
+            <button className="g-cta-btn ml-4">Upgrade to Pro</button>
           </div>
         </div>
       </nav>
 
-      {/* Main Dashboard Layout */}
       <main className="w-full max-w-7xl mx-auto pt-32 px-4 pb-12 z-10 relative">
         
         {/* Aggregation Highlights */}
         <div className="flex gap-6 mb-8">
           <div className="smart-card p-6 flex-1 text-center">
-            <p className="text-sm text-gray-400 font-semibold tracking-wider uppercase mb-1">Total Mentions</p>
+            <p className="text-sm text-gray-400 font-semibold tracking-wider uppercase mb-1">Filtered Mentions</p>
             <h2 className="text-4xl font-bold text-white">{dashboardStats.total}</h2>
           </div>
           <div className="smart-card p-6 flex-1 text-center">
@@ -68,19 +95,23 @@ export default function Dashboard() {
             <h2 className="text-4xl font-bold" style={{ color: 'var(--c-success)' }}>{dashboardStats.positivePercentage}%</h2>
           </div>
           <div className="smart-card p-6 flex-1 text-center">
-            <p className="text-sm text-gray-400 font-semibold tracking-wider uppercase mb-1">Top Trending Brand</p>
+            <p className="text-sm text-gray-400 font-semibold tracking-wider uppercase mb-1">Trending in View</p>
             <h2 className="text-4xl font-bold" style={{ color: 'var(--c-shield)' }}>{dashboardStats.topBrand}</h2>
           </div>
         </div>
 
-        {/* Split View: Data Feed & Player */}
+        {/* Split View */}
         <div className="flex gap-6 h-[600px]">
           
-          {/* Left: Scrollable Insights List */}
-          <div className="smart-card w-1/2 p-6 overflow-hidden flex flex-col">
-            <h3 className="text-xl font-bold mb-4 border-b border-[rgba(255,255,255,0.1)] pb-2">Spoken Reality Feed</h3>
+          {/* Left: Scrollable Feed */}
+          <div className="smart-card w-1/2 p-6 flex flex-col">
+            <div className="flex justify-between items-center mb-4 border-b border-[rgba(255,255,255,0.1)] pb-2">
+                <h3 className="text-xl font-bold">Spoken Reality Feed</h3>
+                <span className="text-xs text-gray-400 font-mono">Showing {filteredData.length} clips</span>
+            </div>
+            
             <div className="overflow-y-auto custom-scrollbar flex-1 pr-2 space-y-3">
-              {entityData.map((insight: Insight, index: number) => (
+              {filteredData.map((insight: Insight, index: number) => (
                 <div 
                   key={index} 
                   style={{
@@ -90,10 +121,13 @@ export default function Dashboard() {
                   className="p-4 rounded-xl border hover:bg-[rgba(255,255,255,0.08)] transition-all flex flex-col"
                 >
                   <div className="flex justify-between items-start mb-1">
-                    <h4 className="font-bold text-lg text-white">{insight.brand_name}</h4>
+                    <div>
+                        <h4 className="font-bold text-lg text-white">{insight.brand_name}</h4>
+                        {insight.influencer && <p className="text-xs text-[var(--c-netting)]">@{insight.influencer}</p>}
+                    </div>
                     <span style={{ 
-                      backgroundColor: insight.sentiment.toLowerCase() === 'positive' ? 'rgba(16, 185, 129, 0.2)' : 'rgba(255, 255, 255, 0.1)',
-                      color: insight.sentiment.toLowerCase() === 'positive' ? 'var(--c-success)' : '#ccc'
+                      backgroundColor: insight.sentiment.toLowerCase() === 'positive' ? 'rgba(16, 185, 129, 0.2)' : insight.sentiment.toLowerCase() === 'negative' ? 'rgba(255, 71, 71, 0.2)' : 'rgba(255, 255, 255, 0.1)',
+                      color: insight.sentiment.toLowerCase() === 'positive' ? 'var(--c-success)' : insight.sentiment.toLowerCase() === 'negative' ? 'var(--c-legacy)' : '#ccc'
                     }} className="px-2 py-1 rounded text-xs font-semibold uppercase tracking-wider">
                       {insight.sentiment}
                     </span>
@@ -119,11 +153,14 @@ export default function Dashboard() {
                   </div>
                 </div>
               ))}
+              {filteredData.length === 0 && (
+                  <div className="text-center py-10 text-gray-500">No clips match your current filters.</div>
+              )}
             </div>
           </div>
 
           {/* Right: Clip Proof Player */}
-            <div className="smart-card w-1/2 p-6 flex flex-col justify-center items-center">
+          <div className="smart-card w-1/2 p-6 flex flex-col justify-center items-center relative">
               {activeInsight ? (
                 <div className="w-full">
                   <h3 className="font-bold mb-4 flex items-center text-lg">
@@ -151,7 +188,6 @@ export default function Dashboard() {
               </div>
             )}
           </div>
-
         </div>
       </main>
     </>
