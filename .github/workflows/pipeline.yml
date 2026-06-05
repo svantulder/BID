@@ -1,0 +1,44 @@
+name: InsightEngine Pipeline
+
+# This allows you to trigger the script manually via a button in GitHub
+on:
+  workflow_dispatch: 
+
+jobs:
+  run-extraction:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install yt-dlp openai-whisper google-genai pydantic
+
+      - name: Run Video Processing
+        run: python process_videos.py
+
+      - name: Run AI Extraction
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python extract_entities.py
+
+      - name: Commit and Push New Data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          # Move the newly generated file into your Next.js data folder
+          mv extracted_entities.json data/extracted_entities.json
+          git add data/extracted_entities.json
+          # If the data changed, commit and push it. If not, do nothing.
+          git commit -m "Auto-update spoken reality insights" || echo "No changes to commit"
+          git push
