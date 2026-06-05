@@ -113,7 +113,7 @@ export default function Dashboard() {
         </div>
 
         {/* Split View */}
-        <div className="flex gap-6 h-[600px]">
+        <div className="flex gap-6 h-[calc(100vh-280px)] min-h-[750px]">
           
           {/* Left: Scrollable Feed */}
           <div className="smart-card w-1/2 p-6 flex flex-col">
