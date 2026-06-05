@@ -1,8 +1,12 @@
 name: InsightEngine Pipeline
 
-# This allows you to trigger the script manually via a button in GitHub
 on:
   workflow_dispatch: 
+
+# ADD THESE FOUR LINES:
+permissions:
+  contents: write
+  pull-requests: write
 
 jobs:
   run-extraction:
