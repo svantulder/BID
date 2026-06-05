@@ -7,10 +7,13 @@ interface Insight {
   brand_name: string;
   product_name: string;
   sentiment: string;
+  trigger_category: string;
+  primary_claim: string;
+  anchor_quote: string;
   spoken_timestamp_seconds: number;
   visual_timestamp_seconds: number | null;
   video_id: string;
-  influencer?: string; // Added to support the new Python data
+  influencer?: string;
 }
 
 export default function Dashboard() {
@@ -21,6 +24,7 @@ export default function Dashboard() {
   const [filterBrand, setFilterBrand] = useState<string>('All');
   const [filterSentiment, setFilterSentiment] = useState<string>('All');
   const [filterInfluencer, setFilterInfluencer] = useState<string>('All');
+  const [filterCategory, setFilterCategory] = useState<string>('All'); // NEW FILTER
 
   // --- DATA AGGREGATION & FILTERING ---
   const filteredData = useMemo(() => {
@@ -28,9 +32,12 @@ export default function Dashboard() {
       const matchBrand = filterBrand === 'All' || item.brand_name === filterBrand;
       const matchSentiment = filterSentiment === 'All' || item.sentiment.toLowerCase() === filterSentiment.toLowerCase();
       const matchInfluencer = filterInfluencer === 'All' || (item.influencer && item.influencer === filterInfluencer);
-      return matchBrand && matchSentiment && matchInfluencer;
+      const matchCategory = filterCategory === 'All' || item.trigger_category === filterCategory;
+      return matchBrand && matchSentiment && matchInfluencer && matchCategory;
     }) as Insight[];
-  }, [filterBrand, filterSentiment, filterInfluencer]);
+  }, [filterBrand, filterSentiment, filterInfluencer, filterCategory]);
+
+  const uniqueCategories = Array.from(new Set(entityData.map((d: any) => d.trigger_category).filter(Boolean)));
 
   const dashboardStats = useMemo(() => {
     const total = filteredData.length;
