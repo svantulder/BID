@@ -24,7 +24,7 @@ export default function Dashboard() {
   const [filterBrand, setFilterBrand] = useState<string>('All');
   const [filterSentiment, setFilterSentiment] = useState<string>('All');
   const [filterInfluencer, setFilterInfluencer] = useState<string>('All');
-  const [filterCategory, setFilterCategory] = useState<string>('All'); // NEW FILTER
+  const [filterCategory, setFilterCategory] = useState<string>('All');
 
   // --- DATA AGGREGATION & FILTERING ---
   const filteredData = useMemo(() => {
@@ -131,19 +131,30 @@ export default function Dashboard() {
                   }}
                   className="p-4 rounded-xl border hover:bg-[rgba(255,255,255,0.08)] transition-all flex flex-col"
                 >
-                  <div className="flex justify-between items-start mb-1">
+                  <div className="flex justify-between items-start mb-2">
                     <div>
                         <h4 className="font-bold text-lg text-white">{insight.brand_name}</h4>
-                        {insight.influencer && <p className="text-xs text-[var(--c-netting)]">@{insight.influencer}</p>}
+                        <p className="text-xs text-gray-400">{insight.product_name} • {insight.influencer && <span className="text-[var(--c-netting)]">@{insight.influencer}</span>}</p>
                     </div>
-                    <span style={{ 
-                      backgroundColor: insight.sentiment.toLowerCase() === 'positive' ? 'rgba(16, 185, 129, 0.2)' : insight.sentiment.toLowerCase() === 'negative' ? 'rgba(255, 71, 71, 0.2)' : 'rgba(255, 255, 255, 0.1)',
-                      color: insight.sentiment.toLowerCase() === 'positive' ? 'var(--c-success)' : insight.sentiment.toLowerCase() === 'negative' ? 'var(--c-legacy)' : '#ccc'
-                    }} className="px-2 py-1 rounded text-xs font-semibold uppercase tracking-wider">
-                      {insight.sentiment}
-                    </span>
+                    <div className="flex flex-col gap-1 items-end">
+                      <span style={{ 
+                        backgroundColor: insight.sentiment.toLowerCase() === 'positive' ? 'rgba(16, 185, 129, 0.2)' : insight.sentiment.toLowerCase() === 'negative' ? 'rgba(255, 71, 71, 0.2)' : 'rgba(255, 255, 255, 0.1)',
+                        color: insight.sentiment.toLowerCase() === 'positive' ? 'var(--c-success)' : insight.sentiment.toLowerCase() === 'negative' ? 'var(--c-legacy)' : '#ccc'
+                      }} className="px-2 py-1 rounded text-[10px] font-bold uppercase tracking-wider">
+                        {insight.sentiment}
+                      </span>
+                      <span className="px-2 py-0.5 rounded text-[10px] bg-[rgba(255,255,255,0.05)] border border-[rgba(255,255,255,0.1)] text-gray-300">
+                        {insight.trigger_category}
+                      </span>
+                    </div>
                   </div>
-                  <p className="text-sm text-gray-400 mb-4">{insight.product_name}</p>
+                  
+                  <div className="my-3 bg-[rgba(0,0,0,0.2)] p-3 rounded border border-[rgba(255,255,255,0.03)]">
+                    <p className="text-white font-medium text-sm mb-1 tracking-wide">"{insight.primary_claim}"</p>
+                    <p className="text-gray-500 text-xs italic border-l-2 border-[var(--c-netting)] pl-2">
+                      {insight.anchor_quote}
+                    </p>
+                  </div>
                   
                   {/* Dual Proof Buttons */}
                   <div className="flex gap-2">
