@@ -47,7 +47,8 @@ export default function Dashboard() {
     const brandCounts = filteredData.reduce((acc: Record<string, number>, curr) => {
       acc[curr.brand_name] = (acc[curr.brand_name] || 0) + 1;
       return acc;
-    }, {});
+    }, {} as Record<string, number>);
+    
     const topBrand = Object.keys(brandCounts).length > 0 ? Object.keys(brandCounts).reduce((a, b) => brandCounts[a] > brandCounts[b] ? a : b) : "N/A";
 
     return { total, positivePercentage, topBrand };
