@@ -15,7 +15,8 @@ class Entity(BaseModel):
 class ExtractionResult(BaseModel):
     entities: list[Entity]
 
-client = genai.Client(api_key="find the key in google ai and paste it")
+api_key = os.environ.get("GEMINI_API_KEY")
+client = genai.Client(api_key=api_key)
 
 def extract_multimodal_insights():
     try:
