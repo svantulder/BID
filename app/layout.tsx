@@ -1,4 +1,9 @@
 import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "InsightEngine | Spoken Reality Intelligence",
+  description: "Track competitor mentions and sentiment across video content.",
+};
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
