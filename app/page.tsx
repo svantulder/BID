@@ -197,7 +197,7 @@ export default function Dashboard() {
                     <span className="bg-red-500 w-2 h-2 rounded-full mr-2 animate-pulse"></span>
                     Live Playback: {activeInsight.product_name}
                   </h3>
-                  <div className="relative pt-[56.25%] w-full rounded-xl overflow-hidden bg-black shadow-2xl border border-[rgba(255,255,255,0.1)]">
+                  <div className="relative w-full max-w-[340px] mx-auto aspect-[9/16] rounded-xl overflow-hidden bg-black shadow-2xl border border-[rgba(255,255,255,0.1)]">
                     <iframe
                       className="absolute top-0 left-0 w-full h-full"
                       src={`https://www.youtube.com/embed/${activeInsight.video_id}?start=${activeTimestamp}&autoplay=1`}
