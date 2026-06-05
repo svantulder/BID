@@ -7,6 +7,42 @@
         "visual_timestamp_seconds": 0,
         "video_id": "AvveXaQ_Ri0"
     },
+  {
+    "brand_name": "L'Oréal",
+    "product_name": "Lumi Le Liquid Blush",
+    "sentiment": "positive",
+    "trigger_category": "Texture",
+    "primary_claim": "Blends seamlessly without lifting foundation",
+    "anchor_quote": "Look how it just melts into the skin, no patchiness at all.",
+    "spoken_timestamp_seconds": 4,
+    "visual_timestamp_seconds": 6,
+    "video_id": "AvveXaQ_Ri0",
+    "influencer": "BeautyBites"
+  },
+  {
+    "brand_name": "e.l.f. Cosmetics",
+    "product_name": "Halo Glow Liquid Filter",
+    "sentiment": "comparison",
+    "trigger_category": "Pricing",
+    "primary_claim": "Exact dupe for Charlotte Tilbury but cheaper",
+    "anchor_quote": "I cannot justify spending $45 when this e.l.f. one does the exact same thing.",
+    "spoken_timestamp_seconds": 12,
+    "visual_timestamp_seconds": 12,
+    "video_id": "UZqxW94AXdM",
+    "influencer": "GlamourReview"
+  },
+  {
+    "brand_name": "Charlotte Tilbury",
+    "product_name": "Flawless Filter",
+    "sentiment": "negative",
+    "trigger_category": "Longevity",
+    "primary_claim": "Separates by the end of the day",
+    "anchor_quote": "By 5 PM, it completely breaks apart around my nose.",
+    "spoken_timestamp_seconds": 22,
+    "visual_timestamp_seconds": 24,
+    "video_id": "CxtcIPXL410",
+    "influencer": "HonestBeauty"
+  },
     {
         "brand_name": "L'Oreal",
         "product_name": "Lumi Liquid Blush",
