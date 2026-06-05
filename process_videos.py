@@ -44,9 +44,9 @@ results = []
 for url in YOUTUBE_URLS:
     print(f"\nProcessing: {url}")
     
-    # Download both video and audio, and force the exact filename we need
+    # Download the best available combined stream
     ydl_opts = {
-        'format': 'best[ext=mp4]/best', 
+        'format': 'best', 
         'outtmpl': TEMP_VIDEO,
         'cookiefile': 'cookies.txt',
         'quiet': True,
