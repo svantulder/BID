@@ -6,14 +6,22 @@ import entityData from '../data/extracted_entities.json';
 interface Insight {
   brand_name: string;
   product_name: string;
-  sentiment: string;
+  product_category: string;
+  sub_category: string;
+  sentiment: 'positive' | 'negative' | 'neutral' | 'comparison';
   trigger_category: string;
   primary_claim: string;
   anchor_quote: string;
-  spoken_timestamp_seconds: number;
+  mentioned_in_audio: boolean;
+  mentioned_in_caption: boolean;
+  shown_visually: boolean;
+  spoken_timestamp_seconds: number | null;
   visual_timestamp_seconds: number | null;
+  confidence_score: number;
   video_id: string;
   influencer?: string;
+  upload_date?: string;
+  creator_location?: string;
 }
 
 export default function Dashboard() {
@@ -25,201 +33,271 @@ export default function Dashboard() {
   const [filterSentiment, setFilterSentiment] = useState<string>('All');
   const [filterInfluencer, setFilterInfluencer] = useState<string>('All');
   const [filterCategory, setFilterCategory] = useState<string>('All');
+  const [filterSubCategory, setFilterSubCategory] = useState<string>('All');
+  const [filterLocation, setFilterLocation] = useState<string>('All');
 
-  // --- DATA AGGREGATION & FILTERING ---
+  const data: Insight[] = entityData as Insight[];
+
+  // --- DYNAMIC FILTER OPTIONS GENERATION ---
+  const filterOptions = useMemo(() => {
+    const brands = new Set<string>();
+    const sentiments = new Set<string>();
+    const influencers = new Set<string>();
+    const categories = new Set<string>();
+    const subCategories = new Set<string>();
+    const locations = new Set<string>();
+
+    data.forEach((item) => {
+      if (item.brand_name) brands.add(item.brand_name);
+      if (item.sentiment) sentiments.add(item.sentiment);
+      if (item.influencer) influencers.add(item.influencer);
+      if (item.product_category) categories.add(item.product_category);
+      if (item.sub_category) subCategories.add(item.sub_category);
+      if (item.creator_location) locations.add(item.creator_location);
+    });
+
+    return {
+      brands: ['All', ...Array.from(brands)],
+      sentiments: ['All', ...Array.from(sentiments)],
+      influencers: ['All', ...Array.from(influencers)],
+      categories: ['All', ...Array.from(categories)],
+      subCategories: ['All', ...Array.from(subCategories)],
+      locations: ['All', ...Array.from(locations)],
+    };
+  }, [data]);
+
+  // --- MEMOIZED FILTER LOGIC ---
   const filteredData = useMemo(() => {
-    return entityData.filter((item: any) => {
+    return data.filter((item) => {
       const matchBrand = filterBrand === 'All' || item.brand_name === filterBrand;
       const matchSentiment = filterSentiment === 'All' || item.sentiment.toLowerCase() === filterSentiment.toLowerCase();
-      const matchInfluencer = filterInfluencer === 'All' || (item.influencer && item.influencer === filterInfluencer);
-      const matchCategory = filterCategory === 'All' || item.trigger_category === filterCategory;
-      return matchBrand && matchSentiment && matchInfluencer && matchCategory;
-    }) as Insight[];
-  }, [filterBrand, filterSentiment, filterInfluencer, filterCategory]);
+      const matchInfluencer = filterInfluencer === 'All' || item.influencer === filterInfluencer;
+      const matchCategory = filterCategory === 'All' || item.product_category === filterCategory;
+      const matchSubCategory = filterSubCategory === 'All' || item.sub_category === filterSubCategory;
+      const matchLocation = filterLocation === 'All' || item.creator_location === filterLocation;
 
-  const uniqueCategories = Array.from(new Set(entityData.map((d: any) => d.trigger_category).filter(Boolean)));
+      return matchBrand && matchSentiment && matchInfluencer && matchCategory && matchSubCategory && matchLocation;
+    });
+  }, [data, filterBrand, filterSentiment, filterInfluencer, filterCategory, filterSubCategory, filterLocation]);
 
-  const dashboardStats = useMemo(() => {
+  // --- MACRO ANALYTICS METRICS ---
+  const stats = useMemo(() => {
+    if (filteredData.length === 0) return { avgConfidence: 0, totalMentions: 0, positiveRatio: 0 };
     const total = filteredData.length;
-    const positiveCount = filteredData.filter(d => d.sentiment.toLowerCase() === 'positive').length;
-    const positivePercentage = total > 0 ? Math.round((positiveCount / total) * 100) : 0;
-
-    const brandCounts = filteredData.reduce((acc: Record<string, number>, curr) => {
-      acc[curr.brand_name] = (acc[curr.brand_name] || 0) + 1;
-      return acc;
-    }, {} as Record<string, number>);
+    const sumConfidence = filteredData.reduce((acc, curr) => acc + (curr.confidence_score || 0), 0);
+    const positiveCount = filteredData.filter(item => item.sentiment === 'positive').length;
     
-    const topBrand = Object.keys(brandCounts).length > 0 ? Object.keys(brandCounts).reduce((a, b) => brandCounts[a] > brandCounts[b] ? a : b) : "N/A";
-
-    return { total, positivePercentage, topBrand };
+    return {
+      avgConfidence: Math.round(sumConfidence / total),
+      totalMentions: total,
+      positiveRatio: Math.round((positiveCount / total) * 100)
+    };
   }, [filteredData]);
 
-  // Extract unique values for dropdowns
-  const uniqueBrands = Array.from(new Set(entityData.map((d: any) => d.brand_name)));
-  const uniqueInfluencers = Array.from(new Set(entityData.map((d: any) => d.influencer).filter(Boolean)));
+  const handleTimelineClick = (insight: Insight, seconds: number | null) => {
+    if (seconds === null) return;
+    setActiveInsight(insight);
+    setActiveTimestamp(seconds);
+  };
 
   return (
-    <>
-      <div className="ambient-background"></div>
-      <div className="blob b-1"></div><div className="blob b-2"></div><div className="blob b-3"></div>
-
-      <nav className="top-nav">
-        <div className="nav-content">
-          <div className="logo-container">
-            <span style={{ fontWeight: 800, fontSize: '1.2rem', color: '#fff' }}>Insight<span style={{ color: 'var(--c-netting)' }}>Engine</span></span>
-          </div>
-          <div className="nav-controls flex gap-4">
-            {/* FILTER BAR */}
-            <select className="bg-[rgba(15,23,42,0.8)] text-sm border border-[rgba(255,255,255,0.1)] rounded-lg px-3 py-1 text-white outline-none" value={filterBrand} onChange={(e) => setFilterBrand(e.target.value)}>
-              <option value="All">All Brands</option>
-              {uniqueBrands.map((b: any) => <option key={b} value={b}>{b}</option>)}
-            </select>
-            <select className="bg-[rgba(15,23,42,0.8)] text-sm border border-[rgba(255,255,255,0.1)] rounded-lg px-3 py-1 text-white outline-none" value={filterSentiment} onChange={(e) => setFilterSentiment(e.target.value)}>
-              <option value="All">All Sentiments</option>
-              <option value="positive">Positive</option>
-              <option value="negative">Negative</option>
-              <option value="neutral">Neutral</option>
-            </select>
-            <select className="bg-[rgba(15,23,42,0.8)] text-sm border border-[rgba(255,255,255,0.1)] rounded-lg px-3 py-1 text-white outline-none" value={filterInfluencer} onChange={(e) => setFilterInfluencer(e.target.value)}>
-              <option value="All">All Creators</option>
-              {uniqueInfluencers.map((inf: any) => <option key={inf} value={inf}>{inf}</option>)}
-            </select>
-            <select className="bg-[rgba(15,23,42,0.8)] text-sm border border-[rgba(255,255,255,0.1)] rounded-lg px-3 py-1 text-white outline-none" value={filterCategory} onChange={(e) => setFilterCategory(e.target.value)}>
-              <option value="All">All Categories</option>
-              {uniqueCategories.map((cat: any) => <option key={cat} value={cat}>{cat}</option>)}
-            </select>
-            
-            <button className="g-cta-btn ml-4">Upgrade to Pro</button>
-          </div>
+    <main className="flex-1 p-6 max-w-7xl mx-auto w-full space-y-6">
+      {/* Header Banner */}
+      <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 border-b border-[rgba(255,255,255,0.1)] pb-6">
+        <div>
+          <h1 className="text-3xl font-extrabold tracking-tight text-white">Spoken Reality Dashboard</h1>
+          <p className="text-gray-400 text-sm mt-1">Cross-channel intelligence pipeline tracking voice, copy, and visual discrepancies.</p>
         </div>
-      </nav>
-
-      <main className="w-full max-w-7xl mx-auto pt-32 px-4 pb-12 z-10 relative">
         
-        {/* Aggregation Highlights */}
-        <div className="flex gap-6 mb-8">
-          <div className="smart-card p-6 flex-1 text-center">
-            <p className="text-sm text-gray-400 font-semibold tracking-wider uppercase mb-1">Filtered Mentions</p>
-            <h2 className="text-4xl font-bold text-white">{dashboardStats.total}</h2>
+        {/* Macro Stat Badges */}
+        <div className="flex gap-4">
+          <div className="bg-slate-900 border border-slate-800 px-4 py-2 rounded-xl text-center">
+            <span className="block text-xs text-gray-500 uppercase font-bold tracking-wider">Volume</span>
+            <span className="text-xl font-mono font-bold text-sky-400">{stats.totalMentions}</span>
           </div>
-          <div className="smart-card p-6 flex-1 text-center">
-            <p className="text-sm text-gray-400 font-semibold tracking-wider uppercase mb-1">Positive Sentiment</p>
-            <h2 className="text-4xl font-bold" style={{ color: 'var(--c-success)' }}>{dashboardStats.positivePercentage}%</h2>
+          <div className="bg-slate-900 border border-slate-800 px-4 py-2 rounded-xl text-center">
+            <span className="block text-xs text-gray-500 uppercase font-bold tracking-wider">Avg Confidence</span>
+            <span className="text-xl font-mono font-bold text-purple-400">{stats.avgConfidence}%</span>
           </div>
-          <div className="smart-card p-6 flex-1 text-center">
-            <p className="text-sm text-gray-400 font-semibold tracking-wider uppercase mb-1">Trending in View</p>
-            <h2 className="text-4xl font-bold" style={{ color: 'var(--c-shield)' }}>{dashboardStats.topBrand}</h2>
+          <div className="bg-slate-900 border border-slate-800 px-4 py-2 rounded-xl text-center">
+            <span className="block text-xs text-gray-500 uppercase font-bold tracking-wider">Positivity Rate</span>
+            <span className="text-xl font-mono font-bold text-emerald-400">{stats.positiveRatio}%</span>
           </div>
         </div>
+      </div>
 
-        {/* Split View */}
-        <div className="flex gap-6 h-[calc(100vh-280px)] min-h-[750px]">
-          
-          {/* Left: Scrollable Feed */}
-          <div className="smart-card w-1/2 p-6 flex flex-col">
-            <div className="flex justify-between items-center mb-4 border-b border-[rgba(255,255,255,0.1)] pb-2">
-                <h3 className="text-xl font-bold">Spoken Reality Feed</h3>
-                <span className="text-xs text-gray-400 font-mono">Showing {filteredData.length} clips</span>
+      {/* Advanced Control / Filter Panel */}
+      <div className="bg-slate-900 border border-slate-800 p-4 rounded-xl grid grid-cols-2 md:grid-cols-6 gap-3">
+        <div>
+          <label className="block text-xs text-gray-400 font-semibold mb-1">Brand</label>
+          <select value={filterBrand} onChange={(e) => setFilterBrand(e.target.value)} className="w-full bg-slate-950 border border-slate-800 rounded-lg p-2 text-sm text-white">
+            {filterOptions.brands.map(b => <option key={b} value={b}>{b}</option>)}
+          </select>
+        </div>
+        <div>
+          <label className="block text-xs text-gray-400 font-semibold mb-1">Category</label>
+          <select value={filterCategory} onChange={(e) => setFilterCategory(e.target.value)} className="w-full bg-slate-950 border border-slate-800 rounded-lg p-2 text-sm text-white">
+            {filterOptions.categories.map(c => <option key={c} value={c}>{c}</option>)}
+          </select>
+        </div>
+        <div>
+          <label className="block text-xs text-gray-400 font-semibold mb-1">Sub-Category</label>
+          <select value={filterSubCategory} onChange={(e) => setFilterSubCategory(e.target.value)} className="w-full bg-slate-950 border border-slate-800 rounded-lg p-2 text-sm text-white">
+            {filterOptions.subCategories.map(s => <option key={s} value={s}>{s}</option>)}
+          </select>
+        </div>
+        <div>
+          <label className="block text-xs text-gray-400 font-semibold mb-1">Sentiment</label>
+          <select value={filterSentiment} onChange={(e) => setFilterSentiment(e.target.value)} className="w-full bg-slate-950 border border-slate-800 rounded-lg p-2 text-sm text-white">
+            {filterOptions.sentiments.map(s => <option key={s} value={s}>{s}</option>)}
+          </select>
+        </div>
+        <div>
+          <label className="block text-xs text-gray-400 font-semibold mb-1">Creator</label>
+          <select value={filterInfluencer} onChange={(e) => setFilterInfluencer(e.target.value)} className="w-full bg-slate-950 border border-slate-800 rounded-lg p-2 text-sm text-white">
+            {filterOptions.influencers.map(i => <option key={i} value={i}>{i}</option>)}
+          </select>
+        </div>
+        <div>
+          <label className="block text-xs text-gray-400 font-semibold mb-1">Market Location</label>
+          <select value={filterLocation} onChange={(e) => setFilterLocation(e.target.value)} className="w-full bg-slate-950 border border-slate-800 rounded-lg p-2 text-sm text-white">
+            {filterOptions.locations.map(l => <option key={l} value={l}>{l}</option>)}
+          </select>
+        </div>
+      </div>
+
+      {/* Main Panel Workstation Layout */}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        
+        {/* Left & Middle Column: Deep Insights Stream */}
+        <div className="lg:col-span-2 space-y-4">
+          {filteredData.length === 0 ? (
+            <div className="bg-slate-900 border border-slate-800 rounded-xl p-12 text-center text-gray-400">
+              No contextual insights match your applied active filters.
             </div>
-            
-            <div className="overflow-y-auto custom-scrollbar flex-1 pr-2 space-y-3">
-              {filteredData.map((insight: Insight, index: number) => (
-                <div 
-                  key={index} 
-                  style={{
-                    background: activeInsight === insight ? 'rgba(56, 189, 248, 0.15)' : 'rgba(255, 255, 255, 0.03)',
-                    borderColor: activeInsight === insight ? 'var(--c-netting)' : 'var(--border)'
-                  }}
-                  className="p-4 rounded-xl border hover:bg-[rgba(255,255,255,0.08)] transition-all flex flex-col"
-                >
-                  <div className="flex justify-between items-start mb-2">
-                    <div>
-                        <h4 className="font-bold text-lg text-white">{insight.brand_name}</h4>
-                        <p className="text-xs text-gray-400">{insight.product_name} • {insight.influencer && <span className="text-[var(--c-netting)]">@{insight.influencer}</span>}</p>
-                    </div>
-                    <div className="flex flex-col gap-1 items-end">
-                      <span style={{ 
-                        backgroundColor: insight.sentiment.toLowerCase() === 'positive' ? 'rgba(16, 185, 129, 0.2)' : insight.sentiment.toLowerCase() === 'negative' ? 'rgba(255, 71, 71, 0.2)' : 'rgba(255, 255, 255, 0.1)',
-                        color: insight.sentiment.toLowerCase() === 'positive' ? 'var(--c-success)' : insight.sentiment.toLowerCase() === 'negative' ? 'var(--c-legacy)' : '#ccc'
-                      }} className="px-2 py-1 rounded text-[10px] font-bold uppercase tracking-wider">
-                        {insight.sentiment}
-                      </span>
-                      <span className="px-2 py-0.5 rounded text-[10px] bg-[rgba(255,255,255,0.05)] border border-[rgba(255,255,255,0.1)] text-gray-300">
-                        {insight.trigger_category}
-                      </span>
+          ) : (
+            filteredData.map((insight, index) => (
+              <div 
+                key={index} 
+                className={`p-5 bg-slate-900 border rounded-xl transition-all cursor-pointer ${
+                  activeInsight?.video_id === insight.video_id ? 'border-sky-500 shadow-lg' : 'border-slate-800 hover:border-slate-700'
+                }`}
+                onClick={() => handleTimelineClick(insight, insight.spoken_timestamp_seconds || insight.visual_timestamp_seconds || 0)}
+              >
+                <div className="flex flex-wrap justify-between items-start gap-2 mb-3">
+                  <div>
+                    <span className="bg-slate-950 border border-slate-800 px-2 py-0.5 rounded text-xs font-mono text-gray-400 mr-2">
+                      {insight.brand_name}
+                    </span>
+                    <span className="font-bold text-white text-base">{insight.product_name}</span>
+                    <div className="text-xs text-gray-500 mt-0.5">
+                      {insight.product_category} &raquo; {insight.sub_category}
                     </div>
                   </div>
                   
-                  <div className="my-3 bg-[rgba(0,0,0,0.2)] p-3 rounded border border-[rgba(255,255,255,0.03)]">
-                    <p className="text-white font-medium text-sm mb-1 tracking-wide">&quot;{insight.primary_claim}&quot;</p>
-                    <p className="text-gray-500 text-xs italic border-l-2 border-[var(--c-netting)] pl-2">
-                      {insight.anchor_quote}
-                    </p>
-                  </div>
-                  
-                  {/* Dual Proof Buttons */}
-                  <div className="flex gap-2">
-                    <button 
-                      onClick={() => { setActiveInsight(insight); setActiveTimestamp(insight.spoken_timestamp_seconds); }}
-                      className="flex-1 flex items-center justify-center gap-2 bg-[rgba(255,255,255,0.05)] hover:bg-[rgba(56,189,248,0.2)] text-xs py-2 rounded transition-colors text-white border border-[rgba(255,255,255,0.1)]"
-                    >
-                      <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                        <polygon points="5 3 19 12 5 21 5 3"></polygon>
-                      </svg>
-                      Play Spoken ({insight.spoken_timestamp_seconds}s)
-                    </button>
-                    {insight.visual_timestamp_seconds !== null && (
-                      <button 
-                        onClick={() => { setActiveInsight(insight); setActiveTimestamp(insight.visual_timestamp_seconds as number); }}
-                        className="flex-1 flex items-center justify-center gap-2 bg-[rgba(168,85,247,0.1)] hover:bg-[rgba(168,85,247,0.3)] text-xs py-2 rounded transition-colors text-white border border-[rgba(168,85,247,0.3)]"
-                      >
-                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                          <path d="M2 12s3-7 10-7 10 7 10 7-3 7-10 7-10-7-10-7Z"></path>
-                          <circle cx="12" cy="12" r="3"></circle>
-                        </svg>
-                        View Visual ({insight.visual_timestamp_seconds}s)
-                      </button>
-                    )}
+                  <div className="flex items-center gap-2">
+                    <span className="text-xs text-gray-500 font-mono">{insight.creator_location}</span>
+                    <span className={`px-2 py-0.5 rounded text-xs font-bold uppercase tracking-wider ${
+                      insight.sentiment === 'positive' ? 'bg-emerald-950/50 text-emerald-400 border border-emerald-900' :
+                      insight.sentiment === 'negative' ? 'bg-rose-950/50 text-rose-400 border border-rose-900' :
+                      insight.sentiment === 'comparison' ? 'bg-purple-950/50 text-purple-400 border border-purple-900' :
+                      'bg-slate-950 text-slate-400 border border-slate-800'
+                    }`}>
+                      {insight.sentiment}
+                    </span>
                   </div>
                 </div>
-              ))}
-              {filteredData.length === 0 && (
-                  <div className="text-center py-10 text-gray-500">No clips match your current filters.</div>
+
+                <div className="text-sm text-slate-300 font-medium mb-3 italic">
+                  &ldquo;{insight.primary_claim}&rdquo;
+                </div>
+
+                <blockquote className="bg-slate-950 border-l-2 border-slate-700 p-3 rounded-r-lg text-xs text-gray-400 font-mono mb-4">
+                  &ldquo;{insight.anchor_quote}&rdquo;
+                </blockquote>
+
+                {/* Cross-Channel Validation Framework */}
+                <div className="grid grid-cols-3 gap-2 pt-3 border-t border-slate-800 text-center text-xs font-semibold">
+                  <div className={`p-2 rounded-lg ${insight.mentioned_in_audio ? 'bg-sky-950/30 text-sky-400 border border-sky-900' : 'bg-slate-950 text-gray-600'}`}>
+                    🎙️ Audio Track {insight.spoken_timestamp_seconds ? `(${insight.spoken_timestamp_seconds}s)` : ''}
+                  </div>
+                  <div className={`p-2 rounded-lg ${insight.mentioned_in_caption ? 'bg-indigo-950/30 text-indigo-400 border border-indigo-900' : 'bg-slate-950 text-gray-600'}`}>
+                    📝 Written Copy
+                  </div>
+                  <div className={`p-2 rounded-lg ${insight.shown_visually ? 'bg-purple-950/30 text-purple-400 border border-purple-900' : 'bg-slate-950 text-gray-600'}`}>
+                    🖼️ Visual Frame {insight.visual_timestamp_seconds ? `(${insight.visual_timestamp_seconds}s)` : ''}
+                  </div>
+                </div>
+
+                <div className="mt-3 flex justify-between items-center text-xs text-gray-500">
+                  <div>Creator: <span className="text-gray-400 font-medium">{insight.influencer}</span></div>
+                  <div>Confidence: <span className="text-purple-400 font-bold">{insight.confidence_score}%</span></div>
+                </div>
+              </div>
+            ))
+          )}
+        </div>
+
+        {/* Right Column: Synchronized Multi-Modal Workspace Player */}
+        <div className="lg:col-span-1">
+          <div className="sticky top-6 bg-slate-900 border border-slate-800 rounded-xl p-4 space-y-4">
+            <h3 className="text-lg font-bold text-white border-b border-slate-800 pb-2 flex justify-between items-center">
+              <span>Media Workspace</span>
+              {activeInsight && (
+                <span className="text-xs bg-slate-950 text-sky-400 px-2 py-0.5 rounded font-mono">
+                  Timestamp: {activeTimestamp}s
+                </span>
               )}
-            </div>
-          </div>
-
-          {/* Right: Clip Proof Player */}
-          <div className="smart-card w-1/2 p-6 flex flex-col justify-center items-center relative">
-              {activeInsight ? (
-                <div className="w-full">
-                  <h3 className="font-bold mb-4 flex items-center text-lg">
-                    <span className="bg-red-500 w-2 h-2 rounded-full mr-2 animate-pulse"></span>
-                    Live Playback: {activeInsight.product_name}
-                  </h3>
-                  <div className="relative w-full max-w-[340px] mx-auto aspect-[9/16] rounded-xl overflow-hidden bg-black shadow-2xl border border-[rgba(255,255,255,0.1)]">
-                    <iframe
-                      className="absolute top-0 left-0 w-full h-full"
-                      src={`https://www.youtube.com/embed/${activeInsight.video_id}?start=${activeTimestamp}&autoplay=1`}
-                      title="YouTube video player"
-                      frameBorder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowFullScreen
-                    ></iframe>
-                  </div>
+            </h3>
+            
+            {activeInsight ? (
+              <div className="space-y-4">
+                <div className="relative w-full aspect-[9/16] rounded-xl overflow-hidden bg-black shadow-2xl border border-slate-800">
+                  <iframe
+                    className="absolute top-0 left-0 w-full h-full"
+                    src={`https://www.youtube.com/embed/${activeInsight.video_id}?start=${activeTimestamp}&autoplay=1`}
+                    title="Contextual Video Verification Engine"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                  ></iframe>
                 </div>
-              ) : (
-              <div className="text-center text-gray-500">
-                <svg className="mx-auto h-16 w-16 mb-4 opacity-50" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1} d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                
+                <div className="bg-slate-950 p-3 rounded-xl border border-slate-800 space-y-1 text-xs">
+                  <div className="text-gray-500 font-bold uppercase tracking-wider text-[10px]">Active Verification Focus</div>
+                  <div className="text-white font-bold">{activeInsight.product_name}</div>
+                  <div className="text-gray-400 text-slate-400 font-mono mt-2">Trigger context: {activeInsight.trigger_category}</div>
+                </div>
+
+                <div className="flex gap-2">
+                  <button 
+                    disabled={activeInsight.spoken_timestamp_seconds === null}
+                    onClick={() => setActiveTimestamp(activeInsight.spoken_timestamp_seconds || 0)}
+                    className="flex-1 bg-slate-950 hover:bg-slate-800 text-gray-300 font-semibold text-xs py-2 px-3 rounded-lg border border-slate-800 transition disabled:opacity-30"
+                  >
+                    Jump to Speech
+                  </button>
+                  <button 
+                    disabled={activeInsight.visual_timestamp_seconds === null}
+                    onClick={() => setActiveTimestamp(activeInsight.visual_timestamp_seconds || 0)}
+                    className="flex-1 bg-slate-950 hover:bg-slate-800 text-gray-300 font-semibold text-xs py-2 px-3 rounded-lg border border-slate-800 transition disabled:opacity-30"
+                  >
+                    Jump to Visual
+                  </button>
+                </div>
+              </div>
+            ) : (
+              <div className="text-center text-gray-500 py-12 px-4">
+                <svg className="mx-auto h-12 w-12 mb-3 opacity-30 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round\" strokeWidth={1.5} d="M14.752 11.168l-3.197-2.132A1 1 0 0010 9.87v4.263a1 1 0 001.555.832l3.197-2.132a1 1 0 000-1.664z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
                 </svg>
-                <p className="text-lg">Select a data point to load the exact moment it was spoken.</p>
+                <p className="text-sm">Select any product insight card from the pipeline stream to initialize synchronized timeline playback.</p>
               </div>
             )}
           </div>
         </div>
-      </main>
-    </>
+
+      </div>
+    </main>
   );
 }
