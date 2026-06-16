@@ -23,10 +23,13 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
             <div className="flex gap-4">
               <Link href="/" className="flex items-center gap-2 text-sm font-medium text-slate-300 hover:text-white transition-colors bg-slate-800/50 px-4 py-2 rounded-lg border border-slate-700/50">
-                <BarChart3 size={16} className="text-sky-400" /> Market Trends
+                <BarChart3 size={16} className="text-sky-400" /> Trends
+              </Link>
+              <Link href="/compare" className="flex items-center gap-2 text-sm font-medium text-slate-300 hover:text-white transition-colors bg-slate-800/50 px-4 py-2 rounded-lg border border-slate-700/50">
+                <Scale size={16} className="text-emerald-400" /> Compare
               </Link>
               <Link href="/feed" className="flex items-center gap-2 text-sm font-medium text-slate-300 hover:text-white transition-colors bg-slate-800/50 px-4 py-2 rounded-lg border border-slate-700/50">
-                <Radio size={16} className="text-purple-400" /> Live Listening
+                <Radio size={16} className="text-purple-400" /> Stream
               </Link>
             </div>
           </div>
