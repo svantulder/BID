@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
+import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer, Tooltip, Legend } from 'recharts';
 import entityData from '../../data/extracted_entities.json';
 
 interface AttributeScore {
@@ -13,7 +14,8 @@ interface Insight {
   brand_name: string;
   product_name: string;
   product_category: string;
-  overall_sentiment: string;
+  overall_sentiment: 'positive' | 'negative' | 'neutral' | 'mixed';
+  active_ingredients?: string[];
   attributes?: AttributeScore[];
 }
 
@@ -54,7 +56,6 @@ export default function CompareDashboard() {
   const [brandB, setBrandB] = useState<string>(uniqueBrands[1] || '');
   const [productB, setProductB] = useState<string>('All');
 
-  // Derive associated child items for cascaded dropdown selections
   const productsForA = useMemo(() => {
     const list = normalizedData.filter(d => d.brand_name === brandA).map(d => d.product_name);
     return ['All', ...Array.from(new Set(list))];
@@ -74,11 +75,22 @@ export default function CompareDashboard() {
     if (!subset.length) return null;
 
     const stats: Record<string, { total: number; count: number }> = {};
+    const ingredientStats: Record<string, { sentimentSum: number; count: number }> = {};
+
     subset.forEach(insight => {
+      // 1. Process Mechanical Attributes
       insight.attributes?.forEach(attr => {
         if (!stats[attr.attribute]) stats[attr.attribute] = { total: 0, count: 0 };
         stats[attr.attribute].total += attr.sentiment_score;
         stats[attr.attribute].count += 1;
+      });
+
+      // 2. Process Proxy Ingredient Sentiment
+      const baseSentiment = insight.overall_sentiment === 'positive' ? 1 : insight.overall_sentiment === 'negative' ? -1 : 0;
+      insight.active_ingredients?.forEach(ing => {
+        if (!ingredientStats[ing]) ingredientStats[ing] = { sentimentSum: 0, count: 0 };
+        ingredientStats[ing].sentimentSum += baseSentiment;
+        ingredientStats[ing].count += 1;
       });
     });
 
@@ -87,18 +99,51 @@ export default function CompareDashboard() {
       averages[attr] = stats[attr].total / stats[attr].count;
     });
 
-    return { volume: subset.length, averages };
+    const tags = Object.keys(ingredientStats).map(ing => ({
+      name: ing,
+      score: ingredientStats[ing].sentimentSum / ingredientStats[ing].count
+    }));
+
+    return { volume: subset.length, averages, tags };
   };
 
   const metricsA = useMemo(() => computeMetrics(brandA, productA), [brandA, productA, normalizedData]);
   const metricsB = useMemo(() => computeMetrics(brandB, productB), [brandB, productB, normalizedData]);
 
+  // Transform data for the joint Radar Chart
+  const radarData = useMemo(() => {
+    return attributesList.map(attr => ({
+      attribute: attr.replace('_', ' '),
+      CompetitorA: metricsA?.averages[attr] || 0,
+      CompetitorB: metricsB?.averages[attr] || 0,
+    }));
+  }, [metricsA, metricsB]);
+
   return (
     <main className="p-8 max-w-7xl mx-auto space-y-8 w-full">
       <header>
         <h1 className="text-3xl font-bold tracking-tight text-white mb-2">Granular Product Comparison</h1>
-        <p className="text-slate-400">Perform deep matrix benchmarking at the global brand portfolio level or exact product variants.</p>
+        <p className="text-slate-400">Head-to-head multi-axis benchmarking and formulation sentiment.</p>
       </header>
+
+      {/* Joint Radar Visualization */}
+      <div className="bg-slate-900 border border-slate-800 p-6 rounded-xl w-full h-[400px] flex items-center justify-center">
+        {metricsA || metricsB ? (
+          <ResponsiveContainer width="100%" height="100%">
+            <RadarChart cx="50%" cy="50%" outerRadius="70%" data={radarData}>
+              <PolarGrid stroke="#334155" />
+              <PolarAngleAxis dataKey="attribute" tick={{ fill: '#94a3b8', fontSize: 12 }} />
+              <PolarRadiusAxis angle={30} domain={[-10, 10]} tick={{ fill: '#64748b' }} axisLine={false} />
+              <Tooltip contentStyle={{ backgroundColor: '#0f172a', border: '1px solid #334155', borderRadius: '8px', color: '#fff' }} />
+              <Legend wrapperStyle={{ paddingTop: '20px' }} />
+              <Radar name={productA === 'All' ? brandA : productA} dataKey="CompetitorA" stroke="#38bdf8" fill="#38bdf8" fillOpacity={0.4} />
+              <Radar name={productB === 'All' ? brandB : productB} dataKey="CompetitorB" stroke="#a855f7" fill="#a855f7" fillOpacity={0.4} />
+            </RadarChart>
+          </ResponsiveContainer>
+        ) : (
+          <div className="text-slate-500 font-medium">Insufficient data for radar visualization.</div>
+        )}
+      </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
         {/* Competitor Panel A */}
@@ -126,19 +171,42 @@ export default function CompareDashboard() {
           </div>
           
           {metricsA && (
-            <div className="pt-4 space-y-3">
+            <div className="pt-4 space-y-5">
               <div className="text-xs font-bold text-slate-500 uppercase tracking-wider">Signal Footprint Count: <span className="text-white font-mono">{metricsA.volume}</span></div>
-              {attributesList.map(attr => {
-                const val = metricsA.averages[attr];
-                return (
-                  <div key={attr} className="flex justify-between items-center border-b border-slate-800/40 pb-2">
-                    <span className="text-xs text-slate-400">{attr.replace('_', ' ')}</span>
-                    <span className={`font-bold text-sm ${val > 0 ? 'text-emerald-400' : val < 0 ? 'text-rose-400' : 'text-slate-500'}`}>
-                      {val !== undefined ? (val > 0 ? `+${val.toFixed(1)}` : val.toFixed(1)) : 'N/A'}
-                    </span>
+              
+              {/* Formulation Proxy Sentiment Tags */}
+              {metricsA.tags.length > 0 && (
+                <div>
+                  <h4 className="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">Detected Formulations</h4>
+                  <div className="flex flex-wrap gap-2">
+                    {metricsA.tags.map(tag => {
+                      const colorClass = tag.score > 0.2 ? 'bg-emerald-950 text-emerald-400 border-emerald-800/50' : 
+                                         tag.score < -0.2 ? 'bg-rose-950 text-rose-400 border-rose-800/50' : 
+                                         'bg-slate-800 text-slate-300 border-slate-700';
+                      return (
+                        <span key={tag.name} className={`px-2 py-1 rounded text-xs font-medium border ${colorClass}`}>
+                          {tag.name}
+                        </span>
+                      );
+                    })}
                   </div>
-                );
-              })}
+                </div>
+              )}
+
+              {/* Tabular Score Fallback */}
+              <div className="space-y-3 pt-2">
+                {attributesList.map(attr => {
+                  const val = metricsA.averages[attr];
+                  return (
+                    <div key={attr} className="flex justify-between items-center border-b border-slate-800/40 pb-2">
+                      <span className="text-xs text-slate-400">{attr.replace('_', ' ')}</span>
+                      <span className={`font-bold text-sm ${val > 0 ? 'text-emerald-400' : val < 0 ? 'text-rose-400' : 'text-slate-500'}`}>
+                        {val !== undefined && !isNaN(val) ? (val > 0 ? `+${val.toFixed(1)}` : val.toFixed(1)) : 'N/A'}
+                      </span>
+                    </div>
+                  );
+                })}
+              </div>
             </div>
           )}
         </div>
@@ -168,19 +236,42 @@ export default function CompareDashboard() {
           </div>
 
           {metricsB && (
-            <div className="pt-4 space-y-3">
+            <div className="pt-4 space-y-5">
               <div className="text-xs font-bold text-slate-500 uppercase tracking-wider">Signal Footprint Count: <span className="text-white font-mono">{metricsB.volume}</span></div>
-              {attributesList.map(attr => {
-                const val = metricsB.averages[attr];
-                return (
-                  <div key={attr} className="flex justify-between items-center border-b border-slate-800/40 pb-2">
-                    <span className="text-xs text-slate-400">{attr.replace('_', ' ')}</span>
-                    <span className={`font-bold text-sm ${val > 0 ? 'text-emerald-400' : val < 0 ? 'text-rose-400' : 'text-slate-500'}`}>
-                      {val !== undefined ? (val > 0 ? `+${val.toFixed(1)}` : val.toFixed(1)) : 'N/A'}
-                    </span>
+              
+              {/* Formulation Proxy Sentiment Tags */}
+              {metricsB.tags.length > 0 && (
+                <div>
+                  <h4 className="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">Detected Formulations</h4>
+                  <div className="flex flex-wrap gap-2">
+                    {metricsB.tags.map(tag => {
+                      const colorClass = tag.score > 0.2 ? 'bg-emerald-950 text-emerald-400 border-emerald-800/50' : 
+                                         tag.score < -0.2 ? 'bg-rose-950 text-rose-400 border-rose-800/50' : 
+                                         'bg-slate-800 text-slate-300 border-slate-700';
+                      return (
+                        <span key={tag.name} className={`px-2 py-1 rounded text-xs font-medium border ${colorClass}`}>
+                          {tag.name}
+                        </span>
+                      );
+                    })}
                   </div>
-                );
-              })}
+                </div>
+              )}
+
+              {/* Tabular Score Fallback */}
+              <div className="space-y-3 pt-2">
+                {attributesList.map(attr => {
+                  const val = metricsB.averages[attr];
+                  return (
+                    <div key={attr} className="flex justify-between items-center border-b border-slate-800/40 pb-2">
+                      <span className="text-xs text-slate-400">{attr.replace('_', ' ')}</span>
+                      <span className={`font-bold text-sm ${val > 0 ? 'text-emerald-400' : val < 0 ? 'text-rose-400' : 'text-slate-500'}`}>
+                        {val !== undefined && !isNaN(val) ? (val > 0 ? `+${val.toFixed(1)}` : val.toFixed(1)) : 'N/A'}
+                      </span>
+                    </div>
+                  );
+                })}
+              </div>
             </div>
           )}
         </div>
