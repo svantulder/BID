@@ -1,40 +1,21 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useMemo, useState } from 'react';
+import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 import entityData from '../data/extracted_entities.json';
 
 interface AttributeScore {
-  attribute: "Application_Ease" | "Color_Accuracy" | "Longevity" | "Texture" | "Value" | "Packaging";
+  attribute: string;
   sentiment_score: number;
   context_quote: string;
-}
-
-interface CompetitorMention {
-  competitor_brand: string;
-  competitor_product: string;
-  comparison_nature: "inferior" | "superior" | "similar";
 }
 
 interface Insight {
   brand_name: string;
   product_name: string;
   product_category: string;
-  sub_category: string;
-  overall_sentiment: 'positive' | 'negative' | 'neutral' | 'mixed';
-  primary_claim: string;
-  anchor_quote: string;
-  attributes?: AttributeScore[];
-  direct_comparisons?: CompetitorMention[];
-  mentioned_in_audio: boolean;
-  mentioned_in_caption: boolean;
-  shown_visually: boolean;
-  spoken_timestamp_seconds: number | null;
-  visual_timestamp_seconds: number | null;
-  confidence_score: number;
-  video_id: string;
-  influencer?: string;
-  upload_date?: string;
-  creator_location?: string;
+  overall_sentiment: string;
+  attributes: AttributeScore[];
 }
 
 // Canonical Brand Normalization Map
@@ -65,7 +46,6 @@ const normalizeBrand = (brand: string): string => {
   const lookup = brand.trim().toLowerCase();
   if (BRAND_MAPPING[lookup]) return BRAND_MAPPING[lookup];
   
-  // Partial substring catch-all fallback
   for (const [key, canonical] of Object.entries(BRAND_MAPPING)) {
     if (lookup.includes(key) || key.includes(lookup)) {
       return canonical;
@@ -74,10 +54,11 @@ const normalizeBrand = (brand: string): string => {
   return brand;
 };
 
-export default function Dashboard() {
+export default function TrendsDashboard() {
   const rawData = entityData as Insight[];
-  
-  // Normalize data array immediately upon ingestion
+  const [selectedCategory, setSelectedCategory] = useState<string>('All');
+
+  // 1. Sanitize data at ingestion
   const normalizedData = useMemo(() => {
     return rawData.map(item => ({
       ...item,
@@ -85,252 +66,116 @@ export default function Dashboard() {
     }));
   }, [rawData]);
 
-  const [activeInsight, setActiveInsight] = useState<Insight | null>(null);
-  const [activeTimestamp, setActiveTimestamp] = useState<number>(0);
-  
-  // Filter States
-  const [filterBrand, setFilterBrand] = useState<string>('All');
-  const [filterSentiment, setFilterSentiment] = useState<string>('All');
-  const [filterInfluencer, setFilterInfluencer] = useState<string>('All');
-  const [filterCategory, setFilterCategory] = useState<string>('All');
-
-  // Dynamic filter selections derived from normalized list
-  const uniqueBrands = useMemo(() => Array.from(new Set(normalizedData.map(d => d.brand_name))), [normalizedData]);
-  const uniqueInfluencers = useMemo(() => Array.from(new Set(normalizedData.map(d => d.influencer).filter(Boolean))), [normalizedData]);
-  const uniqueCategories = useMemo(() => Array.from(new Set(normalizedData.map(d => d.product_category))), [normalizedData]);
-
-  // Compute filtered dataset
-  const filteredInsights = useMemo(() => {
-    return normalizedData.filter(item => {
-      if (filterBrand !== 'All' && item.brand_name !== filterBrand) return false;
-      if (filterSentiment !== 'All' && item.overall_sentiment !== filterSentiment) return false;
-      if (filterInfluencer !== 'All' && item.influencer !== filterInfluencer) return false;
-      if (filterCategory !== 'All' && item.product_category !== filterCategory) return false;
-      return true;
+  // 2. Compute Aggregates & Matrix using clean data
+  const { shareOfVoice, attributeMatrix } = useMemo(() => {
+    const brandCounts: Record<string, number> = {};
+    const matrixStats: Record<string, Record<string, { total: number; count: number }>> = {};
+    
+    normalizedData.filter(d => d.product_category === selectedCategory || selectedCategory === 'All').forEach(insight => {
+      // Share of Voice calculation
+      brandCounts[insight.brand_name] = (brandCounts[insight.brand_name] || 0) + 1;
+      
+      // Matrix aggregation
+      if (!matrixStats[insight.brand_name]) {
+        matrixStats[insight.brand_name] = {};
+      }
+      
+      insight.attributes?.forEach(attr => {
+        if (!matrixStats[insight.brand_name][attr.attribute]) {
+          matrixStats[insight.brand_name][attr.attribute] = { total: 0, count: 0 };
+        }
+        matrixStats[insight.brand_name][attr.attribute].total += attr.sentiment_score;
+        matrixStats[insight.brand_name][attr.attribute].count += 1;
+      });
     });
-  }, [normalizedData, filterBrand, filterSentiment, filterInfluencer, filterCategory]);
 
-  const handleJumpToTimestamp = (seconds: number | null) => {
-    if (seconds !== null) {
-      setActiveTimestamp(seconds);
-    }
-  };
+    const sov = Object.keys(brandCounts).map(name => ({
+      name, value: brandCounts[name]
+    })).sort((a, b) => b.value - a.value).slice(0, 5);
+
+    return { shareOfVoice: sov, attributeMatrix: matrixStats };
+  }, [normalizedData, selectedCategory]);
+
+  const attributesList = ["Application_Ease", "Color_Accuracy", "Longevity", "Texture", "Value", "Packaging"];
 
   return (
-    <div className="max-w-7xl mx-auto px-6 py-8 w-full">
-      {/* Filter Action Bar */}
-      <div className="grid grid-cols-1 sm:grid-cols-4 gap-4 mb-8 bg-slate-900/50 p-4 rounded-xl border border-slate-800">
+    <main className="p-8 max-w-7xl mx-auto space-y-8">
+      <header className="flex flex-col sm:flex-row sm:justify-between sm:items-end gap-4">
         <div>
-          <label className="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Brand</label>
-          <select 
-            value={filterBrand} 
-            onChange={(e) => setFilterBrand(e.target.value)}
-            className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-sky-500"
-          >
-            <option value="All">All Brands</option>
-            {uniqueBrands.map(b => <option key={b} value={b}>{b}</option>)}
-          </select>
+          <h1 className="text-3xl font-bold tracking-tight text-white mb-2">Market Trends</h1>
+          <p className="text-slate-400">Competitive intelligence & attribute sentiment tracking.</p>
+        </div>
+        <select 
+          className="bg-slate-900 border border-slate-700 text-white rounded-lg px-4 py-2 focus:outline-none focus:border-sky-500"
+          value={selectedCategory}
+          onChange={(e) => setSelectedCategory(e.target.value)}
+        >
+          <option value="All">All Categories</option>
+          <option value="Makeup">Makeup</option>
+          <option value="Skincare">Skincare</option>
+        </select>
+      </header>
+
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+        {/* Share of Voice */}
+        <div className="bg-slate-900 border border-slate-800 p-6 rounded-xl">
+          <h3 className="text-sm font-bold text-slate-300 mb-6 uppercase tracking-wider">Share of Voice (Top 5)</h3>
+          <div className="h-64 w-full">
+            <ResponsiveContainer>
+              <BarChart data={shareOfVoice} layout="vertical" margin={{ left: 20 }}>
+                <XAxis type="number" hide />
+                <YAxis dataKey="name" type="category" axisLine={false} tickLine={false} tick={{ fill: '#94a3b8', fontSize: 12 }} />
+                <Tooltip cursor={{ fill: '#1e293b' }} contentStyle={{ backgroundColor: '#0f172a', border: '1px solid #334155', borderRadius: '8px' }} />
+                <Bar dataKey="value" fill="#38bdf8" radius={[0, 4, 4, 0]} barSize={24} />
+              </BarChart>
+            </ResponsiveContainer>
+          </div>
         </div>
 
-        <div>
-          <label className="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Category</label>
-          <select 
-            value={filterCategory} 
-            onChange={(e) => setFilterCategory(e.target.value)}
-            className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-sky-500"
-          >
-            <option value="All">All Categories</option>
-            {uniqueCategories.map(c => <option key={c} value={c}>{c}</option>)}
-          </select>
-        </div>
-
-        <div>
-          <label className="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Sentiment</label>
-          <select 
-            value={filterSentiment} 
-            onChange={(e) => setFilterSentiment(e.target.value)}
-            className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-sky-500"
-          >
-            <option value="All">All Sentiments</option>
-            <option value="positive">Positive</option>
-            <option value="negative">Negative</option>
-            <option value="mixed">Mixed</option>
-            <option value="neutral">Neutral</option>
-          </select>
-        </div>
-
-        <div>
-          <label className="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Influencer</label>
-          <select 
-            value={filterInfluencer} 
-            onChange={(e) => setFilterInfluencer(e.target.value)}
-            className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-sky-500"
-          >
-            <option value="All">All Creators</option>
-            {uniqueInfluencers.map(i => <option key={i} value={i}>{i}</option>)}
-          </select>
+        {/* Competitor Benchmarking Matrix */}
+        <div className="bg-slate-900 border border-slate-800 p-6 rounded-xl overflow-x-auto">
+          <h3 className="text-sm font-bold text-slate-300 mb-6 uppercase tracking-wider">Attribute Benchmarking Matrix</h3>
+          <table className="w-full text-left border-collapse min-w-[600px]">
+            <thead>
+              <tr>
+                <th className="p-2 text-xs text-gray-500 font-semibold border-b border-slate-800">BRAND</th>
+                {attributesList.map(attr => (
+                  <th key={attr} className="p-2 text-xs text-gray-500 font-semibold border-b border-slate-800 text-center">
+                    {attr.replace('_', ' ').toUpperCase()}
+                  </th>
+                ))}
+              </tr>
+            </thead>
+            <tbody>
+              {Object.entries(attributeMatrix)
+                // Filter out brands that don't have enough data to populate the matrix
+                .filter(([_, scores]) => Object.keys(scores).length > 0)
+                .map(([brand, scores]) => (
+                <tr key={brand} className="border-b border-slate-800/50 hover:bg-slate-800/30 transition-colors">
+                  <td className="p-3 text-sm font-medium text-white">{brand}</td>
+                  {attributesList.map(attr => {
+                    const stat = scores[attr];
+                    if (!stat || stat.count === 0) return <td key={attr} className="p-3 text-gray-600 text-sm text-center">-</td>;
+                    
+                    const avg = stat.total / stat.count;
+                    const bgColor = avg > 3 ? 'bg-emerald-900/40 text-emerald-400 border-emerald-800/50' : 
+                                    avg < -3 ? 'bg-rose-900/40 text-rose-400 border-rose-800/50' : 
+                                    'bg-slate-800 text-slate-300 border-slate-700';
+                                    
+                    return (
+                      <td key={attr} className="p-2 text-center">
+                        <span className={`inline-block px-2 py-1 rounded text-xs font-bold border ${bgColor}`}>
+                          {avg > 0 ? '+' : ''}{avg.toFixed(1)}
+                        </span>
+                      </td>
+                    );
+                  })}
+                </tr>
+              ))}
+            </tbody>
+          </table>
         </div>
       </div>
-
-      {/* Main Split Layout Container */}
-      <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
-        
-        {/* Left Stream: Scrollable Content List */}
-        <div className="lg:col-span-7 space-y-4">
-          <h2 className="text-xs font-bold uppercase tracking-widest text-slate-400 mb-2">
-            Signal Feed ({filteredInsights.length} records matched)
-          </h2>
-          
-          {filteredInsights.length === 0 ? (
-            <div className="bg-slate-900 border border-slate-800 rounded-xl p-8 text-center text-slate-400">
-              No product entities found matching the active filter limits.
-            </div>
-          ) : (
-            filteredInsights.map((insight, idx) => {
-              const isSelected = activeInsight?.video_id === insight.video_id && activeInsight?.product_name === insight.product_name;
-              return (
-                <div 
-                  key={`${insight.video_id}-${idx}`}
-                  onClick={() => {
-                    setActiveInsight(insight);
-                    setActiveTimestamp(insight.spoken_timestamp_seconds || insight.visual_timestamp_seconds || 0);
-                  }}
-                  className={`p-5 rounded-xl border transition-all cursor-pointer text-left ${
-                    isSelected 
-                      ? 'bg-slate-900 border-sky-500/50 shadow-lg shadow-sky-500/5' 
-                      : 'bg-slate-900/40 border-slate-800/80 hover:bg-slate-900/80 hover:border-slate-700'
-                  }`}
-                >
-                  <div className="flex items-center justify-between gap-2 mb-2">
-                    <span className="text-xs font-bold text-sky-400 uppercase tracking-wider">{insight.brand_name}</span>
-                    <span className={`px-2 py-0.5 rounded text-[10px] font-extrabold uppercase tracking-wide ${
-                      insight.overall_sentiment === 'positive' ? 'bg-emerald-500/10 text-emerald-400' :
-                      insight.overall_sentiment === 'negative' ? 'bg-rose-500/10 text-rose-400' :
-                      insight.overall_sentiment === 'mixed' ? 'bg-amber-500/10 text-amber-400' : 'bg-slate-800 text-slate-400'
-                    }`}>
-                      {insight.overall_sentiment}
-                    </span>
-                  </div>
-                  
-                  <h4 className="font-bold text-slate-100 text-base mb-1">{insight.product_name}</h4>
-                  <p className="text-xs text-slate-400 mb-3 font-medium">{insight.sub_category} · By {insight.influencer || 'Unknown'}</p>
-                  
-                  <blockquote className="border-left-2 border-slate-700 pl-3 italic text-sm text-slate-300 line-clamp-2">
-                    "{insight.primary_claim}"
-                  </blockquote>
-                </div>
-              );
-            })
-          )}
-        </div>
-
-        {/* Right Inspection Panel: ALWAYS Centered/Pinned on Viewport Scroll */}
-        <div className="lg:col-span-5 sticky top-24 self-start">
-          {activeInsight ? (
-            <div className="bg-slate-900 border border-slate-800 rounded-xl overflow-hidden shadow-2xl">
-              {/* Native Embed Integration Module */}
-              <div className="aspect-[9/16] max-h-[420px] bg-black relative w-full flex items-center justify-center">
-                <iframe
-                  className="w-full h-full absolute inset-0"
-                  src={`https://www.youtube.com/embed/${activeInsight.video_id}?start=${activeTimestamp}&autoplay=1&mute=1`}
-                  title="Video Player Context"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                />
-              </div>
-
-              {/* Entity Context Inspection Metrics */}
-              <div className="p-6 border-t border-slate-800">
-                <div className="mb-4">
-                  <h3 className="font-extrabold text-lg text-slate-100 mb-1">{activeInsight.product_name}</h3>
-                  <p className="text-xs font-bold text-sky-400 tracking-wider uppercase">{activeInsight.brand_name}</p>
-                </div>
-
-                <div className="space-y-4">
-                  <div>
-                    <span className="block text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-1">Primary Finding</span>
-                    <p className="text-sm text-slate-200 bg-slate-950 p-3 rounded-lg border border-slate-800/60 font-medium">
-                      {activeInsight.primary_claim}
-                    </p>
-                  </div>
-
-                  <div>
-                    <span className="block text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-1">Direct Evidence</span>
-                    <p className="text-sm text-slate-300 italic bg-slate-950/40 p-3 rounded-lg border border-slate-800/40">
-                      "{activeInsight.anchor_quote || 'No textual quote logged.'}"
-                    </p>
-                  </div>
-
-                  {/* Render Multi-Axis Attributes Matrix safely if present */}
-                  {activeInsight.attributes && activeInsight.attributes.length > 0 && (
-                    <div>
-                      <span className="block text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">Granular Attribute Profiling</span>
-                      <div className="grid grid-cols-2 gap-2">
-                        {activeInsight.attributes.map((attr, aIdx) => (
-                          <div key={aIdx} className="bg-slate-950/80 p-2.5 rounded-lg border border-slate-800/80">
-                            <div className="flex justify-between items-center text-xs font-semibold mb-1">
-                              <span className="text-slate-400 text-[11px] truncate">{attr.attribute.replace('_', ' ')}</span>
-                              <span className={attr.sentiment_score >= 0 ? 'text-emerald-400' : 'text-rose-400'}>
-                                {attr.sentiment_score > 0 ? `+${attr.sentiment_score}` : attr.sentiment_score}
-                              </span>
-                            </div>
-                            <p className="text-[10px] text-slate-500 italic truncate" title={attr.context_quote}>
-                              "{attr.context_quote}"
-                            </p>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-
-                  {/* Render Cross-Brand Comparisons if present */}
-                  {activeInsight.direct_comparisons && activeInsight.direct_comparisons.length > 0 && (
-                    <div>
-                      <span className="block text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">Direct Benchmark Clashes</span>
-                      <div className="space-y-1.5">
-                        {activeInsight.direct_comparisons.map((comp, cIdx) => (
-                          <div key={cIdx} className="flex items-center justify-between bg-slate-950 p-2 rounded-lg text-xs border border-slate-800/40">
-                            <span className="text-slate-300 font-medium">vs. <b className="text-slate-400">{comp.competitor_brand}</b> {comp.competitor_product}</span>
-                            <span className={`px-1.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider ${
-                              comp.comparison_nature === 'superior' ? 'bg-emerald-500/10 text-emerald-400' :
-                              comp.comparison_nature === 'inferior' ? 'bg-rose-500/10 text-rose-400' : 'bg-slate-800 text-slate-400'
-                            }`}>
-                              {comp.comparison_nature}
-                            </span>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-
-                  {/* Timeline Jump Actions */}
-                  <div className="flex gap-2 pt-2">
-                    <button 
-                      disabled={activeInsight.spoken_timestamp_seconds === null}
-                      onClick={() => handleJumpToTimestamp(activeInsight.spoken_timestamp_seconds)}
-                      className="flex-1 bg-slate-950 hover:bg-slate-800 text-slate-300 font-bold text-xs py-2.5 px-3 rounded-lg border border-slate-800 transition disabled:opacity-20 disabled:cursor-not-allowed"
-                    >
-                      Jump to Speech ({activeInsight.spoken_timestamp_seconds ?? 0}s)
-                    </button>
-                    <button 
-                      disabled={activeInsight.visual_timestamp_seconds === null}
-                      onClick={() => handleJumpToTimestamp(activeInsight.visual_timestamp_seconds)}
-                      className="flex-1 bg-slate-950 hover:bg-slate-800 text-slate-300 font-bold text-xs py-2.5 px-3 rounded-lg border border-slate-800 transition disabled:opacity-20 disabled:cursor-not-allowed"
-                    >
-                      Jump to Visual ({activeInsight.visual_timestamp_seconds ?? 0}s)
-                    </button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          ) : (
-            <div className="bg-slate-900/30 border border-slate-800 border-dashed rounded-xl p-12 text-center text-slate-500 font-medium">
-              Select a signal record from the feed to launch video positioning and evaluate granular attribute matrices.
-            </div>
-          )}
-        </div>
-
-      </div>
-    </div>
+    </main>
   );
 }
