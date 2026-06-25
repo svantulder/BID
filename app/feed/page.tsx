@@ -1,8 +1,10 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { Mic, Type, Eye } from 'lucide-react';
+import { Mic, Type, Eye, User, Beaker } from 'lucide-react';
 import entityData from '../../data/extracted_entities.json';
+
+// --- Updated Schemas ---
 
 interface AttributeScore {
   attribute: "Application_Ease" | "Color_Accuracy" | "Longevity" | "Texture" | "Value" | "Packaging";
@@ -16,11 +18,19 @@ interface CompetitorMention {
   comparison_nature: "inferior" | "superior" | "similar";
 }
 
+interface CreatorDemographics {
+  estimated_age_bracket: string;
+  skin_tone_fitzpatrick: string;
+  skin_type_indication: string;
+}
+
 interface Insight {
   brand_name: string;
   product_name: string;
   product_category: string;
   sub_category: string;
+  active_ingredients?: string[];
+  creator_demographics?: CreatorDemographics;
   overall_sentiment: 'positive' | 'negative' | 'neutral' | 'mixed';
   primary_claim: string;
   anchor_quote: string;
@@ -72,6 +82,19 @@ const normalizeBrand = (brand: string): string => {
     }
   }
   return brand;
+};
+
+// UI Helper: Renders demographic badges safely
+const DemoBadge = ({ label, value }: { label: string, value?: string }) => {
+  const isUnknown = !value || value === "Unknown";
+  return (
+    <div className={`flex flex-col p-2 rounded-lg border ${isUnknown ? 'bg-slate-900/30 border-slate-800/50' : 'bg-slate-900 border-slate-700'}`}>
+      <span className="text-[9px] uppercase tracking-wider text-slate-500 font-bold mb-0.5">{label}</span>
+      <span className={`text-xs font-semibold ${isUnknown ? 'text-slate-600' : 'text-slate-300'}`}>
+        {isUnknown ? 'Unverified' : value}
+      </span>
+    </div>
+  );
 };
 
 export default function FeedStream() {
@@ -213,7 +236,18 @@ export default function FeedStream() {
                     "{insight.primary_claim}"
                   </blockquote>
 
-                  <div className="flex gap-2 mt-3">
+                  {/* Surface formulation tags directly in the feed if they exist */}
+                  {insight.active_ingredients && insight.active_ingredients.length > 0 && (
+                     <div className="flex flex-wrap gap-1 mt-3">
+                       {insight.active_ingredients.map(ing => (
+                         <span key={ing} className="px-2 py-0.5 rounded-md bg-slate-800/50 border border-slate-700 text-[10px] text-slate-400 flex items-center gap-1">
+                           <Beaker size={10} /> {ing}
+                         </span>
+                       ))}
+                     </div>
+                  )}
+
+                  <div className="flex gap-2 mt-3 pt-3 border-t border-slate-800/50">
                     <span className={`flex items-center gap-1 px-2 py-1 rounded text-[10px] border ${insight.mentioned_in_audio ? 'border-sky-500/30 text-sky-400 bg-sky-500/10' : 'border-slate-800 text-slate-600'}`}>
                       <Mic size={12} /> Spoken
                     </span>
@@ -235,7 +269,6 @@ export default function FeedStream() {
           {activeInsight ? (
             <div>
               <div className="aspect-[9/16] max-h-[420px] bg-black relative w-full flex items-center justify-center border-b border-slate-800">
-                {/* Audio Sync Fix: Removed &mute=1 so the stream perfectly syncs audio/video payload upon interaction */}
                 <iframe
                   className="w-full h-full absolute inset-0"
                   src={`https://www.youtube.com/embed/${activeInsight.video_id}?start=${activeTimestamp}&autoplay=1`}
@@ -246,23 +279,49 @@ export default function FeedStream() {
               </div>
 
               <div className="p-6">
-                <div className="mb-4">
+                <div className="mb-6">
                   <h3 className="font-extrabold text-lg text-slate-100 mb-1">{activeInsight.product_name}</h3>
                   <p className="text-xs font-bold text-sky-400 tracking-wider uppercase">{activeInsight.brand_name}</p>
                 </div>
 
-                <div className="space-y-4">
+                <div className="space-y-6">
+                  
+                  {/* NEW: Demographics Section */}
+                  <div>
+                    <div className="flex items-center gap-1.5 mb-2">
+                      <User size={14} className="text-slate-400" />
+                      <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Creator Demographics</span>
+                    </div>
+                    <div className="grid grid-cols-3 gap-2">
+                      <DemoBadge label="Age Bracket" value={activeInsight.creator_demographics?.estimated_age_bracket} />
+                      <DemoBadge label="Skin Tone" value={activeInsight.creator_demographics?.skin_tone_fitzpatrick} />
+                      <DemoBadge label="Skin Type" value={activeInsight.creator_demographics?.skin_type_indication} />
+                    </div>
+                  </div>
+
+                  {/* NEW: Formulation Section */}
+                  {activeInsight.active_ingredients && activeInsight.active_ingredients.length > 0 && (
+                    <div>
+                      <div className="flex items-center gap-1.5 mb-2">
+                        <Beaker size={14} className="text-slate-400" />
+                        <span className="text-[10px] font-bold text-slate-400 uppercase tracking-wider">Detected Formulations</span>
+                      </div>
+                      <div className="flex flex-wrap gap-2">
+                        {activeInsight.active_ingredients.map(ing => (
+                          <span key={ing} className="px-3 py-1 bg-indigo-950 text-indigo-300 border border-indigo-800/50 rounded-md text-xs font-medium">
+                            {ing}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+
+                  <hr className="border-slate-800" />
+
                   <div>
                     <span className="block text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-1">Primary Finding</span>
                     <p className="text-sm text-slate-200 bg-slate-950 p-3 rounded-lg border border-slate-800/60 font-medium">
                       {activeInsight.primary_claim}
-                    </p>
-                  </div>
-
-                  <div>
-                    <span className="block text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-1">Direct Evidence</span>
-                    <p className="text-sm text-slate-300 italic bg-slate-950/40 p-3 rounded-lg border border-slate-800/40">
-                      "{activeInsight.anchor_quote || 'No textual quote logged.'}"
                     </p>
                   </div>
 
@@ -281,25 +340,6 @@ export default function FeedStream() {
                             <p className="text-[10px] text-slate-500 italic truncate" title={attr.context_quote}>
                               "{attr.context_quote}"
                             </p>
-                          </div>
-                        ))}
-                      </div>
-                    </div>
-                  )}
-
-                  {activeInsight.direct_comparisons && activeInsight.direct_comparisons.length > 0 && (
-                    <div>
-                      <span className="block text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">Direct Benchmark Clashes</span>
-                      <div className="space-y-1.5">
-                        {activeInsight.direct_comparisons.map((comp, cIdx) => (
-                          <div key={cIdx} className="flex items-center justify-between bg-slate-950 p-2 rounded-lg text-xs border border-slate-800/40">
-                            <span className="text-slate-300 font-medium">vs. <b className="text-slate-400">{comp.competitor_brand}</b> {comp.competitor_product}</span>
-                            <span className={`px-1.5 py-0.5 rounded text-[10px] font-bold uppercase tracking-wider ${
-                              comp.comparison_nature === 'superior' ? 'bg-emerald-500/10 text-emerald-400' :
-                              comp.comparison_nature === 'inferior' ? 'bg-rose-500/10 text-rose-400' : 'bg-slate-800 text-slate-400'
-                            }`}>
-                              {comp.comparison_nature}
-                            </span>
                           </div>
                         ))}
                       </div>
