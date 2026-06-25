@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useMemo } from 'react';
+import { Mic, Type, Eye } from 'lucide-react';
 import entityData from '../../data/extracted_entities.json';
 
 interface AttributeScore {
@@ -213,14 +214,14 @@ export default function FeedStream() {
                   </blockquote>
 
                   <div className="flex gap-2 mt-3">
-                    <span className={`px-2 py-1 rounded text-[10px] border ${insight.mentioned_in_audio ? 'border-sky-500/30 text-sky-400 bg-sky-500/10' : 'border-slate-800 text-slate-600'}`}>
-                      🎙️ Spoken
+                    <span className={`flex items-center gap-1 px-2 py-1 rounded text-[10px] border ${insight.mentioned_in_audio ? 'border-sky-500/30 text-sky-400 bg-sky-500/10' : 'border-slate-800 text-slate-600'}`}>
+                      <Mic size={12} /> Spoken
                     </span>
-                    <span className={`px-2 py-1 rounded text-[10px] border ${insight.mentioned_in_caption ? 'border-purple-500/30 text-purple-400 bg-purple-500/10' : 'border-slate-800 text-slate-600'}`}>
-                      📝 Written
+                    <span className={`flex items-center gap-1 px-2 py-1 rounded text-[10px] border ${insight.mentioned_in_caption ? 'border-purple-500/30 text-purple-400 bg-purple-500/10' : 'border-slate-800 text-slate-600'}`}>
+                      <Type size={12} /> Written
                     </span>
-                    <span className={`px-2 py-1 rounded text-[10px] border ${insight.shown_visually ? 'border-emerald-500/30 text-emerald-400 bg-emerald-500/10' : 'border-slate-800 text-slate-600'}`}>
-                      🖼️ Visual
+                    <span className={`flex items-center gap-1 px-2 py-1 rounded text-[10px] border ${insight.shown_visually ? 'border-emerald-500/30 text-emerald-400 bg-emerald-500/10' : 'border-slate-800 text-slate-600'}`}>
+                      <Eye size={12} /> Visual
                     </span>
                   </div>
                 </div>
@@ -229,14 +230,15 @@ export default function FeedStream() {
           )}
         </div>
 
-        {/* Right Inspection Panel - Pinned and Internally Scrollable */}
+        {/* Right Inspection Panel */}
         <div className="lg:col-span-5 sticky top-24 self-start max-h-[calc(100vh-6rem)] overflow-y-auto custom-scrollbar bg-slate-900 border border-slate-800 rounded-xl shadow-2xl">
           {activeInsight ? (
             <div>
               <div className="aspect-[9/16] max-h-[420px] bg-black relative w-full flex items-center justify-center border-b border-slate-800">
+                {/* Audio Sync Fix: Removed &mute=1 so the stream perfectly syncs audio/video payload upon interaction */}
                 <iframe
                   className="w-full h-full absolute inset-0"
-                  src={`https://www.youtube.com/embed/${activeInsight.video_id}?start=${activeTimestamp}&autoplay=1&mute=1`}
+                  src={`https://www.youtube.com/embed/${activeInsight.video_id}?start=${activeTimestamp}&autoplay=1`}
                   title="Video Player Context"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
