@@ -1596,5 +1596,227 @@
         "influencer": "Highfy",
         "upload_date": "20231012",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "Unreal Skin Sheer Glow Foundation Stick",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Stunning initial glow, but requires powdering for combo skin.",
+        "anchor_quote": "I mean this is called Unreal Skin Sheer Glow and that's what it does. I mean we see the glow. I think for short term this is stunning and if you have dry skin, yes get this.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "I love the idea of a foundation stick for like easy application and control."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It is silky smooth."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "Looks just like my skin but better."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "I have combo to dry skin so I'm not used to having a powder so much."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Urban Decay",
+                "competitor_product": "Face Bond",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "d---xzjHq_Q",
+        "influencer": "Jillian Gottlieb",
+        "upload_date": "20250723",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Urban Decay",
+        "product_name": "Face Bond",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Superior longevity for combo skin compared to CT stick.",
+        "anchor_quote": "Zero touch ups needed with this product on my combo skin",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "Zero touch ups needed with this product on my combo skin"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Unreal Skin Sheer Glow Foundation Stick",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 50,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "d---xzjHq_Q",
+        "influencer": "Jillian Gottlieb",
+        "upload_date": "20250723",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "R.E.M Beauty",
+        "product_name": "Liquid Eyeshadow",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "R.E.M Beauty liquid eyeshadow application is a total disaster.",
+        "anchor_quote": "Ariana tried her OWN makeup... and it's TOTAL DISASTER",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -8,
+                "context_quote": "Ariana tried her OWN makeup... and it's TOTAL DISASTER"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "Ariana tried her OWN makeup... and it's TOTAL DISASTER"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "rcugZl3ZLRw",
+        "influencer": "Elle",
+        "upload_date": "20250820",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Power Plush Longwear Foundation",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Foundation provides stunning, flawless, longwear coverage.",
+        "anchor_quote": "My skin, the foundation is my favourite out of the two.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "That is looking absolutely stunning."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "is a longwear foundation... up to 12 out of the way."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "hydrating and it instantly smooths with medium buildable coverage... It leaves a soft cushiony feel with an airbrushed satin finish."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "In the foundation I got the shade 4.5W"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "IT2FXsE1FwI",
+        "influencer": "Liz Rose",
+        "upload_date": "20240227",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Power Plush Concealer",
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Concealer is mostly good but shows some patchiness.",
+        "anchor_quote": "With the concealer I did see a little bit patchiness top of my eye other than that everything is beautiful.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -3,
+                "context_quote": "With the concealer I did see a little bit patchiness top of my eye"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "it's longwear... for up to 12 hours."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "it's weightless, it's got medium buildable coverage... smooths to a natural satin finish with a cushiony soft feel"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "IT2FXsE1FwI",
+        "influencer": "Liz Rose",
+        "upload_date": "20240227",
+        "creator_location": "Unknown"
     }
 ]
