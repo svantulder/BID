@@ -4,10 +4,43 @@
         "product_name": "Lumi Le Liquid Blush",
         "product_category": "Makeup",
         "sub_category": "Liquid Blush",
-        "sentiment": "positive",
-        "trigger_category": "Texture",
-        "primary_claim": "Creamy, blendable liquid blush gives natural, radiant, lifting glow.",
-        "anchor_quote": "Look at that glow not in the lines, lifting, next two dots for a little more pop.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides a natural, radiant glow without emphasizing texture, ideal for mature skin.",
+        "anchor_quote": "Look at that glow not in the lines, lifting",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "creamy, easy-to-blend formula... most natural, easy application... easy as one, two, three and blend."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "creamy, blendable option that gives cheeks a fresh, healthy glow without looking heavy... Lightweight and buildable coverage."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "This affordable liquid blush is perfect for mature skin... Affordable drugstore beauty find."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "This shade is everything... delivers beautiful color with a radiant finish."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "Look at that glow not in the lines, lifting"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Generic",
+                "competitor_product": "Powder Blush",
+                "comparison_nature": "superior"
+            }
+        ],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
@@ -20,34 +53,36 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "Generic",
-        "product_name": "Powder Blush",
-        "product_category": "Makeup",
-        "sub_category": "Powder Blush",
-        "sentiment": "comparison",
-        "trigger_category": "Texture",
-        "primary_claim": "Powder blush can look blotchy, messy, emphasizing texture.",
-        "anchor_quote": "Oh no! You still doing that powder? Blush, look at that blotchy, grabbing, messy, and you're not 20 anymore.",
-        "mentioned_in_audio": true,
-        "mentioned_in_caption": true,
-        "shown_visually": false,
-        "spoken_timestamp_seconds": 0,
-        "visual_timestamp_seconds": null,
-        "confidence_score": 90,
-        "video_id": "AvveXaQ_Ri0",
-        "influencer": "Erica Taylor",
-        "upload_date": "20260603",
-        "creator_location": "Unknown"
-    },
-    {
         "brand_name": "L'Or\u00e9al Paris",
         "product_name": "Infallible 3-Second Setting Mist",
         "product_category": "Makeup",
         "sub_category": "Setting Spray",
-        "sentiment": "positive",
-        "trigger_category": "Longevity",
-        "primary_claim": "Affordable setting mist provides 12-hour flawless, transfer-proof wear.",
-        "anchor_quote": "my makeup still looks amazing and the best part no transfer even with all this",
+        "overall_sentiment": "positive",
+        "primary_claim": "Keeps makeup flawless and transfer-proof for 12+ hours.",
+        "anchor_quote": "So if you want a good affordable setting mess that keeps your makeup in place all day This one's definitely work dry",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "almost 12 hours later and here's my makeup Till flawless. So if you want a good affordable setting mess that keeps your makeup in place all day"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "First impression it's lightweight and dries in literally 3 second going to be a really busy day"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "First impression it's lightweight and dries in literally 3 second"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "So if you want a good affordable setting mess that keeps your makeup in place all day This one's definitely work dry"
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
@@ -64,39 +99,125 @@
         "product_name": "Infallible Concealer",
         "product_category": "Makeup",
         "sub_category": "Concealer",
-        "sentiment": "negative",
-        "trigger_category": "Texture",
-        "primary_claim": "Too heavy/full coverage for comfortable everyday wear.",
+        "overall_sentiment": "mixed",
+        "primary_claim": "Great full coverage, but too heavy and uncomfortable for daily wear.",
         "anchor_quote": "It's a kind of thick creamy texture concealer and it's a full coverage concealer daily on a daily basis. It's not that comfortable.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "It's a kind of thick creamy texture concealer"
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 4,
         "visual_timestamp_seconds": 0,
-        "confidence_score": 100,
+        "confidence_score": 95,
         "video_id": "CxtcIPXL410",
         "influencer": "Sharada Samanth",
         "upload_date": "20260602",
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "Unknown",
-        "product_name": "Affordable Concealer Alternatives",
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless Foundation",
         "product_category": "Makeup",
-        "sub_category": "Concealer",
-        "sentiment": "positive",
-        "trigger_category": "Texture",
-        "primary_claim": "Lightweight, affordable, skin-like concealers for everyday use.",
-        "anchor_quote": "They blend beautifully, feel lightweight on the skin, and are ideal for everyday makeup, college, office, and no-makeup makeup looks.",
+        "sub_category": "Foundation",
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable, long-lasting foundation for oily, melanin-rich skin.",
+        "anchor_quote": "One of the best drugstore foundations of all time",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "It comes in 40 shades so you definitely find your perfect match"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It's matte but it still looks like skin. Smooth, pretty and so natural"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "blends in so easily"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "it's contrasts shine for up to 12 hours"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "One of the best drugstore foundations of all time"
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
-        "spoken_timestamp_seconds": 11,
-        "visual_timestamp_seconds": 12,
-        "confidence_score": 85,
-        "video_id": "CxtcIPXL410",
-        "influencer": "Sharada Samanth",
-        "upload_date": "20260602",
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 100,
+        "video_id": "7COizuwizFQ",
+        "influencer": "Zainab Iye",
+        "upload_date": "20250624",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me BB Nude Cream",
+        "product_category": "Makeup",
+        "sub_category": "BB Cream",
+        "overall_sentiment": "mixed",
+        "primary_claim": "Great formula and glow, but poor shade range.",
+        "anchor_quote": "Love the formula\u2026 but where\u2019s my shade tho? \ud83d\ude2c Had to mix shades 70 + 80 from the new Maybelline BB Nude Cream just to make it work on my brown skin \ud83e\udd0e",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It\u2019s lightweight, creamy & blends like a dream with spf 50 \u2728"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -9,
+                "context_quote": "So unfortunately I do not have a match in this range."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "Wore on my very oily skin for 6hrs beautifully without fading but it did crease heavily on my smile lines without any touch up through out the day !!"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It definitely feels hydrating and creamy. Also, I can already tell that this product is super, super glowy on the skin."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 3,
+                "context_quote": "It's definitely very, very hydrating and duly and it's good SPF-50 which is amazing because the summers are already upon us."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": "Packaging kind of reminds me of an old BB cream from Maybelline which I use a love during my college time."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 100,
+        "video_id": "eLimlex3Azg",
+        "influencer": "Sathyapriya",
+        "upload_date": "20260331",
         "creator_location": "Unknown"
     },
     {
@@ -104,16 +225,28 @@
         "product_name": "Power Grip Dewy Setting Spray",
         "product_category": "Makeup",
         "sub_category": "Setting Spray",
-        "sentiment": "positive",
-        "trigger_category": "Application",
-        "primary_claim": "Holds makeup, provides beautiful natural dewy finish.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Holds makeup and provides a beautiful dewy finish.",
         "anchor_quote": "It holds the makeup and gives this beautiful natural dewy finish.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "It holds the makeup"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "gives this beautiful natural dewy finish"
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 3,
         "visual_timestamp_seconds": 0,
-        "confidence_score": 100,
+        "confidence_score": 95,
         "video_id": "UZqxW94AXdM",
         "influencer": "SANIMAR",
         "upload_date": "20260319",
@@ -124,16 +257,28 @@
         "product_name": "Halo Glow Skin Tint SPF 50",
         "product_category": "Makeup",
         "sub_category": "Skin Tint",
-        "sentiment": "positive",
-        "trigger_category": "Texture",
-        "primary_claim": "Beautiful light-medium coverage with a dewy finish.",
-        "anchor_quote": "It does not replace your sunscreen but gives a beautiful light to medium coverage. It has a beautiful dewy finish.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides beautiful dewy finish and light-to-medium coverage.",
+        "anchor_quote": "It has a beautiful dewy finish. I have it on my face right now. If you love dewy finish, you will love this.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It has a beautiful dewy finish."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "gives a beautiful light to medium coverage."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 9,
-        "visual_timestamp_seconds": 9,
-        "confidence_score": 100,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
         "video_id": "UZqxW94AXdM",
         "influencer": "SANIMAR",
         "upload_date": "20260319",
@@ -143,17 +288,34 @@
         "brand_name": "e.l.f.",
         "product_name": "Camo Cream Blush",
         "product_category": "Makeup",
-        "sub_category": "Cream Blush",
-        "sentiment": "positive",
-        "trigger_category": "Application",
+        "sub_category": "Liquid Blush",
+        "overall_sentiment": "positive",
         "primary_claim": "Favorite cream blush, pigmented, blends beautifully, natural finish.",
         "anchor_quote": "These cream blushes are my absolute favorite. They are pigmented to right amount. Blend beautifully. It gives a beautiful finish and this shade in particular looks so natural on me.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "They are pigmented to right amount."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "Blend beautifully."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It gives a beautiful finish"
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 21,
-        "visual_timestamp_seconds": 21,
-        "confidence_score": 100,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
         "video_id": "UZqxW94AXdM",
         "influencer": "SANIMAR",
         "upload_date": "20260319",
@@ -164,16 +326,33 @@
         "product_name": "Cream Glide Lip Liner",
         "product_category": "Makeup",
         "sub_category": "Lip Liner",
-        "sentiment": "positive",
-        "trigger_category": "Texture",
-        "primary_claim": "Super creamy, natural-looking, makes lips look fuller.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Super creamy, natural shade, makes lips look fuller.",
         "anchor_quote": "Next up is the Super Creamy Lip Liner. This shade in particular looks so natural. And makes my lips look fuller without overdoing it.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Super Creamy Lip Liner."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "This shade in particular looks so natural."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "makes my lips look fuller without overdoing it."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 30,
-        "visual_timestamp_seconds": 30,
-        "confidence_score": 100,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
         "video_id": "UZqxW94AXdM",
         "influencer": "SANIMAR",
         "upload_date": "20260319",
@@ -184,16 +363,28 @@
         "product_name": "Glow Reviver Lip Oil",
         "product_category": "Makeup",
         "sub_category": "Lip Oil",
-        "sentiment": "positive",
-        "trigger_category": "Texture",
-        "primary_claim": "Must-have lip oils, pigmented, glossy, hydrating, non-sticky.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Highly recommended, pigmented, glossy, lightweight, non-sticky, hydrating.",
         "anchor_quote": "You absolutely cannot miss these lip oils. They have right amount of pigment. They are glossy. They are lightweight. They are not sticky at all. Your lips will feel super hydrated. Just get these.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "They have right amount of pigment."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "They are glossy. They are lightweight. They are not sticky at all. Your lips will feel super hydrated."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 37,
-        "visual_timestamp_seconds": 36,
-        "confidence_score": 100,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
         "video_id": "UZqxW94AXdM",
         "influencer": "SANIMAR",
         "upload_date": "20260319",
@@ -204,16 +395,34 @@
         "product_name": "Halo Glow Powder Filter",
         "product_category": "Makeup",
         "sub_category": "Finishing Powder",
-        "sentiment": "comparison",
-        "trigger_category": "Pricing",
-        "primary_claim": "Affordable dupe for Charlotte Tilbury, fine texture, highly recommended.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Fine texture, highly recommended, similar to Charlotte Tilbury.",
         "anchor_quote": "Lastly, this finishing powder feels exactly like the Charlotte Elbride one. It's so fine as that due to the skin highly recommended.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It's so fine as that due to the skin"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "feels exactly like the Charlotte Elbride one"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Airbrush Flawless Finish Setting Powder",
+                "comparison_nature": "similar"
+            }
+        ],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 48,
-        "visual_timestamp_seconds": 48,
-        "confidence_score": 100,
+        "visual_timestamp_seconds": 45,
+        "confidence_score": 95,
         "video_id": "UZqxW94AXdM",
         "influencer": "SANIMAR",
         "upload_date": "20260319",
@@ -221,13 +430,41 @@
     },
     {
         "brand_name": "E.l.f.",
-        "product_name": "Wow Brow tinted gel",
+        "product_name": "Wow brow tinted gel",
         "product_category": "Makeup",
-        "sub_category": "Brow Gel",
-        "sentiment": "positive",
-        "trigger_category": "Longevity",
-        "primary_claim": "Affordable brow gel offers great longevity and fills sparse areas.",
-        "anchor_quote": "I would give this a thumbs up. It's a for sure good one and of course it's elf so it's very affordable.",
+        "sub_category": "Tinted Brow Gel",
+        "overall_sentiment": "mixed",
+        "primary_claim": "Affordable brow gel offers great longevity, but color might be too dark.",
+        "anchor_quote": "I'm still not certain about the color. It might be a little dark for me, but definitely did a great job of staying in place and filling in my sparse areas. I would give this a thumbs up. It's a for sure good one and of course it's elf so it's very affordable.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "I got the color dark brown. I'm a little concerned about the color, but let's see how we do. It might be a little too dark. I'm still not certain about the color. It might be a little dark for me"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "Nothing has moved. definitely did a great job of staying in place and filling in my sparse areas."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "of course it's elf so it's very affordable."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 3,
+                "context_quote": "I'm just gonna put it on my eyebrows. I had to kind of clean up around here, but now I got them both on."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Unidentified",
+                "competitor_product": "Eyebrow pencil",
+                "comparison_nature": "inferior"
+            }
+        ],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
@@ -244,16 +481,17 @@
         "product_name": "Sky High Mascara",
         "product_category": "Makeup",
         "sub_category": "Mascara",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Maybelline Sky High Mascara listed as other makeup.",
-        "anchor_quote": "",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is listed in the description.",
+        "anchor_quote": "N/A",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 90,
         "video_id": "DKmY_7_fdE8",
         "influencer": "Colleen Youngblut Beauty and Fashion",
         "upload_date": "20250302",
@@ -264,16 +502,17 @@
         "product_name": "The Minimalist complexion stick",
         "product_category": "Makeup",
         "sub_category": "Complexion Stick",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Merit The Minimalist complexion stick listed as other makeup.",
-        "anchor_quote": "",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is listed in the description.",
+        "anchor_quote": "N/A",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 90,
         "video_id": "DKmY_7_fdE8",
         "influencer": "Colleen Youngblut Beauty and Fashion",
         "upload_date": "20250302",
@@ -281,19 +520,20 @@
     },
     {
         "brand_name": "Merit",
-        "product_name": "Flush Balm",
+        "product_name": "Flush Balm in Le Bonbon",
         "product_category": "Makeup",
         "sub_category": "Blush",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Merit Flush Balm listed as other makeup.",
-        "anchor_quote": "",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is listed in the description.",
+        "anchor_quote": "N/A",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 90,
         "video_id": "DKmY_7_fdE8",
         "influencer": "Colleen Youngblut Beauty and Fashion",
         "upload_date": "20250302",
@@ -301,19 +541,20 @@
     },
     {
         "brand_name": "Merit",
-        "product_name": "Bronzer",
+        "product_name": "Bronzer in Clay",
         "product_category": "Makeup",
         "sub_category": "Bronzer",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Merit Bronzer listed as other makeup.",
-        "anchor_quote": "",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is listed in the description.",
+        "anchor_quote": "N/A",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 90,
         "video_id": "DKmY_7_fdE8",
         "influencer": "Colleen Youngblut Beauty and Fashion",
         "upload_date": "20250302",
@@ -324,16 +565,17 @@
         "product_name": "Infallible concealer",
         "product_category": "Makeup",
         "sub_category": "Concealer",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Loreal Infallible concealer listed as other makeup.",
-        "anchor_quote": "",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is listed in the description.",
+        "anchor_quote": "N/A",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 90,
         "video_id": "DKmY_7_fdE8",
         "influencer": "Colleen Youngblut Beauty and Fashion",
         "upload_date": "20250302",
@@ -341,19 +583,20 @@
     },
     {
         "brand_name": "Dior",
-        "product_name": "Backstage Eyeshadow Palette",
+        "product_name": "Backstage Eyeshadow Palette in Burgundy",
         "product_category": "Makeup",
         "sub_category": "Eyeshadow Palette",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Dior Backstage Eyeshadow Palette listed as other makeup.",
-        "anchor_quote": "",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is listed in the description.",
+        "anchor_quote": "N/A",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 90,
         "video_id": "DKmY_7_fdE8",
         "influencer": "Colleen Youngblut Beauty and Fashion",
         "upload_date": "20250302",
@@ -361,19 +604,41 @@
     },
     {
         "brand_name": "Haus Labs",
-        "product_name": "Highlighter",
+        "product_name": "Highlighter in Sunstone",
         "product_category": "Makeup",
         "sub_category": "Highlighter",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Haus Labs Highlighter listed as other makeup.",
-        "anchor_quote": "",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is listed in the description.",
+        "anchor_quote": "N/A",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 90,
+        "video_id": "DKmY_7_fdE8",
+        "influencer": "Colleen Youngblut Beauty and Fashion",
+        "upload_date": "20250302",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Unidentified",
+        "product_name": "Eyebrow pencil",
+        "product_category": "Makeup",
+        "sub_category": "Eyebrow Pencil",
+        "overall_sentiment": "positive",
+        "primary_claim": "Creator's favorite eyebrow pencil, now used up.",
+        "anchor_quote": "all that's left of my favorite eyebrow pencil.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 80,
         "video_id": "DKmY_7_fdE8",
         "influencer": "Colleen Youngblut Beauty and Fashion",
         "upload_date": "20250302",
@@ -384,15 +649,27 @@
         "product_name": "Power Grip Primer",
         "product_category": "Makeup",
         "sub_category": "Primer",
-        "sentiment": "positive",
-        "trigger_category": "Longevity",
-        "primary_claim": "Great primer, holds makeup all day, looks good on skin.",
-        "anchor_quote": "it actually is a really great primer that helps hold your makeup in place all day long. And I really like the way that it looks on the skin.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Great primer, holds makeup all day, looks good.",
+        "anchor_quote": "if I would have just written this off, I would have missed out the fact that it actually is a really great primer that helps hold your makeup in place all day long. And I really like the way that it looks on the skin.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "helps hold your makeup in place all day long."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "I really like the way that it looks on the skin."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 0,
-        "visual_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 0,
         "confidence_score": 100,
         "video_id": "zitnZ0MGTzs",
         "influencer": "Katie Hoke",
@@ -404,16 +681,17 @@
         "product_name": "FitMe Foundation Powder",
         "product_category": "Makeup",
         "sub_category": "Foundation Powder",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Maybelline FitMe Foundation Powder mentioned in description.",
-        "anchor_quote": "Maybelline FitMe Foundation Powder: https://amzn.to/3TsIRQp",
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 80,
         "video_id": "zitnZ0MGTzs",
         "influencer": "Katie Hoke",
         "upload_date": "20250703",
@@ -424,16 +702,17 @@
         "product_name": "Setting Powder Brush",
         "product_category": "Makeup",
         "sub_category": "Brush",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Younique Setting Powder Brush mentioned in description.",
-        "anchor_quote": "Younique Setting Powder Brush: https://tinyurl.com/5n6d68n6",
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 80,
         "video_id": "zitnZ0MGTzs",
         "influencer": "Katie Hoke",
         "upload_date": "20250703",
@@ -443,17 +722,18 @@
         "brand_name": "L'Oreal",
         "product_name": "Lumi Glotion",
         "product_category": "Makeup",
-        "sub_category": "Illuminator",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "L'Oreal Lumi Glotion mentioned in description.",
-        "anchor_quote": "L'Oreal Lumi Glotion: https://amzn.to/3TEg2Rc",
+        "sub_category": "Illuminator/Glow Lotion",
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 80,
         "video_id": "zitnZ0MGTzs",
         "influencer": "Katie Hoke",
         "upload_date": "20250703",
@@ -462,18 +742,19 @@
     {
         "brand_name": "e.l.f.",
         "product_name": "Primer + Niacinamide",
-        "product_category": "Makeup",
+        "product_category": "Skincare",
         "sub_category": "Primer",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "e.l.f. Primer + Niacinamide mentioned as related video.",
-        "anchor_quote": "e.l.f. Primer + Niacinamide: https://youtu.be/HhfIFspWs1A",
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 90,
+        "confidence_score": 80,
         "video_id": "zitnZ0MGTzs",
         "influencer": "Katie Hoke",
         "upload_date": "20250703",
@@ -484,16 +765,38 @@
         "product_name": "Contour Palette",
         "product_category": "Makeup",
         "sub_category": "Contour Palette",
-        "sentiment": "positive",
-        "trigger_category": "Texture",
-        "primary_claim": "Affordable contour palette offers blendable, ash-toned shades and creamy highlight.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable contour palette offers good shades and easy application.",
         "anchor_quote": "I love it. I think this looks really good.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I think it was easy to use."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "it's definitely giving the right contour color."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "it looks really creamy too. It doesn't look dry powdery at all."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "Let's try out this $9 Elf Contour palette."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 0,
         "visual_timestamp_seconds": 0,
-        "confidence_score": 100,
+        "confidence_score": 95,
         "video_id": "ET35UahoL34",
         "influencer": "Kelsey Alfred",
         "upload_date": "20250721",
@@ -501,18 +804,40 @@
     },
     {
         "brand_name": "ELF",
-        "product_name": "Halo Glow Contour Wand",
+        "product_name": "Halo Glow Contour Wand in Medium/Tan",
         "product_category": "Makeup",
         "sub_category": "Contour",
-        "sentiment": "positive",
-        "trigger_category": "Application",
-        "primary_claim": "Blends well, warms face, not too dark.",
-        "anchor_quote": "Overall I think both blended really well! Definitely think it warmed up the face really nicely and it doesn't look too dark.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Blends well, warms face, not too dark, good value.",
+        "anchor_quote": "Definitely think it warmed up the face really nicely and it doesn't look too dark.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "Definitely dries really fast so you're going to want to work quick with it. I also use a little bit more on top of the powder and it did pick up a little bit so I would suggest to use these before you powdered."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Definitely think it warmed up the face really nicely and it doesn't look too dark. I was a little afraid that this shade was going to be a little too dark for me."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Overall I think both blended really well! I don't think that it looks patchy anywhere"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "For the price that they are though, I definitely think that these are worth trying out and seeing if they work out for you."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
-        "spoken_timestamp_seconds": 26,
-        "visual_timestamp_seconds": 15,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
         "confidence_score": 95,
         "video_id": "A-7BYaNzbLQ",
         "influencer": "By Kristina Studio",
@@ -521,159 +846,41 @@
     },
     {
         "brand_name": "ELF",
-        "product_name": "Halo Glow Contour Wand",
-        "product_category": "Makeup",
-        "sub_category": "Contour",
-        "sentiment": "negative",
-        "trigger_category": "Texture",
-        "primary_claim": "Dries fast, requires quick blending.",
-        "anchor_quote": "Definitely dries really fast so you're going to want to work quick with it.",
-        "mentioned_in_audio": true,
-        "mentioned_in_caption": false,
-        "shown_visually": true,
-        "spoken_timestamp_seconds": 17,
-        "visual_timestamp_seconds": 15,
-        "confidence_score": 90,
-        "video_id": "A-7BYaNzbLQ",
-        "influencer": "By Kristina Studio",
-        "upload_date": "20230412",
-        "creator_location": "Unknown"
-    },
-    {
-        "brand_name": "ELF",
-        "product_name": "Halo Glow Contour Wand",
-        "product_category": "Makeup",
-        "sub_category": "Contour",
-        "sentiment": "negative",
-        "trigger_category": "Application",
-        "primary_claim": "Picks up product when applied over powder.",
-        "anchor_quote": "I also use a little bit more on top of the powder and it did pick up a little bit so I would suggest to use these before you powdered.",
-        "mentioned_in_audio": true,
-        "mentioned_in_caption": false,
-        "shown_visually": false,
-        "spoken_timestamp_seconds": 46,
-        "visual_timestamp_seconds": null,
-        "confidence_score": 85,
-        "video_id": "A-7BYaNzbLQ",
-        "influencer": "By Kristina Studio",
-        "upload_date": "20230412",
-        "creator_location": "Unknown"
-    },
-    {
-        "brand_name": "ELF",
-        "product_name": "Halo Glow Contour Wand",
-        "product_category": "Makeup",
-        "sub_category": "Contour",
-        "sentiment": "positive",
-        "trigger_category": "Pricing",
-        "primary_claim": "Good value, worth trying for the price.",
-        "anchor_quote": "For the price that they are though, I definitely think that these are worth trying out.",
-        "mentioned_in_audio": true,
-        "mentioned_in_caption": false,
-        "shown_visually": false,
-        "spoken_timestamp_seconds": 51,
-        "visual_timestamp_seconds": null,
-        "confidence_score": 90,
-        "video_id": "A-7BYaNzbLQ",
-        "influencer": "By Kristina Studio",
-        "upload_date": "20230412",
-        "creator_location": "Unknown"
-    },
-    {
-        "brand_name": "ELF",
-        "product_name": "Halo Glow Blush Wand",
+        "product_name": "Halo Glow Blush Wand in Berry Radiance",
         "product_category": "Makeup",
         "sub_category": "Liquid Blush",
-        "sentiment": "positive",
-        "trigger_category": "Application",
-        "primary_claim": "Blends well, nice flush, not patchy.",
-        "anchor_quote": "Overall I think both blended really well! It gives a really nice flush of color. It's looking pretty good. I don't think that it looks patchy anywhere.",
+        "overall_sentiment": "mixed",
+        "primary_claim": "Gives nice color, metallic finish, blends well, good value.",
+        "anchor_quote": "The blush almost looks like it has a highlight mixed in to the blush. It gives a really nice flush of color.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "Definitely dries really fast so you're going to want to work quick with it. I also use a little bit more on top of the powder and it did pick up a little bit so I would suggest to use these before you powdered."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "It gives a really nice flush of color."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "Overall I think both blended really well! The blush almost looks like it has a highlight mixed in to the blush. I wouldn't use a highlight over the blush because I feel like it's already very metallic. I don't think that it looks patchy anywhere"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "For the price that they are though, I definitely think that these are worth trying out and seeing if they work out for you."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
-        "spoken_timestamp_seconds": 41,
-        "visual_timestamp_seconds": 36,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
         "confidence_score": 95,
-        "video_id": "A-7BYaNzbLQ",
-        "influencer": "By Kristina Studio",
-        "upload_date": "20230412",
-        "creator_location": "Unknown"
-    },
-    {
-        "brand_name": "ELF",
-        "product_name": "Halo Glow Blush Wand",
-        "product_category": "Makeup",
-        "sub_category": "Liquid Blush",
-        "sentiment": "neutral",
-        "trigger_category": "Texture",
-        "primary_claim": "Has a metallic finish, no highlight needed.",
-        "anchor_quote": "The blush almost looks like it has a highlight mixed in to the blush. I wouldn't use a highlight over the blush because I feel like it's already very metallic.",
-        "mentioned_in_audio": true,
-        "mentioned_in_caption": true,
-        "shown_visually": true,
-        "spoken_timestamp_seconds": 35,
-        "visual_timestamp_seconds": 36,
-        "confidence_score": 90,
-        "video_id": "A-7BYaNzbLQ",
-        "influencer": "By Kristina Studio",
-        "upload_date": "20230412",
-        "creator_location": "Unknown"
-    },
-    {
-        "brand_name": "ELF",
-        "product_name": "Halo Glow Blush Wand",
-        "product_category": "Makeup",
-        "sub_category": "Liquid Blush",
-        "sentiment": "negative",
-        "trigger_category": "Texture",
-        "primary_claim": "Dries fast, requires quick blending.",
-        "anchor_quote": "Definitely dries really fast so you're going to want to work quick with it.",
-        "mentioned_in_audio": true,
-        "mentioned_in_caption": false,
-        "shown_visually": true,
-        "spoken_timestamp_seconds": 17,
-        "visual_timestamp_seconds": 36,
-        "confidence_score": 90,
-        "video_id": "A-7BYaNzbLQ",
-        "influencer": "By Kristina Studio",
-        "upload_date": "20230412",
-        "creator_location": "Unknown"
-    },
-    {
-        "brand_name": "ELF",
-        "product_name": "Halo Glow Blush Wand",
-        "product_category": "Makeup",
-        "sub_category": "Liquid Blush",
-        "sentiment": "negative",
-        "trigger_category": "Application",
-        "primary_claim": "Picks up product when applied over powder.",
-        "anchor_quote": "I also use a little bit more on top of the powder and it did pick up a little bit so I would suggest to use these before you powdered.",
-        "mentioned_in_audio": true,
-        "mentioned_in_caption": false,
-        "shown_visually": false,
-        "spoken_timestamp_seconds": 46,
-        "visual_timestamp_seconds": null,
-        "confidence_score": 85,
-        "video_id": "A-7BYaNzbLQ",
-        "influencer": "By Kristina Studio",
-        "upload_date": "20230412",
-        "creator_location": "Unknown"
-    },
-    {
-        "brand_name": "ELF",
-        "product_name": "Halo Glow Blush Wand",
-        "product_category": "Makeup",
-        "sub_category": "Liquid Blush",
-        "sentiment": "positive",
-        "trigger_category": "Pricing",
-        "primary_claim": "Good value, worth trying for the price.",
-        "anchor_quote": "For the price that they are though, I definitely think that these are worth trying out.",
-        "mentioned_in_audio": true,
-        "mentioned_in_caption": false,
-        "shown_visually": false,
-        "spoken_timestamp_seconds": 51,
-        "visual_timestamp_seconds": null,
-        "confidence_score": 90,
         "video_id": "A-7BYaNzbLQ",
         "influencer": "By Kristina Studio",
         "upload_date": "20230412",
@@ -684,14 +891,15 @@
         "product_name": "Brushes",
         "product_category": "Makeup",
         "sub_category": "Makeup Brushes",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "ELF brushes purchased and used for blending.",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Purchased to apply other products.",
         "anchor_quote": "I saw them advertising these to go with the wands so I purchased them.",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": false,
         "shown_visually": true,
-        "spoken_timestamp_seconds": 9,
+        "spoken_timestamp_seconds": 10,
         "visual_timestamp_seconds": 9,
         "confidence_score": 80,
         "video_id": "A-7BYaNzbLQ",
@@ -704,16 +912,23 @@
         "product_name": "Soft Pink Blush",
         "product_category": "Makeup",
         "sub_category": "Liquid Blush",
-        "sentiment": "comparison",
-        "trigger_category": "Other",
-        "primary_claim": "Rare Beauty blush has a worthy dupe.",
-        "anchor_quote": "Rare Beauty Blush DUPE by e.l.f.\u2728 Finally! A worthy opponent!",
+        "overall_sentiment": "positive",
+        "primary_claim": "Established, high-quality liquid blush, benchmark for dupes.",
+        "anchor_quote": "Rare Beauty Blush DUPE by e.l.f.\u2728 Finally!A worthy opponent!",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "e.l.f.",
+                "competitor_product": "Camo Liquid Blush",
+                "comparison_nature": "similar"
+            }
+        ],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
-        "shown_visually": false,
+        "shown_visually": true,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 90,
         "video_id": "AkOvcxFLJ7o",
         "influencer": "Prakriti Singh",
         "upload_date": "20240117",
@@ -724,19 +939,112 @@
         "product_name": "Camo Liquid Blush",
         "product_category": "Makeup",
         "sub_category": "Liquid Blush",
-        "sentiment": "positive",
-        "trigger_category": "Other",
-        "primary_claim": "e.l.f. blush is a worthy dupe for Rare Beauty.",
-        "anchor_quote": "Rare Beauty Blush DUPE by e.l.f.\u2728 Finally! A worthy opponent!",
+        "overall_sentiment": "positive",
+        "primary_claim": "A strong, comparable dupe for Rare Beauty blush.",
+        "anchor_quote": "e.l.f.\u2728 Finally!A worthy opponent!",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Rare Beauty",
+                "competitor_product": "Soft Pink Blush",
+                "comparison_nature": "similar"
+            }
+        ],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
-        "shown_visually": false,
+        "shown_visually": true,
         "spoken_timestamp_seconds": null,
         "visual_timestamp_seconds": null,
-        "confidence_score": 95,
+        "confidence_score": 90,
         "video_id": "AkOvcxFLJ7o",
         "influencer": "Prakriti Singh",
         "upload_date": "20240117",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rare Beauty",
+        "product_name": "Liquid Blush",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Blush",
+        "overall_sentiment": "mixed",
+        "primary_claim": "A beloved blush, but a pricier alternative to Elf.",
+        "anchor_quote": "We all love the Rare Beauty 23-dollar happy blush.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "that gorgeous pink"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "the blendability, so beautiful, just like the Rare Beauty ones."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "Rare Beauty $23"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Elf",
+                "competitor_product": "Camo Liquid Blushes",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "7d1BR3hAIlI",
+        "influencer": "Jessica Romua ",
+        "upload_date": "20231228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Elf",
+        "product_name": "Camo Liquid Blushes",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Blush",
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable, highly comparable dupe for Rare Beauty blush.",
+        "anchor_quote": "Here we have the new Elf $7 Camo Liquid Blushes in the shape Pinkie Promise is looking super comparable to Happy.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "And that gorgeous pink, I mean, it's a museum, you know. Elf Pinkie Promise is a little brighter"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "I mean, look at the pigmentation, the blendability, so beautiful"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "Can you believe this one is $7?"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Rare Beauty",
+                "competitor_product": "Liquid Blush",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "7d1BR3hAIlI",
+        "influencer": "Jessica Romua ",
+        "upload_date": "20231228",
         "creator_location": "Unknown"
     },
     {
@@ -744,16 +1052,44 @@
         "product_name": "Airbrush Flawless Setting Spray (Original)",
         "product_category": "Makeup",
         "sub_category": "Setting Spray",
-        "sentiment": "comparison",
-        "trigger_category": "Texture",
-        "primary_claim": "Provides hydrated, soft-focus glow, long-wearing for dry skin.",
-        "anchor_quote": "It's a beautiful natural finish setting spray on my oily skin keyswim makeup intact throughout the day.",
+        "overall_sentiment": "mixed",
+        "primary_claim": "Natural finish, long-lasting, good for all skin types, but slightly tacky.",
+        "anchor_quote": "I am such a huge fan of the OG Charlotte Vary Airbrush flawless setting spray. It's a beautiful natural finish setting spray on my oily skin keyswim makeup intact throughout the day. I also love to use this on my clients regardless of skin type. It was amazingly well on everyone. The OG one I think transfers a bit. one is slightly very, very ever so slightly tacky.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "keeps my makeup intact throughout the day"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -2,
+                "context_quote": "one is slightly very, very ever so slightly tacky."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It's such a refreshing setting miss. I really love it."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": "The OG one is completely transparent."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Airbrush Flawless Matte Setting Spray",
+                "comparison_nature": "inferior"
+            }
+        ],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 0,
         "visual_timestamp_seconds": 0,
-        "confidence_score": 98,
+        "confidence_score": 95,
         "video_id": "ZvhGxG3Icwo",
         "influencer": "Sathyapriya",
         "upload_date": "20251112",
@@ -764,59 +1100,42 @@
         "product_name": "Airbrush Flawless Matte Setting Spray",
         "product_category": "Makeup",
         "sub_category": "Setting Spray",
-        "sentiment": "comparison",
-        "trigger_category": "Texture",
-        "primary_claim": "Locks makeup, shine-free, long-lasting, ideal for oily skin.",
-        "anchor_quote": "those of you who are oily and love a matte finish is going to love the matte finish setting spray for sure.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Matte, long-lasting, transfer-proof, great for oily skin.",
+        "anchor_quote": "They recently launched a matte version and I had to give it a try. This side is definitely more matte and feels matte as well. There's hardly any transfer which is amazing. This side definitely feels nicer for my oily skin. Those of you who are oily and love a matte finish is going to love the matte finish setting spray for sure.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "locks everything in with a shine-free finish that actually lasts."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "This side is definitely more matte and feels matte as well"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 5,
+                "context_quote": "The color of the packaging is slightly different. It's this beautiful deep chocolatey color."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Airbrush Flawless Setting Spray (Original)",
+                "comparison_nature": "superior"
+            }
+        ],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 16,
         "visual_timestamp_seconds": 18,
-        "confidence_score": 98,
+        "confidence_score": 95,
         "video_id": "ZvhGxG3Icwo",
         "influencer": "Sathyapriya",
         "upload_date": "20251112",
-        "creator_location": "Unknown"
-    },
-    {
-        "brand_name": "Charlotte Tilbury",
-        "product_name": "Unreal Skin Sheer Glow Foundation Stick",
-        "product_category": "Makeup",
-        "sub_category": "Foundation",
-        "sentiment": "positive",
-        "trigger_category": "Texture",
-        "primary_claim": "Silky smooth, stunning, foolproof, great for dry skin.",
-        "anchor_quote": "It is silky smooth. This is actually so stunning. Looks just like my skin but better.",
-        "mentioned_in_audio": true,
-        "mentioned_in_caption": true,
-        "shown_visually": true,
-        "spoken_timestamp_seconds": 0,
-        "visual_timestamp_seconds": 3,
-        "confidence_score": 98,
-        "video_id": "d---xzjHq_Q",
-        "influencer": "Jillian Gottlieb",
-        "upload_date": "20250723",
-        "creator_location": "Unknown"
-    },
-    {
-        "brand_name": "Urban Decay",
-        "product_name": "Face Bond",
-        "product_category": "Makeup",
-        "sub_category": "Foundation",
-        "sentiment": "positive",
-        "trigger_category": "Longevity",
-        "primary_claim": "Requires zero touch-ups on combo skin.",
-        "anchor_quote": "Zero touch ups needed with this product on my combo skin",
-        "mentioned_in_audio": true,
-        "mentioned_in_caption": false,
-        "shown_visually": true,
-        "spoken_timestamp_seconds": 49,
-        "visual_timestamp_seconds": 51,
-        "confidence_score": 95,
-        "video_id": "d---xzjHq_Q",
-        "influencer": "Jillian Gottlieb",
-        "upload_date": "20250723",
         "creator_location": "Unknown"
     },
     {
@@ -824,16 +1143,43 @@
         "product_name": "Bright Fix Setting Powder",
         "product_category": "Makeup",
         "sub_category": "Setting Powder",
-        "sentiment": "negative",
-        "trigger_category": "Other",
-        "primary_claim": "Blurring claim not met, overall unimpressed.",
-        "anchor_quote": "But when it comes to blurring your face, do not expect miracles.",
+        "overall_sentiment": "mixed",
+        "primary_claim": "Brightens and controls shine, but fails to blur.",
+        "anchor_quote": "But when it comes to blurring your face, do not expect miracles. ... but it does brighten and control the shine.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "The product comes with this puff. I've tried to use it before but I don't see it as useless."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Because of the peachy tint, it will actually cancel out any darkness that you have under your eyes ... it did brighten my under eye compared to this side"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "also remove some of the excess shine that I have on the other side. ... control your chisel and your shine."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -8,
+                "context_quote": "I do not see any burn effect right now. ... I do not see how my face is more blurred."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 6,
+                "context_quote": "if you're looking for setting powder that is easy to carry around."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
-        "spoken_timestamp_seconds": 71,
-        "visual_timestamp_seconds": 6,
-        "confidence_score": 90,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
         "video_id": "CiOoItReFaw",
         "influencer": "MalianaC",
         "upload_date": "20251226",
@@ -844,10 +1190,27 @@
         "product_name": "Diamond Bomb All-Over Diamond Veil in \u2018How Many Carats?!\u2019",
         "product_category": "Makeup",
         "sub_category": "Highlighter",
-        "sentiment": "positive",
-        "trigger_category": "Application",
-        "primary_claim": "Versatile, gorgeous, effortless shimmer for face, body, and hair.",
-        "anchor_quote": "It's the Fenty Beauty Diamond Bomb all over diamond veil. And when you open it, gorgeous. It's effortless, it looks wet. Beautiful.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides gorgeous, effortless, wet-look sparkle everywhere.",
+        "anchor_quote": "It's effortless, it looks wet.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "This looks going to be super easy. It's effortless."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It looks wet. You can see it in the air right now."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "And when you open it, gorgeous."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
@@ -864,10 +1227,17 @@
         "product_name": "Sun Stalk\u2019r Instant Warmth Bronzer in Private Island",
         "product_category": "Makeup",
         "sub_category": "Bronzer",
-        "sentiment": "neutral",
-        "trigger_category": "Application",
-        "primary_claim": "Bronzer used as an eyeshadow base for the look.",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used as an easy base for the eye look.",
         "anchor_quote": "All I'm doing is taking some bronzer all over the lid, dipping in there and fluffing that all over the lid.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "All I'm doing is taking some bronzer all over the lid, dipping in there and fluffing that all over the lid."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": false,
@@ -884,10 +1254,11 @@
         "product_name": "Telescopic Lift Mascara",
         "product_category": "Makeup",
         "sub_category": "Mascara",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Product mentioned in description, but not featured.",
-        "anchor_quote": "",
+        "overall_sentiment": "neutral",
+        "primary_claim": "N/A",
+        "anchor_quote": "N/A",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
@@ -904,10 +1275,11 @@
         "product_name": "Wispies Lashes",
         "product_category": "Makeup",
         "sub_category": "False Eyelashes",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Product mentioned in description, but not featured.",
-        "anchor_quote": "",
+        "overall_sentiment": "neutral",
+        "primary_claim": "N/A",
+        "anchor_quote": "N/A",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": false,
         "mentioned_in_caption": true,
         "shown_visually": false,
@@ -924,14 +1296,41 @@
         "product_name": "True to Myself Foundation",
         "product_category": "Makeup",
         "sub_category": "Foundation",
-        "sentiment": "positive",
-        "trigger_category": "Longevity",
-        "primary_claim": "Long-wearing, flawless foundation, but shade leans yellow.",
-        "anchor_quote": "When I wore this yesterday I set my face with powder and I got an astonishing amount of wear out of it. It looked great for over 12 hours. I think it looks pretty flawless if I do say so myself. I definitely think this new foundation is worth a try.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Flawless, long-wearing foundation, especially with powder.",
+        "anchor_quote": "I definitely think this new foundation is worth a try.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 0,
+                "context_quote": "I would say it leans a little bit on the yellow side for being a neutral shade but I can make it work."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "When I wore this yesterday I set my face with powder and I got an astonishing amount of wear out of it. It looked great for over 12 hours."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 3,
+                "context_quote": "On the day that I tried this without setting powder or primer it looked pretty good for I would say five or six hours but I did definitely see signs of wear around the eight hour mark."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Depending on your application method you can definitely get more full coverage if you were to apply this with a brush."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "This is a pretty thick formula and one pump is really all you need to cover your whole face."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
-        "spoken_timestamp_seconds": 4,
+        "spoken_timestamp_seconds": 5,
         "visual_timestamp_seconds": 3,
         "confidence_score": 98,
         "video_id": "Krxl71e2-eM",
@@ -944,14 +1343,15 @@
         "product_name": "Positive Light Under Eye Brightener",
         "product_category": "Makeup",
         "sub_category": "Under Eye Brightener",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Used for under-eye brightening in the routine.",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used for under-eye brightening.",
         "anchor_quote": "I'm starting out with some of the Rare Beauty Under Eye Brightener.",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
-        "spoken_timestamp_seconds": 12,
+        "spoken_timestamp_seconds": 11,
         "visual_timestamp_seconds": 0,
         "confidence_score": 95,
         "video_id": "Krxl71e2-eM",
@@ -964,16 +1364,33 @@
         "product_name": "Beauty Sponge",
         "product_category": "Makeup",
         "sub_category": "Applicator",
-        "sentiment": "comparison",
-        "trigger_category": "Application",
+        "overall_sentiment": "mixed",
         "primary_claim": "Sponge has good flat edges but is too large when wet.",
-        "anchor_quote": "I like that this sponge has so many flat edges. You have a flat edge here here and the bottom is also not totally round. I did have a hard time getting around the edges of my face when this sponge was fully expanded from being wet. I have a decently small face but this sponge is just a little bit bigger than my preference.",
+        "anchor_quote": "I like that this sponge has so many flat edges... I did have a hard time getting around the edges of my face when this sponge was fully expanded from being wet.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I like that this sponge has so many flat edges. You have a flat edge here here and the bottom is also not totally round."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -4,
+                "context_quote": "I did have a hard time getting around the edges of my face when this sponge was fully expanded from being wet. I have a decently small face but this sponge is just a little bit bigger than my preference."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "I actually wet this sponge yesterday and it still feels a little bit damp so I'm just using it again without re-wetting it."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 16,
         "visual_timestamp_seconds": 18,
-        "confidence_score": 95,
+        "confidence_score": 97,
         "video_id": "Krxl71e2-eM",
         "influencer": "Makeup by Cait",
         "upload_date": "20260416",
@@ -984,16 +1401,23 @@
         "product_name": "Foundation Brush",
         "product_category": "Makeup",
         "sub_category": "Applicator",
-        "sentiment": "positive",
-        "trigger_category": "Application",
-        "primary_claim": "Brush provides more full coverage than sponge.",
-        "anchor_quote": "Depending on your application method you can definitely get more full coverage if you were to apply this with a brush. You definitely get a lot more coverage with the brush.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Brush provides more full coverage than a sponge.",
+        "anchor_quote": "You definitely get a lot more coverage with the brush.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Depending on your application method you can definitely get more full coverage if you were to apply this with a brush."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 91,
         "visual_timestamp_seconds": 90,
-        "confidence_score": 95,
+        "confidence_score": 97,
         "video_id": "Krxl71e2-eM",
         "influencer": "Makeup by Cait",
         "upload_date": "20260416",
@@ -1004,14 +1428,15 @@
         "product_name": "Easy Blur Primer",
         "product_category": "Makeup",
         "sub_category": "Primer",
-        "sentiment": "neutral",
-        "trigger_category": "Other",
-        "primary_claim": "Used as a primer before foundation application.",
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used as a primer before foundation.",
         "anchor_quote": "To prime I'm going to use a little bit of my Huda Beauty Easy Blur primer.",
+        "attributes": [],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
-        "spoken_timestamp_seconds": 22,
+        "spoken_timestamp_seconds": 21,
         "visual_timestamp_seconds": 24,
         "confidence_score": 95,
         "video_id": "Krxl71e2-eM",
@@ -1020,23 +1445,156 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "Elf Cosmetics",
+        "brand_name": "elfcosmetics",
         "product_name": "Halo Glow Primer",
         "product_category": "Makeup",
         "sub_category": "Primer",
-        "sentiment": "positive",
-        "trigger_category": "Texture",
-        "primary_claim": "Thick formula, good packaging, one pump covers face.",
-        "anchor_quote": "I'm also going to add some of this Halo Glow from Elf. I really like the packaging on this. There's no lid or anything. It's just a pump but it does lock in the back. This is a pretty thick formula and one pump is really all you need to cover your whole face.",
+        "overall_sentiment": "positive",
+        "primary_claim": "Good packaging and thick, efficient formula.",
+        "anchor_quote": "I really like the packaging on this. There's no lid or anything. It's just a pump but it does lock in the back. This is a pretty thick formula and one pump is really all you need to cover your whole face.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "I really like the packaging on this. There's no lid or anything. It's just a pump but it does lock in the back."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 6,
+                "context_quote": "This is a pretty thick formula"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "one pump is really all you need to cover your whole face."
+            }
+        ],
+        "direct_comparisons": [],
         "mentioned_in_audio": true,
         "mentioned_in_caption": true,
         "shown_visually": true,
         "spoken_timestamp_seconds": 27,
         "visual_timestamp_seconds": 27,
-        "confidence_score": 98,
+        "confidence_score": 97,
         "video_id": "Krxl71e2-eM",
         "influencer": "Makeup by Cait",
         "upload_date": "20260416",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Eos",
+        "product_name": "Vanilla Cashmere Body Butter",
+        "product_category": "Bodycare",
+        "sub_category": "Body Butter",
+        "overall_sentiment": "positive",
+        "primary_claim": "Hydrating, incredible smelling vanilla cashmere body butter.",
+        "anchor_quote": "It is so hydrating and it smells incredible.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It is so hydrating"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "It's more nutty than it is creamy, but there's a little bit of both."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "I'm also never going to say no to a body butter."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "utFMQDUG9l4",
+        "influencer": "Jackie Aina",
+        "upload_date": "20260105",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Native Spa",
+        "product_name": "Quinoa Sense Firming Body Oil",
+        "product_category": "Bodycare",
+        "sub_category": "Body Oil",
+        "overall_sentiment": "positive",
+        "primary_claim": "Nourishing, hydrating, and firming body oil.",
+        "anchor_quote": "This is one of the most nourishing body oils. It seals, it hydrates...",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "This is one of the most nourishing body oils. It seals, it hydrates"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "It seals, it hydrates"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "the quinoa sense finish is the firming body oil."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "This was a brand I consistently kept going back to from their body lotions to their oils, but really their oils were definitely, definitely favorites of mine."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 47,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 95,
+        "video_id": "utFMQDUG9l4",
+        "influencer": "Jackie Aina",
+        "upload_date": "20260105",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "SuperStay Vinyl Ink Liquid Lipcolor",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "overall_sentiment": "positive",
+        "primary_claim": "Shines and lasts through day and night.",
+        "anchor_quote": "I'll shine, I'll shine, through the day, through the night",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 6,
+                "context_quote": "swipes, swipes"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "I'll shine, I'll shine, through the day, through the night"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "I'll shine, I'll shine, through the day, through the night"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "MPSCS9CAXoo",
+        "influencer": "Highfy",
+        "upload_date": "20231012",
         "creator_location": "Unknown"
     }
 ]
