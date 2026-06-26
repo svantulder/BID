@@ -1,10 +1,9 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, Suspense } from 'react';
+import { useSearchParams } from 'next/navigation';
 import { Mic, Type, Eye, User, Beaker } from 'lucide-react';
 import entityData from '../../data/extracted_entities.json';
-
-// --- Updated Schemas ---
 
 interface AttributeScore {
   attribute: "Application_Ease" | "Color_Accuracy" | "Longevity" | "Texture" | "Value" | "Packaging";
@@ -48,43 +47,25 @@ interface Insight {
   creator_location?: string;
 }
 
-// Canonical Brand Normalization Map
 const BRAND_MAPPING: Record<string, string> = {
-  "loreal": "L'Oréal",
-  "l'oreal": "L'Oréal",
-  "l'oréal": "L'Oréal",
-  "l'oreal paris": "L'Oréal",
-  "l'oréal paris": "L'Oréal",
-  "maybelline": "Maybelline",
-  "maybelline new york": "Maybelline",
-  "elf": "e.l.f. Cosmetics",
-  "e.l.f.": "e.l.f. Cosmetics",
-  "elfcosmetics": "e.l.f. Cosmetics",
-  "charlotte tilbury": "Charlotte Tilbury",
-  "fenty": "Fenty Beauty",
-  "fenty beauty": "Fenty Beauty",
-  "rare beauty": "Rare Beauty",
-  "la prairie": "La Prairie",
-  "kylie": "Kylie Cosmetics",
-  "kylie cosmetics": "Kylie Cosmetics",
-  "rem beauty": "r.e.m. beauty",
-  "r.e.m. beauty": "r.e.m. beauty"
+  "loreal": "L'Oréal", "l'oreal": "L'Oréal", "l'oréal": "L'Oréal", "l'oreal paris": "L'Oréal", "l'oréal paris": "L'Oréal",
+  "maybelline": "Maybelline", "maybelline new york": "Maybelline",
+  "elf": "e.l.f. Cosmetics", "e.l.f.": "e.l.f. Cosmetics", "elfcosmetics": "e.l.f. Cosmetics",
+  "charlotte tilbury": "Charlotte Tilbury", "fenty": "Fenty Beauty", "fenty beauty": "Fenty Beauty",
+  "rare beauty": "Rare Beauty", "la prairie": "La Prairie", "kylie": "Kylie Cosmetics",
+  "kylie cosmetics": "Kylie Cosmetics", "rem beauty": "r.e.m. beauty", "r.e.m. beauty": "r.e.m. beauty"
 };
 
 const normalizeBrand = (brand: string): string => {
   if (!brand) return 'Unknown Brand';
   const lookup = brand.trim().toLowerCase();
   if (BRAND_MAPPING[lookup]) return BRAND_MAPPING[lookup];
-  
   for (const [key, canonical] of Object.entries(BRAND_MAPPING)) {
-    if (lookup.includes(key) || key.includes(lookup)) {
-      return canonical;
-    }
+    if (lookup.includes(key) || key.includes(lookup)) return canonical;
   }
   return brand;
 };
 
-// UI Helper: Renders demographic badges safely
 const DemoBadge = ({ label, value }: { label: string, value?: string }) => {
   const isUnknown = !value || value === "Unknown";
   return (
@@ -97,20 +78,19 @@ const DemoBadge = ({ label, value }: { label: string, value?: string }) => {
   );
 };
 
-export default function FeedStream() {
+function FeedStreamContent() {
+  const searchParams = useSearchParams();
+  const urlBrand = searchParams.get('brand');
+
   const rawData = entityData as Insight[];
-  
   const normalizedData = useMemo(() => {
-    return rawData.map(item => ({
-      ...item,
-      brand_name: normalizeBrand(item.brand_name)
-    }));
+    return rawData.map(item => ({ ...item, brand_name: normalizeBrand(item.brand_name) }));
   }, [rawData]);
 
   const [activeInsight, setActiveInsight] = useState<Insight | null>(null);
   const [activeTimestamp, setActiveTimestamp] = useState<number>(0);
   
-  const [filterBrand, setFilterBrand] = useState<string>('All');
+  const [filterBrand, setFilterBrand] = useState<string>(urlBrand ? normalizeBrand(urlBrand) : 'All');
   const [filterSentiment, setFilterSentiment] = useState<string>('All');
   const [filterInfluencer, setFilterInfluencer] = useState<string>('All');
   const [filterCategory, setFilterCategory] = useState<string>('All');
@@ -130,9 +110,7 @@ export default function FeedStream() {
   }, [normalizedData, filterBrand, filterSentiment, filterInfluencer, filterCategory]);
 
   const handleJumpToTimestamp = (seconds: number | null) => {
-    if (seconds !== null) {
-      setActiveTimestamp(seconds);
-    }
+    if (seconds !== null) setActiveTimestamp(seconds);
   };
 
   return (
@@ -236,7 +214,6 @@ export default function FeedStream() {
                     "{insight.primary_claim}"
                   </blockquote>
 
-                  {/* Surface formulation tags directly in the feed if they exist */}
                   {insight.active_ingredients && insight.active_ingredients.length > 0 && (
                      <div className="flex flex-wrap gap-1 mt-3">
                        {insight.active_ingredients.map(ing => (
@@ -286,7 +263,6 @@ export default function FeedStream() {
 
                 <div className="space-y-6">
                   
-                  {/* NEW: Demographics Section */}
                   <div>
                     <div className="flex items-center gap-1.5 mb-2">
                       <User size={14} className="text-slate-400" />
@@ -299,7 +275,6 @@ export default function FeedStream() {
                     </div>
                   </div>
 
-                  {/* NEW: Formulation Section */}
                   {activeInsight.active_ingredients && activeInsight.active_ingredients.length > 0 && (
                     <div>
                       <div className="flex items-center gap-1.5 mb-2">
@@ -374,5 +349,13 @@ export default function FeedStream() {
 
       </div>
     </div>
+  );
+}
+
+export default function FeedStream() {
+  return (
+    <Suspense fallback={<div className="p-8 text-center text-slate-400">Loading Intelligence Feed...</div>}>
+      <FeedStreamContent />
+    </Suspense>
   );
 }
