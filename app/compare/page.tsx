@@ -1,6 +1,7 @@
 'use client';
 
-import { useState, useMemo } from 'react';
+import { useState, useMemo, Suspense } from 'react';
+import { useSearchParams } from 'next/navigation';
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer, Tooltip, Legend } from 'recharts';
 import entityData from '../../data/extracted_entities.json';
 
@@ -38,9 +39,11 @@ const normalizeBrand = (brand: string): string => {
   return brand;
 };
 
-export default function CompareDashboard() {
+function CompareDashboardContent() {
+  const searchParams = useSearchParams();
+  const urlBrandA = searchParams.get('brandA');
+
   const rawData = entityData as Insight[];
-  
   const normalizedData = useMemo(() => {
     return rawData.map(item => ({ ...item, brand_name: normalizeBrand(item.brand_name) }));
   }, [rawData]);
@@ -49,8 +52,8 @@ export default function CompareDashboard() {
     Array.from(new Set(normalizedData.map(d => d.brand_name))).sort(), 
   [normalizedData]);
 
-  // Selections
-  const [brandA, setBrandA] = useState<string>(uniqueBrands[0] || '');
+  const defaultBrandA = urlBrandA ? normalizeBrand(urlBrandA) : (uniqueBrands[0] || '');
+  const [brandA, setBrandA] = useState<string>(defaultBrandA);
   const [productA, setProductA] = useState<string>('All');
   
   const [brandB, setBrandB] = useState<string>(uniqueBrands[1] || '');
@@ -78,14 +81,12 @@ export default function CompareDashboard() {
     const ingredientStats: Record<string, { sentimentSum: number; count: number }> = {};
 
     subset.forEach(insight => {
-      // 1. Process Mechanical Attributes
       insight.attributes?.forEach(attr => {
         if (!stats[attr.attribute]) stats[attr.attribute] = { total: 0, count: 0 };
         stats[attr.attribute].total += attr.sentiment_score;
         stats[attr.attribute].count += 1;
       });
 
-      // 2. Process Proxy Ingredient Sentiment
       const baseSentiment = insight.overall_sentiment === 'positive' ? 1 : insight.overall_sentiment === 'negative' ? -1 : 0;
       insight.active_ingredients?.forEach(ing => {
         if (!ingredientStats[ing]) ingredientStats[ing] = { sentimentSum: 0, count: 0 };
@@ -110,7 +111,6 @@ export default function CompareDashboard() {
   const metricsA = useMemo(() => computeMetrics(brandA, productA), [brandA, productA, normalizedData]);
   const metricsB = useMemo(() => computeMetrics(brandB, productB), [brandB, productB, normalizedData]);
 
-  // Transform data for the joint Radar Chart
   const radarData = useMemo(() => {
     return attributesList.map(attr => ({
       attribute: attr.replace('_', ' '),
@@ -126,7 +126,6 @@ export default function CompareDashboard() {
         <p className="text-slate-400">Head-to-head multi-axis benchmarking and formulation sentiment.</p>
       </header>
 
-      {/* Joint Radar Visualization */}
       <div className="bg-slate-900 border border-slate-800 p-6 rounded-xl w-full h-[400px] flex items-center justify-center">
         {metricsA || metricsB ? (
           <ResponsiveContainer width="100%" height="100%">
@@ -146,7 +145,6 @@ export default function CompareDashboard() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        {/* Competitor Panel A */}
         <div className="bg-slate-900 border border-slate-800 p-6 rounded-xl space-y-4">
           <div>
             <label className="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Parent Brand A</label>
@@ -174,7 +172,6 @@ export default function CompareDashboard() {
             <div className="pt-4 space-y-5">
               <div className="text-xs font-bold text-slate-500 uppercase tracking-wider">Signal Footprint Count: <span className="text-white font-mono">{metricsA.volume}</span></div>
               
-              {/* Formulation Proxy Sentiment Tags */}
               {metricsA.tags.length > 0 && (
                 <div>
                   <h4 className="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">Detected Formulations</h4>
@@ -193,7 +190,6 @@ export default function CompareDashboard() {
                 </div>
               )}
 
-              {/* Tabular Score Fallback */}
               <div className="space-y-3 pt-2">
                 {attributesList.map(attr => {
                   const val = metricsA.averages[attr];
@@ -211,7 +207,6 @@ export default function CompareDashboard() {
           )}
         </div>
 
-        {/* Competitor Panel B */}
         <div className="bg-slate-900 border border-slate-800 p-6 rounded-xl space-y-4">
           <div>
             <label className="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Parent Brand B</label>
@@ -239,7 +234,6 @@ export default function CompareDashboard() {
             <div className="pt-4 space-y-5">
               <div className="text-xs font-bold text-slate-500 uppercase tracking-wider">Signal Footprint Count: <span className="text-white font-mono">{metricsB.volume}</span></div>
               
-              {/* Formulation Proxy Sentiment Tags */}
               {metricsB.tags.length > 0 && (
                 <div>
                   <h4 className="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">Detected Formulations</h4>
@@ -258,7 +252,6 @@ export default function CompareDashboard() {
                 </div>
               )}
 
-              {/* Tabular Score Fallback */}
               <div className="space-y-3 pt-2">
                 {attributesList.map(attr => {
                   const val = metricsB.averages[attr];
@@ -277,5 +270,13 @@ export default function CompareDashboard() {
         </div>
       </div>
     </main>
+  );
+}
+
+export default function CompareDashboard() {
+  return (
+    <Suspense fallback={<div className="p-8 text-center text-slate-400">Loading Benchmarks...</div>}>
+      <CompareDashboardContent />
+    </Suspense>
   );
 }
