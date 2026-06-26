@@ -1818,5 +1818,131 @@
         "influencer": "Liz Rose",
         "upload_date": "20240227",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rare Beauty",
+        "product_name": "Lip products",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Rare Beauty lip products are consistent and loved.",
+        "anchor_quote": "Love rare. Love. I love it. Very consistent.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Very consistent."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "9yM1PGNmkiQ",
+        "influencer": "Chicks in the Office",
+        "upload_date": "20231225",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "R.E.M. Beauty",
+        "product_name": "Unknown",
+        "product_category": "Makeup",
+        "sub_category": "Unknown",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "R.E.M. Beauty is dismissed due to ownership by Morphe's parent company.",
+        "anchor_quote": "So when I found out that Ariana doesn't even own her own brand, never touched it.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 13,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "9yM1PGNmkiQ",
+        "influencer": "Chicks in the Office",
+        "upload_date": "20231225",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Haus Labs",
+        "product_name": "Lip products",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Haus Labs rebrand is amazing and a hit.",
+        "anchor_quote": "Her rebrand is amazing. And I hate rebrands... It's a hit.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "Her rebrand is amazing."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 27,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 95,
+        "video_id": "9yM1PGNmkiQ",
+        "influencer": "Chicks in the Office",
+        "upload_date": "20231225",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Fenty Beauty",
+        "product_name": "Foundation",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Fenty Beauty revolutionized the industry with inclusive foundation shade ranges.",
+        "anchor_quote": "They changed everything with inclusivity. And their shade range was like, it set the tone for the entire beauty industry.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 10,
+                "context_quote": "They changed everything with inclusivity. And their shade range was like, it set the tone for the entire beauty industry."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 41,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 98,
+        "video_id": "9yM1PGNmkiQ",
+        "influencer": "Chicks in the Office",
+        "upload_date": "20231225",
+        "creator_location": "Unknown"
     }
 ]
