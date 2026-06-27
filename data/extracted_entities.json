@@ -1944,5 +1944,2091 @@
         "influencer": "Chicks in the Office",
         "upload_date": "20231225",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Foundation/Concealer",
+        "product_category": "Makeup",
+        "sub_category": "Foundation/Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product featured in Kylie Cosmetics' lifestyle marketing content.",
+        "anchor_quote": "lifestyle content, mostly featuring Kylie herself.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 85,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Glossy Lip Kit",
+        "product_category": "Makeup",
+        "sub_category": "Lip Kit",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product featured in Kylie Cosmetics' UGC marketing examples.",
+        "anchor_quote": "She should be running way more UGC videos with unboxings, reviews, get ready with me style ads from real customers.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Lip Liner",
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product featured in Kylie Cosmetics' UGC marketing examples.",
+        "anchor_quote": "She should be running way more UGC videos with unboxings, reviews, get ready with me style ads from real customers.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 80,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Cosmic Kylie Jenner Intense Eau de Parfum",
+        "product_category": "Fragrance",
+        "sub_category": "Eau de Parfum",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product featured on Kylie Cosmetics' website with clear product breakdowns.",
+        "anchor_quote": "clear product breakdowns",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 98,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Lip Butter Peach Mango",
+        "product_category": "Skincare",
+        "sub_category": "Lip Balm/Butter",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product featured on Kylie Cosmetics' website with in-cart upsells.",
+        "anchor_quote": "in-car upsells and subscriptions",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 33,
+        "confidence_score": 98,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Cosmic Kylie Jenner Intense Eau de Parfum Pen Spray",
+        "product_category": "Fragrance",
+        "sub_category": "Eau de Parfum",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product featured on Kylie Cosmetics' website with in-cart upsells.",
+        "anchor_quote": "in-car upsells and subscriptions",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 33,
+        "confidence_score": 98,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Hybrid Blush Pink Please",
+        "product_category": "Makeup",
+        "sub_category": "Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product featured on Kylie Cosmetics' website with subscription options.",
+        "anchor_quote": "in-car upsells and subscriptions",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 98,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Mini Kylash Volume Mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product featured on Kylie Cosmetics' website with subscription options.",
+        "anchor_quote": "in-car upsells and subscriptions",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 98,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Advent Calendar",
+        "product_category": "Makeup",
+        "sub_category": "Gift Set/Calendar",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed on Kylie Cosmetics' TikTok shop.",
+        "anchor_quote": "Kylie Cosmetics is missing the biggest opportunity of 2026. With her following alone, she should be dominating.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 51,
+        "confidence_score": 95,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rem Beauty",
+        "product_name": "Lip Gloss/Liquid Lipstick",
+        "product_category": "Makeup",
+        "sub_category": "Lip Gloss/Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product featured in Rem Beauty's product-focused ads.",
+        "anchor_quote": "Some product focused ads, some UGC but almost no paid creator claps.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 85,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rem Beauty",
+        "product_name": "Essential Drip Glossy Balm",
+        "product_category": "Makeup",
+        "sub_category": "Lip Balm/Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "User review highlights product's pretty colors, hydration, and non-stickiness.",
+        "anchor_quote": "I love them all! The prettiest colors and super hydrating without the stickiness.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "super hydrating without the stickiness"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 10,
+                "context_quote": "The prettiest colors"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 45,
+        "confidence_score": 98,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rem Beauty",
+        "product_name": "Meningitis Blush & Highlight Stick Trio",
+        "product_category": "Makeup",
+        "sub_category": "Blush, Highlighter",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product featured on Rem Beauty's website with clear color swatches and reviews.",
+        "anchor_quote": "Clear color swatches, bundles, special offers, and reviews all on a single product page",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 90,
+        "video_id": "M0tORYHl1XE",
+        "influencer": "Chase Chappell",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Lip Kit (808 Kylie Matte)",
+        "product_category": "Makeup",
+        "sub_category": "Lip Kit",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Kylie Lip Kit offers impressive longevity and smooth liner.",
+        "anchor_quote": "This is why the only lip that has lasted this long on my lips.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "This is why the only lip that has lasted this long on my lips. I'm pretty hard on my lips because I'm constantly drinking water and talking and that I'm lying. So normally when I put lipstick on, I just kind of like applied lip gloss throughout the day and then by the end of the day I just have like the lip gloss on. I didn't put any lip gloss on over it because I knew it was because of a matte finish. So I wanted to see how it wared and it wore really well."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "I really, really, really like this liner. It's super smooth when you put it on. My other liners are like a little more like crann like and this is more like a smooth pen."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I really, really, really like this liner. It's super smooth when you put it on."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Unknown",
+                "competitor_product": "other liners",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "xVP4VBIFTF8",
+        "influencer": "\ud83d\udcab Gabby the bag girl \ud83d\udc5b ",
+        "upload_date": "20260411",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Skin Tint",
+        "product_category": "Makeup",
+        "sub_category": "Skin Tint",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Impressed with skin tint, performs like a foundation.",
+        "anchor_quote": "Let me just say I am very impressed with this tint.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "I definitely gonna have to ignore this shade match. This is way too light for me."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's not clinging to any weird dry patches."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "All of my makeup laid beautifully on top of it. There's no pilling. There's no patchiness."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "MI8lXtVoluU",
+        "influencer": "Taylor Tharp",
+        "upload_date": "20260322",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Skin Tint",
+        "product_category": "Makeup",
+        "sub_category": "Skin Tint",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Kylie Skin Tint is a lightweight, natural-looking, light-coverage product.",
+        "anchor_quote": "Okay, you guys, I'm actually pretty obsessed with the skin tint.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Let's just start blending this out. So far it is pretty light coverage. It's not looking as yellow as I blended out, which is good."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 5,
+                "context_quote": "First impressions it looks a bit yellow, but let's see how it blends out. It's not looking as yellow as I blended out, which is good."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "And it is much thinner than most skin tints I've tried. It still feels really lightweight. Like I can't even feel it on my face."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "1b4KlmpswAY",
+        "influencer": "Kayla Ryan",
+        "upload_date": "20250409",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Highlighter",
+        "product_category": "Makeup",
+        "sub_category": "Highlighter",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Kylie Cosmetics is dismissed in favor of Rare Beauty.",
+        "anchor_quote": "Je crois c'\u00e9tait le seul produit Kairi cosm\u00e9tique que j'avais. Bye bye Kairi.",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Rare Beauty",
+                "competitor_product": "Highlighter",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "mpb6Jz8vNXM",
+        "influencer": "Richard",
+        "upload_date": "20230228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rare Beauty",
+        "product_name": "Highlighter",
+        "product_category": "Makeup",
+        "sub_category": "Highlighter",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Rare Beauty highlighter is an incredible, must-have product.",
+        "anchor_quote": "Mais \u00e7a c'est un bijou, il est incroyable, il me faut vraiment d'obtante.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "Mais \u00e7a c'est un bijou, il est incroyable, il me faut vraiment d'obtante."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "C'est le prof, je vais en mettre partout. Il est incroyable."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Kylie Cosmetics",
+                "competitor_product": "Highlighter",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 32,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "mpb6Jz8vNXM",
+        "influencer": "Richard",
+        "upload_date": "20230228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Maybelline Brand",
+        "product_category": "Makeup",
+        "sub_category": "Brand Strategy",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline's longevity comes from continuous innovation and accessible quality.",
+        "anchor_quote": "Maybelline diventa un brand global. Ha saputo in innovare, continuamente, apriciando anche nuovi valori di sostenibilit\u00e0 inclusivit\u00e0.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "Ben nezza accessibile di qualit\u00e0 e sempre a tua."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "kuxEihXeoXE",
+        "influencer": "Accademia del lusso - scuola di moda e design",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Original Cake Mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "charcoal",
+            "petroleum jelly"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "The first Maybelline product, made from charcoal and petroleum jelly.",
+        "anchor_quote": "da qui nasce un panetto a base di carbone e vaselina con una spazzolina per applicarlo sulle citt\u00e0.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 27,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 90,
+        "video_id": "kuxEihXeoXE",
+        "influencer": "Accademia del lusso - scuola di moda e design",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Cake Mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "An early successful mascara from Maybelline.",
+        "anchor_quote": "dal Cakemascar da 1917",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 36,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 90,
+        "video_id": "kuxEihXeoXE",
+        "influencer": "Accademia del lusso - scuola di moda e design",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Great Lash Mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "The best-selling mascara in the world since 1971.",
+        "anchor_quote": "ad arrivare a 1971 con il Great Lash in mascara Rosa e Baird and Progette, pi\u00f9 venduta al mondo.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "pi\u00f9 venduta al mondo"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 44,
+        "visual_timestamp_seconds": 45,
+        "confidence_score": 95,
+        "video_id": "kuxEihXeoXE",
+        "influencer": "Accademia del lusso - scuola di moda e design",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Sky High Mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "A popular modern Maybelline mascara.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 57,
+        "confidence_score": 85,
+        "video_id": "kuxEihXeoXE",
+        "influencer": "Accademia del lusso - scuola di moda e design",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Vinyl Ink",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "A modern Maybelline lip product.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 57,
+        "confidence_score": 80,
+        "video_id": "kuxEihXeoXE",
+        "influencer": "Accademia del lusso - scuola di moda e design",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "A modern Maybelline face product.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 57,
+        "confidence_score": 80,
+        "video_id": "kuxEihXeoXE",
+        "influencer": "Accademia del lusso - scuola di moda e design",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Fenty Beauty",
+        "product_name": "Fenty Beauty Brand",
+        "product_category": "Makeup",
+        "sub_category": "Brand",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A successful example of a new beauty brand.",
+        "anchor_quote": "Ci sono esempi grande successo. Fenti beauty",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 80,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 95,
+        "video_id": "kuxEihXeoXE",
+        "influencer": "Accademia del lusso - scuola di moda e design",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rare Beauty",
+        "product_name": "Rare Beauty Brand",
+        "product_category": "Makeup",
+        "sub_category": "Brand",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A successful example of a new beauty brand.",
+        "anchor_quote": "rare beauty",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 80,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 95,
+        "video_id": "kuxEihXeoXE",
+        "influencer": "Accademia del lusso - scuola di moda e design",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "R.E.M. Beauty",
+        "product_name": "R.E.M. Beauty Brand",
+        "product_category": "Makeup",
+        "sub_category": "Brand",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A successful example of a new beauty brand.",
+        "anchor_quote": "R.E.M. di Ariana Grande",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 81,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 95,
+        "video_id": "kuxEihXeoXE",
+        "influencer": "Accademia del lusso - scuola di moda e design",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Wet formula is messy, clumps, smears, but lashes look fine.",
+        "anchor_quote": "As for wear time, this one does smear on me, so it's not my favorite.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "I find wet mascara is like this to be super messy to apply. As for how my lashes look, I think they look fine. With a comb wand like this, I would expect more separation, but my lashes tend to clump together with this one."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "This one has a very wet formula. I've had mine open for about a month now, and it still hasn't thickened up at all."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -6,
+                "context_quote": "As for wear time, this one does smear on me, so it's not my favorite."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Sky High",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "63U98J17xRU",
+        "influencer": "Shanrell\u2019s Stash",
+        "upload_date": "20240819",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Blush Stick",
+        "product_category": "Makeup",
+        "sub_category": "Cream Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Kylie blush applied visually for comparison.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 85,
+        "video_id": "baednhcKKyM",
+        "influencer": "Amber Holly Regel",
+        "upload_date": "20250802",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Blush Stick",
+        "product_category": "Makeup",
+        "sub_category": "Cream Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Rhode blush shown visually for comparison.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 80,
+        "video_id": "baednhcKKyM",
+        "influencer": "Amber Holly Regel",
+        "upload_date": "20250802",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Glossy Lip Kit",
+        "product_category": "Makeup",
+        "sub_category": "Lip Kit",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Single product strategy leads to lower AOVs.",
+        "anchor_quote": "Kylie is pushing mostly single products. No bundles, no subscribe and save. That means lower average order values and no recurring revenue built in.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "CnE7_1aZn1U",
+        "influencer": "Chase Chappell",
+        "upload_date": "20251013",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Fenty Beauty",
+        "product_name": "Lip Gloss",
+        "product_category": "Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product visually represents Fenty Beauty.",
+        "anchor_quote": "Who's winning? Kylie Cosmetics or Finney Beauty? Let's break it down.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 80,
+        "video_id": "CnE7_1aZn1U",
+        "influencer": "Chase Chappell",
+        "upload_date": "20251013",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Skin",
+        "product_name": "Nourishing Face Moisturizer",
+        "product_category": "Skincare",
+        "sub_category": "Face Moisturizer",
+        "active_ingredients": [
+            "banana extract",
+            "oat extract",
+            "orange peel extract"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Single product strategy leads to lower AOVs.",
+        "anchor_quote": "Kylie is pushing mostly single products. No bundles, no subscribe and save. That means lower average order values and no recurring revenue built in.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "CnE7_1aZn1U",
+        "influencer": "Chase Chappell",
+        "upload_date": "20251013",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Fenty Beauty",
+        "product_name": "The Gloss Bomb Vault 10-Piece Full-Size Lip Set",
+        "product_category": "Makeup",
+        "sub_category": "Lip Gloss Set",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Bundles raise AOVs and lock in more profit.",
+        "anchor_quote": "Finney, on the other hand, is pushing bundles. That's how you raise your AOVs and lock in more profit per customer.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "CnE7_1aZn1U",
+        "influencer": "Chase Chappell",
+        "upload_date": "20251013",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Unknown",
+        "product_name": "Lip Liner",
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product shown in an ad creative example.",
+        "anchor_quote": "So, who's really winning? Kylie is spending more on meta ads, but Finney is playing the smarter game.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 39,
+        "confidence_score": 70,
+        "video_id": "CnE7_1aZn1U",
+        "influencer": "Chase Chappell",
+        "upload_date": "20251013",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Unknown",
+        "product_name": "Lip Gloss",
+        "product_category": "Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product shown in an ad creative example.",
+        "anchor_quote": "So, who's really winning? Kylie is spending more on meta ads, but Finney is playing the smarter game.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 42,
+        "confidence_score": 70,
+        "video_id": "CnE7_1aZn1U",
+        "influencer": "Chase Chappell",
+        "upload_date": "20251013",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE",
+        "product_name": "Peptide Glazing Fluid",
+        "product_category": "Skincare",
+        "sub_category": "Serum/Fluid",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Lightweight fluid creates a glowy base for makeup with no pilling.",
+        "anchor_quote": "Foundation is going on and it is looking beautiful, so glowy and there is no pilling.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It feels super, super light actually."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "Foundation is going on and it is looking beautiful, so glowy and there is no pilling."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "JFh3krwqjHk",
+        "influencer": "Anife",
+        "upload_date": "20230727",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE",
+        "product_name": "Barrier Restore Cream",
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer/Cream",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "First impression is neutral, needs more testing for full review.",
+        "anchor_quote": "I see this is the first impression, so I'm not really going to be able to tell you guys how this works on my skin yet, but I will update you.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 90,
+        "video_id": "JFh3krwqjHk",
+        "influencer": "Anife",
+        "upload_date": "20230727",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE",
+        "product_name": "Lip Treatment (Unscented)",
+        "product_category": "Skincare",
+        "sub_category": "Lip Balm/Treatment",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "One of three lip treatments, mentioned but not tried.",
+        "anchor_quote": "We've got the unscented, the watermelon and the salted caramel.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 33,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 85,
+        "video_id": "JFh3krwqjHk",
+        "influencer": "Anife",
+        "upload_date": "20230727",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE",
+        "product_name": "Lip Treatment (Watermelon)",
+        "product_category": "Skincare",
+        "sub_category": "Lip Balm/Treatment",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Watermelon lip treatment feels nice and makes lips look juicy.",
+        "anchor_quote": "Ooh, that is actually really nice. My lips just look so juicy.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Ooh, that is actually really nice."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "My lips just look so juicy."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 33,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 95,
+        "video_id": "JFh3krwqjHk",
+        "influencer": "Anife",
+        "upload_date": "20230727",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE",
+        "product_name": "Lip Treatment (Salted Caramel)",
+        "product_category": "Skincare",
+        "sub_category": "Lip Balm/Treatment",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "One of three lip treatments, mentioned but not tried.",
+        "anchor_quote": "We've got the unscented, the watermelon and the salted caramel.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 33,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 85,
+        "video_id": "JFh3krwqjHk",
+        "influencer": "Anife",
+        "upload_date": "20230727",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Glazing Milk",
+        "product_category": "Skincare",
+        "sub_category": "Toner/Essence",
+        "active_ingredients": [
+            "Coconut Alkanes",
+            "Sodium Hyaluronate"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Contains comedogenic coconut alkanes, unsuitable for acne-prone skin.",
+        "anchor_quote": "As coconut alkanes, which is highly comodogenic, and can break you up, is someone who's very, very acne prone. Just for that reason, I probably will not be using this again.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "Most of her skincare is targeted towards dry and sensitive skin, so I honestly feel like I'm gonna really like this."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -7,
+                "context_quote": "Just for that reason, I probably will not be using this again."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 16,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 95,
+        "video_id": "b8AtbctLoa4",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20231113",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Glazing Fluid",
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Super hydrating and feels great under makeup.",
+        "anchor_quote": "This one's super hydrating, and I actually really like how this feels under my makeup.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "This one's super hydrating, and I actually really like how this feels under my makeup."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "For the price, the only things that are worth it are the glazing fluid"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 30,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 98,
+        "video_id": "b8AtbctLoa4",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20231113",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Barrier Restore Cream",
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good daytime moisturizer, but too light for night use.",
+        "anchor_quote": "I really, really like it. And, though, it's not super thick enough for the night, because I use retinol, so I actually prefer using this under makeup in the morning.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 3,
+                "context_quote": "And, though, it's not super thick enough for the night, because I use retinol, so I actually prefer using this under makeup in the morning."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -3,
+                "context_quote": "Just an expensive moisturizer Lol"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 35,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 92,
+        "video_id": "b8AtbctLoa4",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20231113",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Treatment",
+        "product_category": "Makeup",
+        "sub_category": "Lip Balm/Treatment",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Unmatched formula, a favorite lip butter.",
+        "anchor_quote": "I just feel like the formula of these are on matte.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "I just feel like the formula of these are on matte."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "For the price, the only things that are worth it are the glazing fluid, and they're peptide lip treatments."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 45,
+        "visual_timestamp_seconds": 45,
+        "confidence_score": 97,
+        "video_id": "b8AtbctLoa4",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20231113",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Pineapple Refresh Daily Cleanser",
+        "product_category": "Skincare",
+        "sub_category": "Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Refreshing cleanser that effectively removes makeup without stripping.",
+        "anchor_quote": "this surprised me because it's really really nice for removing makeup even though it's a second cleanse It's really refreshing without stripping the skin.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "really really nice for removing makeup even though it's a second cleanse"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's really refreshing without stripping the skin. I like the way it lathers I like the way it smells and it's that foamy cleanser feel"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 5,
+                "context_quote": "It's worth trying"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Glazing Milk Ceramide Facial Essence",
+        "product_category": "Skincare",
+        "sub_category": "Essence",
+        "active_ingredients": [
+            "Ceramide",
+            "Coconut"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Gives a beautiful glow but may clog acne-prone skin.",
+        "anchor_quote": "it gives that skin a beautiful glass like glow and it does have coconut ingredients in the base which can clog your pores and cause breakouts",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it gives that skin a beautiful glass like glow"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "It works really well underneath foundation as well"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 35,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 95,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Glazing Mist",
+        "product_category": "Skincare",
+        "sub_category": "Mist",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Stunning glassy glow, a favorite \"sleeper product\".",
+        "anchor_quote": "This gives your skin the most stunning glassy glow. It's incredible over an underneath makeup and I actually think this is one of my favorite products. It's like a sleeper product So I highly highly recommend this. I'm obsessed with this.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "This gives your skin the most stunning glassy glow"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's incredible over an underneath makeup"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "Yeah, it's worth it's worth getting"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 69,
+        "visual_timestamp_seconds": 69,
+        "confidence_score": 95,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Mini Peptide Glazing Fluid Dewy Gel Serum",
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Basic formula for the price, not a \"wow\" product.",
+        "anchor_quote": "the peptide glazing fluid has never been a wow product for me Mainly because the formula is kind of basic for the price",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -7,
+                "context_quote": "Mainly because the formula is kind of basic for the price I feel like you can get a better formula from the drugstore"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 3,
+                "context_quote": "This is really nice and hydrating, but it just didn't wow me"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Notorious",
+                "competitor_product": "Barrier Balance",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 104,
+        "visual_timestamp_seconds": 105,
+        "confidence_score": 95,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Barrier Restore Cream Comforting Daily Moisturizer",
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Nice but not exceptional compared to drugstore options.",
+        "anchor_quote": "I do like this. I think it's really nice But compared to my drugstore moisturizer's I think that there's nothing absolutely wowing me in terms of the formula or the application",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "compared to my drugstore moisturizer's I think that there's nothing absolutely wowing me"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "nothing absolutely wowing me in terms of the formula or the application"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 122,
+        "visual_timestamp_seconds": 123,
+        "confidence_score": 95,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Barrier Butter Intensive Moisture Balm",
+        "product_category": "Skincare",
+        "sub_category": "Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A stunning, versatile balm, great for winter and acne-prone skin.",
+        "anchor_quote": "The barrier butter however really surprised me and I really really like it and It's really stunning especially for the winter. So this is a slam dunk for me",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "really surprised me and I really really like it It's really stunning especially for the winter"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I feel like you can use this on your face and your elbows knees feet"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "La Roche-Posay",
+                "competitor_product": "Cicaplast",
+                "comparison_nature": "similar"
+            },
+            {
+                "competitor_brand": "Av\u00e8ne",
+                "competitor_product": "Cicalfate",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 133,
+        "visual_timestamp_seconds": 132,
+        "confidence_score": 95,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Pocket Blush",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "No opinion expressed.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 70,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Peptide Eye Prep Depuffing Eye Patches",
+        "product_category": "Skincare",
+        "sub_category": "Eye Patches",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "No opinion expressed.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 70,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Peptide Lip Treatment",
+        "product_category": "Skincare",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "No opinion expressed.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 70,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Peptide Lip Shaper",
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "No opinion expressed.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 70,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Snap-On Lip Case",
+        "product_category": "Accessories",
+        "sub_category": "Lip Case",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "No opinion expressed.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 70,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "Peptide Lip Tint",
+        "product_category": "Makeup",
+        "sub_category": "Lip Tint",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "No opinion expressed.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 70,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE SKIN",
+        "product_name": "The Scented Peptide Lip Tint Set",
+        "product_category": "Makeup",
+        "sub_category": "Lip Tint Set",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "No opinion expressed.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 70,
+        "video_id": "Z8VdY9iFsUE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Rhode Skin Collection",
+        "product_category": "Skincare",
+        "sub_category": "Skincare Set",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Rhode's packaging is boring and the brand's offering is uninspired, leading to a skipped review.",
+        "anchor_quote": "So we're gonna skip today's review. Wait, she doesn't even deserve a pink trash can.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": -10,
+                "context_quote": "Okay, so the packaging is so boring and then I open it up and girl. She literally looks like she wants to die, like focus."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 14,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "dMupRQstClg",
+        "influencer": "Marva John",
+        "upload_date": "20230317",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Barrier Restore Cream",
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Acai",
+            "Shea Butter",
+            "Squalane",
+            "Peptides",
+            "Niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "A decent moisturizer, but overpriced and not remarkable.",
+        "anchor_quote": "I didn't personally see anything wrong with this moisturizer, but it wasn't something that personally stood out to me too much.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "that $30 is a little bit of a steep price point for the amount that you get with this product."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "YDLHarFh4kk",
+        "influencer": "alex greyson",
+        "upload_date": "20240218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Pocket Blush - Sleepy Girl",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Sleepy Girl lacks pigment for brown skin.",
+        "anchor_quote": "It's barely showing up on my skin but it can be built up. If your my skin tone you could skip sleepy girl.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "It's barely showing up on my skin"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "blending that out"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "If your my skin tone you could skip sleepy girl"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "niWbC4SyV0k",
+        "influencer": "Prunela",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Pocket Blush - Toasted Teddy",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Toasted Teddy is a stunning, natural flush for brown skin.",
+        "anchor_quote": "That actually works. It looks so natural and beautiful. Instead, get toasted teddy. It's stunning.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "That actually works. It looks so natural and beautiful."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Blending that out. Wow, build up a bit more."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "Instead, get toasted teddy. It's stunning."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "niWbC4SyV0k",
+        "influencer": "Prunela",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Pocket Blush",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Pretty, glowy blush, great for fall.",
+        "anchor_quote": "This might be my new fall blush. It's pretty.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "You want to like do light pressure and just a thin veil of this right on top and build it up."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "The color is really pretty. And also I'm gonna say again, very fall vibes."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's a lot more glowy than I was picturing it being."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "Oh, it's very cute. This is what the packaging looks like."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "HnR3CPl1kBk",
+        "influencer": "Makeup By Nikki La Rose",
+        "upload_date": "20251029",
+        "creator_location": "Unknown"
     }
 ]
