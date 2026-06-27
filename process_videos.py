@@ -39,6 +39,11 @@ class CompetitorMention(BaseModel):
     competitor_product: str
     comparison_nature: Literal["inferior", "superior", "similar"] = Field(description="How the primary product compares TO this competitor.")
 
+class CreatorDemographics(BaseModel):
+    estimated_age_bracket: Literal["Gen Z (Under 27)", "Millennial (28-43)", "Gen X (44-59)", "Boomer (60+)", "Unknown"] = Field(description="Visual estimation of creator age.")
+    skin_tone_fitzpatrick: Literal["Type I-II (Fair/Light)", "Type III-IV (Medium/Olive)", "Type V-VI (Brown/Dark)", "Unknown"] = Field(description="Estimation of skin tone. Default to Unknown if heavily filtered or unseen.")
+    skin_type_indication: Literal["Oily/Acne-Prone", "Dry", "Combination", "Mature", "Unknown"] = Field(description="Any spoken or highly visible indications of skin type.")
+
 CANONICAL_BRANDS = {
     "loreal": "L'Oréal",
     "l'oreal": "L'Oréal",
@@ -62,22 +67,29 @@ CANONICAL_BRANDS = {
 }
 
 class Entity(BaseModel):
-    brand_name: str = Field(description="The canonical brand name (e.g., L'Oréal, Maybelline, e.l.f. Cosmetics).")
+    brand_name: str = Field(description="The brand being discussed.")
     product_name: str = Field(description="The specific product name.")
-    product_category: str = Field(description="High-level category (Makeup or Skincare).")
-    sub_category: str = Field(description="Specific sub-category.")
-    overall_sentiment: Literal["positive", "negative", "neutral", "mixed"]
-    primary_claim: str
-    anchor_quote: str
-    attributes: List[AttributeScore]
-    direct_comparisons: List[CompetitorMention] = Field(default_factory=list)
+    product_category: str = Field(description="High-level category (e.g., Makeup, Skincare, Haircare).")
+    sub_category: str = Field(description="Specific sub-category (e.g., Tubing Mascara, Liquid Blush, Setting Spray).")
     
-    mentioned_in_audio: bool
-    mentioned_in_caption: bool
-    shown_visually: bool
-    spoken_timestamp_seconds: Optional[int]
-    visual_timestamp_seconds: Optional[int]
-    confidence_score: int
+    # New Payload: Ingredients & Demographics
+    active_ingredients: List[str] = Field(default_factory=list, description="Specific chemical compounds or active ingredients explicitly mentioned (e.g., Niacinamide, Squalane).")
+    creator_demographics: CreatorDemographics = Field(description="Estimated physical attributes of the person reviewing the product.")
+    
+    overall_sentiment: Literal["positive", "negative", "neutral", "mixed"] = Field(description="Overall sentiment summary.")
+    primary_claim: str = Field(description="A tight, 5-to-10-word summary of the main finding.")
+    anchor_quote: str = Field(description="The exact quote from the transcript proving the sentiment.")
+    
+    attributes: List[AttributeScore] = Field(description="Granular multi-axis scoring of individual traits.")
+    direct_comparisons: List[CompetitorMention] = Field(default_factory=list, description="Explicit comparisons made by the creator.")
+    
+    mentioned_in_audio: bool = Field(description="True if explicitly spoken about in the transcript.")
+    mentioned_in_caption: bool = Field(description="True if written in the title or description.")
+    shown_visually: bool = Field(description="True if physically visible in the provided images.")
+    
+    spoken_timestamp_seconds: Optional[int] = Field(description="Closest audio timestamp, or null if not spoken.")
+    visual_timestamp_seconds: Optional[int] = Field(description="Closest visual timestamp, or null if not shown.")
+    confidence_score: int = Field(description="A score from 1-100 indicating classification confidence.")
 
     @field_validator('brand_name', mode='before')
     @classmethod
@@ -170,6 +182,31 @@ YOUTUBE_URLS = [
     "https://www.youtube.com/shorts/MPSCS9CAXoo",
     "https://www.youtube.com/shorts/kuxEihXeoXE",
     "https://www.youtube.com/shorts/63U98J17xRU",
+    "https://www.youtube.com/shorts/baednhcKKyM",
+    "https://www.youtube.com/shorts/mpb6Jz8vNXM",
+    "https://www.youtube.com/shorts/M0tORYHl1XE",
+    "https://www.youtube.com/shorts/CnE7_1aZn1U",
+    "https://www.youtube.com/shorts/JFh3krwqjHk",
+    "https://www.youtube.com/shorts/b8AtbctLoa4",
+    "https://www.youtube.com/shorts/Z8VdY9iFsUE",
+    "https://www.youtube.com/shorts/dMupRQstClg",
+    "https://www.youtube.com/shorts/ObKz1PMr1mY",
+    "https://www.youtube.com/shorts/YDLHarFh4kk",
+    "https://www.youtube.com/shorts/niWbC4SyV0k",
+    "https://www.youtube.com/shorts/HnR3CPl1kBk",
+    "https://www.youtube.com/shorts/0emrrlxx1fY",
+    "https://www.youtube.com/shorts/A2zR6p1EyLo",
+    "https://www.youtube.com/shorts/wiuhgQrsLn8",
+    "https://www.youtube.com/shorts/ZnbcXrJ9toA",
+    "https://www.youtube.com/shorts/Ycra1ir-Tck",
+    "https://www.youtube.com/shorts/02mnEbsFdQE",
+    "https://www.youtube.com/shorts/vFqcljQbNIM",
+    "https://www.youtube.com/shorts/uA8ocMRwKK4",
+    "https://www.youtube.com/shorts/9TnFecDMOhc",
+    "https://www.youtube.com/shorts/xVP4VBIFTF8",
+    "https://www.youtube.com/shorts/OzvH57IsIqo",
+    "https://www.youtube.com/shorts/liLFDta31v4",
+    "https://www.youtube.com/shorts/Vn2W3I7J4KQ",
     "https://www.youtube.com/shorts/GbhFTW5UZe0"
 ]
 
@@ -256,8 +293,11 @@ def main():
             transcript_text = "\n".join([f"[{s['start_time_seconds']}s] {s['text']}" for s in segments])
             
             prompt_contents = [
-                "You are an expert beauty industry data analyst. Analyze this video's text, transcript, and visual frames.",
-                "Identify every beauty product present. Rate its individual attributes and log competitor benchmarks exactly matching the database schema properties.",
+                "You are an expert beauty industry data analyst and cosmetic chemist. Analyze this video's text, transcript, and visual frames.",
+                "1. Identify every beauty product present.",
+                "2. Extract any specific chemical formulations or active ingredients mentioned for that product (e.g., Peptides, Hyaluronic Acid). Do not guess ingredients if they are not explicitly stated.",
+                "3. Analyze the creator's physical demographics. Deduce their Fitzpatrick skin tone and age bracket based on the visual frames. Identify their skin type based on transcript context or visual cues. If lighting/filters make this impossible, or the creator's face is not shown, you MUST output 'Unknown'.",
+                "4. Rate individual product attributes and log competitor benchmarks exactly matching the database schema properties.",
                 f"Video Title: {title}\n",
                 f"Video Description/Caption: {description}\n",
                 f"Audio Transcript:\n{transcript_text}\n"
