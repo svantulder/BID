@@ -5729,5 +5729,342 @@
         "influencer": "Demi Ngai",
         "upload_date": "20241207",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Telescopic Mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "L'Oreal Telescopic claims 60% more length and lash separation.",
+        "anchor_quote": "For the L'Oreal telescopic mascara, it says it gives lashes up to 60% more length with its unique two-sided flexible precision brush. The flat side for length and the com side for lash separation.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "FwXnG0jlHlY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250722",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High Mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "bamboo extract"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Maybelline Sky High claims lightweight formula with bamboo extract for short lashes.",
+        "anchor_quote": "Maybelline Sky High mascara on the other hand features their Flex Tower brush, which is a soft and flexible brush designed to grab every single lash. The formula is infused with bamboo extract, making it super lightweight and it's idea for people like me that have really short, straight lashes.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 33,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "FwXnG0jlHlY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250722",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Hair and Body Fragrance Mist",
+        "product_category": "Bodycare",
+        "sub_category": "Fragrance Mist",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Peach-forward scent perfect for beach or daily wear.",
+        "anchor_quote": "I could definitely see myself wearing this to the beach it smells perfect for that. But honestly I could also wear it every day and be very happy with it.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "As far as lasting power goes I'm honestly really impressed with these. They actually last done on me pretty well throughout the day. The scent had faded a bit but was still there."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "Not applicable for fragrance mist."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 16,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "qyRrkUYLkXA",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260505",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Hair and Body Fragrance Mist",
+        "product_category": "Bodycare",
+        "sub_category": "Fragrance Mist",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "A pleasant but unoriginal vanilla scent.",
+        "anchor_quote": "I like this but it just smells like every other vanilla perfume that's ever existed.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "As far as lasting power goes I'm honestly really impressed with these. They actually last done on me pretty well throughout the day. The scent had faded a bit but was still there."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "Not applicable for fragrance mist."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 38,
+        "visual_timestamp_seconds": 39,
+        "confidence_score": 95,
+        "video_id": "qyRrkUYLkXA",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260505",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Hair and Body Fragrance Mist",
+        "product_category": "Bodycare",
+        "sub_category": "Fragrance Mist",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Fruity, summery citrus fragrance, great for summer.",
+        "anchor_quote": "I really like this one for summer... Definitely a very fruity very summery fragrance especially if you like citrus sense.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "As far as lasting power goes I'm honestly really impressed with these. They actually last done on me pretty well throughout the day. The scent had faded a bit but was still there."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "Not applicable for fragrance mist."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 47,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 95,
+        "video_id": "qyRrkUYLkXA",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260505",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Hair and Body Fragrance Mist",
+        "product_category": "Bodycare",
+        "sub_category": "Fragrance Mist",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Favorite warm, cozy, summer gourmand caramel scent.",
+        "anchor_quote": "And this one is my favorite out of all of them this is caramel mommy. It is so warm so cozy but also a great like summer gourmand. Yeah, I love this I love a caramel scent.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "As far as lasting power goes I'm honestly really impressed with these. They actually last done on me pretty well throughout the day. The scent had faded a bit but was still there."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "Not applicable for fragrance mist."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 60,
+        "visual_timestamp_seconds": 63,
+        "confidence_score": 95,
+        "video_id": "qyRrkUYLkXA",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260505",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Fat Oil Body Butter",
+        "product_category": "Bodycare",
+        "sub_category": "Body Butter",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creamy, non-greasy, good moisture with golden tint.",
+        "anchor_quote": "The texture is definitely very very creamy... It doesn't leave me feeling greasy which I do really appreciate... the caramel mommy one definitely has a bit of a like almost yellow golden tint. These don't give crazy moisture but they do give good moisture.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "The texture is definitely very very creamy... It doesn't leave me feeling greasy which I do really appreciate."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 5,
+                "context_quote": "The full size not these retails for $15 each. And I'm pretty sure it's like 4.7 ounces."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It doesn't leave me feeling greasy which I do really appreciate."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 81,
+        "visual_timestamp_seconds": 81,
+        "confidence_score": 95,
+        "video_id": "qyRrkUYLkXA",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260505",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Fat Oil Body Butter",
+        "product_category": "Bodycare",
+        "sub_category": "Body Butter",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creamy, non-greasy, good moisture.",
+        "anchor_quote": "The texture is definitely very very creamy... It doesn't leave me feeling greasy which I do really appreciate... These don't give crazy moisture but they do give good moisture.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "The texture is definitely very very creamy... It doesn't leave me feeling greasy which I do really appreciate."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 5,
+                "context_quote": "The full size not these retails for $15 each. And I'm pretty sure it's like 4.7 ounces."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It doesn't leave me feeling greasy which I do really appreciate."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 85,
+        "visual_timestamp_seconds": 84,
+        "confidence_score": 95,
+        "video_id": "qyRrkUYLkXA",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260505",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Fat Oil Body Oil",
+        "product_category": "Bodycare",
+        "sub_category": "Body Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Prominent scent and bronzy shimmer, but leaves an oily feel.",
+        "anchor_quote": "Two of the body oils have that shimmer in them. This is one of them definitely very bronzy. It's rub this in so you can really see the shine. When you layer it with the body butter it goes crazy... I definitely don't love the way it feels on my hands afterwards though because I am not a fan of the oily feeling. Feeling that at all it's definitely not a dry oil... the fragrance in the body oil is definitely more prominent.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "I definitely don't love the way it feels on my hands afterwards though because I am not a fan of the oily feeling. Feeling that at all it's definitely not a dry oil."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "it retails for $18 which is high for nicks I feel like."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "Two of the body oils have that shimmer in them. This is one of them definitely very bronzy. It's rub this in so you can really see the shine. When you layer it with the body butter it goes crazy."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 126,
+        "visual_timestamp_seconds": 123,
+        "confidence_score": 95,
+        "video_id": "qyRrkUYLkXA",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260505",
+        "creator_location": "Unknown"
     }
 ]
