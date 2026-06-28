@@ -39,6 +39,14 @@ const normalizeBrand = (brand: string): string => {
   return brand;
 };
 
+// NEW: Force consistent casing and spelling for products
+const normalizeProduct = (product: string): string => {
+  if (!product) return 'Unknown Product';
+  let cleaned = product.toLowerCase().replace(/\b\w/g, s => s.toUpperCase());
+  cleaned = cleaned.replace(/Colour/g, 'Color');
+  return cleaned.trim();
+};
+
 function TrendsDashboardContent() {
   const searchParams = useSearchParams();
   const urlBrand = searchParams.get('brand');
@@ -50,7 +58,11 @@ function TrendsDashboardContent() {
   const [expandedBrands, setExpandedBrands] = useState<Record<string, boolean>>(initialExpanded);
 
   const normalizedData = useMemo(() => {
-    return rawData.map(item => ({ ...item, brand_name: normalizeBrand(item.brand_name) }));
+    return rawData.map(item => ({ 
+      ...item, 
+      brand_name: normalizeBrand(item.brand_name),
+      product_name: normalizeProduct(item.product_name)
+    }));
   }, [rawData]);
 
   const toggleBrand = (brand: string) => {
@@ -116,14 +128,14 @@ function TrendsDashboardContent() {
   };
 
   return (
-    <main className="p-8 max-w-7xl mx-auto space-y-8 w-full">
+    <main className="p-4 md:p-8 max-w-7xl mx-auto space-y-8 w-full">
       <header className="flex flex-col sm:flex-row sm:justify-between sm:items-end gap-4">
         <div>
           <h1 className="text-3xl font-bold tracking-tight text-white mb-2">Granular Market Trends</h1>
           <p className="text-slate-400">Drill down from corporate brand portfolios to individual product lines.</p>
         </div>
         <select 
-          className="bg-slate-900 border border-slate-700 text-white rounded-lg px-4 py-2 focus:outline-none focus:border-sky-500"
+          className="w-full sm:w-auto bg-slate-900 border border-slate-700 text-white rounded-lg px-4 py-2 focus:outline-none focus:border-sky-500"
           value={selectedCategory}
           onChange={(e) => setSelectedCategory(e.target.value)}
         >
@@ -148,44 +160,50 @@ function TrendsDashboardContent() {
           </div>
         </div>
 
-        <div className="bg-slate-900 border border-slate-800 p-6 rounded-xl xl:col-span-2 overflow-x-auto">
+        <div className="bg-slate-900 border border-slate-800 p-4 md:p-6 rounded-xl xl:col-span-2">
           <h3 className="text-sm font-bold text-slate-300 mb-6 uppercase tracking-wider">Brand Portfolio Breakdown</h3>
-          <table className="w-full text-left border-collapse min-w-[700px]">
-            <thead>
-              <tr className="border-b border-slate-800">
-                <th className="p-2 text-xs text-gray-500 font-semibold">BRAND / PRODUCT ENTITY</th>
-                {attributesList.map(attr => (
-                  <th key={attr} className="p-2 text-xs text-gray-500 font-semibold text-center">
-                    {attr.replace('_', ' ').toUpperCase()}
-                  </th>
-                ))}
-              </tr>
-            </thead>
-            <tbody>
-              {Object.entries(hierarchicalMatrix).map(([brand, dataNode]) => {
-                const isExpanded = !!expandedBrands[brand];
-                return (
-                  <tr key={brand} className="contents">
-                    <tr className="border-b border-slate-800/80 bg-slate-900/60 hover:bg-slate-800/30 transition-colors cursor-pointer" onClick={() => toggleBrand(brand)}>
-                      <td className="p-3 text-sm font-bold text-white flex items-center gap-2">
-                        {isExpanded ? <ChevronDown size={16} className="text-sky-400" /> : <ChevronRight size={16} className="text-slate-400" />}
-                        {brand}
-                      </td>
-                      {renderCells(dataNode.totalStats)}
-                    </tr>
-                    {isExpanded && Object.entries(dataNode.products).map(([prodName, prodScores]) => (
-                      <tr key={prodName} className="border-b border-slate-800/30 bg-slate-950/40 hover:bg-slate-950/80 transition-colors">
-                        <td className="p-3 pl-10 text-xs font-medium text-slate-400 italic">
-                          ↳ {prodName}
+          
+          {/* MOBILE FIX: Allow horizontal scrolling for the table */}
+          <div className="w-full overflow-x-auto pb-4 custom-scrollbar">
+            <table className="w-full text-left border-collapse min-w-[700px]">
+              <thead>
+                <tr className="border-b border-slate-800">
+                  <th className="p-2 text-xs text-gray-500 font-semibold">BRAND / PRODUCT ENTITY</th>
+                  {attributesList.map(attr => (
+                    <th key={attr} className="p-2 text-xs text-gray-500 font-semibold text-center">
+                      {attr.replace('_', ' ').toUpperCase()}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {Object.entries(hierarchicalMatrix).map(([brand, dataNode]) => {
+                  const isExpanded = !!expandedBrands[brand];
+                  return (
+                    <tr key={brand} className="contents">
+                      <tr className="border-b border-slate-800/80 bg-slate-900/60 hover:bg-slate-800/30 transition-colors cursor-pointer" onClick={() => toggleBrand(brand)}>
+                        <td className="p-3 text-sm font-bold text-white flex items-center gap-2">
+                          {isExpanded ? <ChevronDown size={16} className="text-sky-400" /> : <ChevronRight size={16} className="text-slate-400" />}
+                          {brand}
                         </td>
-                        {renderCells(prodScores)}
+                        {renderCells(dataNode.totalStats)}
                       </tr>
-                    ))}
-                  </tr>
-                );
-              })}
-            </tbody>
-          </table>
+                      {isExpanded && Object.entries(dataNode.products)
+                        .sort(([a], [b]) => a.localeCompare(b))
+                        .map(([prodName, prodScores]) => (
+                        <tr key={prodName} className="border-b border-slate-800/30 bg-slate-950/40 hover:bg-slate-950/80 transition-colors">
+                          <td className="p-3 pl-10 text-xs font-medium text-slate-400 italic">
+                            ↳ {prodName}
+                          </td>
+                          {renderCells(prodScores)}
+                        </tr>
+                      ))}
+                    </tr>
+                  );
+                })}
+              </tbody>
+            </table>
+          </div>
         </div>
       </div>
     </main>
