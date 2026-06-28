@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from 'react';
 import { useRouter } from 'next/navigation';
-import { Search, TrendingUp, Radio, Scale, AlertCircle } from 'lucide-react';
+import { Search, TrendingUp, Radio, Scale, AlertCircle, TrendingDown, Flame } from 'lucide-react';
 import entityData from '../data/extracted_entities.json';
 
 const BRAND_MAPPING: Record<string, string> = {
@@ -29,16 +29,56 @@ export default function SearchHub() {
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedBrand, setSelectedBrand] = useState<string | null>(null);
 
+  const rawData = entityData as any[];
+
+  // 1. Data Processing for Autocomplete
   const uniqueBrands = useMemo(() => {
-    const rawBrands = (entityData as any[]).map(d => normalizeBrand(d.brand_name));
+    const rawBrands = rawData.map(d => normalizeBrand(d.brand_name));
     return Array.from(new Set(rawBrands)).sort();
-  }, []);
+  }, [rawData]);
 
   const filteredBrands = useMemo(() => {
     if (!searchQuery) return [];
     return uniqueBrands.filter(b => b.toLowerCase().includes(searchQuery.toLowerCase()));
   }, [searchQuery, uniqueBrands]);
 
+  // 2. Compute Dynamic Global Insights
+  const globalPulse = useMemo(() => {
+    const attrStats: Record<string, { total: number; count: number }> = {};
+    const brandCounts: Record<string, number> = {};
+
+    rawData.forEach(item => {
+      // Track Brand Volume
+      const normalized = normalizeBrand(item.brand_name);
+      brandCounts[normalized] = (brandCounts[normalized] || 0) + 1;
+
+      // Track Attribute Sentiment
+      item.attributes?.forEach((attr: any) => {
+        if (!attrStats[attr.attribute]) attrStats[attr.attribute] = { total: 0, count: 0 };
+        attrStats[attr.attribute].total += attr.sentiment_score;
+        attrStats[attr.attribute].count += 1;
+      });
+    });
+
+    // Calculate Averages and Sort
+    const averages = Object.entries(attrStats).map(([name, stats]) => ({
+      name: name.replace('_', ' '),
+      avg: stats.total / stats.count
+    })).filter(a => !isNaN(a.avg));
+
+    averages.sort((a, b) => b.avg - a.avg);
+
+    // Get Top Brand
+    const topBrand = Object.entries(brandCounts).sort((a, b) => b[1] - a[1])[0];
+
+    return {
+      topAttribute: averages[0],
+      worstAttribute: averages[averages.length - 1],
+      mostDiscussed: { name: topBrand?.[0] || 'N/A', count: topBrand?.[1] || 0 }
+    };
+  }, [rawData]);
+
+  // 3. Action Handlers
   const handleSelectBrand = (brand: string) => {
     setSelectedBrand(brand);
     setSearchQuery(brand);
@@ -52,14 +92,64 @@ export default function SearchHub() {
   };
 
   return (
-    <main className="min-h-[80vh] flex flex-col items-center justify-center p-8 max-w-4xl mx-auto w-full">
-      <div className="text-center mb-12 w-full">
+    <main className="min-h-[85vh] flex flex-col items-center justify-center p-8 max-w-5xl mx-auto w-full">
+      
+      {/* Header */}
+      <div className="text-center mb-10 w-full">
         <h1 className="text-5xl font-extrabold tracking-tight text-white mb-4">
           Insight<span className="text-sky-400">Engine</span>
         </h1>
         <p className="text-slate-400 text-lg">Central Intelligence & Market Routing Hub</p>
       </div>
 
+      {/* Global Market Pulse Cards */}
+      {!selectedBrand && (
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 w-full max-w-4xl mb-12 animate-in fade-in duration-500">
+          <div className="bg-slate-900/50 border border-slate-800 p-5 rounded-xl flex items-center gap-4">
+            <div className="p-3 bg-emerald-500/10 rounded-lg">
+              <TrendingUp className="text-emerald-400" size={24} />
+            </div>
+            <div>
+              <p className="text-xs font-bold text-slate-500 uppercase tracking-wider mb-1">Top Market Driver</p>
+              <p className="text-sm text-slate-200">
+                <span className="font-bold text-white">{globalPulse.topAttribute?.name || 'N/A'}</span> scores highest market-wide
+                <span className="ml-2 text-emerald-400 font-mono text-xs bg-emerald-950 px-1.5 py-0.5 rounded">
+                  +{globalPulse.topAttribute?.avg.toFixed(1)}
+                </span>
+              </p>
+            </div>
+          </div>
+
+          <div className="bg-slate-900/50 border border-slate-800 p-5 rounded-xl flex items-center gap-4">
+            <div className="p-3 bg-rose-500/10 rounded-lg">
+              <TrendingDown className="text-rose-400" size={24} />
+            </div>
+            <div>
+              <p className="text-xs font-bold text-slate-500 uppercase tracking-wider mb-1">Major Friction Point</p>
+              <p className="text-sm text-slate-200">
+                <span className="font-bold text-white">{globalPulse.worstAttribute?.name || 'N/A'}</span> requires immediate attention
+                <span className="ml-2 text-rose-400 font-mono text-xs bg-rose-950 px-1.5 py-0.5 rounded">
+                  {globalPulse.worstAttribute?.avg.toFixed(1)}
+                </span>
+              </p>
+            </div>
+          </div>
+
+          <div className="bg-slate-900/50 border border-slate-800 p-5 rounded-xl flex items-center gap-4">
+            <div className="p-3 bg-sky-500/10 rounded-lg">
+              <Flame className="text-sky-400" size={24} />
+            </div>
+            <div>
+              <p className="text-xs font-bold text-slate-500 uppercase tracking-wider mb-1">Highest Velocity Brand</p>
+              <p className="text-sm text-slate-200">
+                <span className="font-bold text-white">{globalPulse.mostDiscussed.name}</span> leads conversation volume
+              </p>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Main Search Component */}
       <div className="w-full max-w-2xl relative">
         <div className="relative">
           <Search className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500" size={24} />
@@ -75,6 +165,7 @@ export default function SearchHub() {
           />
         </div>
 
+        {/* Autocomplete Dropdown */}
         {searchQuery && !selectedBrand && (
           <div className="absolute w-full mt-2 bg-slate-900 border border-slate-800 rounded-xl shadow-2xl overflow-hidden z-50">
             {filteredBrands.length > 0 ? (
@@ -99,6 +190,7 @@ export default function SearchHub() {
           </div>
         )}
 
+        {/* Routing Actions (Appears after selection) */}
         {selectedBrand && (
           <div className="mt-8 animate-in fade-in slide-in-from-top-4 duration-300">
             <h3 className="text-sm font-bold text-slate-500 uppercase tracking-wider mb-4 text-center">
@@ -132,6 +224,7 @@ export default function SearchHub() {
             </div>
           </div>
         )}
+
       </div>
     </main>
   );
