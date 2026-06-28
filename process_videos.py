@@ -68,8 +68,9 @@ CANONICAL_BRANDS = {
 
 class Entity(BaseModel):
     brand_name: str = Field(description="The brand being discussed.")
-    product_name: str = Field(description="The specific product name.")
-    product_category: str = Field(description="High-level category (e.g., Makeup, Skincare, Haircare).")
+    product_name: str = Field(description="The CORE product name only (e.g., Fit Me Foundation). Do not include shades here.")
+    specific_variant: Optional[str] = Field(description="The specific shade name, number, color, or scent if explicitly mentioned (e.g., Shade 220, Vanilla). Null if not mentioned.")
+    product_category: str
     sub_category: str = Field(description="Specific sub-category (e.g., Tubing Mascara, Liquid Blush, Setting Spray).")
     
     # New Payload: Ingredients & Demographics
@@ -207,7 +208,160 @@ YOUTUBE_URLS = [
     "https://www.youtube.com/shorts/OzvH57IsIqo",
     "https://www.youtube.com/shorts/liLFDta31v4",
     "https://www.youtube.com/shorts/Vn2W3I7J4KQ",
-    "https://www.youtube.com/shorts/GbhFTW5UZe0"
+    "https://www.youtube.com/shorts/GbhFTW5UZe0",
+    "https://www.youtube.com/shorts/FwXnG0jlHlY",   ##L'Oreal vs Maybelline Mascara Showdown
+    "https://www.youtube.com/shorts/89iqQuXV1_Q",   ##L'Oreal vs Maybelline: Volume vs Length
+    "https://www.youtube.com/shorts/J3SzHO-gmk8",   ##Loreal Lacquer vs Maybelline Vinyl Ink (#notsponsored)
+    "https://www.youtube.com/shorts/drCXYiPtwEA",   ##L'Oreal Infallible vs Maybelline Superstay foundation wear test
+    "https://www.youtube.com/shorts/7vRcdzTSgas",   ##Maybelline vs L'Oreal
+    "https://www.youtube.com/shorts/t0KmQXpE-CI",   ##Maybelline Firework vs NEW L'Oreal Panorama Mascara Battle
+    "https://www.youtube.com/shorts/kuxEihXeoXE",   ##Can Influencer Beauty Brands Really Last? The Maybelline Case
+    "https://www.youtube.com/shorts/wiuhgQrsLn8",   ##Charlotte Tilbury Pillow Talk Intense vs L'Oreal Worth It Intense
+    "https://www.youtube.com/shorts/ZnbcXrJ9toA",   ##L'Oreal duping Charlotte Tilbury Pillow Talk
+    "https://www.youtube.com/shorts/A2zR6p1EyLo",   ##Charlotte Tilbury vs L'Oreal Mascara: First Coat Results
+    "https://www.youtube.com/shorts/Y4vFooXsRkE",   ##Charlotte Tilbury vs L'Oreal Mascara: Second Coat Results
+    "https://www.youtube.com/shorts/0emrrlxx1fY",   ##L'Oreal vs Charlotte Tilbury Mascara: Dramatic Lashes
+    "https://www.youtube.com/shorts/9acLGcdX4XY",   ##Revlon vs L'Oreal Mascara: The Winner Will Surprise You!
+    "https://www.youtube.com/shorts/DSm1dXfREpQ",   ##NEW Drugstore: L'Oreal, Makeup Revolution, NYX honest reviews
+    "https://www.youtube.com/shorts/djSKC12wMpU",   ##NYX Cosmetics Honest Review – What Worked & What Didn't
+    "https://www.youtube.com/shorts/qyRrkUYLkXA",   ##Brutally Honest Review: New NYX body line
+    "https://www.youtube.com/shorts/hUFzCOwtc_k",   ##NYX Fat Oil Lip Drip: Honest Review
+    "https://www.youtube.com/shorts/joJfTcspEQM",   ##Honest Review: NYX Butter Gloss
+    "https://www.youtube.com/shorts/DW6vpBHdz3I",   ##NYX Liquid Eyeliner: Honest Review & Color Swatches
+    "https://www.youtube.com/shorts/De0bB-MwGRo",   ##NYX Fat Oil Lip Drip Review: Honest Thoughts
+    "https://www.youtube.com/shorts/HOextJUTeOA",   ##NEW L'Oreal Plump Ambition Lip Oil Review (not sponsored!)
+    "https://www.youtube.com/shorts/rtSY9vsMsdI",   ##GARNIER SORBET CREAM HONEST REVIEW
+    "https://www.youtube.com/shorts/NTWvH_1ubcE",   ##GARNIER Vitamin C Water Gel: "Avoid this" (negative review)
+    "https://www.youtube.com/shorts/nFamfZKjumE",   ##Garnier Vitamin C Plus Serum Review
+    "https://www.youtube.com/shorts/8SZWm16zhnw",   ##Garnier Skinactive Micellar Cleansing Water Review
+    "https://www.youtube.com/shorts/wfRw5LMlE7o",   ##New Garnier Vitamin C Fresh & Bright Moisturiser Review
+    "https://www.youtube.com/shorts/KakOw97NHtc",   ##Derm reviews Neutrogena products
+    "https://www.youtube.com/shorts/lo5Rxc6vI54",   ##Honest Review: Neutrogena Makeup Remover Wipes
+    "https://www.youtube.com/shorts/010Ltah_8Es",  
+    "https://www.youtube.com/shorts/KS0zTCDI53M",   
+    "https://www.youtube.com/shorts/yY37hDMtQBA",   
+    "https://www.youtube.com/shorts/mA8PSQXSwS4",
+    "https://www.youtube.com/shorts/hFtBz3VSsIE",
+    "https://www.youtube.com/shorts/UsTH3ChFpdo",
+    "https://www.youtube.com/shorts/xF9uaPGcnPI",
+    "https://www.youtube.com/shorts/H4xU-bnTffM",
+    "https://www.youtube.com/shorts/XXuAowdz-RU",
+    "https://www.youtube.com/shorts/XgkiCE4l4oM",
+    "https://www.youtube.com/shorts/3cMtHfEKaC4",
+    "https://www.youtube.com/shorts/byxn0V75vdc",
+    "https://www.youtube.com/shorts/gj2Kor5Qp5o",
+    "https://www.youtube.com/shorts/rtBJkXOlxlk",
+    "https://www.youtube.com/shorts/ML5TjiyknrY",
+    "https://www.youtube.com/shorts/YoXLAwexVrs",
+    "https://www.youtube.com/shorts/01_1SfMGC9w",
+    "https://www.youtube.com/shorts/yjZUMoE5Cqs",
+    "https://www.youtube.com/shorts/a-31QCH7TGM",
+    "https://www.youtube.com/shorts/3qovAoWU57A",
+    "https://www.youtube.com/shorts/eXITFjUQHbg",
+    "https://www.youtube.com/shorts/-Hplld-kInY",
+    "https://www.youtube.com/shorts/JCmEoKLotuM",
+    "https://www.youtube.com/shorts/xpCNvj8EF7I",
+    "https://www.youtube.com/shorts/MaDwAwuUTW4",
+    "https://www.youtube.com/shorts/SBXl885A_JU",
+    "https://www.youtube.com/shorts/bT5yoBYok0o",
+    "https://www.youtube.com/shorts/G62jnMa6gG0",
+    "https://www.youtube.com/shorts/WW3wzhmVKCU",
+    "https://www.youtube.com/shorts/t0bBEzrWZAQ",
+    "https://www.youtube.com/shorts/yPyp1blpMhg",
+    "https://www.youtube.com/shorts/QIMknQ5ovbQ",
+    "https://www.youtube.com/shorts/9rhETFZsqyM",
+    "https://www.youtube.com/shorts/ovnf04cfuYQ", 
+    "https://www.youtube.com/shorts/lU9xWWQQK6s",
+    "https://www.youtube.com/shorts/0AAFt6zp0Sg",
+    "https://www.youtube.com/shorts/hPm-xTNVlic",
+    "https://www.youtube.com/shorts/UVAO8SMX47o",
+    "https://www.youtube.com/shorts/g8VHvOEGP4U",
+    "https://www.youtube.com/shorts/EP9kIvKO6tQ",
+    "https://www.youtube.com/shorts/A1NAXQY8XwY",
+    "https://www.youtube.com/shorts/2Aw8ueZsf_E",
+    "https://www.youtube.com/shorts/x1xMsNFfYKA",
+    "https://www.youtube.com/shorts/Mj1u4SPZyOM",
+    "https://www.youtube.com/shorts/mhq9I5vDX5Q",
+    "https://www.youtube.com/shorts/yjj7N4G6OAg",
+    "https://www.youtube.com/shorts/1rnslrGch9Q",
+    "https://www.youtube.com/shorts/HfNtlZaAdZo",
+    "https://www.youtube.com/shorts/dperVs5TXRQ",
+    "https://www.youtube.com/shorts/tZ-XQbAecQg",
+    "https://www.youtube.com/shorts/NXiHLOvGoYo",
+    "https://www.youtube.com/shorts/OpXbd8v1cKg",
+    "https://www.youtube.com/shorts/jG1LjA6vPs0",
+    "https://www.youtube.com/shorts/jxX3HRPUHAw",
+    "https://www.youtube.com/shorts/JaxaWIxOqGo",
+    "https://www.youtube.com/shorts/zQ3Ji-cWkYM",
+    "https://www.youtube.com/shorts/ghK0RcM08-k",
+    "https://www.youtube.com/shorts/Epy21e1hutI",
+    "https://www.youtube.com/shorts/YeEshgZLvGc",
+    "https://www.youtube.com/shorts/3myjpb_u1jQ",
+    "https://www.youtube.com/shorts/D7vGqFH8WU0",
+    "https://www.youtube.com/shorts/zR36OdMiS2s",
+    "https://www.youtube.com/shorts/RtohojcKQ64",
+    "https://www.youtube.com/shorts/XZmom4cCrBE",
+    "https://www.youtube.com/shorts/ye-2H3sGglY",
+    "https://www.youtube.com/shorts/Vemy2Rqg7bM",
+    "https://www.youtube.com/shorts/O_YEBx7TXRE",
+    "https://www.youtube.com/shorts/A9HxJoIlRO8",
+    "https://www.youtube.com/shorts/eeoCAExbAZY",
+    "https://www.youtube.com/shorts/QDJm0NsWsdY",
+    "https://www.youtube.com/shorts/rf39mYZWpu0",
+    "https://www.youtube.com/shorts/Re6Yc_a0bd0",
+    "https://www.youtube.com/shorts/Mhx5v6epyuQ",
+    "https://www.youtube.com/shorts/x3_ojZQz7Y0",
+    "https://www.youtube.com/shorts/hXtVFjZd5g4",
+    "https://www.youtube.com/shorts/iKUZdKynxC4",
+    "https://www.youtube.com/shorts/MIelfpT6V-E",
+    "https://www.youtube.com/shorts/j4THsZGs6pU",
+    "https://www.youtube.com/shorts/3o5v0_ddRn0",
+    "https://www.youtube.com/shorts/y2L24IXLpjo",
+    "https://www.youtube.com/shorts/FLYvSv2SGZY",
+    "https://www.youtube.com/shorts/6YVwjF13EjA",
+    "https://www.youtube.com/shorts/1X9xjCuRA58",
+    "https://www.youtube.com/shorts/YiqA84H9ryw",
+    "https://www.youtube.com/shorts/wjtpTPuTm5M",
+    "https://www.youtube.com/shorts/WVzCQDAWGj8",
+    "https://www.youtube.com/shorts/h5901C_TEqI",
+    "https://www.youtube.com/shorts/ATxyNxBK8uU",
+    "https://www.youtube.com/shorts/ChocWiJjLNA",
+    "https://www.youtube.com/shorts/WU_k2nwq2J4",
+    "https://www.youtube.com/shorts/yeMFR0KGoH0",
+    "https://www.youtube.com/shorts/Seoz7pnzGKU",
+    "https://www.youtube.com/shorts/s13XcjZZWz0",
+    "https://www.youtube.com/shorts/es0X97j30gM",
+    "https://www.youtube.com/shorts/Op91nnwbH8c",
+    "https://www.youtube.com/shorts/zVTwq9A1C88",
+    "https://www.youtube.com/shorts/r_zP5FYWNNc",
+    "https://www.youtube.com/shorts/YtnLZQkaXUU",
+    "https://www.youtube.com/shorts/Ub-JcobAtkA",
+    "https://www.youtube.com/shorts/_SAlIEI-CUE",
+    "https://www.youtube.com/shorts/RK2oydz-Wqc",
+    "https://www.youtube.com/shorts/11fKYY87zEA",
+    "https://www.youtube.com/shorts/_8gs1QtpCTE",
+    "https://www.youtube.com/shorts/LsonhfkDoaY",
+    "https://www.youtube.com/shorts/1FoSoJCj2O0",
+    "https://www.youtube.com/shorts/2U9TpFtSFlE",
+    "https://www.youtube.com/shorts/b17Wdg8slFE",
+    "https://www.youtube.com/shorts/MSoueAAUWWQ",
+    "https://www.youtube.com/shorts/5MIRAZ4wMpA",
+    "https://www.youtube.com/shorts/zQZxGon8bKE",
+    "https://www.youtube.com/shorts/umDrwVZBI7g",
+    "https://www.youtube.com/shorts/BpTW7a3WZxc",
+    "https://www.youtube.com/shorts/itddlwy0gBM",
+    "https://www.youtube.com/shorts/N90vjntltAw",
+    "https://www.youtube.com/shorts/pmDMsPPaM6c",
+    "https://www.youtube.com/shorts/tn_zFhh_zm0",
+    "https://www.youtube.com/shorts/GjngJjfjVdY",
+    "https://www.youtube.com/shorts/XQm8rYZjeeg",
+    "https://www.youtube.com/shorts/aQhsafHpaN4",
+    "https://www.youtube.com/shorts/Ix4E0knz_kQ",
+    "https://www.youtube.com/shorts/gWSqON_e7SA",
+    "https://www.youtube.com/shorts/5VStwp54GoE",
+    "https://www.youtube.com/shorts/OXpDy7yHu_E",
+    "https://www.youtube.com/shorts/LrefRmHGCiM",  
+    "https://www.youtube.com/shorts/W0BIMzWSYyU"   
 ]
 
 # ==========================================
@@ -294,7 +448,7 @@ def main():
             
             prompt_contents = [
                 "You are an expert beauty industry data analyst and cosmetic chemist. Analyze this video's text, transcript, and visual frames.",
-                "1. Identify every beauty product present.",
+                "1. Identify every beauty product present. Extract the CORE product name only. Strip out all specific shade names, shade numbers, or colors (e.g., if the creator says 'Color Riche Satin Lipstick in shade 570', output EXACTLY 'Color Riche Satin Lipstick'). Always use Title Case.",
                 "2. Extract any specific chemical formulations or active ingredients mentioned for that product (e.g., Peptides, Hyaluronic Acid). Do not guess ingredients if they are not explicitly stated.",
                 "3. Analyze the creator's physical demographics. Deduce their Fitzpatrick skin tone and age bracket based on the visual frames. Identify their skin type based on transcript context or visual cues. If lighting/filters make this impossible, or the creator's face is not shown, you MUST output 'Unknown'.",
                 "4. Rate individual product attributes and log competitor benchmarks exactly matching the database schema properties.",
