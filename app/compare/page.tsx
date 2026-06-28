@@ -39,13 +39,25 @@ const normalizeBrand = (brand: string): string => {
   return brand;
 };
 
+// NEW: Force consistent casing and spelling for products
+const normalizeProduct = (product: string): string => {
+  if (!product) return 'Unknown Product';
+  let cleaned = product.toLowerCase().replace(/\b\w/g, s => s.toUpperCase());
+  cleaned = cleaned.replace(/Colour/g, 'Color');
+  return cleaned.trim();
+};
+
 function CompareDashboardContent() {
   const searchParams = useSearchParams();
   const urlBrandA = searchParams.get('brandA');
 
   const rawData = entityData as Insight[];
   const normalizedData = useMemo(() => {
-    return rawData.map(item => ({ ...item, brand_name: normalizeBrand(item.brand_name) }));
+    return rawData.map(item => ({ 
+      ...item, 
+      brand_name: normalizeBrand(item.brand_name),
+      product_name: normalizeProduct(item.product_name)
+    }));
   }, [rawData]);
 
   const uniqueBrands = useMemo(() => 
@@ -61,12 +73,12 @@ function CompareDashboardContent() {
 
   const productsForA = useMemo(() => {
     const list = normalizedData.filter(d => d.brand_name === brandA).map(d => d.product_name);
-    return ['All', ...Array.from(new Set(list))];
+    return ['All', ...Array.from(new Set(list)).sort()];
   }, [brandA, normalizedData]);
 
   const productsForB = useMemo(() => {
     const list = normalizedData.filter(d => d.brand_name === brandB).map(d => d.product_name);
-    return ['All', ...Array.from(new Set(list))];
+    return ['All', ...Array.from(new Set(list)).sort()];
   }, [brandB, normalizedData]);
 
   const attributesList = ["Application_Ease", "Color_Accuracy", "Longevity", "Texture", "Value", "Packaging"];
@@ -120,18 +132,18 @@ function CompareDashboardContent() {
   }, [metricsA, metricsB]);
 
   return (
-    <main className="p-8 max-w-7xl mx-auto space-y-8 w-full">
+    <main className="p-4 md:p-8 max-w-7xl mx-auto space-y-8 w-full">
       <header>
         <h1 className="text-3xl font-bold tracking-tight text-white mb-2">Granular Product Comparison</h1>
         <p className="text-slate-400">Head-to-head multi-axis benchmarking and formulation sentiment.</p>
       </header>
 
-      <div className="bg-slate-900 border border-slate-800 p-6 rounded-xl w-full h-[400px] flex items-center justify-center">
+      <div className="bg-slate-900 border border-slate-800 p-2 md:p-6 rounded-xl w-full h-[350px] md:h-[400px] flex items-center justify-center">
         {metricsA || metricsB ? (
           <ResponsiveContainer width="100%" height="100%">
-            <RadarChart cx="50%" cy="50%" outerRadius="70%" data={radarData}>
+            <RadarChart cx="50%" cy="50%" outerRadius="60%" data={radarData}>
               <PolarGrid stroke="#334155" />
-              <PolarAngleAxis dataKey="attribute" tick={{ fill: '#94a3b8', fontSize: 12 }} />
+              <PolarAngleAxis dataKey="attribute" tick={{ fill: '#94a3b8', fontSize: 10 }} />
               <PolarRadiusAxis angle={30} domain={[-10, 10]} tick={{ fill: '#64748b' }} axisLine={false} />
               <Tooltip contentStyle={{ backgroundColor: '#0f172a', border: '1px solid #334155', borderRadius: '8px', color: '#fff' }} />
               <Legend wrapperStyle={{ paddingTop: '20px' }} />
