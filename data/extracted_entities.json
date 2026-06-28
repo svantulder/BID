@@ -6066,5 +6066,179 @@
         "influencer": "Hannah Campbell",
         "upload_date": "20260505",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "Exagger-Eyes Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides great enhancement, definition, and clean application without clumps or heaviness.",
+        "anchor_quote": "I think if you really want that great enhancement to the lashes, this is a really solid option",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "It's still very clean. There's no clumps. There's no heaviness."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "The lashes remain soft and flexible."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": ""
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Or\u00e9al",
+                "competitor_product": "Voluminous Panorama Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Y4vFooXsRkE",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260411",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Voluminous Panorama Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers thicker, longer, more fanned-out lashes with noticeable volume and separation.",
+        "anchor_quote": "You're going to see your lashes will be thicker, longer, morphant out. Noticed the more volume and the lashes are still separated while adding that intensity.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": ""
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Exagger-Eyes Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 19,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Y4vFooXsRkE",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260411",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Butter Gloss",
+        "specific_variant": "Cinema Roll",
+        "product_category": "Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Highly recommended, moisturizing, and buildable lip gloss.",
+        "anchor_quote": "Honestly, I really like this lip gloss and I'll definitely repurchase.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "This lip gloss is very moisturizing"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "it's a gorgeous, grazed brown"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "you can put two layers to make the color more vivid"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "joJfTcspEQM",
+        "influencer": "Irina Pushkareva",
+        "upload_date": "20251209",
+        "creator_location": "Unknown"
     }
 ]
