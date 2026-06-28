@@ -1,8 +1,9 @@
 'use client';
 
 import { useState, useMemo, Suspense } from 'react';
-import { useSearchParams } from 'next/navigation';
+import { useSearchParams, useRouter } from 'next/navigation';
 import { Radar, RadarChart, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer, Tooltip, Legend } from 'recharts';
+import { AlertOctagon, TrendingDown, TrendingUp } from 'lucide-react';
 import entityData from '../../data/extracted_entities.json';
 
 interface AttributeScore {
@@ -16,6 +17,7 @@ interface Insight {
   product_name: string;
   product_category: string;
   overall_sentiment: 'positive' | 'negative' | 'neutral' | 'mixed';
+  specific_variant?: string;
   active_ingredients?: string[];
   attributes?: AttributeScore[];
 }
@@ -39,7 +41,6 @@ const normalizeBrand = (brand: string): string => {
   return brand;
 };
 
-// NEW: Force consistent casing and spelling for products
 const normalizeProduct = (product: string): string => {
   if (!product) return 'Unknown Product';
   let cleaned = product.toLowerCase().replace(/\b\w/g, s => s.toUpperCase());
@@ -47,7 +48,93 @@ const normalizeProduct = (product: string): string => {
   return cleaned.trim();
 };
 
+function AnomalyDetectionPanel({ data, minimumSampleVolume = 3, onNavigate }: { data: any[], minimumSampleVolume?: number, onNavigate: (b: string, p: string, v: string) => void }) {
+  const anomalies = useMemo(() => {
+    const productStats: Record<string, { brand: string, product: string, globalScores: number[]; variants: Record<string, number[]> }> = {};
+
+    data.forEach(insight => {
+      if (!insight.specific_variant || insight.specific_variant === "Unknown") return;
+      const prodKey = `${insight.brand_name}::${insight.product_name}`;
+      const variant = insight.specific_variant;
+      
+      if (!productStats[prodKey]) {
+        productStats[prodKey] = { brand: insight.brand_name, product: insight.product_name, globalScores: [], variants: {} };
+      }
+      if (!productStats[prodKey].variants[variant]) {
+        productStats[prodKey].variants[variant] = [];
+      }
+
+      const avgScore = insight.attributes?.reduce((sum: number, attr: any) => sum + attr.sentiment_score, 0) / (insight.attributes?.length || 1);
+      if (!isNaN(avgScore)) {
+        productStats[prodKey].globalScores.push(avgScore);
+        productStats[prodKey].variants[variant].push(avgScore);
+      }
+    });
+
+    const flagged: any[] = [];
+    Object.entries(productStats).forEach(([prodKey, stats]) => {
+      if (stats.globalScores.length < minimumSampleVolume * 2) return;
+      const globalMean = stats.globalScores.reduce((a, b) => a + b, 0) / stats.globalScores.length;
+      const stdDev = Math.sqrt(stats.globalScores.map(v => Math.pow(v - globalMean, 2)).reduce((a, b) => a + b, 0) / stats.globalScores.length);
+
+      Object.entries(stats.variants).forEach(([variant, scores]) => {
+        if (scores.length < minimumSampleVolume) return;
+        const variantMean = scores.reduce((a, b) => a + b, 0) / scores.length;
+        const diff = variantMean - globalMean;
+        if (Math.abs(diff) > (stdDev * 1.5)) {
+          flagged.push({ brand: stats.brand, product: stats.product, variant, globalMean, variantMean, deviation: diff, sampleSize: scores.length });
+        }
+      });
+    });
+
+    return flagged.sort((a, b) => Math.abs(b.deviation) - Math.abs(a.deviation));
+  }, [data, minimumSampleVolume]);
+
+  if (anomalies.length === 0) return null;
+
+  return (
+    <div className="bg-slate-900 border border-slate-800 rounded-xl p-6 mt-8 w-full">
+      <div className="flex items-center gap-2 mb-6">
+        <AlertOctagon className="text-rose-500" size={20} />
+        <h3 className="text-sm font-bold text-slate-300 uppercase tracking-wider">Statistically Significant Anomalies</h3>
+      </div>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {anomalies.map((anomaly, idx) => {
+          const isNegative = anomaly.deviation < 0;
+          return (
+            <div 
+              key={idx} 
+              onClick={() => onNavigate(anomaly.brand, anomaly.product, anomaly.variant)}
+              className="bg-slate-950 border border-slate-800 hover:border-sky-500/50 p-4 rounded-lg cursor-pointer transition-colors"
+            >
+              <p className="text-xs text-slate-400 font-bold mb-1">{anomaly.brand} · {anomaly.product}</p>
+              <p className="text-lg font-extrabold text-white mb-3">Variant: {anomaly.variant}</p>
+              <div className="flex items-center justify-between text-sm">
+                <div>
+                  <p className="text-[10px] text-slate-500 uppercase tracking-wider">Prod Mean</p>
+                  <p className="font-mono text-slate-300">{anomaly.globalMean.toFixed(2)}</p>
+                </div>
+                <div>
+                  <p className="text-[10px] text-slate-500 uppercase tracking-wider">Var Mean</p>
+                  <p className={`font-mono font-bold ${isNegative ? 'text-rose-400' : 'text-emerald-400'}`}>
+                    {anomaly.variantMean.toFixed(2)}
+                  </p>
+                </div>
+                <div className={`flex items-center gap-1 ${isNegative ? 'bg-rose-950 text-rose-400' : 'bg-emerald-950 text-emerald-400'} px-2 py-1 rounded`}>
+                  {isNegative ? <TrendingDown size={14} /> : <TrendingUp size={14} />}
+                  <span className="font-bold text-xs">{Math.abs(anomaly.deviation).toFixed(2)}Δ</span>
+                </div>
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
 function CompareDashboardContent() {
+  const router = useRouter();
   const searchParams = useSearchParams();
   const urlBrandA = searchParams.get('brandA');
 
@@ -82,6 +169,14 @@ function CompareDashboardContent() {
   }, [brandB, normalizedData]);
 
   const attributesList = ["Application_Ease", "Color_Accuracy", "Longevity", "Texture", "Value", "Packaging"];
+
+  const handleDeepLink = (brand: string, product: string, variant?: string) => {
+    const params = new URLSearchParams();
+    params.set('brand', brand);
+    params.set('product', product);
+    if (variant) params.set('variant', variant);
+    router.push(`/feed?${params.toString()}`);
+  };
 
   const computeMetrics = (targetBrand: string, targetProduct: string) => {
     const subset = normalizedData.filter(d => 
@@ -130,6 +225,11 @@ function CompareDashboardContent() {
       CompetitorB: metricsB?.averages[attr] || 0,
     }));
   }, [metricsA, metricsB]);
+
+  // Only show anomalies for the two brands currently being compared
+  const anomalySubset = useMemo(() => {
+    return normalizedData.filter(d => d.brand_name === brandA || d.brand_name === brandB);
+  }, [normalizedData, brandA, brandB]);
 
   return (
     <main className="p-4 md:p-8 max-w-7xl mx-auto space-y-8 w-full">
@@ -193,7 +293,10 @@ function CompareDashboardContent() {
                                          tag.score < -0.2 ? 'bg-rose-950 text-rose-400 border-rose-800/50' : 
                                          'bg-slate-800 text-slate-300 border-slate-700';
                       return (
-                        <span key={tag.name} className={`px-2 py-1 rounded text-xs font-medium border ${colorClass}`}>
+                        <span 
+                          key={tag.name} 
+                          className={`px-2 py-1 rounded text-xs font-medium border ${colorClass}`}
+                        >
                           {tag.name}
                         </span>
                       );
@@ -255,7 +358,10 @@ function CompareDashboardContent() {
                                          tag.score < -0.2 ? 'bg-rose-950 text-rose-400 border-rose-800/50' : 
                                          'bg-slate-800 text-slate-300 border-slate-700';
                       return (
-                        <span key={tag.name} className={`px-2 py-1 rounded text-xs font-medium border ${colorClass}`}>
+                        <span 
+                          key={tag.name} 
+                          className={`px-2 py-1 rounded text-xs font-medium border ${colorClass}`}
+                        >
                           {tag.name}
                         </span>
                       );
@@ -281,6 +387,8 @@ function CompareDashboardContent() {
           )}
         </div>
       </div>
+
+      <AnomalyDetectionPanel data={anomalySubset} onNavigate={handleDeepLink} />
     </main>
   );
 }
