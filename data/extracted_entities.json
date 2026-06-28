@@ -4030,5 +4030,1704 @@
         "influencer": "Makeup By Nikki La Rose",
         "upload_date": "20251029",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode Skin",
+        "product_name": "Glazing Milk",
+        "product_category": "Skincare",
+        "sub_category": "Toner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Glazing Milk exceeded expectations, boosting hydration and combating acne.",
+        "anchor_quote": "This product really lived up to all of my expectations",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "This product first of all was a great first base for all of my skincare products."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It had a toner essence feel that seemed to boost the level of hydration of all of the other skincare products that I followed."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "ObKz1PMr1mY",
+        "influencer": "alex greyson",
+        "upload_date": "20240121",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Voluminous Panorama mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers dramatic volume, length, and fanned-out lashes with great value.",
+        "anchor_quote": "With the loyal voluminous Panna Ramma mascara on the second coat, you're going to see your lashes will be thicker longer more fanned out noticeably more volume and the lashes are still separated while adding that intensity... It's honestly a really great performing drugstore mascara.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's going to give you great volume lift and it builds beautifully from that first coat to second coat."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "It's honestly a really great performing drugstore mascara."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "the lashes are still separated while adding that intensity"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Exagger-Eyes mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "0emrrlxx1fY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260410",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "Exagger-Eyes mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Versatile mascara for natural to bolder, lifted, separated lashes with comfort.",
+        "anchor_quote": "I think the Charlotte Tilbury is definitely versatile in the sense that you can get that more natural lifted every day lash. You're going to get great separation and comfort. It builds really really nicely. So on that second coat, you're going to get even bolder lashes which I love.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It builds really really nicely. So on that second coat, you're going to get even bolder lashes which I love."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "You're going to get great separation and comfort."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Or\u00e9al",
+                "competitor_product": "Voluminous Panorama mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 15,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "0emrrlxx1fY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260410",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "Exagger-Eyes mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides natural, polished definition, lift, and separation.",
+        "anchor_quote": "it gives instant definition and lift, which I love. The lashes look longer and cleaner. It's a very natural polished finish. The lashes separate beautifully with no clumping and it's just gives you like your lashes, but better look. Just absolutely love it.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "The lashes look longer and cleaner. It's a very natural polished finish. The lashes separate beautifully with no clumping and it's just gives you like your lashes, but better look."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "The lashes separate beautifully with no clumping"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Voluminous Panorama mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "A2zR6p1EyLo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260411",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Voluminous Panorama mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers noticeable lift, fan effect, and dramatic, eye-opening look.",
+        "anchor_quote": "you're going to see immediately noticeable lift and that fan effect. The lashes look wider and more open. You're going to get great separation, especially at the outer corners. And it looks more dramatic than the Charlotte Tilbury after the first coat.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "you're going to see immediately noticeable lift and that fan effect. The lashes look wider and more open. You're going to get great separation, especially at the outer corners. And it looks more dramatic than the Charlotte Tilbury after the first coat."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "You're going to get great separation, especially at the outer corners."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Exagger-Eyes mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 21,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "A2zR6p1EyLo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260411",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "K.I.S.S.I.N.G - Pillow Talk 3. Intense",
+        "product_category": "Makeup",
+        "sub_category": "Satin Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Iconic but L'Oreal dupe is creamier, deeper, and better value.",
+        "anchor_quote": "I'm not the biggest fan. And I like it more on my skin than the Charlotte Tilbury side.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -3,
+                "context_quote": "the l'Oreal side is a lot creamier and deeper. And I like it more on my skin than the Charlotte Tilbury side."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "One\u2019s a splurge"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -3,
+                "context_quote": "And I like it more on my skin than the Charlotte Tilbury side."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "CT is iconic and feels super luxe"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal Paris",
+                "competitor_product": "Color Riche Satin Lipstick - 570 Worth It Intense",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "wiuhgQrsLn8",
+        "influencer": "Jovita George",
+        "upload_date": "20250505",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal Paris",
+        "product_name": "Color Riche Satin Lipstick - 570 Worth It Intense",
+        "product_category": "Makeup",
+        "sub_category": "Satin Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Superior dupe: creamy, rich pigment, budget-friendly, great for deeper skin.",
+        "anchor_quote": "The L\u2019Or\u00e9al one seriously impressed me! It glides on like butter, has rich pigment, and looks chef\u2019s kiss on deeper skin tones.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "It glides on like butter"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "has rich pigment, and looks chef\u2019s kiss on deeper skin tones."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "the l'Oreal side is a lot creamier"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "at a way more budget-friendly price."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "K.I.S.S.I.N.G - Pillow Talk 3. Intense",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 13,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 95,
+        "video_id": "wiuhgQrsLn8",
+        "influencer": "Jovita George",
+        "upload_date": "20250505",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "Pillow Talk Medium",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Overpriced, uninclusive, and falsely marketed as a universal nude.",
+        "anchor_quote": "do you guys ever wondering what my problem is with Charlotte Tilbury and it's mostly just the false marketing and how expensive and uninclusive the products are?",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -8,
+                "context_quote": "how expensive and uninclusive the products are?"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "pillow talk is marketed as the perfect nude for everyone. But keep in mind they only make darker pillow talk shades in the lipsticks, in the blush, in the holiday collection. They never release super pillow talk shades."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Colour Riche Lipstick shade Worth It Medium",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "ZnbcXrJ9toA",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20240919",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Colour Riche Lipstick shade Worth It Medium",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "An affordable, similar, and better formula dupe for Charlotte Tilbury Pillow Talk Medium.",
+        "anchor_quote": "Actually like the formula of this way more. That's crazy. That almost looks the exact same and it's actually like a really good neutral shape for my stintone.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "These lipsticks are like $12"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Actually like the formula of this way more."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "That almost looks the exact same and it's actually like a really good neutral shape for my stintone."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Pillow Talk Medium",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 36,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 95,
+        "video_id": "ZnbcXrJ9toA",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20240919",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "Pillow Talk",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Too orange and drying compared to L'Or\u00e9al.",
+        "anchor_quote": "So Charlotte Tilbury has the pillow talk line in their lipsticks, but notoriously, they are so orange and warm tone. Personally, I find the Charlotte Tilbury matte lipstick is a little bit drying",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "notoriously, they are so orange and warm tone."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "Personally, I find the Charlotte Tilbury matte lipstick is a little bit drying"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Or\u00e9al",
+                "competitor_product": "Worth It",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Ycra1ir-Tck",
+        "influencer": "Anna Pothier",
+        "upload_date": "20251220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Worth It",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A better, cooler-toned, less drying alternative to Pillow Talk.",
+        "anchor_quote": "And Lori Al has a range of lipsticks called Worth It. And the colors are very similar, but a little bit better. And now Lori Al Worth It is super similar to pillow talk, but just a hair more cool tone with more of that pink coming through. They are more of that sat me finish, but also so much better.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "Worth It has a lot more pink. just a hair more cool tone with more of that pink coming through. And I think a little bit more nude as well."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "They are more of that sat me finish, but also so much better."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Pillow Talk",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Ycra1ir-Tck",
+        "influencer": "Anna Pothier",
+        "upload_date": "20251220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "Pillow Talk Medium",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Cooler than original Pillow Talk, but still too warm compared to L'Or\u00e9al.",
+        "anchor_quote": "Now I love this lipstick for a long time because it was cooler tone to then the original pillow talk. But when you put it next to Lori Al Worth It medium, I mean that is just so much more cool tone.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -3,
+                "context_quote": "pillow talk medium is like a purpley brown, but looking at it next to Worth It medium, this is so much more cool tone."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "Personally, I find the Charlotte Tilbury matte lipstick is a little bit drying"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Or\u00e9al",
+                "competitor_product": "Worth It Medium",
+                "comparison_nature": "inferior"
+            },
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Pillow Talk",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 19,
+        "visual_timestamp_seconds": 19,
+        "confidence_score": 90,
+        "video_id": "Ycra1ir-Tck",
+        "influencer": "Anna Pothier",
+        "upload_date": "20251220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Worth It Medium",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A much cooler-toned and better alternative to Pillow Talk Medium.",
+        "anchor_quote": "But when you put it next to Lori Al Worth It medium, I mean that is just so much more cool tone. They are more of that sat me finish, but also so much better.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "looking at it next to Worth It medium, this is so much more cool tone."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "They are more of that sat me finish, but also so much better."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Pillow Talk Medium",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 19,
+        "visual_timestamp_seconds": 19,
+        "confidence_score": 90,
+        "video_id": "Ycra1ir-Tck",
+        "influencer": "Anna Pothier",
+        "upload_date": "20251220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Revitalift Clinical pure 12% vitamin C+E+ Salicylic serum",
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Vitamin C",
+            "Vitamin E",
+            "Salicylic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Lightweight serum brightens skin effectively.",
+        "anchor_quote": "This serum is gorgeous, it's super lightweight. I like to apply it first thing in the morning and I find that it really helps to brighten my skin.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it's super lightweight"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I like to apply it first thing in the morning"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 100,
+        "video_id": "vFqcljQbNIM",
+        "influencer": "Heather La-Belle",
+        "upload_date": "20230915",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Revitalift filler 1.5% Hyaluronic Acid serum",
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hydrating serum provides a beautiful glow.",
+        "anchor_quote": "It's the Revitalia filler 1.5% Hyaluronic Acid. So hydrating and gives skin a beautiful glow.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "So hydrating and gives skin a beautiful glow."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Another serum that I feel has really changed my skin for the better is this one."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 24,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 100,
+        "video_id": "vFqcljQbNIM",
+        "influencer": "Heather La-Belle",
+        "upload_date": "20230915",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Revitalift filler micro-eperdermic Hyaluronic acid plumping water-cream",
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Best moisturizer for healthy-looking skin.",
+        "anchor_quote": "And finally the Revitalia filler Plumping Water Cream is one of the best moisturizers I've ever used. I can use it in the morning, I can use it at night and it makes my skin look so healthy.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Plumping Water Cream"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I can use it in the morning, I can use it at night"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "is one of the best moisturizers I've ever used"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 31,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 100,
+        "video_id": "vFqcljQbNIM",
+        "influencer": "Heather La-Belle",
+        "upload_date": "20230915",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Lip Butters",
+        "product_category": "Makeup",
+        "sub_category": "Lip Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Addictive texture and pleasant scents make them favorites.",
+        "anchor_quote": "This has to be one of my favorite.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "it's addicting the texture on the lips."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Their new Buttercake one is really pretty. It's like a nudie beige color."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 15,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 98,
+        "video_id": "uA8ocMRwKK4",
+        "influencer": "Henna Ali",
+        "upload_date": "20260414",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Supple Lip Glazes",
+        "product_category": "Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Long-lasting lip glazes with pretty shades.",
+        "anchor_quote": "These last on the lips for quite a while.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "These last on the lips for quite a while. I don't usually have to worry about reapplying it too many times in the day"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "and the shades are really pretty."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 37,
+        "visual_timestamp_seconds": 39,
+        "confidence_score": 97,
+        "video_id": "uA8ocMRwKK4",
+        "influencer": "Henna Ali",
+        "upload_date": "20260414",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Lip Pencils",
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Long-lasting and smudge-proof lip pencils.",
+        "anchor_quote": "I do because they do last on the lips. And they're like white proof. They last.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "I do because they do last on the lips. And they're like white proof. They last."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 49,
+        "visual_timestamp_seconds": 51,
+        "confidence_score": 96,
+        "video_id": "uA8ocMRwKK4",
+        "influencer": "Henna Ali",
+        "upload_date": "20260414",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Hybrid Blushes",
+        "product_category": "Makeup",
+        "sub_category": "Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Long-lasting, soft, and blurring hybrid blushes.",
+        "anchor_quote": "Don't sleep on the hybrid blushes. They will last a full day.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "They will last a full day. I have worn these for more than 11, 12 hours, and they last."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "They're also really pretty and soft on the skin. I have a blurry texture. And these look really pretty. And they kind of blend out like a cream, but is that like a powder on the face?"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "You don't have to worry about being heavy-handed with these"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 59,
+        "visual_timestamp_seconds": 63,
+        "confidence_score": 99,
+        "video_id": "uA8ocMRwKK4",
+        "influencer": "Henna Ali",
+        "upload_date": "20260414",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Skin Tint",
+        "product_category": "Makeup",
+        "sub_category": "Skin Tint",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective skin tint that works well on textured, combination skin.",
+        "anchor_quote": "Skin tint's are really pretty. I worn them alone. I build them up. I have very textured skin, and I've worn this product time and time again, and it works.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "Skin tint's are really pretty. I have very textured skin, and I've worn this product time and time again, and it works."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I worn them alone. I build them up."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 85,
+        "visual_timestamp_seconds": 90,
+        "confidence_score": 99,
+        "video_id": "uA8ocMRwKK4",
+        "influencer": "Henna Ali",
+        "upload_date": "20260414",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Skin Tint",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Creator needs a lighter shade of her existing skin tint.",
+        "anchor_quote": "I do already have a skin tint, but I want to get in a lighter shade, because I'm not self-tanned right now.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 25,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "9TnFecDMOhc",
+        "influencer": "Allie Ross",
+        "upload_date": "20260227",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Setting Powder",
+        "product_category": "Makeup",
+        "sub_category": "Setting Powder",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Creator discovered Kylie Cosmetics has a setting powder, only in translucent.",
+        "anchor_quote": "I had no idea that Kylie Cosmetics had a setting powder. They do however only have it in one shade, which is translucent, so I got that.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 29,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 95,
+        "video_id": "9TnFecDMOhc",
+        "influencer": "Allie Ross",
+        "upload_date": "20260227",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Lip & Cheek Blush Tint",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Creator grabbed a blush tint but prefers the powder version.",
+        "anchor_quote": "They did have these blush tints, which I grabbed one, but I really want the powder blush.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 48,
+        "visual_timestamp_seconds": 45,
+        "confidence_score": 90,
+        "video_id": "9TnFecDMOhc",
+        "influencer": "Allie Ross",
+        "upload_date": "20260227",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Lip Butter",
+        "product_category": "Makeup",
+        "sub_category": "Lip Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creator purchased the lip butter due to positive reviews.",
+        "anchor_quote": "I grabbed the lip butter because I've heard great things about this",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 54,
+        "visual_timestamp_seconds": 51,
+        "confidence_score": 95,
+        "video_id": "9TnFecDMOhc",
+        "influencer": "Allie Ross",
+        "upload_date": "20260227",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Glossy Lip Kit in Coconut",
+        "product_category": "Makeup",
+        "sub_category": "Lip Kit",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Creator bought the lip kit as an essential for the 'full face' challenge.",
+        "anchor_quote": "wait, we can't do a full face-a-cali-cosmetics without a lip kit. So I grabbed this one in the color coconut. I'm pretty sure this is the glossy version.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 57,
+        "visual_timestamp_seconds": 60,
+        "confidence_score": 95,
+        "video_id": "9TnFecDMOhc",
+        "influencer": "Allie Ross",
+        "upload_date": "20260227",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creator purchased mascara due to positive reviews and preference for brown.",
+        "anchor_quote": "I've actually heard really great things. So I grabbed it in brown and black, because I love a brown mascara.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 64,
+        "visual_timestamp_seconds": 66,
+        "confidence_score": 95,
+        "video_id": "9TnFecDMOhc",
+        "influencer": "Allie Ross",
+        "upload_date": "20260227",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Benefit",
+        "product_name": "Gimme Brow+",
+        "product_category": "Makeup",
+        "sub_category": "Brow Gel",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is shown being applied.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "OzvH57IsIqo",
+        "influencer": "Meka D \ud83e\ude77",
+        "upload_date": "20240529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Fenty Beauty",
+        "product_name": "Eaze Drop Blurring Skin Tint",
+        "product_category": "Makeup",
+        "sub_category": "Skin Tint",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is shown being applied.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 85,
+        "video_id": "OzvH57IsIqo",
+        "influencer": "Meka D \ud83e\ude77",
+        "upload_date": "20240529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Fenty Beauty",
+        "product_name": "Match Stix Matte Contour Skinstick",
+        "product_category": "Makeup",
+        "sub_category": "Contour Stick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is shown being applied.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 90,
+        "video_id": "OzvH57IsIqo",
+        "influencer": "Meka D \ud83e\ude77",
+        "upload_date": "20240529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kylie Cosmetics",
+        "product_name": "Matte Liquid Lipstick",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is shown being applied.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 95,
+        "video_id": "OzvH57IsIqo",
+        "influencer": "Meka D \ud83e\ude77",
+        "upload_date": "20240529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Marc Jacobs",
+        "product_name": "Daisy",
+        "product_category": "Fragrance",
+        "sub_category": "Perfume",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product is shown.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 95,
+        "video_id": "OzvH57IsIqo",
+        "influencer": "Meka D \ud83e\ude77",
+        "upload_date": "20240529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE",
+        "product_name": "Peptide Glazing Fluid",
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Thin texture, good for layering, not for thick layer lovers.",
+        "anchor_quote": "I don't recommend this if you are someone like me that likes a thick layer. This feels more like a serum.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "This feels more like a serum. I don't recommend this if you are someone like me that likes a thick layer."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "This is good for layering."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "liLFDta31v4",
+        "influencer": "ValNedelcu",
+        "upload_date": "20250416",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE",
+        "product_name": "Glazing Milk",
+        "product_category": "Skincare",
+        "sub_category": "Essence",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Good texture, versatile for makeup or hydration routine.",
+        "anchor_quote": "I do like the texture. It does remind me of an essence of a Korean essence. Again, this is something that I will use to refresh my skin before applying my makeup or as a layer piece to my hydration routine.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "I do like the texture. It does remind me of an essence of a Korean essence."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Again, this is something that I will use to refresh my skin before applying my makeup or as a layer piece to my hydration routine."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Korean",
+                "competitor_product": "Essence",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 24,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "liLFDta31v4",
+        "influencer": "ValNedelcu",
+        "upload_date": "20250416",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "RHODE",
+        "product_name": "Barrier Butter",
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Favorite product, very thick, luxurious, good for dry skin.",
+        "anchor_quote": "This was my favorite out of all three. It is very thick, very luxurious.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It is very thick, very luxurious."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "You can use it as a last step on your skincare routine. Use it under makeup if you are embossing our super dry."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 50,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "liLFDta31v4",
+        "influencer": "ValNedelcu",
+        "upload_date": "20250416",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "2024 Maybelline Advent Calendar",
+        "product_category": "Makeup",
+        "sub_category": "Advent Calendar",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "The 2024 Maybelline Advent Calendar offers fair value.",
+        "anchor_quote": "I think the pricing is pretty fair, but you guys let me know.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "I think the pricing is pretty fair"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 2,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 100,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Cheek Heat Liquid Blush",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A previously loved liquid blush is a great start.",
+        "anchor_quote": "The great start already, because I've used this before, and I really like it",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "I'm going directly in. Looking a little clownish, that's okay, because we're doing underpinning here."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 21,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 95,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "SuperStay Matte Ink Liquid Lipstick",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Impressive matte ink formula, but the red shade is not for her.",
+        "anchor_quote": "I usually do not wear red, okay? Because I feel like it would get on close, but this guy, look at this. What? If they have other colors, because I don't think I have the balls to wear that out, okay?",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "That is brighter than my actual nails."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "Because I feel like it would get on close, but this guy, look at this. What?"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 36,
+        "visual_timestamp_seconds": 33,
+        "confidence_score": 100,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lifter Gloss",
+        "product_category": "Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A favorite color from the Lifter Gloss line is a welcome restock.",
+        "anchor_quote": "this is a restock of my favorite color from their Lifter Gloss line.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "this is a restock of my favorite color"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 58,
+        "visual_timestamp_seconds": 54,
+        "confidence_score": 100,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Express Brow",
+        "product_category": "Makeup",
+        "sub_category": "Eyebrow Pencil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "The eyebrow pencil shade is completely wrong for the creator.",
+        "anchor_quote": "which definitely is not my shade.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -10,
+                "context_quote": "which definitely is not my shade."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 71,
+        "visual_timestamp_seconds": 72,
+        "confidence_score": 100,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "SuperStay Plumping Top Coat",
+        "product_category": "Nailcare",
+        "sub_category": "Top Coat",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Creator is surprised Maybelline carries nail polish, specifically a plumping top coat.",
+        "anchor_quote": "when to Maybelline start carrying nail polish. Does Nossai plumping top coat? Is it for my nails or for my lips?",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 79,
+        "visual_timestamp_seconds": 78,
+        "confidence_score": 90,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Instant Age Rewind Eraser Concealer",
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creator is pleasantly surprised to receive the Instant Age Rewind Eraser Concealer.",
+        "anchor_quote": "I actually do not own the Instant H rewind eraser in the concealer shade. But I picked up this box because I thought I was gonna regret it. But honestly, I never, never would have imagined a concealer.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "I don't know how they got the concealer shade right, but the brow shade is wrong."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 98,
+        "visual_timestamp_seconds": 96,
+        "confidence_score": 100,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "TattooStudio Sharpenable Gel Pencil Eyeliner",
+        "product_category": "Makeup",
+        "sub_category": "Eyeliner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "A green gel eyeliner was unexpected but fits a themed look.",
+        "anchor_quote": "Definitely not a color I was expecting. The green was a little random, but now that I think about it, I think they were going for a wicked theme with the green eyes and red lit.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 0,
+                "context_quote": "Definitely not a color I was expecting. The green was a little random"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 120,
+        "visual_timestamp_seconds": 120,
+        "confidence_score": 95,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Mascara",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "The non-waterproof version of this mascara did not work for the creator.",
+        "anchor_quote": "but this mascara definitely did not work on me. At least the non waterproof version.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -7,
+                "context_quote": "this mascara definitely did not work on me"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 134,
+        "visual_timestamp_seconds": 132,
+        "confidence_score": 90,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "TattooStudio Sharpenable Gel Pencil Eyeliner",
+        "product_category": "Makeup",
+        "sub_category": "Eyeliner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A brown gel eyeliner is a welcome addition for warming up the eyes.",
+        "anchor_quote": "We got a gel liner and I'm so happy we got this addition because I was definitely looking for something to warm up the eyes.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "I was definitely looking for something to warm up the eyes."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 142,
+        "visual_timestamp_seconds": 141,
+        "confidence_score": 95,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "TattooStudio Brow Tattoo Gel Tint",
+        "product_category": "Makeup",
+        "sub_category": "Eyebrow Gel Tint",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "The brow tattoo gel tint is useless due to the wrong shade.",
+        "anchor_quote": "Now, if it wasn't black or maybe a dark brown shade, I would reconsider, but this is useless to me.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -10,
+                "context_quote": "this is useless to me."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 154,
+        "visual_timestamp_seconds": 153,
+        "confidence_score": 100,
+        "video_id": "GbhFTW5UZe0",
+        "influencer": "Demi Ngai",
+        "upload_date": "20241207",
+        "creator_location": "Unknown"
     }
 ]
