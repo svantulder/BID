@@ -6240,5 +6240,1019 @@
         "influencer": "Irina Pushkareva",
         "upload_date": "20251209",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Lacka Liquid Lipstick",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Almost identical to Maybelline Vinyl Ink, long-lasting but heavy.",
+        "anchor_quote": "And I can confidently say that it is almost entirely exactly like the vinyl ink.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -8,
+                "context_quote": "I think I picked the worst color possible. Doesn't suit my skin tone at all."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "It's a bit tacky but it does last through meals. Multiple meals in fact."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -3,
+                "context_quote": "It is a bit heavy duty so it does feel a bit heavy on the lips. It's a bit tacky but it does last through meals. so comfortable on the lips. Brother, no! It's exactly the same."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Super Stay Vinyl Ink",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 11,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 98,
+        "video_id": "J3SzHO-gmk8",
+        "influencer": "Satshya Tharien",
+        "upload_date": "20251023",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Vinyl Ink",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "OG long-lasting glossy liquid lipstick, similar to L'Oreal Lacka.",
+        "anchor_quote": "The new L'Oreal Lacka liquid lipstick versus the OG Meabalene vinyl ink.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "It's the Battle of the long lasting glossy liquid lipsticks."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -3,
+                "context_quote": "so comfortable on the lips. Brother, no! It's exactly the same."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Lacka Liquid Lipstick",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 11,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 98,
+        "video_id": "J3SzHO-gmk8",
+        "influencer": "Satshya Tharien",
+        "upload_date": "20251023",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "K-Beauty",
+        "product_name": "Lip Tint",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Tint",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Fixes color and blurs lip lines when layered.",
+        "anchor_quote": "It not only fixes the color but also blurs out the lines and makes it a lot more comfortable.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "It not only fixes the color"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "makes it a lot more comfortable."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 58,
+        "visual_timestamp_seconds": 57,
+        "confidence_score": 95,
+        "video_id": "J3SzHO-gmk8",
+        "influencer": "Satshya Tharien",
+        "upload_date": "20251023",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay LumiMAT Foundation",
+        "specific_variant": "Shade 220",
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [
+            "SPF 25"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good coverage, but heavier, oxidizes pink, transfers slightly.",
+        "anchor_quote": "Esta se ve y se siente preciosa. Esta oxida un poquito m\u00e1s hacia el rosa.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "Este es un poco m\u00e1s espesa."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Las dos trabajan muy bien en la piel. Resbalan, se difuminan, chulo precioso."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -3,
+                "context_quote": "Esta oxida un poquito m\u00e1s hacia el rosa."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -2,
+                "context_quote": "Lo real. Mabelend. Por un pelito casi nada. Esta es m\u00e1s ligera que esta."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Or\u00e9al",
+                "competitor_product": "Infallible Fresh Wear Foundation",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "7vRcdzTSgas",
+        "influencer": "La Beaut",
+        "upload_date": "20251205",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Infallible Fresh Wear Foundation",
+        "specific_variant": "Shade 220",
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [
+            "SPF 16"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Lighter texture, less coverage, oxidizes yellow, less transfer.",
+        "anchor_quote": "Esta se ve hermosa. Esta es m\u00e1s ligera que esta. esta oxida un poco m\u00e1s a la amarillo.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "Este es m\u00e1s acuosa"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Las dos trabajan muy bien en la piel. Resbalan, se difuminan, chulo precioso."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -3,
+                "context_quote": "esta oxida un poco m\u00e1s a la amarillo."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 2,
+                "context_quote": "Por un pelito casi nada. Esta es m\u00e1s ligera que esta."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Super Stay LumiMAT Foundation",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 10,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "7vRcdzTSgas",
+        "influencer": "La Beaut",
+        "upload_date": "20251205",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX Cosmetics",
+        "product_name": "Ultimate Glow Shots",
+        "specific_variant": "Grapefruit Glow",
+        "product_category": "Eye Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Stunning, easy-to-apply liquid eyeshadow with no fallout.",
+        "anchor_quote": "That is stunning. Okay, let's finish. All right, it's very easy to apply and I like to use sticks liquid creams powders since I wear false lashes I don't like powders because of the follow that That you get on top of your lashes. So this is super slick",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 10,
+                "context_quote": "All right, it's very easy to apply"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 10,
+                "context_quote": "That is stunning. Oh my gosh That is beautiful"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "So this is super slick"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "djSKC12wMpU",
+        "influencer": "Big Hair by Ash ",
+        "upload_date": "20250929",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX Cosmetics",
+        "product_name": "Duck Plump",
+        "specific_variant": "Crazy Silver",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Intense burning sensation makes the lip gloss unusable.",
+        "anchor_quote": "There's definitely sensation. Oh she hot Is making my throat tingle. I don't know how to feel about that and it's burning pretty intensely like I would never kiss my children or my husband wearing this stuff like that would be mean I'm passing on the duck plump",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 5,
+                "context_quote": "I Think the color is beautiful."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -10,
+                "context_quote": "There's definitely sensation. Oh she hot Is making my throat tingle. I don't know how to feel about that and it's burning pretty intensely"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "djSKC12wMpU",
+        "influencer": "Big Hair by Ash ",
+        "upload_date": "20250929",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX Cosmetics",
+        "product_name": "Duck Plump Liner",
+        "specific_variant": "Clear",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "No noticeable plumping effect from the clear lip liner.",
+        "anchor_quote": "I applied it on the side of my lips. I don't know Maybe maybe a little bit, but like I don't know.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 14,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 90,
+        "video_id": "djSKC12wMpU",
+        "influencer": "Big Hair by Ash ",
+        "upload_date": "20250929",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Plump Ambition Hyaluron Lip Oils",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable plumping lip oil performs better than high-end options.",
+        "anchor_quote": "I truly think that these perform just as good, if not better, than any high-end lip oil.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "They glide over the lips so easily. There's no catching, there's no streaking."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "These lip oils feel so good on the lips. And delivers such beautiful shine."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "I truly think that these perform just as good, if not better, than any high-end lip oil."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 5,
+                "context_quote": "These lip oils come in sleek packaging. They have an angled dough foot applicator."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Dior",
+                "competitor_product": "Lip Oil",
+                "comparison_nature": "superior"
+            },
+            {
+                "competitor_brand": "Summer Fridays",
+                "competitor_product": "Lip Oil",
+                "comparison_nature": "superior"
+            },
+            {
+                "competitor_brand": "Kosas",
+                "competitor_product": "Lip Oil",
+                "comparison_nature": "superior"
+            },
+            {
+                "competitor_brand": "Too Faced",
+                "competitor_product": "Lip Injection",
+                "comparison_nature": "superior"
+            },
+            {
+                "competitor_brand": "Buxom",
+                "competitor_product": "Lip Polishes",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 11,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 100,
+        "video_id": "HOextJUTeOA",
+        "influencer": "Risa Does Makeup",
+        "upload_date": "20250129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Duck Plump Lip Liner",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used as a base for the lip oil.",
+        "anchor_quote": "I'm starting by lining my lips with NYX Duck Plumplip Liner in beige boost.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 21,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 95,
+        "video_id": "HOextJUTeOA",
+        "influencer": "Risa Does Makeup",
+        "upload_date": "20250129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Lip Liner",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used as a base for the lip oil.",
+        "anchor_quote": "For this combo, I'm using another NYX Lip Liner this time in nude flip.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 77,
+        "visual_timestamp_seconds": 78,
+        "confidence_score": 95,
+        "video_id": "HOextJUTeOA",
+        "influencer": "Risa Does Makeup",
+        "upload_date": "20250129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Not as favored as the L'Oreal lip oils.",
+        "anchor_quote": "I've spent a lot of money on lip oils in the past couple of years. Deor, summer Fridays, coasis, but I have to tell you my current favorites are from L'Oreal.",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Plump Ambition Hyaluron Lip Oils",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "HOextJUTeOA",
+        "influencer": "Risa Does Makeup",
+        "upload_date": "20250129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Summer Fridays",
+        "product_name": "Lip Oil",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Not as favored as the L'Oreal lip oils.",
+        "anchor_quote": "I've spent a lot of money on lip oils in the past couple of years. Deor, summer Fridays, coasis, but I have to tell you my current favorites are from L'Oreal.",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Plump Ambition Hyaluron Lip Oils",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 85,
+        "video_id": "HOextJUTeOA",
+        "influencer": "Risa Does Makeup",
+        "upload_date": "20250129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Kosas",
+        "product_name": "Lip Oil",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Not as favored as the L'Oreal lip oils.",
+        "anchor_quote": "I've spent a lot of money on lip oils in the past couple of years. Deor, summer Fridays, coasis, but I have to tell you my current favorites are from L'Oreal.",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Plump Ambition Hyaluron Lip Oils",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 85,
+        "video_id": "HOextJUTeOA",
+        "influencer": "Risa Does Makeup",
+        "upload_date": "20250129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Too Faced",
+        "product_name": "Lip Injection",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Plumper",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Has a painful tingle.",
+        "anchor_quote": "These do have a slight tingle to them, but it's not painful, like a two-faced lip injection.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "it's not painful, like a two-faced lip injection."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Plump Ambition Hyaluron Lip Oils",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 48,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "HOextJUTeOA",
+        "influencer": "Risa Does Makeup",
+        "upload_date": "20250129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Buxom",
+        "product_name": "Lip Polishes",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Gloss/Plumper",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Similar tingle to L'Oreal lip oils.",
+        "anchor_quote": "I would say they're similar in tingle to say the Buxum lip polishes.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "I would say they're similar in tingle to say the Buxum lip polishes."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Plump Ambition Hyaluron Lip Oils",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 50,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "HOextJUTeOA",
+        "influencer": "Risa Does Makeup",
+        "upload_date": "20250129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Vitamin C Fresh & Bright Hydrating Sorbet Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Vitamin C",
+            "Fragrance"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Overpowering fragrance, low active dose, ineffective moisturizer.",
+        "anchor_quote": "All of them absolute garbage.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -8,
+                "context_quote": "certainly not worth the money"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -8,
+                "context_quote": "the scent of this is super overpowering and lingas forever and it's going to go nowhere near sensitive skin."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 11,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "NTWvH_1ubcE",
+        "influencer": "Mad About Skin",
+        "upload_date": "20260302",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Hyaluron Fresh and Plump Sorbet Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Fragrance"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Ineffective, heavily fragranced, not worth it.",
+        "anchor_quote": "All of them absolute garbage.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -8,
+                "context_quote": "All of them absolute garbage."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -8,
+                "context_quote": "Same goes for the salicylic acid one and the one with hyaluronic acid. They're all just a firm pass."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 14,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "NTWvH_1ubcE",
+        "influencer": "Mad About Skin",
+        "upload_date": "20260302",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Salicylic Fresh and Matte Hydrating Sorbet Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Salicylic Acid",
+            "Fragrance"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Ineffective, heavily fragranced, not worth it.",
+        "anchor_quote": "All of them absolute garbage.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -8,
+                "context_quote": "All of them absolute garbage."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -8,
+                "context_quote": "Same goes for the salicylic acid one and the one with hyaluronic acid. They're all just a firm pass."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 15,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "NTWvH_1ubcE",
+        "influencer": "Mad About Skin",
+        "upload_date": "20260302",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "REMEDY",
+        "product_name": "for body bumps",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Body Treatment",
+        "active_ingredients": [
+            "Exfoliator",
+            "Humectants",
+            "Emollients"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective, hydrating, smoothing, fragrance-free, good value.",
+        "anchor_quote": "This is far far better a formula that's actually going to deliver something and I think it's worth every single last pound scent and die.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "This is far far better a formula that's actually going to deliver something and I think it's worth every single last pound scent and die."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "This is going to soften. It's going to smooth. It's going to hydrate each of the gods."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Garnier",
+                "competitor_product": "Salicylic Fresh and Matte Hydrating Sorbet Cream",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 89,
+        "visual_timestamp_seconds": 87,
+        "confidence_score": 95,
+        "video_id": "NTWvH_1ubcE",
+        "influencer": "Mad About Skin",
+        "upload_date": "20260302",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Geek & Gorgeous",
+        "product_name": "Happier Barrier",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Lipids",
+            "Squalane",
+            "Humectants"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable, lightweight, effective for dry skin.",
+        "anchor_quote": "This is a wonderful moisturizer, super affordable and definitely super lightweight as with that Garniate one.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "Phenomenal if you have very dryness-prone skin... super affordable"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "super lightweight like the Garniate sorbet which is invisible on the skin. So is this"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Garnier",
+                "competitor_product": "Sorbet Cream",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 119,
+        "visual_timestamp_seconds": 117,
+        "confidence_score": 95,
+        "video_id": "NTWvH_1ubcE",
+        "influencer": "Mad About Skin",
+        "upload_date": "20260302",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Skinactive Micellar Cleansing Water",
+        "specific_variant": "Sensitive Skin",
+        "product_category": "Skincare",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective, gentle makeup remover for sensitive skin.",
+        "anchor_quote": "Face just feels so soft, never greasy. This doesn't break me out.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's super light but powerful enough to remove all your makeup."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Face just feels so soft, never greasy."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "you get a good amount of product. This is 13.5 ounces."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "8SZWm16zhnw",
+        "influencer": "Jenz BeautyStyle",
+        "upload_date": "20260220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Skinactive Micellar Cleansing Eco Pads",
+        "specific_variant": null,
+        "product_category": "Skincare Accessory",
+        "sub_category": "Reusable Makeup Remover Pads",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Reusable pads for makeup removal.",
+        "anchor_quote": "It's them with these reusable makeup remover pads.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 37,
+        "visual_timestamp_seconds": 39,
+        "confidence_score": 90,
+        "video_id": "8SZWm16zhnw",
+        "influencer": "Jenz BeautyStyle",
+        "upload_date": "20260220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "Makeup Remover Ultra-Soft Cleansing Towelette",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Makeup Remover Wipes",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective, convenient, and gentle makeup remover wipes.",
+        "anchor_quote": "Can't say enough nice things about these little guys.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "They get the mascara off even if it's waterproof really easily one to two swipes"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "They don't irritate your eyes when you do that"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 9,
+                "context_quote": "They say moist because they're individually wrapped. You can throw them in your gym bag, throw them in your purse"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "lo5Rxc6vI54",
+        "influencer": "Product Reviews with Jackie",
+        "upload_date": "20251004",
+        "creator_location": "Unknown"
     }
 ]
