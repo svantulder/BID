@@ -212,18 +212,47 @@ function FeedStreamContent() {
                   }`}
                 >
                   <div className="flex items-center justify-between gap-2 mb-2">
-                    <span className="text-xs font-bold text-sky-400 uppercase tracking-wider">{insight.brand_name}</span>
-                    <span className={`px-2 py-0.5 rounded text-[10px] font-extrabold uppercase tracking-wide ${
-                      insight.overall_sentiment === 'positive' ? 'bg-emerald-500/10 text-emerald-400' :
-                      insight.overall_sentiment === 'negative' ? 'bg-rose-500/10 text-rose-400' :
-                      insight.overall_sentiment === 'mixed' ? 'bg-amber-500/10 text-amber-400' : 'bg-slate-800 text-slate-400'
-                    }`}>
+                    <button 
+                      onClick={(e) => { 
+                        e.stopPropagation(); 
+                        setFilterBrand(insight.brand_name); 
+                        setFilterProduct('All'); 
+                      }}
+                      className="text-xs font-bold text-sky-400 hover:text-sky-300 uppercase tracking-wider transition-colors cursor-pointer text-left"
+                      title={`Filter by ${insight.brand_name}`}
+                    >
+                      {insight.brand_name}
+                    </button>
+                    <button 
+                      onClick={(e) => { 
+                        e.stopPropagation(); 
+                        setFilterSentiment(insight.overall_sentiment); 
+                      }}
+                      className={`px-2 py-0.5 rounded text-[10px] font-extrabold uppercase tracking-wide hover:opacity-80 transition-opacity cursor-pointer ${
+                        insight.overall_sentiment === 'positive' ? 'bg-emerald-500/10 text-emerald-400' :
+                        insight.overall_sentiment === 'negative' ? 'bg-rose-500/10 text-rose-400' :
+                        insight.overall_sentiment === 'mixed' ? 'bg-amber-500/10 text-amber-400' : 'bg-slate-800 text-slate-400'
+                      }`}
+                      title={`Filter by ${insight.overall_sentiment} sentiment`}
+                    >
                       {insight.overall_sentiment}
-                    </span>
+                    </button>
                   </div>
                   
                   <h4 className="font-bold text-slate-100 text-base md:text-lg mb-1">{insight.product_name}</h4>
-                  <p className="text-xs text-slate-400 mb-3 font-medium">{insight.sub_category} · By {insight.influencer || 'Unknown'}</p>
+                  <p className="text-xs text-slate-400 mb-3 font-medium flex items-center gap-1">
+                    {insight.sub_category} · By 
+                    <button 
+                      onClick={(e) => { 
+                        e.stopPropagation(); 
+                        setFilterInfluencer(insight.influencer || 'Unknown'); 
+                      }}
+                      className="hover:text-white transition-colors cursor-pointer underline decoration-slate-600 underline-offset-2"
+                      title={`View all by ${insight.influencer || 'Unknown'}`}
+                    >
+                      {insight.influencer || 'Unknown'}
+                    </button>
+                  </p>
                   
                   <blockquote className="border-l-2 border-slate-700 pl-3 italic text-sm text-slate-300 line-clamp-2">
                     "{insight.primary_claim}"
