@@ -7254,5 +7254,1731 @@
         "influencer": "Product Reviews with Jackie",
         "upload_date": "20251004",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Air Volume Mega Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides wispy, separated lashes with a nice curl.",
+        "anchor_quote": "I felt like it really coated my lashes evenly and it gave me wispy separated lashes right away. I'm also already noticing a really nice curl",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "the wand feels great on the lashes. I felt like it really coated my lashes evenly"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "lorial focuses on a whipped airy formula for weightless makeup volume"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Lash Sensational Sky High Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "89iqQuXV1_Q",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "bamboo extract"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers amazing length and separation with a flexible wand.",
+        "anchor_quote": "That first coat gave me the impression of just amazing length and separation for my lashes which I love.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "the flexible wand really does hug the lashes from root to tip."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Air Volume Mega Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "89iqQuXV1_Q",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": "Sparkle",
+        "product_category": "Makeup",
+        "sub_category": "Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "89iqQuXV1_Q",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "89iqQuXV1_Q",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Drunk Elephant",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "89iqQuXV1_Q",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Byoma",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "89iqQuXV1_Q",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nails",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "89iqQuXV1_Q",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Infallible",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Lightweight, waterproof, medium coverage foundation that oxidizes and transfers.",
+        "anchor_quote": "both foundations oxidized but they were still holding up pretty well.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "They both blend like a dream."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "L'Oreal feels more lightweight."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 5,
+                "context_quote": "L'Oreal offers a medium coverage"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 2,
+                "context_quote": "Transferproof: 6/10"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "They're both water warriors."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 2,
+                "context_quote": "Sweatproof: 6/10"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "both foundations oxidized"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Superstay",
+                "comparison_nature": "superior"
+            },
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Superstay",
+                "comparison_nature": "inferior"
+            },
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Superstay",
+                "comparison_nature": "inferior"
+            },
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Superstay",
+                "comparison_nature": "similar"
+            },
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Superstay",
+                "comparison_nature": "similar"
+            },
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Superstay",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "drCXYiPtwEA",
+        "influencer": "Farhin Shaikh",
+        "upload_date": "20231013",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Superstay",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Full coverage, transfer-proof, waterproof foundation that oxidizes.",
+        "anchor_quote": "both foundations oxidized but they were still holding up pretty well.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "They both blend like a dream."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "Maybelline is full coverage."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "Maybelline is holding on for dear life."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "They're both water warriors."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 3,
+                "context_quote": "Sweatproof: 6.5/10"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "both foundations oxidized"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Infallible",
+                "comparison_nature": "inferior"
+            },
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Infallible",
+                "comparison_nature": "superior"
+            },
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Infallible",
+                "comparison_nature": "superior"
+            },
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Infallible",
+                "comparison_nature": "similar"
+            },
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Infallible",
+                "comparison_nature": "similar"
+            },
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Infallible",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "drCXYiPtwEA",
+        "influencer": "Farhin Shaikh",
+        "upload_date": "20231013",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Firework Mascara",
+        "specific_variant": null,
+        "product_category": "Mascara",
+        "sub_category": "Washable Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline Firework mascara provides more length with a wetter formula.",
+        "anchor_quote": "Right now, if I had to choose, I would choose the Maybelline.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "It's been in my stash,"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "It is a wetter formula."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Panorama Volumizing Mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 1,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 98,
+        "video_id": "t0KmQXpE-CI",
+        "influencer": "JennDBeauty",
+        "upload_date": "20241120",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Panorama Volumizing Mascara",
+        "specific_variant": "All Night Black",
+        "product_category": "Mascara",
+        "sub_category": "Volumizing Washable Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "L'Oreal Panorama offers good separation but less length than Maybelline.",
+        "anchor_quote": "Right now, if I had to choose, I would choose the Maybelline.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "The Gloriaal is a dryer formula"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "and maybe gave more separation."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Lash Sensational Firework Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 10,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 97,
+        "video_id": "t0KmQXpE-CI",
+        "influencer": "JennDBeauty",
+        "upload_date": "20241120",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "So Fierce Eyes Wide Open Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Lightweight, flexible formula for definition and lift.",
+        "anchor_quote": "this is a lightweight, flexible formula designed for definition and lift.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "this is a lightweight, flexible formula"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "9acLGcdX4XY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Voluminous Panorama Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "More substantial, volume-izing formula.",
+        "anchor_quote": "The L'Oreal Voluminous Panorama mascara is a more substantial, volume-izing formula.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "The L'Oreal Voluminous Panorama mascara is a more substantial, volume-izing formula."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "9acLGcdX4XY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Epic Wear Liquid Liner",
+        "specific_variant": "Matte",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Eyeliner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Bright colors, easy application, but matte texture is paint-like.",
+        "anchor_quote": "They have very beautiful bright colors. That's the main reason I like... Metallic ones I can say are less paint like than the matte ones.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "They have the tin applicator, it's easy to apply."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "They have very beautiful bright colors."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -3,
+                "context_quote": "Metallic ones I can say are less paint like than the matte ones."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "DW6vpBHdz3I",
+        "influencer": "Totally Honest Reviews",
+        "upload_date": "20240712",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Epic Wear Liquid Liner",
+        "specific_variant": "Metallic",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Eyeliner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Metallic shades have better texture, Silver Metal is loved.",
+        "anchor_quote": "Metallic ones I can say are less paint like than the matte ones. This is number 3, silver metal. I really love this one.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "They have the tin applicator, it's easy to apply."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Metallic ones I can say are less paint like than the matte ones."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "This is number 3, silver metal. I really love this one."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 40,
+        "visual_timestamp_seconds": 42,
+        "confidence_score": 95,
+        "video_id": "DW6vpBHdz3I",
+        "influencer": "Totally Honest Reviews",
+        "upload_date": "20240712",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "La Roche-Posay",
+        "product_name": "Respectissime Waterproof Eye Makeup Remover",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Eye Makeup Remover",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent, non-irritating remover for waterproof liquid liner.",
+        "anchor_quote": "If you are interested in buying Excellent Remover for Waterproof Liquid Liner: https://amzn.to/3XCxkkQ or NYX Epic Wear Liquid Liner: https://amzn.to/4gfKD1N ... tips on how to easily remove them without irritating your skin!",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Excellent Remover for Waterproof Liquid Liner"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "without irritating your skin!"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 85,
+        "video_id": "DW6vpBHdz3I",
+        "influencer": "Totally Honest Reviews",
+        "upload_date": "20240712",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Sisley",
+        "product_name": "Eye And Lip Gel Make-Up Remover",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Eye Makeup Remover",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Recommended for easy, non-irritating makeup removal.",
+        "anchor_quote": "SISLEY EYE AND LIP GEL MAKE-UP REMOVER ... tips on how to easily remove them without irritating your skin!",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "tips on how to easily remove them"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "without irritating your skin!"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 85,
+        "video_id": "DW6vpBHdz3I",
+        "influencer": "Totally Honest Reviews",
+        "upload_date": "20240712",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Vitamin C Fresh & Bright Hydrating Sorbet Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cream",
+        "active_ingredients": [
+            "Vitamin C"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Product was drying for dry skin, better for oily skin.",
+        "anchor_quote": "Now this one does state that it's hydrating however I actually felt that it was quite drying for my skin.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Firstly, I find the texture really interesting. It really does have that sorbet-like feel to it and it's kind of fun"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "rtSY9vsMsdI",
+        "influencer": "Clare Walch",
+        "upload_date": "20260323",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Vitamin C Plus Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Vitamin C",
+            "Niacinamide",
+            "Salicylic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective, lightweight Vitamin C serum for brighter, flawless skin.",
+        "anchor_quote": "I\u2019ve been using the Garnier Vitamin C Plus Serum lately and I genuinely love how lightweight and easy it feels on my skin. It absorbs quickly, doesn\u2019t feel sticky, and fits perfectly into my everyday routine.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "I genuinely love how lightweight and easy it feels on my skin. It absorbs quickly, doesn\u2019t feel sticky, and fits perfectly into my everyday routine."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "I genuinely love how lightweight and easy it feels on my skin. It absorbs quickly, doesn\u2019t feel sticky."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "If you\u2019re just starting with Vitamin C or looking for a simple glow upgrade, this is definitely worth checking out."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "nFamfZKjumE",
+        "influencer": "Dhanushree",
+        "upload_date": "20260215",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Vitamin C Fresh & Bright Moisturizer",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Moisturizer",
+        "active_ingredients": [
+            "Vitamin C",
+            "Hyaluronic Acid",
+            "Niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Lightweight, non-sticky sorbet texture provides brightness and hydration.",
+        "anchor_quote": "I genuinely wasn\u2019t expecting this texture from a moisturizer. It\u2019s a sorbet moisturizer with a super lightweight, fast-absorbing formula that melts into the skin instantly without any sticky or greasy feeling.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "It\u2019s a sorbet moisturizer with a super lightweight, fast-absorbing formula that melts into the skin instantly without any sticky or greasy feeling. Na kub krimiye na oiliye ajibbat greasy filling hut naay, ani literal hai kahi se kanda ta skinma de main hut ta. An sutta meita, ani ajibbat hivi fill hut naay."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "super lightweight, fast-absorbing formula that melts into the skin instantly without any sticky or greasy feeling. Patkha laipsaop huta, ani literal hai kahi se kanda ta skinma de main hut ta."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "wfRw5LMlE7o",
+        "influencer": "BHAKTI CHEDE",
+        "upload_date": "20260529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Niacinamide Fresh & Plump Moisturizer",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Moisturizer",
+        "active_ingredients": [
+            "Niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Provides bouncy, plump skin.",
+        "anchor_quote": "Garnier Niacinamide Moisturizer for bouncy, plump skin. Fresh and Plum, jiskinla bhaum si ani plum plum pluk dita.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 29,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 95,
+        "video_id": "wfRw5LMlE7o",
+        "influencer": "BHAKTI CHEDE",
+        "upload_date": "20260529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Salicylic Fresh & Matte Moisturizer",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Moisturizer",
+        "active_ingredients": [
+            "Salicylic Acid",
+            "Niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Provides a fresh matte finish.",
+        "anchor_quote": "Garnier Salicylic Moisturizer for a fresh matte finish. ani Fresh and Man, chimmat finis pluk dita.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 32,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 95,
+        "video_id": "wfRw5LMlE7o",
+        "influencer": "BHAKTI CHEDE",
+        "upload_date": "20260529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "HydroBoost Water Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cream",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent hydrating face cream from the beloved HydroBoost line.",
+        "anchor_quote": "I love their HydroBoost line, especially their water cream and the HydroBoost gel cream. So good.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "I love their HydroBoost line, especially their water cream and the HydroBoost gel cream. So good."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 14,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 95,
+        "video_id": "KakOw97NHtc",
+        "influencer": "Dr. Mamina",
+        "upload_date": "20250823",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "HydroBoost Gel Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cream",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent hydrating gel cream from the beloved HydroBoost line.",
+        "anchor_quote": "I love their HydroBoost line, especially their water cream and the HydroBoost gel cream. So good.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "I love their HydroBoost line, especially their water cream and the HydroBoost gel cream. So good."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 16,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "KakOw97NHtc",
+        "influencer": "Dr. Mamina",
+        "upload_date": "20250823",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "Retinol Regenerating Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cream",
+        "active_ingredients": [
+            "Retinol"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective retinol cream and a cult favorite.",
+        "anchor_quote": "I would say one of their cult favorites is their Retinol, their Retinol regenerating cream.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 24,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 95,
+        "video_id": "KakOw97NHtc",
+        "influencer": "Dr. Mamina",
+        "upload_date": "20250823",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "HydroBoost The Super Hydrator Hydrating Recovery Mask",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Mask",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Part of the beloved HydroBoost hydrating line.",
+        "anchor_quote": "I love their HydroBoost line",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 85,
+        "video_id": "KakOw97NHtc",
+        "influencer": "Dr. Mamina",
+        "upload_date": "20250823",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "HydroBoost Body Gel Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Body Cream",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Part of the beloved HydroBoost hydrating line.",
+        "anchor_quote": "I love their HydroBoost line",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 85,
+        "video_id": "KakOw97NHtc",
+        "influencer": "Dr. Mamina",
+        "upload_date": "20250823",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "HydroBoost Hydrating Cleansing Gel",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Part of the beloved HydroBoost hydrating line.",
+        "anchor_quote": "I love their HydroBoost line",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 85,
+        "video_id": "KakOw97NHtc",
+        "influencer": "Dr. Mamina",
+        "upload_date": "20250823",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "HydroBoost Hydrating Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Part of the beloved HydroBoost hydrating line.",
+        "anchor_quote": "I love their HydroBoost line",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 85,
+        "video_id": "KakOw97NHtc",
+        "influencer": "Dr. Mamina",
+        "upload_date": "20250823",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Serum Lipsticks",
+        "specific_variant": null,
+        "product_category": "Lipstick",
+        "sub_category": "Serum Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline's new serum lipsticks are hydrating, smooth, and offer great color payoff.",
+        "anchor_quote": "Overall, this is honestly a solid launch by Maybelline at a really good price.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Glides super smoothly and gives great colour payoff in just one swipe."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "gives great colour payoff in just one swipe."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "They\u2019re not transfer-proof, but that\u2019s expected because these are serum lipsticks. The colour stays on the lips, but yes, you might need to reapply."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "Absolutely true to its name this is a proper serum formula! LOVE IT! ... even the mattes are equally hydrating, which I absolutely love"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "Overall, this is honestly a solid launch by Maybelline at a really good price."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 9,
+                "context_quote": "Honestly, I don\u2019t mind that because the packaging is super travel-friendly. It has a click-lock, so you know it\u2019s properly shut and you won\u2019t break your lipstick in your bag. I also love how the serum and matte versions are clearly differentiated by the outer packaging colour. The lipsticks look very luxe, love the 3D embossing and the shade name + colour swatches at the bottom \u2014 love."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "010Ltah_8Es",
+        "influencer": "soundarya Thakur",
+        "upload_date": "20260212",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Powder Foundation Compact",
+        "specific_variant": "Shade 115",
+        "product_category": "Makeup",
+        "sub_category": "Powder Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good coverage but poor shade match, not natural, and fails waterproof test.",
+        "anchor_quote": "Coverage is really good. But I can tell I have applied makeup here now. Which I have. I mean, if you like no makeup, makeup look. This is not it because it gives away.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -8,
+                "context_quote": "On-site, you can see the difference is a bit lighter than my skin tone."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -7,
+                "context_quote": "The shade range is quite bad with this powder without the powder."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 5,
+                "context_quote": "No, it doesn't oxidize."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "transfers a bit"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -8,
+                "context_quote": "It says waterproof. It is too smxed. I mean, I have spread quite a lot of water."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "But I can tell I have applied makeup here now. Which I have. I mean, if you like no makeup, makeup look. This is not it because it gives away."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "Covered is better with the sponge."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 3,
+                "context_quote": "But if you want more event-tone natural finish, then go for a brush."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": "Doesn't look this light on pan."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "Coverage is really good."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "KS0zTCDI53M",
+        "influencer": "Samapti Banerjee",
+        "upload_date": "20250916",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lifter Plump & Glow Foundation",
+        "specific_variant": null,
+        "product_category": "Foundation",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent long-wearing foundation for dry skin, smooths pores.",
+        "anchor_quote": "I really, really like this foundation, you guys and I think maybe it has done it once again. And this foundation is like 10 on 10 from my side. Personally, I love it, I love how it looks, I love the way how it's wearing.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Okay, it blended out really, really nicely"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "it's looking really smooth and blurred on my pores area. No filter at all, it's looking really smooth. It's not clinging onto my dry patches"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "It's been like 8 and a half hours and this foundation is holding up really nicely"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Anastasia Beverly Hills",
+                "competitor_product": "Impeccable Foundation",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "yY37hDMtQBA",
+        "influencer": "Nita's Glam World",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Anastasia Beverly Hills",
+        "product_name": "Impeccable Foundation",
+        "specific_variant": null,
+        "product_category": "Foundation",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used as a benchmark for Maybelline foundation's similar formula.",
+        "anchor_quote": "What this foundation is kind of reminding me of the AVH impeccable foundation, the formula seems to be pretty similar.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 49,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "yY37hDMtQBA",
+        "influencer": "Nita's Glam World",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lifter Concealer",
+        "specific_variant": "95",
+        "product_category": "Face Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline Lifter Concealer blends beautifully and is a favorite.",
+        "anchor_quote": "I don't know about y'all, but I am loving the Maybelline.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 10,
+                "context_quote": "The Maybelline blends out like a dream."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "I am using the shade 95, which has a neutral undertone and I love the tone of this concealer."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "If you're wondering which one's gonna crease, nothing is creaseless. Everything is gonna crease."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's not as hydrating as the Maybelline"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Elf",
+                "competitor_product": "Soft Glam Concealer",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "mA8PSQXSwS4",
+        "influencer": "Amber Pacholok",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Elf",
+        "product_name": "Soft Glam Concealer",
+        "specific_variant": "50",
+        "product_category": "Face Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Elf Soft Glam Concealer is affordable and blends well, but the shade is not ideal.",
+        "anchor_quote": "I don't hate this shade. I'm in the shade 50, but it's not my favorite.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "same thing for the Elf concealer. I had no issues with it blending out."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -3,
+                "context_quote": "I don't hate this shade. I'm in the shade 50, but it's not my favorite."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "If you're wondering which one's gonna crease, nothing is creaseless. Everything is gonna crease."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "This one is a soft matte finish so it's right there in the middle. It's not as hydrating as the Maybelline, but it's not giving tart shaped tape."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "this one is coming in at $5 here so you can't be back."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Lifter Concealer",
+                "comparison_nature": "inferior"
+            },
+            {
+                "competitor_brand": "Tarte",
+                "competitor_product": "Shape Tape",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "mA8PSQXSwS4",
+        "influencer": "Amber Pacholok",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lifter Gloss",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline Lifter Gloss is a beloved dupe for Fenty glosses.",
+        "anchor_quote": "I love their Lifter gloss. It is actually a dupe for Fenty glosses.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "It is actually a dupe for Fenty glosses. So you're welcome."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Fenty",
+                "competitor_product": "Glosses",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 13,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "mA8PSQXSwS4",
+        "influencer": "Amber Pacholok",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Fenty",
+        "product_name": "Glosses",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Fenty Glosses are high-quality, with Maybelline offering a dupe.",
+        "anchor_quote": "It is actually a dupe for Fenty glosses.",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Lifter Gloss",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 13,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "mA8PSQXSwS4",
+        "influencer": "Amber Pacholok",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Real Techniques",
+        "product_name": "Setting Brush",
+        "specific_variant": null,
+        "product_category": "Tools & Accessories",
+        "sub_category": "Makeup Brush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creator prefers using a Real Techniques Setting Brush for application.",
+        "anchor_quote": "I like to use a real technique setting brush.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 43,
+        "visual_timestamp_seconds": 39,
+        "confidence_score": 90,
+        "video_id": "mA8PSQXSwS4",
+        "influencer": "Amber Pacholok",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Tarte",
+        "product_name": "Shape Tape",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Tarte Shape Tape is known for its very matte finish.",
+        "anchor_quote": "If you've ever used that one, then you already know how matte that one is.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "you already know how matte that one is."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Elf",
+                "competitor_product": "Soft Glam Concealer",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 67,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "mA8PSQXSwS4",
+        "influencer": "Amber Pacholok",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Givenchy",
+        "product_name": "Prisme Libre Powder",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Setting Powder",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Givenchy Prisme Libre Powder is the creator's favorite setting powder.",
+        "anchor_quote": "I love my favorite is the G Von Chi prison powder. As you can see, girl mine is used and abused.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "mine is used and abused"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 76,
+        "visual_timestamp_seconds": 75,
+        "confidence_score": 85,
+        "video_id": "mA8PSQXSwS4",
+        "influencer": "Amber Pacholok",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Infallible Setting Spray",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Setting Spray",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "L'Oreal setting spray prevents makeup transfer effectively.",
+        "anchor_quote": "It is not even a transfer",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "It is not even a transfer"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "e.l.f.",
+                "competitor_product": "Stay All Night Micro-Fine Setting Mist",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "hFtBz3VSsIE",
+        "influencer": "Sheel Bisht",
+        "upload_date": "20250917",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "e.l.f.",
+        "product_name": "Stay All Night Micro-Fine Setting Mist",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Setting Spray",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "e.l.f. setting spray allows some makeup transfer.",
+        "anchor_quote": "It is a little bit of a transfer",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "It is a little bit of a transfer"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Infallible Setting Spray",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "hFtBz3VSsIE",
+        "influencer": "Sheel Bisht",
+        "upload_date": "20250917",
+        "creator_location": "Unknown"
     }
 ]
