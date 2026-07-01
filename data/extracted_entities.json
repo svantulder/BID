@@ -8980,5 +8980,1617 @@
         "influencer": "Sheel Bisht",
         "upload_date": "20250917",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Fat Oil Lip Drip",
+        "specific_variant": "Supermodel",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Good product providing hydration, shine, and a hint of color.",
+        "anchor_quote": "This is such a good product. You all not only does it have that hydration for the lips, it's going to give you that shine.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I love the applicator. Nice big thick dofa applicator and you can just take that product all over the lips."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "not only does it have that hydration for the lips, it's going to give you that shine."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 5,
+                "context_quote": "giving me a little bit of pigment but not a lot. So if you're somebody that wants just a hint of color, lots of shine. The lip oils are such a great option."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 95,
+        "video_id": "hUFzCOwtc_k",
+        "influencer": "Katie Hoke",
+        "upload_date": "20241130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Lancome",
+        "product_name": "Liquid Shadow",
+        "specific_variant": "Sunburst",
+        "product_category": "Eye Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "hUFzCOwtc_k",
+        "influencer": "Katie Hoke",
+        "upload_date": "20241130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "e.l.f.",
+        "product_name": "Lip Oil",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in description for comparison in another video.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "hUFzCOwtc_k",
+        "influencer": "Katie Hoke",
+        "upload_date": "20241130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "e.l.f.",
+        "product_name": "Jelly Pop Lip Oil",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in description for tutorial in another video.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "hUFzCOwtc_k",
+        "influencer": "Katie Hoke",
+        "upload_date": "20241130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Younique",
+        "product_name": "Collagen",
+        "specific_variant": null,
+        "product_category": "Wellness",
+        "sub_category": "Collagen Supplement",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "hUFzCOwtc_k",
+        "influencer": "Katie Hoke",
+        "upload_date": "20241130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Fat Oil Lip Drip",
+        "specific_variant": "Supermodel",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "This lip oil provides gorgeous tint and amazing shine.",
+        "anchor_quote": "gorgeous, gorgeous tint. Amazing shine. Really like how this lip oil feels and looks on the lips.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": "I'm actually going to bump the packaging down to a three."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "I'm going to put the applicator at a four"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "It has a little bit of a very scent to a little but chemical smell. So I'm going to give it a three."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "Really like how this lip oil feels and looks on the lips."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 5,
+                "context_quote": "gorgeous, gorgeous tint."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 2,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "De0bB-MwGRo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251219",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "E.L.F.",
+        "product_name": "Lash Extender Tubing Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Tubing Mascara",
+        "active_ingredients": [
+            "Jojoba Oil"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Features tubing technology for clump, flake, smudge resistance.",
+        "anchor_quote": "The Elf Lash Extender Tubing Mascara uses tubing technology that wraps each lash and lightweight tubes. It's designed to be clump, flake, and smudge resistant and removes easily with just warm water. Plus it's infused with a hobo seed oil to nourish and condition lashes while you wear it.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "xF9uaPGcnPI",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251216",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides instant length, volume, and curl without weight.",
+        "anchor_quote": "With the Mabelane Sky High right away I notice how flexible the wand feels. It really coats each lash evenly and gives me instant length and volume without weighing my lashes down. My lashes look long, defined, and nicely curled even with just one coat.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "flexible the wand feels. It really coats each lash evenly"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "without weighing my lashes down"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "flexible the wand feels"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "xF9uaPGcnPI",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251216",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": "Sparkle",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Armani Liquid eyeshadow - Sparkle",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "xF9uaPGcnPI",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251216",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Dior Lip Oil - Pink Lilac",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "xF9uaPGcnPI",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251216",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nail Care",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Londontown Kur Illuminating Nail Concealer - Bare",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "xF9uaPGcnPI",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251216",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Drunk Elephant",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Drunk Elephant Cleansing Balm",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "xF9uaPGcnPI",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251216",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Byoma",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Byoma Cleansing Balm",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "xF9uaPGcnPI",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251216",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Younique",
+        "product_name": "Collagen",
+        "specific_variant": null,
+        "product_category": "Supplement",
+        "sub_category": "Dietary Supplement",
+        "active_ingredients": [
+            "Collagen"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Younique Collagen",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "xF9uaPGcnPI",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251216",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "ELF",
+        "product_name": "Soft Glam Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Comparing two affordable high street concealers to find the best.",
+        "anchor_quote": "Today is the battle of the High Street Concealers. I'm going to be comparing the Mabling Lifter to the Elf Soft Glam and we're going to be working out which is a better option to go for.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "H4xU-bnTffM",
+        "influencer": "Scottish Beauty and Spa Guide",
+        "upload_date": "20260316",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Instant Age Rewind Eraser Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Comparing two affordable high street concealers to find the best.",
+        "anchor_quote": "Today is the battle of the High Street Concealers. I'm going to be comparing the Mabling Lifter to the Elf Soft Glam and we're going to be working out which is a better option to go for.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "H4xU-bnTffM",
+        "influencer": "Scottish Beauty and Spa Guide",
+        "upload_date": "20260316",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Elf",
+        "product_name": "Power Grip Primer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Primer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Thick, sticky primer for full glam, grips foundation better.",
+        "anchor_quote": "The elf power grip primer is thicker and consistency and it's more sticky so it grips my foundation better.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "The elf power grip primer is thicker and consistency and it's more sticky"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "it grips my foundation better"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Grippy Serum Primer",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "XXuAowdz-RU",
+        "influencer": "Ra Na",
+        "upload_date": "20251009",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Grippy Serum Primer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Primer",
+        "active_ingredients": [
+            "Niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Lightweight, hydrating primer for light makeup days.",
+        "anchor_quote": "It helps in hydrating my face and it feels very very light weight.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it feels very very light weight"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It helps in hydrating my face"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Elf",
+                "competitor_product": "Power Grip Primer",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "XXuAowdz-RU",
+        "influencer": "Ra Na",
+        "upload_date": "20251009",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Elf",
+        "product_name": "Liquid Blush",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Liquid Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product shown during makeup application.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 45,
+        "confidence_score": 80,
+        "video_id": "XXuAowdz-RU",
+        "influencer": "Ra Na",
+        "upload_date": "20251009",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Blush",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Powder Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product shown during makeup application.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 54,
+        "confidence_score": 80,
+        "video_id": "XXuAowdz-RU",
+        "influencer": "Ra Na",
+        "upload_date": "20251009",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "CeraVe",
+        "product_name": "Foaming Facial Cleanser",
+        "specific_variant": null,
+        "product_category": "Cleanser",
+        "sub_category": "Foaming Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good for oily skin but can be drying.",
+        "anchor_quote": "If you have oily skin, you may prefer that more oil-removing properties that the Sarabee one has, but because this shifaktant system and the way that is formulated, I do feel like it leaves you a little bit more dry",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "I do feel like it leaves you a little bit more dry"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "Both fairly comparable in cleansing, not stripping, cleansing, not allergenic irritating."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "La Roche-Posay",
+                "competitor_product": "Purifying Foaming Cleanser",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "XgkiCE4l4oM",
+        "influencer": "Doctorly",
+        "upload_date": "20260123",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "La Roche-Posay",
+        "product_name": "Purifying Foaming Cleanser",
+        "specific_variant": null,
+        "product_category": "Cleanser",
+        "sub_category": "Foaming Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Preferred for its hydrating, silky finish and gentle cleansing.",
+        "anchor_quote": "where the La Roche Posse one leaves you a little bit more hydrated with a little bit of a silky finish. As far as texture and performance, I personally prefer the La Roche Posse one.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "leaves you a little bit more hydrated with a little bit of a silky finish. As far as texture and performance, I personally prefer the La Roche Posse one."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "Both fairly comparable in cleansing, not stripping, cleansing, not allergenic irritating."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "CeraVe",
+                "competitor_product": "Foaming Facial Cleanser",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 98,
+        "video_id": "XgkiCE4l4oM",
+        "influencer": "Doctorly",
+        "upload_date": "20260123",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Colorstay Satin Ink",
+        "specific_variant": "My Own Boss",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Lipstick failed to last 45 minutes, peeling off.",
+        "anchor_quote": "This one unfortunately didn't even last 45 minutes before the center started coming off to mean in sheets like eraser peelings, not a fun look or a fun texture to have in your mouth.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -8,
+                "context_quote": "This one unfortunately didn't even last 45 minutes before the center started coming off to mean in sheets like eraser peelings"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "not a fun look or a fun texture to have in your mouth."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "This one is approximately $7."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Super Stay Vinyl Ink",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 98,
+        "video_id": "3cMtHfEKaC4",
+        "influencer": "Simply Cerisa",
+        "upload_date": "20221220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Vinyl Ink",
+        "specific_variant": "Wicked",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Lipstick lasted 8 hours through meals, superior longevity.",
+        "anchor_quote": "This one, however, lasted eight hours, made it through the spaghetti dinner, kept going and then was finally taken out in the center by a ridiculously big and greasy cheeseburger and fries eight hours later. The winner by far, Mabeline super state ink and it's definitely worth a couple bucks more.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "This one, however, lasted eight hours, made it through the spaghetti dinner, kept going and then was finally taken out in the center by a ridiculously big and greasy cheeseburger and fries eight hours later."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "it's definitely worth a couple bucks more."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Revlon",
+                "competitor_product": "Colorstay Satin Ink",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 99,
+        "video_id": "3cMtHfEKaC4",
+        "influencer": "Simply Cerisa",
+        "upload_date": "20221220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Elseve Glycolic Gloss",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Shampoo",
+        "active_ingredients": [
+            "Glycolic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers 3x more gloss, lasting up to 6 washes.",
+        "anchor_quote": "Improved hair quality for three times more gloss that resists up to six washes.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "resists up to six washes"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "fights dull hair and seals cuticles"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 98,
+        "video_id": "byxn0V75vdc",
+        "influencer": "L'Or\u00e9al Paris Malaysia",
+        "upload_date": "20251219",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Elseve Glycolic Gloss",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Conditioner",
+        "active_ingredients": [
+            "Glycolic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers 3x more gloss, lasting up to 6 washes.",
+        "anchor_quote": "Improved hair quality for three times more gloss that resists up to six washes.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "resists up to six washes"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "fights dull hair and seals cuticles"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 98,
+        "video_id": "byxn0V75vdc",
+        "influencer": "L'Or\u00e9al Paris Malaysia",
+        "upload_date": "20251219",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Elseve Glycolic Gloss",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Hair Treatment",
+        "active_ingredients": [
+            "Glycolic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers 3x more gloss, lasting up to 6 washes.",
+        "anchor_quote": "Improved hair quality for three times more gloss that resists up to six washes.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "resists up to six washes"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "fights dull hair and seals cuticles"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 98,
+        "video_id": "byxn0V75vdc",
+        "influencer": "L'Or\u00e9al Paris Malaysia",
+        "upload_date": "20251219",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Voluminous Mascara",
+        "specific_variant": "X502",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Creates pretty lashes but smudges and wears poorly.",
+        "anchor_quote": "I think it creates very pretty fluttery lashes that don't look spidery or chunky. However, this one out of all the L'Oreal mascara I've tried so far, this is the one that wears the worst. It really wants to smudge on me.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "I think it creates very pretty fluttery lashes that don't look spidery or chunky."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -8,
+                "context_quote": "this is the one that wears the worst. It really wants to smudge on me."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "I think it creates very pretty fluttery lashes that don't look spidery or chunky."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Or\u00e9al",
+                "competitor_product": "Lash Paradise",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "gj2Kor5Qp5o",
+        "influencer": "Shanrell\u2019s Stash",
+        "upload_date": "20240122",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Lash Paradise",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creator's favorite L'Or\u00e9al mascara.",
+        "anchor_quote": "So far, my favorite L'Oreal mascara remains the lash paradise.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 26,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "gj2Kor5Qp5o",
+        "influencer": "Shanrell\u2019s Stash",
+        "upload_date": "20240122",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Infallible Liquid Lipstick",
+        "specific_variant": "Worth It Medium 635",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Long-lasting, pigmented, smooth liquid lipstick formula.",
+        "anchor_quote": "It's matte, but it's very smooth and it's so long lasting like five hours easy it didn't budge",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "this has lasted me what five six hours actually more and it looks amazing"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's matte, but it's very smooth"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "This is the beautiful shade super duper pigmented"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I've already started it out for it so"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 20,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "rtBJkXOlxlk",
+        "influencer": "Vriti Malhotra",
+        "upload_date": "20260421",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal Paris",
+        "product_name": "Infallible Cushion Foundation",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Cushion Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Flawless, lightweight, full coverage foundation with long wear.",
+        "anchor_quote": "Actually cannot deal with how good this looks.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "So the whole idea of this one is it's meant to be really really easy to use, quick to apply"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "Sweatproof 24 hour wear. As an oiler girl, you know those words are music to my ears. And here is my skin after eight hours of wear. No cake, no separation, still looks flawless and barely oily."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "but you can barely feel it on the skin like it's super lightweight."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 10,
+                "context_quote": "They were not lying about the coverage of this stuff. Look at that. It is literally covering up absolutely everything. It has covered up all the redness, all the discoloration on my skin."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "Packaging is really cute"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 2,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "ML5TjiyknrY",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20260101",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Le Duo Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Niacinamide",
+            "LHA",
+            "Capryloyl Salicylic Acid",
+            "Matrixyl 3000",
+            "Peptides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Serum has good ingredients but a strong fragrance.",
+        "anchor_quote": "However, I put off long enough telling you guys the obvious here if you've already scanned in the ingredients and that is this has such a strong fragrance.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "And it's got some good ingredients. It has nice and a mind. I told you the workhorse of the cosmetic skincare industry"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "And it's got some good ingredients. It has nice and a mind. I told you the workhorse of the cosmetic skincare industry"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "And it's got some good ingredients. It has nice and a mind. I told you the workhorse of the cosmetic skincare industry"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "And it's got some good ingredients. It has nice and a mind. I told you the workhorse of the cosmetic skincare industry"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "YoXLAwexVrs",
+        "influencer": "Dr Dray",
+        "upload_date": "20250907",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Color Riche Blurred Matte Lipstick",
+        "specific_variant": "601, Pink",
+        "product_category": "Makeup",
+        "sub_category": "Matte Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "L'Or\u00e9al Color Riche Blurred Matte Lipstick is a comfortable, beautiful, non-drying matte.",
+        "anchor_quote": "This texture, it's something and they shade. It's so good.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Texture feels nicely easy to work with."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 6,
+                "context_quote": "Beautiful pink shade, slightly warm. If you have pale skin, light skin, cool undertone, the shade is not really for you, but if you have neutral undertone or warm undertone, it's so so good."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "This texture, it's something and they shade. It's so good. looks perfectly on lips and no dryness while wearing this product."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "PRICE: 11.95"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "01_1SfMGC9w",
+        "influencer": "Helga Mua ",
+        "upload_date": "20260305",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Laque Resistance Lipstick",
+        "specific_variant": "365 Worth It Medium",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Long-lasting, comfortable, non-sticky liquid lipstick with gloss.",
+        "anchor_quote": "I love the formula. I love the shade. And that's why this definitely gets a thumbs up from me.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -3,
+                "context_quote": "First things first, you really need to shake this for a good 20 seconds. wait for about 60 seconds before you purse your lips."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -2,
+                "context_quote": "The shade is a little bit lighter than the worth it medium in matte."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "This is a fairly long lasting lipstick."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "personally, I really love the formula because it doesn't feel sticky like the Maybelline vinyl ink, but I have worn the Maybelline vinyl ink quite a lot. So I can tell you why experience that once you apply these lipsticks, wait for about 60 seconds before you purse your lips. Otherwise that gloss will not settle in. They're very comfortable to wear."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Vinyl Ink",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "yjZUMoE5Cqs",
+        "influencer": "Chetali Chadha",
+        "upload_date": "20251126",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Vinyl Ink",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "A sticky liquid lipstick, but a popular benchmark.",
+        "anchor_quote": "it doesn't feel sticky like the Maybelline vinyl ink, but I have worn the Maybelline vinyl ink quite a lot.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "it doesn't feel sticky like the Maybelline vinyl ink"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 23,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "yjZUMoE5Cqs",
+        "influencer": "Chetali Chadha",
+        "upload_date": "20251126",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Hyaluron Tint Lip Stain",
+        "specific_variant": "217 Smokey Mauve",
+        "product_category": "Makeup",
+        "sub_category": "Lip Stain",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Soft nude pink builds richer, becomes true 'your lips but better' stain.",
+        "anchor_quote": "217 a smoky mauve, a soft new pink that builds richer than expected, super pigmented when glossy, then dabs down to a true your lips' but better shade.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "a soft new pink that builds richer than expected"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "super pigmented when glossy, then dabs down to a true your lips' but better shade."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 8,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 98,
+        "video_id": "a-31QCH7TGM",
+        "influencer": "Glam Girl Gabi",
+        "upload_date": "20260226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Hyaluron Tint Lip Stain",
+        "specific_variant": "420 Le Rouge Paris",
+        "product_category": "Makeup",
+        "sub_category": "Lip Stain",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Rosy mauve reads red, can wear patchy as a stain.",
+        "anchor_quote": "When dabbed off, it behaves like many stains and can wear a little bit patchy, just something to keep in mind.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "described as a rosy mauve, but on me it reads as a very pigmented red."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -3,
+                "context_quote": "When dabbed off, it behaves like many stains and can wear a little bit patchy"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 14,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 98,
+        "video_id": "a-31QCH7TGM",
+        "influencer": "Glam Girl Gabi",
+        "upload_date": "20260226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Hyaluron Tint Lip Stain",
+        "specific_variant": "521 Bordeaux Please",
+        "product_category": "Makeup",
+        "sub_category": "Lip Stain",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Warm, deep rose not preferred by creator, but beautiful on others.",
+        "anchor_quote": "not my personal favorite on my skin tone, but I'm sure many people will love it.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 0,
+                "context_quote": "not my personal favorite on my skin tone, but I'm sure many people will love it."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 25,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 98,
+        "video_id": "a-31QCH7TGM",
+        "influencer": "Glam Girl Gabi",
+        "upload_date": "20260226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Hyaluron Tint Lip Stain",
+        "specific_variant": "601 Worth It",
+        "product_category": "Makeup",
+        "sub_category": "Lip Stain",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Muted berry is beautiful, works well pigmented or sheer.",
+        "anchor_quote": "a muted berry and absolutely beautiful, works just as well fully pigmented as it does shared out.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "a muted berry and absolutely beautiful"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "works just as well fully pigmented as it does shared out."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 33,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 98,
+        "video_id": "a-31QCH7TGM",
+        "influencer": "Glam Girl Gabi",
+        "upload_date": "20260226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Hyaluron Tint Lip Stain",
+        "specific_variant": "635 Worth It Medium",
+        "product_category": "Makeup",
+        "sub_category": "Lip Stain",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Deeper berry flatters medium to deep skin tones.",
+        "anchor_quote": "the deeper sister to worth it, a true berry that looks especially flattering on medium to deep skin tones.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "a true berry that looks especially flattering on medium to deep skin tones."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 41,
+        "visual_timestamp_seconds": 42,
+        "confidence_score": 98,
+        "video_id": "a-31QCH7TGM",
+        "influencer": "Glam Girl Gabi",
+        "upload_date": "20260226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Hyaluron Tint Lip Stain",
+        "specific_variant": "640 Tea Time",
+        "product_category": "Makeup",
+        "sub_category": "Lip Stain",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Warm brick rose gives effortless, just-bitten stain effect.",
+        "anchor_quote": "a warm brick rose that gives that effortless, just bit in stain effect.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "a warm brick rose that gives that effortless, just bit in stain effect."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 47,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 98,
+        "video_id": "a-31QCH7TGM",
+        "influencer": "Glam Girl Gabi",
+        "upload_date": "20260226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Hyaluron Tint Lip Stain",
+        "specific_variant": "680 Nude Expresso",
+        "product_category": "Makeup",
+        "sub_category": "Lip Stain",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Pulls reddish brick on creator, gorgeous on warm medium skin.",
+        "anchor_quote": "pulls more reddish brick on me than nude, but it's gorgeous on warm medium skin tones.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -3,
+                "context_quote": "pulls more reddish brick on me than nude"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "but it's gorgeous on warm medium skin tones."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 53,
+        "visual_timestamp_seconds": 54,
+        "confidence_score": 98,
+        "video_id": "a-31QCH7TGM",
+        "influencer": "Glam Girl Gabi",
+        "upload_date": "20260226",
+        "creator_location": "Unknown"
     }
 ]
