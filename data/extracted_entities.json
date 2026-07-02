@@ -10592,5 +10592,2008 @@
         "influencer": "Glam Girl Gabi",
         "upload_date": "20260226",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Voluminous Panorama Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Versatile mascara builds from subtle to dramatic lashes effortlessly.",
+        "anchor_quote": "For me, the L'Oio Voluminous Painorama is what is staying in my makeup bag. I love that it's really versatile.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "with very little effort you all, you can get really great lashes."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "just start building those coats and it's going to build beautifully."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Benefit",
+                "competitor_product": "Roller Lash Mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "3qovAoWU57A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260321",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Benefit",
+        "product_name": "Roller Lash Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Included in a comparison with a drugstore mascara.",
+        "anchor_quote": "If you have any questions about either one of these mascara's, do not hesitate to ask. If you like these types of videos where I compare two mascara's, one per siege, one drugstore, give me a thumbs up.",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Or\u00e9al",
+                "competitor_product": "Voluminous Panorama Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 22,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "3qovAoWU57A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260321",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "3qovAoWU57A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260321",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "3qovAoWU57A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260321",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Drunk Elephant",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "3qovAoWU57A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260321",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Byoma",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "3qovAoWU57A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260321",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nail Care",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "3qovAoWU57A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260321",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Younique",
+        "product_name": "Collagen",
+        "specific_variant": null,
+        "product_category": "Supplements",
+        "sub_category": "Collagen Supplement",
+        "active_ingredients": [
+            "Collagen"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "3qovAoWU57A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260321",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Infallible 24H Tinted Serum Foundation",
+        "specific_variant": "6-7 Tan",
+        "product_category": "Makeup",
+        "sub_category": "Tinted Serum Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Natural, weightless, flexible coverage with easy application.",
+        "anchor_quote": "I love the L\u2019Or\u00e9al Paris Infallible 24H Tinted Serum Foundation. \u2728 It melts into my skin, gives sheer-to-medium coverage, and still feels weightless.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It melts into my skin"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "still feels weightless"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "Even if I go a shade lighter or darker, it still looks natural on me. With 7 flexible shades, finding your match is so easy."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "eXITFjUQHbg",
+        "influencer": "SimplyMyStyle!! unni",
+        "upload_date": "20250827",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal Paris",
+        "product_name": "Color Riche Satin Lipstick",
+        "specific_variant": "Worth It",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A stunning, affordable, smooth, everyday lipstick.",
+        "anchor_quote": "This has to be the most stunning affordable lipstick ever and it's called Worth It and I think it's totally worth it",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "one swipe and I was like wow"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "the colors literally my lips but better I would wear this literally every day Like it's such a nice pink color. It's like a peachy pink color like a perfect nude I think for every day where"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "It's like butter on my lips So so so smooth"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "This has to be the most stunning affordable lipstick ever and it's called Worth It and I think it's totally worth it"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "-Hplld-kInY",
+        "influencer": "Vriti Malhotra",
+        "upload_date": "20260203",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Face And Body Glow Lotion",
+        "specific_variant": "Coconut-scented",
+        "product_category": "Face Makeup",
+        "sub_category": "Illuminator",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Glow lotion has chunky glitter and unpleasant scent.",
+        "anchor_quote": "Oh my god, it's like chunky glitter.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "Oh my god, it's like chunky glitter."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 16,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 95,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Colorstay Longwear Makeup",
+        "specific_variant": "Shade 150",
+        "product_category": "Face Makeup",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent shade match for a drugstore foundation.",
+        "anchor_quote": "I don't think I've ever gotten this good of shade match from the drugstore.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "I don't think I've ever gotten this good of shade match from the drugstore. This is the shade 150 and it's actually neutral."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 26,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 98,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Flexwear Full Cover Concealer",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Liquid Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Concealer is thick, cakey, and greasy.",
+        "anchor_quote": "It is thick and cakey and greasy, so I'm trying to put on a really thin layer.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -8,
+                "context_quote": "It is thick and cakey and greasy"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 37,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 95,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Colorstay Powder",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Setting Powder",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Powder is good, not chunky, and silky.",
+        "anchor_quote": "Ooh, this powder's good. It's not chucky. It feels silky.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's not chucky. It feels silky."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 52,
+        "visual_timestamp_seconds": 51,
+        "confidence_score": 95,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Blush",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Powder Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Stunning, natural, and subtle blush color.",
+        "anchor_quote": "This might be the most natural blush color I've ever used. Look, it's so subtle, but it looks so good. Ooh, pale girls. We found a winner.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "This might be the most natural blush color I've ever used. Look, it's so subtle, but it looks so good."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 56,
+        "visual_timestamp_seconds": 57,
+        "confidence_score": 95,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Microbrow Pencil",
+        "specific_variant": "Soft Brown",
+        "product_category": "Eye Makeup",
+        "sub_category": "Eyebrow Pencil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Eyebrow pencil has an undesirable orangey undertone.",
+        "anchor_quote": "The color was looking okay at first, but the more I build it up, it has that orangey undertone I don't like.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -6,
+                "context_quote": "the more I build it up, it has that orangey undertone I don't like."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 65,
+        "visual_timestamp_seconds": 66,
+        "confidence_score": 90,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Colorstay Brow Fiber Filler",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Brow Gel",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Tinted brow product looks messy on thin brows.",
+        "anchor_quote": "I don't really like it, but that's a me thing because my brows are so thin that tinted brow products just look messy, but if you had thicker brows, you probably like this.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "my brows are so thin that tinted brow products just look messy"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 78,
+        "visual_timestamp_seconds": 78,
+        "confidence_score": 90,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Colorstay Day To Night Eyeshadow",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Eyeshadow Palette",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Eyeshadows are fine for a simple shimmer, but lack impact.",
+        "anchor_quote": "You would like these, if you like a simple wash of shimmer over the eyes, but if you like something a little bit more impactful like myself, I would pass on these, but they're fine. They're fine.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "if you like a simple wash of shimmer over the eyes, but if you like something a little bit more impactful like myself, I would pass on these, but they're fine. They're fine."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 95,
+        "visual_timestamp_seconds": 93,
+        "confidence_score": 90,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Colorstay Multi-Player",
+        "specific_variant": "Army Green",
+        "product_category": "Eye Makeup",
+        "sub_category": "Eyeliner Pencil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creamy eyeliner pencil blends well and works on waterline.",
+        "anchor_quote": "Ooh, this is a good pencil. It's creamy enough to blend underneath, but it goes into the waterline as well. I like this.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's creamy enough to blend underneath, but it goes into the waterline as well."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's creamy enough to blend underneath"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 111,
+        "visual_timestamp_seconds": 111,
+        "confidence_score": 95,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Colorstay Full Time Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Underrated drugstore mascara, a hidden gem.",
+        "anchor_quote": "Wow, this mascara is underrated. That has to be the best at the drugstore look. Look at that. Ooh, bitch. I think we found a hidden gem now for some lip liner.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "That has to be the best at the drugstore"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 122,
+        "visual_timestamp_seconds": 129,
+        "confidence_score": 98,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Lip Liner",
+        "specific_variant": "Less Traced",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hidden gem lip liner with good formula and color.",
+        "anchor_quote": "I believe we have another hidden gem. Really good formula and really good color.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Really good formula"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "really good color"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 130,
+        "visual_timestamp_seconds": 132,
+        "confidence_score": 95,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Lipstick",
+        "specific_variant": "Sassy Mauve",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Revlon lipsticks are a consistent favorite.",
+        "anchor_quote": "I already knew that I was obsessed with their lipsticks, but I found some surprising hidden gems.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "The combination is badass, but I feel like the lip is a little too gold for the eye. Give me one sec. I'm gonna do sassy mob instead. There we go. Much better."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 137,
+        "visual_timestamp_seconds": 138,
+        "confidence_score": 95,
+        "video_id": "JCmEoKLotuM",
+        "influencer": "Olivia Olfactory",
+        "upload_date": "20251224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "NYX",
+        "product_name": "Shine Loud Lipstick",
+        "specific_variant": "Go Getta",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "NYX Shine Loud is surprisingly transfer-proof, even with food.",
+        "anchor_quote": "You are lying. You guys, literally nothing on it.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Okay, that's extremely lightly and really easy to apply."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It feels beautiful."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "Oh, nothing. Wow, she passed the first test. So she's definitely good if you're gonna drink something."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "You are lying. You guys, literally nothing on it."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 17,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "xpCNvj8EF7I",
+        "influencer": "Ale Jay",
+        "upload_date": "20260618",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sunkisser Hazy Matte Blush",
+        "specific_variant": "Peri Branch",
+        "product_category": "Cheek Makeup",
+        "sub_category": "Liquid Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Vibrant, blendable blush delivers a beautiful sun-kissed glow.",
+        "anchor_quote": "Love the pigment, Love the sun kissed glow if you haven't tried it already go grab this ASAP",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 10,
+                "context_quote": "ooo it blends beautifully guys"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 10,
+                "context_quote": "the pigment it's there"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it doesn't feel like anything"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 98,
+        "video_id": "MaDwAwuUTW4",
+        "influencer": "Nidhi Katiyar",
+        "upload_date": "20250619",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lifter Plump & Glow Foundation",
+        "specific_variant": "Shade 113",
+        "product_category": "Face Makeup",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Lightweight, glowy foundation blends easily but settles into lines.",
+        "anchor_quote": "So far, I like it. I don't love it when it comes to Maybelline. I think I'm still a team of Maybelline Super Sai.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I love the way that it blends in with just a finger. Really easy application."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it feels really airy on the skin and it's blending out very easily."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -4,
+                "context_quote": "as it has settled, I do feel like it has settled into the fine lines a little bit and a little bit of the dry patches"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Super Stay",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 11,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "SBXl885A_JU",
+        "influencer": "Morgan Turner",
+        "upload_date": "20260106",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lifter Serum Concealer",
+        "specific_variant": "Shade 20",
+        "product_category": "Face Makeup",
+        "sub_category": "Liquid Concealer",
+        "active_ingredients": [
+            "Peptides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Brightening concealer, but not smooth and settles into lines.",
+        "anchor_quote": "It did a great job brightening, but it's not the smoothest looking concealer I've seen on my under eyes.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "The product has settled a bit into my excessively dry skin right now, but I would blame my skin and not the product, but it feels really fresh and lightweight."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "A lot thicker than the foundation, but it does thin out as you blend it."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 70,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "SBXl885A_JU",
+        "influencer": "Morgan Turner",
+        "upload_date": "20260106",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Liquid Lipstick",
+        "specific_variant": "Caffe Peretian",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "L'Or\u00e9al liquid lipstick is superior, long-lasting, and comfortable.",
+        "anchor_quote": "So if I had to pick just one lipstick out of the two I would highly prefer the Laurel one because the Laurel one takes all the boxes for me.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "it just goes on smoothly without any patchiness or streakingness and it covered the entire lip just in single depth."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Caffe Peretian is a beautiful caramel brown with slightly red and terracotta shoes. The shade all by itself on my bare skin is equally flattering."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "The formula takes approximately 20 minutes to set and then it is completely patchproof. This has zero transfer. But the finish of the Laurel one still remained the same even after my meals."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "The finish is also wearable as it gives that satiny finish without making it look too overly. And it's not sticky at all once set. lips doesn't feel dry or patched after the removal."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "So if I had to pick just one lipstick out of the two I would highly prefer the Laurel one because the Laurel one takes all the boxes for me."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "Laurel one has this thin and precise tofu applicator."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Liquid Lipstick",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "bT5yoBYok0o",
+        "influencer": "SimplySancharii",
+        "upload_date": "20250906",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Liquid Lipstick",
+        "specific_variant": "Lippy",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Maybelline liquid lipstick is sticky, difficult to remove, and drying.",
+        "anchor_quote": "Meblin lipstick is very time consuming and requires a lot of effort. I had to scrub it, rub it and then remove it and then I noticed some burning sensation and my lips also felt very dry.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "Meblin one also goes on easily but because mine is too old the formulation has separated. Thus it makes it difficult and I can see some uneven colour payoff. I needed few layering and a couple of dips to cover my lips and to make it look opaque."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 5,
+                "context_quote": "The shade looks beautiful on my brown skin with full makeup on"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -7,
+                "context_quote": "Meblin takes away too much of time to set and even after an hour and more the formulation still feels very sticky for my liking. It's been more than an hour and you can still see the transfer. Both Meblin and Laurel came off slightly from the inner bottom of my lips"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -9,
+                "context_quote": "the formulation still feels very sticky for my liking. While talking I could sense the tackiness and it made me feel uncomfortable and had an urge to remove it immediately. my lips also felt very dry."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "Meblin lipstick is very time consuming and requires a lot of effort. I had to scrub it, rub it and then remove it and then I noticed some burning sensation and my lips also felt very dry."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": "Meblin has this slanted flat tofu applicator"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Or\u00e9al",
+                "competitor_product": "Liquid Lipstick",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "bT5yoBYok0o",
+        "influencer": "SimplySancharii",
+        "upload_date": "20250906",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Swiss Beauty",
+        "product_name": "Lip Liner",
+        "specific_variant": "Cherry Brown",
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "A reliable lip liner used for both lipstick applications.",
+        "anchor_quote": "outlining my lips using Swiss beauty lip liner in the shade Cherry Brown.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "outlining my lips using Swiss beauty lip liner in the shade Cherry Brown."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 0,
+                "context_quote": "outlining my lips using Swiss beauty lip liner in the shade Cherry Brown."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "outlining my lips using Swiss beauty lip liner in the shade Cherry Brown."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "outlining my lips using Swiss beauty lip liner in the shade Cherry Brown."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "outlining my lips using Swiss beauty lip liner in the shade Cherry Brown."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": "outlining my lips using Swiss beauty lip liner in the shade Cherry Brown."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 16,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 90,
+        "video_id": "bT5yoBYok0o",
+        "influencer": "SimplySancharii",
+        "upload_date": "20250906",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Color Riche Satin Lipstick",
+        "specific_variant": "Worth It Intense",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A comfortable, moisturizing, rich satin lipstick with good color.",
+        "anchor_quote": "Formula wise, you will love this lipstick if you already like best-selling hydrating satin lipsticks like the Revlon Super Lustrous and the K Beauty Hydrogram Lipstick.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It is a comfortable, creamy lipstick with a satin finish."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "which makes it not transfer proof but quite moisturizing."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "L'Oreal Lipsticks tend to have a slick consistency that almost feels luxurious on the lips."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "You can expect the same rich formula from the color-reesh satin range as well."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -2,
+                "context_quote": "The subtle sheen from the satin finish eventually dries off after 1-2 hours post application"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "which makes it not transfer proof"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "Worth the intense is a neutral brown with a mauve undertone. It has the perfect depth to show up as a wearable MLBB brown on medium deep skin."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Revlon",
+                "competitor_product": "Super Lustrous Lipstick",
+                "comparison_nature": "similar"
+            },
+            {
+                "competitor_brand": "K Beauty",
+                "competitor_product": "Hydrogram Lipstick",
+                "comparison_nature": "similar"
+            },
+            {
+                "competitor_brand": "Revlon",
+                "competitor_product": "Super Lustrous",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "G62jnMa6gG0",
+        "influencer": "Yogitha's",
+        "upload_date": "20250529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Color Riche Intense Volume Matte Lipstick",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Luxurious matte lipstick formula feels high-end.",
+        "anchor_quote": "Color Reesh Intense Volumat Lipstick has the most luxurious formula that for a second makes you believe that you're wearing a high end lipstick.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "has the most luxurious formula that for a second makes you believe that you're wearing a high end lipstick."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "makes you believe that you're wearing a high end lipstick."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 35,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 90,
+        "video_id": "G62jnMa6gG0",
+        "influencer": "Yogitha's",
+        "upload_date": "20250529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Super Lustrous Lipstick",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A best-selling hydrating satin lipstick.",
+        "anchor_quote": "best-selling hydrating satin lipsticks like the Revlon Super Lustrous",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "best-selling hydrating satin lipsticks like the Revlon Super Lustrous"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 55,
+        "visual_timestamp_seconds": 57,
+        "confidence_score": 85,
+        "video_id": "G62jnMa6gG0",
+        "influencer": "Yogitha's",
+        "upload_date": "20250529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "K Beauty",
+        "product_name": "Hydrogram Lipstick",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A best-selling hydrating satin lipstick.",
+        "anchor_quote": "best-selling hydrating satin lipsticks like the Revlon Super Lustrous and the K Beauty Hydrogram Lipstick.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "best-selling hydrating satin lipsticks like the Revlon Super Lustrous and the K Beauty Hydrogram Lipstick."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 56,
+        "visual_timestamp_seconds": 57,
+        "confidence_score": 80,
+        "video_id": "G62jnMa6gG0",
+        "influencer": "Yogitha's",
+        "upload_date": "20250529",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay 24H Skin Tint",
+        "specific_variant": null,
+        "product_category": "Foundation",
+        "sub_category": "Skin Tint",
+        "active_ingredients": [
+            "Vitamin C"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Long-lasting, lightweight, skin-like finish, great value.",
+        "anchor_quote": "This is a really great, well-rounded, very skin-like finish in a foundation.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "also lasts a ridiculously long time. This will look perfect on your skin all day long."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Something that's really lightweight and breathable, but also lasts a ridiculously long time. This is a really great, well-rounded, very skin-like finish"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "The bonus is it's a drugstore product that's really inexpensive."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "WW3wzhmVKCU",
+        "influencer": "Makeup By Nikki La Rose",
+        "upload_date": "20240810",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "True Match Nude Tinted Serum Foundation",
+        "specific_variant": null,
+        "product_category": "Foundation",
+        "sub_category": "Tinted Serum Foundation",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hydrating, buildable, healthy glow, luxury dupe.",
+        "anchor_quote": "This, I've always said, is a really great dupe for the Armani Luminous Silk foundation, which is a much higher price tag.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "This is formulated with hyaluronic acid, and it feels much like a hydrating serum on your skin"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "This, I've always said, is a really great dupe for the Armani Luminous Silk foundation, which is a much higher price tag."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Armani",
+                "competitor_product": "Luminous Silk Foundation",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 31,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "WW3wzhmVKCU",
+        "influencer": "Makeup By Nikki La Rose",
+        "upload_date": "20240810",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Lumi Glotion",
+        "specific_variant": "XL, 903 Medium Glow, 904 Deep Glow",
+        "product_category": "Face Makeup",
+        "sub_category": "Glow Enhancer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "The new XL Lumi Glotion is a versatile glow enhancer.",
+        "anchor_quote": "With so many ways to use the lori out lumi glosion I'm so excited they now have an xl Exclusively at Ulta because no matter how you apply it it will always enhance your glow",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "One of my fairways replies underneath makeup as a glowy primer put your foundation on top"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "glowy primer put your foundation on top And you're going to perfect lip and wet then glow mix equal parts into your more matte full coverage foundation for a more luminous natural finish"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "I'm so excited they now have an xl"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "Pick up a deeper shade and use this as a luminous bronzer on the high points of your face"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "t0bBEzrWZAQ",
+        "influencer": "Makeup By Nikki La Rose",
+        "upload_date": "20251015",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Infallible 24HR Fresh Wear Foundation",
+        "specific_variant": "420",
+        "product_category": "Face Makeup",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "A matte, full-coverage foundation that can be mixed for a luminous finish.",
+        "anchor_quote": "mix equal parts into your more matte full coverage foundation for a more luminous natural finish",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "mix equal parts into your more matte full coverage foundation for a more luminous natural finish"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 15,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 85,
+        "video_id": "t0bBEzrWZAQ",
+        "influencer": "Makeup By Nikki La Rose",
+        "upload_date": "20251015",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Feels lighter on lashes compared to competitor.",
+        "anchor_quote": "this one was a bit lighter on my lashes like it felt lighter on my lashes.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "this one was a bit lighter on my lashes like it felt lighter on my lashes."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Lash Paradise Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "yPyp1blpMhg",
+        "influencer": "Parminder Kaur",
+        "upload_date": "20221014",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Lash Paradise Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creator's favorite, makes lashes look like falsies.",
+        "anchor_quote": "I have been a fan of it. People ask if I'm wearing falsies but no it's only my lash paradise mascara",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I'm putting on a few coats of it every time I wear it."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -3,
+                "context_quote": "The lash paradise feels a bit heavier it makes your eyes heavier."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "People ask if I'm wearing falsies but no it's only my lash paradise mascara"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Sky High Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "yPyp1blpMhg",
+        "influencer": "Parminder Kaur",
+        "upload_date": "20221014",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Tinted Balm Foundation",
+        "specific_variant": "Shade 7",
+        "product_category": "Face Makeup",
+        "sub_category": "Balm Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Impressive balm foundation performance despite limited shade range.",
+        "anchor_quote": "I'm fucking shocked. But I will say it is really disappointing that L'Oreal only did 12 shades in this. So if you have a shade, I would recommend checking this out. She gets a 4 out of 5 for me.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "L'Oreal, we have to talk because why did we think it was okay to launch 12 shades of your tinted bomb foundation?"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's got like a really beautiful like glow to it, but it's not greasy."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It literally looks like I'm putting nothing on my skin."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "I'm fucking shocked."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "True Match Super-Blendable Foundation",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 1,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "QIMknQ5ovbQ",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20260607",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "True Match Super-Blendable Foundation",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used as a benchmark for L'Oreal's typical shade range.",
+        "anchor_quote": "When your baseline is 40 plus shades in your true match foundation, you have some explaining to do.",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Tinted Balm Foundation",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "QIMknQ5ovbQ",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20260607",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Tinted Blush Balm",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Balm Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Oily texture prevented full review.",
+        "anchor_quote": "This one is giving oil. I'm not going to review this today.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "This one is giving oil."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 90,
+        "video_id": "QIMknQ5ovbQ",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20260607",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Huda Beauty",
+        "product_name": "Setting Powder",
+        "specific_variant": "Banana Bread",
+        "product_category": "Face Makeup",
+        "sub_category": "Setting Powder",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used to set glowy foundation.",
+        "anchor_quote": "It was a pretty glowy, so I did go to town with my hood a beauty powder.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 79,
+        "visual_timestamp_seconds": 81,
+        "confidence_score": 95,
+        "video_id": "QIMknQ5ovbQ",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20260607",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "TirTir",
+        "product_name": "Mask Fit Makeup Fixer",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Setting Spray",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used to extend wear of glowy foundation.",
+        "anchor_quote": "because this is so glowy, I am going to go in with my tear-to-ear mask fit. Makeup fixer, just to really try to give this a little bit of a longer wear.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 86,
+        "visual_timestamp_seconds": 87,
+        "confidence_score": 95,
+        "video_id": "QIMknQ5ovbQ",
+        "influencer": "Monica Ravi-Conway",
+        "upload_date": "20260607",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal Paris",
+        "product_name": "Collagen Moisture Bounce Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Collagen",
+            "Glycerine",
+            "Squalene"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Very hydrating, lightweight, and quickly absorbed serum.",
+        "anchor_quote": "for hydration I can definitely say that this is very very hydrating even though it's winter here.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's a very lightweight serum I like the consistency and it will get quickly absorbed into the skin it doesn't really take too long"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's a milky white serum. It's a very lightweight serum I like the consistency and it will get quickly absorbed into the skin it doesn't really take too long it doesn't really feel that sticky on the skin or greasy or heavy very lightweight"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "My skin doesn't even feel that dry these days usually when it's winter my skin will feel really dry but once I've started using these to products almost on a daily basis my skin doesn't really feel that dry most of the time throughout the day I don't have that dry feeling on the face"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "If your skin feels dehydrated and you want something on a budget then you should listen to this."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "9rhETFZsqyM",
+        "influencer": "Infinite Reflections By Antariksha",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal Paris",
+        "product_name": "Collagen Moisture Filler Moisturizer",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Highly hydrating, non-greasy, and refreshing moisturizer.",
+        "anchor_quote": "My skin feels so good after I apply these products it's like a tremendous boost of freshness",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "both these products get absorbed into the skin without feeling heavy or greasy so they are perfect for daytime use."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "both these products get absorbed into the skin without feeling heavy or greasy so they are perfect for daytime use."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "If your skin feels dehydrated and you want something on a budget then you should listen to this."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "9rhETFZsqyM",
+        "influencer": "Infinite Reflections By Antariksha",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal Paris",
+        "product_name": "Revitalift Triple Power Anti-Aging Moisturizer",
+        "specific_variant": "Fragrance Free",
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Pro-Retinol",
+            "Vitamin C",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Introduced for future review, claims to reduce wrinkles, firm, brighten.",
+        "anchor_quote": "this is the rewight lift triple power anti-aging moisturizer which is fragrance free it reduces wrinkles firms and brightens",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 138,
+        "visual_timestamp_seconds": 132,
+        "confidence_score": 90,
+        "video_id": "9rhETFZsqyM",
+        "influencer": "Infinite Reflections By Antariksha",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal Paris",
+        "product_name": "Revitalift Derm Intensives 1.5% Pure Hyaluronic Acid Plumping Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Introduced for future review, creator excited to try.",
+        "anchor_quote": "they've also sent the plumping serum in this range and I'm most excited to try this one",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 149,
+        "visual_timestamp_seconds": 132,
+        "confidence_score": 90,
+        "video_id": "9rhETFZsqyM",
+        "influencer": "Infinite Reflections By Antariksha",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal Paris",
+        "product_name": "Revitalift Derm Intensives 2.5% Hyaluronic Acid + Caffeine Brightening Eye Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Eye Serum",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Caffeine"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Introduced for future review, creator looking forward to trying.",
+        "anchor_quote": "this is the rewight lift eye serum the brightening eye serum from the range and I am really looking forward to trying this one",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 155,
+        "visual_timestamp_seconds": 153,
+        "confidence_score": 90,
+        "video_id": "9rhETFZsqyM",
+        "influencer": "Infinite Reflections By Antariksha",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Vitamin C Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Niacinamide",
+            "Vitamin C",
+            "Salicylic Acid",
+            "Sodium Hyaluronate"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Affordable serum with benefits, but unsuitable for sensitive/dry skin.",
+        "anchor_quote": "When it comes to sensitive skin, guys avoid it because it has a lot of fragrances. Salicylic acid which might irritate your skin.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "Ganyour Vitamin C Serum is a very affordable Vitamin C serum"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "Use it in the morning after washing your face, apply it on the full face"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "ovnf04cfuYQ",
+        "influencer": "Dermatocare_com",
+        "upload_date": "20250321",
+        "creator_location": "Unknown"
     }
 ]
