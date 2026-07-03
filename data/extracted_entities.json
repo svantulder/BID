@@ -11884,7 +11884,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "K Beauty",
+        "brand_name": "K-Beauty",
         "product_name": "Hydrogram Lipstick",
         "specific_variant": null,
         "product_category": "Lip Makeup",
@@ -12594,6 +12594,2381 @@
         "video_id": "ovnf04cfuYQ",
         "influencer": "Dermatocare_com",
         "upload_date": "20250321",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline Sky High mascara is a buildable, non-clumping win.",
+        "anchor_quote": "But the Mabelines Guy High mascara, it's a total win you all.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It built up beautifully on the second coat, adding more length, volume, and curl with minimal clumping."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "I was just really impressed with how buildable the formula was without compromising that lash definition."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Telescopic Mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "lU9xWWQQK6s",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250719",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "L'Oreal Telescopic is fine for a first coat but poor for layering and removal.",
+        "anchor_quote": "If you're looking for a mascara that gives a clean, separated first coat, the L'Oreal Telescopica is fine, but it's not great for layering, plus there's the removal process that I find a hassle.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "it's not great for layering, plus there's the removal process that I find a hassle."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 3,
+                "context_quote": "gives a clean, separated first coat"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Sky High Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 25,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "lU9xWWQQK6s",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250719",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers amazing length and volume without heaviness.",
+        "anchor_quote": "Even after that first coat I can already see amazing length and volume without any heaviness. The formula feels super lightweight and it's holding curl really nicely.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I love how soft and flexible the wand feels on the lashes and it does such a great job of coating every single lash from root to tip."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "The formula feels super lightweight"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "it's holding curl really nicely."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "the second coat adds even more length and volume without major clumping. Though it did start to get just a little bit thicker towards the end, don't make sure that you don't over apply this mascara."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "0AAFt6zp0Sg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "It Cosmetics",
+        "product_name": "Superhero Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Being compared for length, curl, and volume.",
+        "anchor_quote": "Comparing Maybelline Sky High and IT Cosmetics Superhero mascaras side-by-side to see which one gives more length, curl, and volume in 2025.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 85,
+        "video_id": "0AAFt6zp0Sg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in description.",
+        "anchor_quote": "Armani Liquid eyeshadow - Sparkle",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "0AAFt6zp0Sg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in description.",
+        "anchor_quote": "Dior Lip Oil - Pink Lilac",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "0AAFt6zp0Sg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nail Care",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in description.",
+        "anchor_quote": "Londontown Kur Illuminating Nail Concealer - Bare",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "0AAFt6zp0Sg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Drunk Elephant",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in description.",
+        "anchor_quote": "Drunk Elephant Cleansing Balm",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "0AAFt6zp0Sg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Byoma",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in description.",
+        "anchor_quote": "Byoma Cleansing Balm",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "0AAFt6zp0Sg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "bamboo extract"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Mascara provides amazing length and separation with a lightweight formula.",
+        "anchor_quote": "That first coat gave me the impression of just amazing length and separation for my lashes, which I love. My lashes look long, they look lifted just after one coat.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It has a flexible flex tower wand that bends as you apply helping coat every lash from root to tip."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "The formula is lightweight and infused with bamboo extract to keep lashes lifted without heaviness."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 5,
+                "context_quote": "It has a flexible flex tower wand that bends as you apply helping coat every lash from root to tip."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Air Volume Mega Mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "hPm-xTNVlic",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Air Volume Mega Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Featured in a comparison against Maybelline Sky High Mascara.",
+        "anchor_quote": "I\u2019m testing L\u2019Oreal Air Volume Mega Mascara vs Maybelline Lash Sensational Sky High to see which drugstore mascara gives the best length, volume, and curl in 2025!",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Lash Sensational Sky High Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 85,
+        "video_id": "hPm-xTNVlic",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline Sky High mascara delivers impressive volume, length, and separation.",
+        "anchor_quote": "overall as a mascara the way it applies the way it looks, I really, really like it. I think it's worth the hype. It is all the good things that a mascara can offer",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "it's really, really easy to apply. Like you know how some mascara as you can go wrong with, it's not too liquidy where it easily smudges but it's not too thick where it goes clumpy."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it's not too liquidy where it easily smudges but it's not too thick where it goes clumpy."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "overall I would say that this basically has not smudge at all. There is a little bit of flaking underneath this eye, nothing major... it is very, very long lasting for a non-tubing mascara."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "I think it's worth the hype."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "this is the kind of one that I would usually really like on a mascara, a kind of plastic one."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "UVAO8SMX47o",
+        "influencer": "Honest Phoebe",
+        "upload_date": "20251227",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Maybelline Sky High Mascara offers length and longevity but struggles with clumping and removal.",
+        "anchor_quote": "This looks totally pretty but also messy.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "It lasts all day and knows mudging."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "it doesn't give you a clean and defined lashes. Also, removing this maskarra is a very neat task. You can't just wash it off with soap or face wash."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "it gets little crumb. You need to brush to remove the clumps."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "g8VHvOEGP4U",
+        "influencer": "Abhinaya Kosuru",
+        "upload_date": "20250501",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Tubing Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline Sky High Tubing Mascara delivers impressive volume and length.",
+        "anchor_quote": "I mean, dare I say my lashes are sky high. I love this.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Okay, it is breaking through the cast beautifully and adding in such a layer of volume."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 0,
+                "context_quote": "The brush looks exactly like the Sky High brush, so there's nothing different there."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "So this way when you go to take off your mascara, all it takes is some warm water to kind of start to break that up and it literally slides off like a tube."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "I will say this though, tubing mascara formulas just keep getting better and better."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "Every single time I review a drugstore mascara, it makes me wonder why we spend $30-40."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": "The brush looks exactly like the Sky High brush, so there's nothing different there."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 13,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "EP9kIvKO6tQ",
+        "influencer": "Kelly Rose Sarno",
+        "upload_date": "20260426",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High Mascara",
+        "specific_variant": "burgundy shade",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Mascara is okay, but not 'wow' at full price.",
+        "anchor_quote": "If it's on offer get it but if it's not on offer it's not the most wow mascara I've ever used",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "You can feel it picking it up. You can feel the brushes kind of grab onto the lashes and lift it up."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -3,
+                "context_quote": "The formula is kind of wet but not super super wet. maybe after a couple of go's once it's kind of like not as wet."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "If it's on offer get it but if it's not on offer it's not the most wow mascara I've ever used"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 5,
+                "context_quote": "It's very flexible the wand."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "2Aw8ueZsf_E",
+        "influencer": "Sarah JamiesonMua",
+        "upload_date": "20240224",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline Sky High Mascara delivers excellent lengthening and long-lasting wear.",
+        "anchor_quote": "I found it to do a very good job of lengthening my lashes. It also war very well with no flaking or smudging.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "this one has the small cone shaped brush that is typical for a lengthening mascara and the wand is very flexible."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "It also war very well with no flaking or smudging."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "This one is widely available and I do recommend it."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "x1xMsNFfYKA",
+        "influencer": "Shanrell\u2019s Stash",
+        "upload_date": "20240617",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "ColorStay Multi-Liner",
+        "specific_variant": "Less Trace",
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent long-lasting, cool-toned, multi-use drugstore lip liner.",
+        "anchor_quote": "These are very very much proof and I find that they really do stain if you put them on first and then put something else on.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "It does have a little brush on it by the way if you want to utilize that. That's nice."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "These are very very much proof and I find that they really do stain if you put them on first and then put something else on."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "this one is the perfect cool tone. Oh my goodness this is like a cool tone mavi color. I think it's so pretty."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": -2,
+                "context_quote": "they are not mechanical so you know you have to sharpen that yourself."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Merit",
+                "competitor_product": "Lip Liners",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "mhq9I5vDX5Q",
+        "influencer": "MrsMelissaM",
+        "upload_date": "20260112",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Merit",
+        "product_name": "Lip Liners",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Revlon liners have similar cool tones to Merit's.",
+        "anchor_quote": "They reminded me of the tones that Merit came out with last year in their lip liners.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 65,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "mhq9I5vDX5Q",
+        "influencer": "MrsMelissaM",
+        "upload_date": "20260112",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Photo Ready Lifting Brow Gel",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Brow Gel",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Did nothing for brows.",
+        "anchor_quote": "This did nothing for my brows.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "This did nothing for my brows."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revolution",
+        "product_name": "Skin Silk Glow Foundation Stick",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation Stick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Too heavy for non-dry skin.",
+        "anchor_quote": "but for me it was so heavy.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "but for me it was so heavy."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 8,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 90,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Hyaluron Tint",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Tint",
+        "active_ingredients": [
+            "Hyaluron"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Poor longevity and drying.",
+        "anchor_quote": "The color not only didn't last at all on my lips, but it really dried them out.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -8,
+                "context_quote": "The color not only didn't last at all on my lips"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "but it really dried them out."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 16,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Milani",
+        "product_name": "Baked Blush",
+        "specific_variant": "Dolce Pink",
+        "product_category": "Face Makeup",
+        "sub_category": "Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Too sparkly for a blush.",
+        "anchor_quote": "This was just way too sparkly.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -6,
+                "context_quote": "This was just way too sparkly."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 20,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "e.l.f. Cosmetics",
+        "product_name": "Halo Glow Silky Powder Highlighter",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Highlighter",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Too intense and sparkly.",
+        "anchor_quote": "this new Elf Hale Glow Highlighter was way too much.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -6,
+                "context_quote": "this new Elf Hale Glow Highlighter was way too much."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 25,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Lift And Fill Skin Tint",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Skin Tint",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Made skin look metallic.",
+        "anchor_quote": "but I looked like the Tin Man.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "but I looked like the Tin Man."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 30,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 85,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Cloudtopia Blush",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Too pigmented, easy to overdo.",
+        "anchor_quote": "so, so pigmented. It could go from zero to clown in point two seconds.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -7,
+                "context_quote": "so, so pigmented. It could go from zero to clown in point two seconds."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -6,
+                "context_quote": "It could go from zero to clown in point two seconds."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 37,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "e.l.f. Cosmetics",
+        "product_name": "Soft Glam Concealer",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Not good enough to repurchase.",
+        "anchor_quote": "They tried it once and I have not reached for it since.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "They tried it once and I have not reached for it since."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 42,
+        "visual_timestamp_seconds": 42,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Milani",
+        "product_name": "Highly Rated Fan Club Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Nice but not memorable.",
+        "anchor_quote": "It's nice. I don't have anything negative to say about it. It's just not memorable.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "It's nice."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "It's just not memorable."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 47,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Photo Ready Lip Blur",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Product",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Looks good initially but lacks longevity.",
+        "anchor_quote": "I love how this looks right when I first put it on. It makes your lips look really plump, but then it just doesn't last.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I love how this looks right when I first put it on. It makes your lips look really plump"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -6,
+                "context_quote": "but then it just doesn't last."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 54,
+        "visual_timestamp_seconds": 54,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Milani",
+        "product_name": "Make It Last Moisture Boost",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Setting Spray",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good finishing spray, poor setting spray.",
+        "anchor_quote": "Great finishing spray, not a great setting spray.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "it doesn't make my makeup last."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "It's rid of that powdery look"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 61,
+        "visual_timestamp_seconds": 63,
+        "confidence_score": 90,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Photo Ready Instant Plump Lip Serum",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Serum",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effectively plumps lips.",
+        "anchor_quote": "Oh my goodness, does this plump your lips?",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Oh my goodness, does this plump your lips?"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 70,
+        "visual_timestamp_seconds": 72,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Nyx",
+        "product_name": "Wonder Snatch Powder",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Setting Powder",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Good powder but poor value for money.",
+        "anchor_quote": "It's a great powder, but hand for size. This is a tiny product. I'm willing to spend this much per ounce just go with the Hood of One or the L'Oreal Blur Refection because they're both better.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -7,
+                "context_quote": "This is a tiny product. I'm willing to spend this much per ounce"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "It's a great powder"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Huda Beauty",
+                "competitor_product": "Unknown",
+                "comparison_nature": "inferior"
+            },
+            {
+                "competitor_brand": "L'Or\u00e9al",
+                "competitor_product": "Blur Refection",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 76,
+        "visual_timestamp_seconds": 78,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Serum Lipstick",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Beautiful finishes but faces stiff competition.",
+        "anchor_quote": "Come in a bunch of different finishes that are all really beautiful. I have nothing negative to say about them. There's just some stiff competition here.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 6,
+                "context_quote": "Come in a bunch of different finishes that are all really beautiful."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 87,
+        "visual_timestamp_seconds": 87,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Nyx",
+        "product_name": "Make Em Wonder Matte Foundation",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Nice matte but not flat foundation.",
+        "anchor_quote": "This is a really nice matte, but not flat foundation.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "This is a really nice matte, but not flat foundation."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 96,
+        "visual_timestamp_seconds": 96,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Nyx",
+        "product_name": "Buttermelt Glow Highlighting Stick",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Highlighting Stick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creates a glossy, glowy, beautiful look.",
+        "anchor_quote": "This one makes you look glossy and glowy and beautiful.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "This one makes you look glossy and glowy and beautiful."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 102,
+        "visual_timestamp_seconds": 102,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "e.l.f. Cosmetics",
+        "product_name": "Glow Reviver Lipstick",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Good glowy lipstick, but not her absolute favorite.",
+        "anchor_quote": "I love a glowy lipstick formula. The reason this isn't ranked higher is because I still reach for my Revlon Glash Shine a little bit more.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "I love a glowy lipstick formula."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Revlon",
+                "competitor_product": "Glash Shine",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 109,
+        "visual_timestamp_seconds": 111,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Body Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Great application but issues with transfer and removal.",
+        "anchor_quote": "I'm very picky with mascara and I love how this goes on. This would be number 1. If it wasn't for the fact that the non waterproof transfers on me and the waterproof is insanely hard to take off.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I love how this goes on."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -7,
+                "context_quote": "the non waterproof transfers on me"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -7,
+                "context_quote": "the waterproof is insanely hard to take off."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 117,
+        "visual_timestamp_seconds": 117,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Covergirl",
+        "product_name": "Squishy Lip Glaze",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Glaze",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Similar to high-end, smells amazing.",
+        "anchor_quote": "These exactly like the Summer Friday ones and they smell amazing.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "These exactly like the Summer Friday ones"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "and they smell amazing."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Summer Fridays",
+                "competitor_product": "Unknown",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 129,
+        "visual_timestamp_seconds": 129,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revolution Beauty",
+        "product_name": "Powder Pops",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Setting Powder",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable and similar to high-end powder.",
+        "anchor_quote": "They're only $10. You're really similar to the Hedabiti one.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "They're only $10."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "You're really similar to the Hedabiti one."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Huda Beauty",
+                "competitor_product": "Unknown",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 135,
+        "visual_timestamp_seconds": 135,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lifter Concealer",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Full coverage, hydrating, brightening, and a favorite.",
+        "anchor_quote": "It's full coverage. It's hydrating. It's brightening and I find myself reaching for it all the time.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's full coverage."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's hydrating."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's brightening"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 144,
+        "visual_timestamp_seconds": 144,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Covergirl",
+        "product_name": "Trublend Skin Enhancer Blush",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Loves the formula, but prefers cream blush.",
+        "anchor_quote": "Absolutely love this formula. I'm just a little bit more of a cream blush girl which is why this isn't the top 3.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Absolutely love this formula."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 150,
+        "visual_timestamp_seconds": 150,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Colourpop",
+        "product_name": "Brow Boss Gel",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Brow Gel",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "On par with her favorite brow gel.",
+        "anchor_quote": "It's on par with my all time favorite brow gel the Maybelline Superlock.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's on par with my all time favorite brow gel"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Superlock",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 159,
+        "visual_timestamp_seconds": 159,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "e.l.f. Cosmetics",
+        "product_name": "Liquid Velvet Eyeshadow",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Easy to work with and long-lasting.",
+        "anchor_quote": "so easy to work with and they last the entire day.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "so easy to work with"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "and they last the entire day."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 165,
+        "visual_timestamp_seconds": 165,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Covergirl",
+        "product_name": "Trublend Skin Enhancer Bronzer",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Bronzer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creates an inner glow without sparkle.",
+        "anchor_quote": "Make sure you look like you're glowing from within without looking sparkly or shimmery.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "Make sure you look like you're glowing from within without looking sparkly or shimmery."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 171,
+        "visual_timestamp_seconds": 174,
+        "confidence_score": 95,
+        "video_id": "yjj7N4G6OAg",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Lipstick",
+        "specific_variant": "Bear It All",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Boomer (60+)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Revlon lipsticks are non-drying and perfect for mature lips.",
+        "anchor_quote": "These lipsticks are never drying. I think they're perfect for mature lips.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "These lipsticks are never drying."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Take a look, it's such a beautiful new."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "1rnslrGch9Q",
+        "influencer": "Laura Rae Beauty",
+        "upload_date": "20241105",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Blush",
+        "specific_variant": "Apricute",
+        "product_category": "Makeup",
+        "sub_category": "Powder Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Boomer (60+)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Revlon powder blush is beautiful, affordable, and a perfect fall shade.",
+        "anchor_quote": "I think this is such a beautiful, great affordable blush.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "I think this is such a beautiful, great affordable blush."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "It's just a perfect fall shade."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Let's put some on."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 18,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "1rnslrGch9Q",
+        "influencer": "Laura Rae Beauty",
+        "upload_date": "20241105",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Cream Eyeshadows",
+        "specific_variant": "Carmel",
+        "product_category": "Makeup",
+        "sub_category": "Cream Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Boomer (60+)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Revlon Cream Eyeshadows are easy to apply and suitable for most skin tones.",
+        "anchor_quote": "Wow, look at the difference between this lid that I already have eyeshadow on, the powder, and I just put this cream right on top.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "You can just rub your clean finger in like this. And let's add a little bit to the lid."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "It's perfect for most skin tones."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "and I just put this cream right on top."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 32,
+        "visual_timestamp_seconds": 33,
+        "confidence_score": 95,
+        "video_id": "1rnslrGch9Q",
+        "influencer": "Laura Rae Beauty",
+        "upload_date": "20241105",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Blurring Powder",
+        "specific_variant": "010",
+        "product_category": "Makeup",
+        "sub_category": "Setting Powder",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Revlon Blurring Powder is a smooth, lightweight, good under-eye powder.",
+        "anchor_quote": "This is definitely a good powder. It's pigmented, but lightweight so it's not heavy for the under eye area",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Really pressing that powder in it's pretty smooth"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "it's pretty smooth yeah very smooth lightweight so it's not heavy for the under eye area"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "It's pigmented, but lightweight"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Charlotte Tilbury",
+                "competitor_product": "Powder",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "HfNtlZaAdZo",
+        "influencer": "Magdaline Janet",
+        "upload_date": "20230310",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "e.l.f. Cosmetics",
+        "product_name": "Powder Puff",
+        "specific_variant": null,
+        "product_category": "Tools & Accessories",
+        "sub_category": "Applicator",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Creator uses an Elf powder puff for application.",
+        "anchor_quote": "This is the elf powder puff",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 90,
+        "video_id": "HfNtlZaAdZo",
+        "influencer": "Magdaline Janet",
+        "upload_date": "20230310",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Super Lustrous Lipstick",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Classic drugstore lipstick formula performs like high-end.",
+        "anchor_quote": "My favorite traditional lipstick formula has to be the classic Revlon lipsticks. There's a reason these have been around and so popular for so long.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "Drugstore lipsticks that perform like high-end."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "My favorite traditional lipstick formula has to be the classic Revlon lipsticks."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "dperVs5TXRQ",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20240822",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Satin Lipstick",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Satin Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gorgeous packaging, great shades, scent fades quickly.",
+        "anchor_quote": "I also really love the shades offered in the L'Oreal color rich line. Packaging is gorgeous and yes it does have the L'Oreal scent but it fades within seconds after applying.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "I also really love the shades offered in the L'Oreal color rich line."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 9,
+                "context_quote": "Packaging is gorgeous"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "it does have the L'Oreal scent but it fades within seconds after applying."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "dperVs5TXRQ",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20240822",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Glow Paradise Balm-in-Lipstick",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Balm-in-Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent for a glassy finish, perfect gloss-lipstick hybrid.",
+        "anchor_quote": "If you want a little bit more of a glassy finish, the Glow Paradise Balmond Lipstick is excellent. This is like the perfect cross between a gloss and a lipstick.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "glassy finish, the Glow Paradise Balmond Lipstick is excellent. This is like the perfect cross between a gloss and a lipstick."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 17,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "dperVs5TXRQ",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20240822",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Milani",
+        "product_name": "Color Fettish Lipstick",
+        "specific_variant": "P&E",
+        "product_category": "Makeup",
+        "sub_category": "Matte Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Beautiful matte formula, a reliable choice.",
+        "anchor_quote": "If you prefer more of a matte formula, the Milani Color Fettish Lipstick, specifically the shade P&E is absolutely beautiful and you can't go wrong with my favorite",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "If you prefer more of a matte formula, the Milani Color Fettish Lipstick, specifically the shade P&E is absolutely beautiful"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 24,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 95,
+        "video_id": "dperVs5TXRQ",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20240822",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "e.l.f. Cosmetics",
+        "product_name": "O-Face Satin Lipstick",
+        "specific_variant": "Dirty Talk",
+        "product_category": "Makeup",
+        "sub_category": "Satin Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Favorite drugstore lipstick formula, highly recommended.",
+        "anchor_quote": "you can't go wrong with my favorite lipstick formula at the drugstore. The Elf O-Face Lipstick, specifically the shade Dirty Talk.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "you can't go wrong with my favorite lipstick formula at the drugstore."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "The Elf O-Face Lipstick"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 32,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 95,
+        "video_id": "dperVs5TXRQ",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20240822",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Super Lustrous Glass Lipsticks",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Glass Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Bonus recommendation, worth getting if available.",
+        "anchor_quote": "Bonus if you can get your hands on the Revlon Super Lustrous Glass lipsticks",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "Bonus if you can get your hands on the Revlon Super Lustrous Glass lipsticks"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "dperVs5TXRQ",
+        "influencer": "Taylor Margaret",
+        "upload_date": "20240822",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Super Lustrous Lipstick",
+        "specific_variant": "Bare Affair",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Bare Affair is a warm beige nude, flattering on medium skin tones.",
+        "anchor_quote": "First up, Bare Affair. This is a warm beige nude super flattering on medium skin tones but I highly recommend pairing it with a lip liner.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "This is a warm beige nude super flattering on medium skin tones"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "I highly recommend pairing it with a lip liner."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 11,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "tZ-XQbAecQg",
+        "influencer": "Charisse Daily",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Super Lustrous Lipstick",
+        "specific_variant": "Bare It All",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Bare It All is a light, neutral nude that needs a lip liner.",
+        "anchor_quote": "Next is Bare It All. It's a lighter, more neutral, almost milky on its own. Definitely needs a liner to add depth.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 4,
+                "context_quote": "It's a lighter, more neutral, almost milky on its own. Definitely needs a liner to add depth."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 3,
+                "context_quote": "Definitely needs a liner to add depth."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 20,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 95,
+        "video_id": "tZ-XQbAecQg",
+        "influencer": "Charisse Daily",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Super Lustrous Lipstick",
+        "specific_variant": "Blushing Nude",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Blushing Nude is a soft beige pink, wearable and easy for everyday.",
+        "anchor_quote": "Blushing nude has a soft beige pink tone. This one is really wearable and easy for every day.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "has a soft beige pink tone. This one is really wearable"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "easy for every day."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 26,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 95,
+        "video_id": "tZ-XQbAecQg",
+        "influencer": "Charisse Daily",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Super Lustrous Lipstick",
+        "specific_variant": "Champagne on Ice",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Champagne on Ice is a light nude with a glossy, polished finish.",
+        "anchor_quote": "Champagne Eyes is lighter with a subtle pearly sheen. It gives that glossy, polished finish.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "subtle pearly sheen. It gives that glossy, polished finish."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "lighter with a subtle pearly sheen."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 30,
+        "visual_timestamp_seconds": 33,
+        "confidence_score": 95,
+        "video_id": "tZ-XQbAecQg",
+        "influencer": "Charisse Daily",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Super Lustrous Lipstick",
+        "specific_variant": "Peach Me",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Peach Me is a soft peach nude that brightens lips subtly.",
+        "anchor_quote": "Next is Peach Me. It's a soft peach nude that's certainly brightens the lips without looking too much.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "soft peach nude that's certainly brightens the lips without looking too much."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 37,
+        "visual_timestamp_seconds": 39,
+        "confidence_score": 95,
+        "video_id": "tZ-XQbAecQg",
+        "influencer": "Charisse Daily",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Super Lustrous Lipstick",
+        "specific_variant": "Caramel Glaze",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Caramel Glaze is a warm nude with a slight pearl finish.",
+        "anchor_quote": "Caramel glaze is warmer with a slight pearl finish. Such a pretty nude if you like warm.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "warmer with a slight pearl finish."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Such a pretty nude if you like warm."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 41,
+        "visual_timestamp_seconds": 42,
+        "confidence_score": 95,
+        "video_id": "tZ-XQbAecQg",
+        "influencer": "Charisse Daily",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Super Lustrous Lipstick",
+        "specific_variant": "Sky Line Pink",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Sky Line Pink is a cool baby pink that achieves a '90s supermodel vibe with a brown liner.",
+        "anchor_quote": "And Skylight Pink is a cool baby pink. It looks intimidating at first but trust me with a brown lip liner it gives that full 90s supermodel vibes.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 6,
+                "context_quote": "It looks intimidating at first but trust me with a brown lip liner it gives that full 90s supermodel vibes."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "It looks intimidating at first but trust me with a brown lip liner it gives that full 90s supermodel vibes."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 47,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 95,
+        "video_id": "tZ-XQbAecQg",
+        "influencer": "Charisse Daily",
+        "upload_date": "20251229",
         "creator_location": "Unknown"
     }
 ]
