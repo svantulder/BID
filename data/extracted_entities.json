@@ -14970,5 +14970,2077 @@
         "influencer": "Charisse Daily",
         "upload_date": "20251229",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers length, curl, definition, and easy removal without clumping.",
+        "anchor_quote": "I think it's a really great option for sensitive eyes or daily use.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "this built beautifully without clumping. I didn't have to fight it or use a lash comb."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "The formula stayed light and clean looking."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Tarte",
+                "competitor_product": "Tartelette XL Tubing Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "A1NAXQY8XwY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250821",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Drunk Elephant",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Recommended for easy and gentle mascara removal.",
+        "anchor_quote": "I like the one from Bioma or trunk elephant.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It's also very easy to remove with a good cleansing balm."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 21,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "A1NAXQY8XwY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250821",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High Glitter Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Subtle glitter effect is pretty but prone to fallout.",
+        "anchor_quote": "It's very subtle, which honestly I prefer. I feel like it's just so pretty... It's not exactly foolproof though.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -3,
+                "context_quote": "It's not exactly foolproof though. I feel like I have to work with it a little bit more"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "I was worried it was gonna be like chunky glitter."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "a glitter already fell under my lashes. Actually two little dots already fell."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 5,
+                "context_quote": "It's very subtle, which honestly I prefer."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Sky High Mascaras",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Mj1u4SPZyOM",
+        "influencer": "Kate Carter",
+        "upload_date": "20241219",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Revlon",
+        "product_name": "Colorstay",
+        "specific_variant": "Translucent",
+        "product_category": "Makeup",
+        "sub_category": "Setting Powder",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable setting powder for oily skin, lasts all day.",
+        "anchor_quote": "It's definitely a must-have for oily skin.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "It mattifies your makeup for flawless finish for up to 16 hours."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's a silky soft formula and it doesn't leave like a chalky film on your skin."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "It's so affordable"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 98,
+        "video_id": "NXiHLOvGoYo",
+        "influencer": "Kirsty Lo",
+        "upload_date": "20230506",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "Retinol Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cream",
+        "active_ingredients": [
+            "Retinol"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Dermatologist compares Neutrogena and Olay retinol creams.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Olay",
+                "competitor_product": "Retinol Cream",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "OpXbd8v1cKg",
+        "influencer": "Dr. Jenny Liu",
+        "upload_date": "20230209",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Olay",
+        "product_name": "Retinol Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cream",
+        "active_ingredients": [
+            "Retinol"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Dermatologist compares Neutrogena and Olay retinol creams.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Neutrogena",
+                "competitor_product": "Retinol Cream",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "OpXbd8v1cKg",
+        "influencer": "Dr. Jenny Liu",
+        "upload_date": "20230209",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Nyx",
+        "product_name": "Thick It. Stick It. Brow Mascara",
+        "specific_variant": "Brown",
+        "product_category": "Makeup",
+        "sub_category": "Brow Mascara",
+        "active_ingredients": [
+            "Fibers"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "NYX brow mascara offers volumizing fibers and is less messy.",
+        "anchor_quote": "NYX has volumizing fibers. NYX is less message.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "NYX has volumizing fibers"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "NYX is less message"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Essence",
+                "competitor_product": "Thick & Wow! Fixing Brow Mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "jG1LjA6vPs0",
+        "influencer": "Alex Pavlova \ud83d\udc9b BeautyForEverybody",
+        "upload_date": "20230415",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Thick & Wow! Fixing Brow Mascara",
+        "specific_variant": "Brown",
+        "product_category": "Makeup",
+        "sub_category": "Brow Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Essence brow mascara features a bigger wand.",
+        "anchor_quote": "S-N-S has a bigger one.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": "S-N-S has a bigger one."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "NYX",
+                "competitor_product": "Thick It. Stick It. Brow Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "jG1LjA6vPs0",
+        "influencer": "Alex Pavlova \ud83d\udc9b BeautyForEverybody",
+        "upload_date": "20230415",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Nyx Professional Makeup",
+        "product_name": "Tinted Brow Mascara",
+        "specific_variant": "Black",
+        "product_category": "Makeup",
+        "sub_category": "Brow Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Essence brow mascara is preferred over NYX for color and wand.",
+        "anchor_quote": "But I personally prefer the essence one just because the color is a lot better.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -3,
+                "context_quote": "The one is a bit longer and a bit thicker."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "But I personally prefer the essence one just because the color is a lot better."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "both last for the same duration"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Essence",
+                "competitor_product": "Make Me BROW Eyebrow Gel Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "jxX3HRPUHAw",
+        "influencer": "Prutha K.",
+        "upload_date": "20230210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Make Me BROW Eyebrow Gel Mascara",
+        "specific_variant": "02 Browny Brow",
+        "product_category": "Makeup",
+        "sub_category": "Brow Gel Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Essence preferred for superior color, wand, formula, hold.",
+        "anchor_quote": "But I personally prefer the essence one just because the color is a lot better. I like the wand size. I feel like it's a perfect one for my particular brow shape.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "the color is a lot better."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It has a shorter and skinnier wand. I like the wand size. I feel like it's a perfect one for my particular brow shape."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "essence formula is easier to work with too"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 3,
+                "context_quote": "hold is also slightly better on the essence one"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "NYX Professional Makeup",
+                "competitor_product": "Tinted Brow Mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 20,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "jxX3HRPUHAw",
+        "influencer": "Prutha K.",
+        "upload_date": "20230210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Nyx Professional Makeup",
+        "product_name": "Plump Right Back Primer + Serum",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Primer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent primer for radiant, hydrated skin with makeup longevity.",
+        "anchor_quote": "My favorite part about this primer is how radiant and glowy it leaves your skin.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It applies very evenly and absorbs into the skin quickly."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "This hydration lasts well after applying makeup and throughout the day. It does have a tackiness to it which helps to grip makeup and help with longevity."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "This primer has a light gel-like/serum texture."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Essence",
+                "competitor_product": "Bouncy Plump Smoothing Primer",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "JaxaWIxOqGo",
+        "influencer": "Alicia B",
+        "upload_date": "20251120",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Bouncy Plump Smoothing Primer",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Primer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Provides smoothing and glow, but hydration and scent are issues.",
+        "anchor_quote": "It does provide some hydration, but that does not last very long.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "The product applies smoothing and there is a visible smoothing effect seen on the skin."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 3,
+                "context_quote": "My makeup also lasted well with this primer, but the hydrating effect did not last that long."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "This primer has a medium consistency gel-like texture."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "NYX Professional Makeup",
+                "competitor_product": "Plump Right Back Primer + Serum",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "JaxaWIxOqGo",
+        "influencer": "Alicia B",
+        "upload_date": "20251120",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Nyx",
+        "product_name": "Pore Filler",
+        "specific_variant": null,
+        "product_category": "Face",
+        "sub_category": "Pore-filling Primer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Excellent for filling pores, but lacks hydration.",
+        "anchor_quote": "for the purpose of filling my pores this is the best I would say",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "for the purpose of filling my pores this is the best I would say"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "zQ3Ji-cWkYM",
+        "influencer": "Jocy Here",
+        "upload_date": "20231010",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Metaface Swirl Primer",
+        "specific_variant": null,
+        "product_category": "Face",
+        "sub_category": "Hydrating Primer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Very hydrating and nice, but doesn't fill pores.",
+        "anchor_quote": "swirl primer, very hydrating, very nice.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "swirl primer, very hydrating, very nice."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 20,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "zQ3Ji-cWkYM",
+        "influencer": "Jocy Here",
+        "upload_date": "20231010",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Wet N Wild",
+        "product_name": "Color Icon Lip Liner Pencil",
+        "specific_variant": "Chestnut",
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Demonstrates lip liner shade Chestnut",
+        "anchor_quote": "Wet n wild color icon Lip liner pencil \"CHESTNUT\" Ft. NC40-42 bareskin swatch",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "ghK0RcM08-k",
+        "influencer": "CelestialShimmer by Kamalini",
+        "upload_date": "20230523",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "Hydro Boost",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Facial Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gentle cleanser ideal for daily use.",
+        "anchor_quote": "Uno, por ejemplo, bien gentil para todos los d\u00edas, ma\u00f1ana y noche",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "bien gentil para todos los d\u00edas"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 14,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "Epy21e1hutI",
+        "influencer": "Liz Jara",
+        "upload_date": "20260310",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "SkinActive Express Aclara",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Facial Cleanser",
+        "active_ingredients": [
+            "\u00c1cido Salic\u00edlico",
+            "Vitamina C"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Targeted cleanser for oil control and preventing irritation.",
+        "anchor_quote": "otro para una, dos veces a la semana o inclusive a 15 d\u00edas. Para cidarle m\u00e1s control a la gracitud de mi piel, pero al mismo tiempo evitar que se irrite.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Para cidarle m\u00e1s control a la gracitud de mi piel, pero al mismo tiempo evitar que se irrite."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 18,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "Epy21e1hutI",
+        "influencer": "Liz Jara",
+        "upload_date": "20260310",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Superstay Flex Powder Foundation",
+        "specific_variant": "330",
+        "product_category": "Makeup",
+        "sub_category": "Powder Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Foundation offers great coverage, flawless finish, and good water resistance.",
+        "anchor_quote": "So I'm super happy with this launch and product and probably one of the best launches from Maybelline this year",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Apply smoothly on the skin"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "shade is pretty perfect for me"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 6,
+                "context_quote": "it is waterproof to a great extent, but not completely"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "looks flawless and has a poreless finish"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "YeEshgZLvGc",
+        "influencer": "Sathyapriya",
+        "upload_date": "20251009",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "SuperStay Flex Powder Foundation",
+        "specific_variant": "330",
+        "product_category": "Face Makeup",
+        "sub_category": "Powder Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent powder foundation for oily skin with good coverage.",
+        "anchor_quote": "I think I love the Super State Flex Power Foundation in 330 from Meabalene and would highly recommend trying out.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "This foundation is silky smooth and applied very evenly on my skin without emphasizing any dry patches or texture."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "This foundation is silky smooth"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "lasts it pretty well without feeling much on my very oily skin."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "a perfect match for my skin tone"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "Love the fun purple packaging."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Lumi Matte Liquid Foundation",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "3myjpb_u1jQ",
+        "influencer": "Sathyapriya",
+        "upload_date": "20250912",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lumi Matte Liquid Foundation",
+        "specific_variant": "330",
+        "product_category": "Face Makeup",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Shade 330 is lighter with the right undertone.",
+        "anchor_quote": "This is the 330 in their Lumi Matte Liquid Foundation lighter in shade with the right undertone",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 0,
+                "context_quote": "lighter in shade with the right undertone"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 18,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 90,
+        "video_id": "3myjpb_u1jQ",
+        "influencer": "Sathyapriya",
+        "upload_date": "20250912",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lumi Matte Liquid Foundation",
+        "specific_variant": "340",
+        "product_category": "Face Makeup",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Shade 340 is too deep and warm for her skin.",
+        "anchor_quote": "this is 340 in the liquid foundation which is deeper and much warmer for my skin tone",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "deeper and much warmer for my skin tone"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 22,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 90,
+        "video_id": "3myjpb_u1jQ",
+        "influencer": "Sathyapriya",
+        "upload_date": "20250912",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "SuperStay Lumi-Matte Foundation",
+        "specific_variant": "Shade 350",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [
+            "amino acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Foundation provides a flawless, luminous matte finish with a perfect match.",
+        "anchor_quote": "Off-whip, I have to say my skin looks flawless.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "I love the looness finish of this foundation, but I also don't feel like my face is oily or greasy. Like I feel like it's a nice set in matte finish, but it still has that luminosity to it."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 10,
+                "context_quote": "My current match is the shade 350"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "If you're a drugstore girlie like me and you're in the market to try a new foundation, get your hands on the Maybelline SuperState Loomy Matte Foundation."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 1,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "D7vGqFH8WU0",
+        "influencer": "Slim Reshae",
+        "upload_date": "20260306",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Superstay Lumi-matte Foundation",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Long-lasting, high-coverage foundation provides a blurred, matte finish.",
+        "anchor_quote": "I have not seen my skin look this perfect in a long time.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "And apparently it stays looking perfect on your skin all day. ... this one apparently lasts 30 hours on the skin. She's apparently budged proof, sweat proof, transfer proof, waterproof. ... This is 16 hours of wear now. Look how insanely good my skin looks."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It seems like it's really easy to blend."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's actually a lot runnier than I expected. ... it feels really light and breathable on the skin. It's got a really nice glow to it. It doesn't look flat, it doesn't look cakey."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "I think I have a new affordable foundation fave!"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 1,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "zR36OdMiS2s",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20250314",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "SuperStay Double Fixer Setting Spray",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Setting Spray",
+        "active_ingredients": [
+            "Vitamin E"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Setting spray extends wear and provides hydration.",
+        "anchor_quote": "This stuff is awesome.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "24 hour wear"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It's really fine mist."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's really fine mist."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 75,
+        "visual_timestamp_seconds": 75,
+        "confidence_score": 98,
+        "video_id": "zR36OdMiS2s",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20250314",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Known for extreme length and separation, like lash extensions.",
+        "anchor_quote": "The L'Oreal Telescopic Mascarra is known for its extreme length and separation of the lashes. It's very much like a lash extension vibe.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 5,
+                "context_quote": "So both of these are drugstore mascarras"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "RtohojcKQ64",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260510",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Voluminous Panorama Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Designed for lifted, wide, fanned-out, voluminous lashes.",
+        "anchor_quote": "The L'Oreal voluminous panorama mascarra is designed to give lifted wide fan-out lashes with a more voluminous look.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 5,
+                "context_quote": "So both of these are drugstore mascarras"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "RtohojcKQ64",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260510",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": "Sparkle",
+        "product_category": "Makeup",
+        "sub_category": "Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in caption, not discussed in video.",
+        "anchor_quote": "Product listed in caption, not discussed in video.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "RtohojcKQ64",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260510",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in caption, not discussed in video.",
+        "anchor_quote": "Product listed in caption, not discussed in video.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "RtohojcKQ64",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260510",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nails",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in caption, not discussed in video.",
+        "anchor_quote": "Product listed in caption, not discussed in video.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "RtohojcKQ64",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260510",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Drunk Elephant",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in caption, not discussed in video.",
+        "anchor_quote": "Product listed in caption, not discussed in video.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "RtohojcKQ64",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260510",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Byoma",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in caption, not discussed in video.",
+        "anchor_quote": "Product listed in caption, not discussed in video.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "RtohojcKQ64",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260510",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "True Match Radiant Serum Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Serum Concealer",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Caffeine"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Lightweight, moisturizing, buildable concealer for a radiant finish.",
+        "anchor_quote": "This is a very lightweight concealer It also gives a very lightweight coverage super easy to blend.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "This is a very lightweight concealer It's a very lightweight and liquid concealer"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "super easy to blend"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "XZmom4cCrBE",
+        "influencer": "L'Or\u00e9al Paris USA",
+        "upload_date": "20251126",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Infallible Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good coverage but creases and separates, not ideal for oily skin.",
+        "anchor_quote": "personally, it creases under the eyes when I apply it directly. Also, it tends to separate from my mouth area.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "This one definitely has a better packaging out of the two."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 3,
+                "context_quote": "Consistency is creamy, thick but very easy to blend. It's on the thicker side."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "It's very creamy and easy to blend but the texture is a little thick. I honestly think it applies better when I take it on the back of my hand instead of going in directly."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -7,
+                "context_quote": "personally, it creases under the eyes when I apply it directly. Also, it tends to separate from my mouth area."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Instant Age Rewind Concealer",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "ye-2H3sGglY",
+        "influencer": "Riya Ghose",
+        "upload_date": "20250409",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Instant Age Rewind Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Holy grail, lightweight, buildable coverage, doesn't crease, preferred.",
+        "anchor_quote": "It's been my holy grail for years but I do not like the packaging of this one. Maybelline definitely win.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": -8,
+                "context_quote": "I do not like the packaging of this one. I always end up losing the sponge on top and honestly, it's better that way."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "This one is thick but blending is seamless and easy. The consistency of this one is also very thick but somehow very lightweight. Feels extremely lightweight and non-greasy."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "blending is seamless and easy. Just see how easily this blends out."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "Personally, it does not crease under the eyes much and stays put around the mouth area. This concealer has sort of a sticky feeling to the skin which kind of feels like it will stay put."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Infallible Concealer",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "ye-2H3sGglY",
+        "influencer": "Riya Ghose",
+        "upload_date": "20250409",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Lanc\u00f4me",
+        "product_name": "Lash Id\u00f4le Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "High-end mascara offers length, lift, and natural volume.",
+        "anchor_quote": "they both separate, give lots of length and lift, with natural looking volume.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "they both separate, give lots of length and lift, with natural looking volume."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 5,
+                "context_quote": "Lancome Lash Idole Mascara ($27)"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Lash Sensational Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Vemy2Rqg7bM",
+        "influencer": "Slashed Beauty",
+        "upload_date": "20221226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable mascara is a dupe for high-end, offering similar results.",
+        "anchor_quote": "Check out this drugstore dupe! Lancome Lash Idole vs. Maybelline Lash Sensational mascara -- they both separate, give lots of length and lift, with natural looking volume.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "they both separate, give lots of length and lift, with natural looking volume."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "Maybelline Lash Sensational Mascara ($9)"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Lanc\u00f4me",
+                "competitor_product": "Lash Id\u00f4le Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Vemy2Rqg7bM",
+        "influencer": "Slashed Beauty",
+        "upload_date": "20221226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Age Perfect Cell Renewal Midnight Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Saccharomyces Ferment",
+            "Black Tea",
+            "Glycerin",
+            "Sodium Hyaluronate",
+            "Salicylic Acid Derivative"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable, very close dupe for Lanc\u00f4me G\u00e9nifique Serum.",
+        "anchor_quote": "Do not skip the L'Oreal Midnight Serum. It is as close a dupe as I could find.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "However, I still think this is a very close dupe and unbeatable for the price."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Lanc\u00f4me",
+                "competitor_product": "G\u00e9nifique Serum",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 95,
+        "video_id": "O_YEBx7TXRE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Lanc\u00f4me",
+        "product_name": "G\u00e9nifique Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Probiotic",
+            "Fermented-Based Serum",
+            "Vitamin C Derivative",
+            "Glycerin",
+            "Sodium Hyaluronate",
+            "Salicylic Acid Derivative"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Incredible, cult-favorite serum for repairing skin barrier.",
+        "anchor_quote": "Now, you all know the cult falling behind the Linkom Genie Feak. It is an incredible, probiotic, fermented-based serum and it's great for repairing your skin barrier.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "The dupe I'm most excited to share is the L'Oreal Midnight Serum for the Linkom Genie Feak Serum."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 90,
+        "video_id": "O_YEBx7TXRE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Age Perfect Cell Renewal Midnight Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cream",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent, affordable dupe for high-end creams like Lanc\u00f4me Absolue.",
+        "anchor_quote": "Speaking of the midnight line, you have heard me talk again and again about the midnight cream because it really is such a good dupe for so many high-end creams, especially the Linkom Absolute Cream.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "This is a very, very close dupe and if you've been interested in trying the Linkom, I would recommend checking this one out first."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Lanc\u00f4me",
+                "competitor_product": "Absolue Cream",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 58,
+        "visual_timestamp_seconds": 60,
+        "confidence_score": 95,
+        "video_id": "O_YEBx7TXRE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Lanc\u00f4me",
+        "product_name": "Absolue Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cream",
+        "active_ingredients": [
+            "Botanicals"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "High-end cream, but L'Oreal offers a very close dupe.",
+        "anchor_quote": "The Linkom Absolute Cream, which retails for, I think, over $100.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -8,
+                "context_quote": "The Linkom Absolute Cream, which retails for, I think, over $100."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 69,
+        "visual_timestamp_seconds": 69,
+        "confidence_score": 90,
+        "video_id": "O_YEBx7TXRE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "SkinActive Micellar Cleansing Water All-in-1 Waterproof Makeup Remover",
+        "specific_variant": "Blue One",
+        "product_category": "Skincare",
+        "sub_category": "Makeup Remover",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Exact dupe for Lanc\u00f4me Bi-Facil, preferred for sensitive eyes and price.",
+        "anchor_quote": "However, the Garnier MyCellar water, specifically the Blue One, is an exact dupe. This is a hot take, but I actually prefer the Garnier one because it doesn't have fragrance and it's a little bit better for sensitive eyes, in my opinion.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It removes water-proof mascara like no other."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "We cannot be the price for this size."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Lanc\u00f4me",
+                "competitor_product": "Bi-Facil Eye Makeup Remover",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 89,
+        "visual_timestamp_seconds": 90,
+        "confidence_score": 95,
+        "video_id": "O_YEBx7TXRE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Lanc\u00f4me",
+        "product_name": "Bi-Facil Eye Makeup Remover",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Makeup Remover",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Cult classic for removing waterproof mascara, but Garnier offers a superior dupe.",
+        "anchor_quote": "The Linkom by Facile Eye Makeup Mover is a cold classic for a reason. It removes water-proof mascara like no other.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It removes water-proof mascara like no other."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "We cannot be the price for this size."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 82,
+        "visual_timestamp_seconds": 84,
+        "confidence_score": 90,
+        "video_id": "O_YEBx7TXRE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Original Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Very close, affordable dupe for Lanc\u00f4me mascara.",
+        "anchor_quote": "Why buy the Linkom mascara when the L'Oreal Telescopic is a very close dupe?",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "Why buy the Linkom mascara when the L'Oreal Telescopic is a very close dupe?"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Lanc\u00f4me",
+                "competitor_product": "D\u00e9finicils Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 104,
+        "visual_timestamp_seconds": 105,
+        "confidence_score": 95,
+        "video_id": "O_YEBx7TXRE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Lanc\u00f4me",
+        "product_name": "D\u00e9finicils Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Good mascara, but L'Oreal offers a very close dupe.",
+        "anchor_quote": "Why buy the Linkom mascara when the L'Oreal Telescopic is a very close dupe?",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "Why buy the Linkom mascara when the L'Oreal Telescopic is a very close dupe?"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 104,
+        "visual_timestamp_seconds": 105,
+        "confidence_score": 90,
+        "video_id": "O_YEBx7TXRE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Mascara Primer Voluminous Original",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara Primer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Exact, affordable dupe for Lanc\u00f4me mascara primer, lengthens and thickens lashes.",
+        "anchor_quote": "I would definitely opt for the L'Oreal One. It is an exact dupe and it's less than half the price.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "it really helps lengthen and thicken lashes before you even apply mascara."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "It is an exact dupe and it's less than half the price."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Lanc\u00f4me",
+                "competitor_product": "Cils Booster XL Mascara Primer",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 118,
+        "visual_timestamp_seconds": 111,
+        "confidence_score": 95,
+        "video_id": "O_YEBx7TXRE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Lanc\u00f4me",
+        "product_name": "Cils Booster XL Mascara Primer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara Primer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Popular mascara primer that lengthens and thickens lashes, but L'Oreal offers an exact dupe.",
+        "anchor_quote": "so many people are obsessed with the Linkom mascara primer because it really helps lengthen and thicken lashes before you even apply mascara.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "it really helps lengthen and thicken lashes before you even apply mascara."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -8,
+                "context_quote": "It is an exact dupe and it's less than half the price."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 110,
+        "visual_timestamp_seconds": 114,
+        "confidence_score": 90,
+        "video_id": "O_YEBx7TXRE",
+        "influencer": "Sarah Palmyra",
+        "upload_date": "20260114",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Lanc\u00f4me",
+        "product_name": "Lash Id\u00f4le Flutter Extension Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides immediate length, separation, and a natural fluttery effect.",
+        "anchor_quote": "you're going to see a immediate length and separation of the lashes. They look lifted and fanned and it's a very natural fluttery effect without heaviness.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "the Lancome is a lighter more flexible formula"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "you're going to see a immediate length and separation of the lashes"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Air Volume Mega Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "A9HxJoIlRO8",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260429",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Air Volume Mega Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides noticeable thickness, darkness, and a fuller, dramatic look.",
+        "anchor_quote": "With the L'Oreal Air Volume Mega Mascarra, you're going to see noticeable thickness right away. The lashes look darker and fuller and it's more dramatic than a natural look",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "the L'Oreal is a little bit thicker"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "you're going to see noticeable thickness right away"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Lanc\u00f4me",
+                "competitor_product": "Lash Id\u00f4le Flutter Extension Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "A9HxJoIlRO8",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260429",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Lanc\u00f4me",
+        "product_name": "Lash Id\u00f4le Flutter Extension",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides definition, separation, natural length, and lightweight feel.",
+        "anchor_quote": "With the Leoncomb lash idol flutter extension mascara you're going to see immediate separation, a natural length boost. It's a very lightweight, barely there feel to the lashes and it's going to give you great definition with minimal clumping.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "has a slim precision brush designed to grab every lash for definition in spacing"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "The formula with the Leoncomb feels very airy clean and fluttery"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "The Leoncomb Flutter extension has a slim precision brush designed to grab every lash for definition in spacing"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Lash Sensational Sky High Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "eeoCAExbAZY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260425",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides ultimate length with a flexible brush.",
+        "anchor_quote": "while the Mabeline sky high wand is a flexible tower brush that bends to reach root to tip for lengthening.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "flexible tower brush that bends to reach root to tip for lengthening."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 6,
+                "context_quote": "the Mabeline feels a little bit wetter but it's definitely that length stretching formula."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "the Mabeline sky high wand is a flexible tower brush that bends to reach root to tip for lengthening."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Lanc\u00f4me",
+                "competitor_product": "Lash Id\u00f4le Flutter Extension",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "eeoCAExbAZY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260425",
+        "creator_location": "Unknown"
     }
 ]
