@@ -17042,5 +17042,4054 @@
         "influencer": "Katie Hoke",
         "upload_date": "20260425",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Concealer",
+        "specific_variant": null,
+        "product_category": "Concealer",
+        "sub_category": "Liquid Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Blends easily, brightens, but lower coverage than NARS.",
+        "anchor_quote": "The Maybelline Concealer blends out very easily. It doesn't dry down fast, leaving me with a definitely more brightened under eye. However, looking at my under eyes, I do feel like the NARS is a more higher coverage concealer than the Maybelline.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "The Maybelline Concealer blends out very easily."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It doesn't dry down fast, leaving me with a definitely more brightened under eye."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -2,
+                "context_quote": "I think it's just because the NARS Concealer is a little bit lighter than the Maybelline."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "is the Maybelline Fit Me Concealer a dupe for the NARS Radiant Creamy Concealer."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "NARS",
+                "competitor_product": "Radiant Creamy Concealer",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "QDJm0NsWsdY",
+        "influencer": "Hannah Watson",
+        "upload_date": "20240923",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Nars",
+        "product_name": "Radiant Creamy Concealer",
+        "specific_variant": null,
+        "product_category": "Concealer",
+        "sub_category": "Creamy Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creamy, easy to blend, offers higher coverage and brightening.",
+        "anchor_quote": "This NARS Concealer definitely is a creamy concealer. It does blend out again very easily. It's not one that dries down fast. I do feel like the NARS is a more higher coverage concealer than the Maybelline.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It does blend out again very easily."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "This NARS Concealer definitely is a creamy concealer. It's not one that dries down fast."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "I'm seeing more of a difference on this side. And I think it's just because the NARS Concealer is a little bit lighter than the Maybelline."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "It's not one that dries down fast."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Fit Me Concealer",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "QDJm0NsWsdY",
+        "influencer": "Hannah Watson",
+        "upload_date": "20240923",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Age Rewind Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [
+            "Goji Berry"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Initially a favorite, this creamy concealer blurs lines but is ultimately surpassed by NARS.",
+        "anchor_quote": "I do think that it's very flattering it doesn't get in your left-hand lines it does obliterate them out gently it's very creamy it blends out really beautifully",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it's very creamy"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "a little sponge up here that does a good job to apply"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "it doesn't get in your left-hand lines"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "the H.R.W.Y.K. is 999"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "NARS",
+                "competitor_product": "Radiant Creamy Concealer",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "rf39mYZWpu0",
+        "influencer": "Heidi Tries NYC \ud83d\uddfd",
+        "upload_date": "20240508",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Nars",
+        "product_name": "Radiant Creamy Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A medium to full coverage concealer with a good shade range and applicator, now preferred.",
+        "anchor_quote": "I'm kind of liking more the NARS one",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "the NARS one has 13 different shades"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 6,
+                "context_quote": "the applicator is very different it's a dough food applicator right the second and kind of liking more the NARS one"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Age Rewind Concealer",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 95,
+        "video_id": "rf39mYZWpu0",
+        "influencer": "Heidi Tries NYC \ud83d\uddfd",
+        "upload_date": "20240508",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Est\u00e9e Lauder",
+        "product_name": "Sumptuous Extreme Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers feathery definition, visible curl, no clumping or flaking.",
+        "anchor_quote": "What really stood out immediately for me with this mascara is really the feathery definition with visible curl. There was no clumping, no flaking. When I went in for that second coat, it built like a dream.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I instantly loved how it felt. In my hand and as I was applying it to the lashes, the dual fiber bristles really comb through and separate the lashes beautifully applied it"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "the feathery definition with visible curl. There was no clumping, no flaking."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "packaging is absolutely gorgeous. I love the Lux Gold Tube"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Sky High Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "Re6Yc_a0bd0",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250826",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Introduced as a product for comparison.",
+        "anchor_quote": "Today I'm going to be comparing the Mabeline Lash Sensational Sky High mascara",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Est\u00e9e Lauder",
+                "competitor_product": "Sumptuous Extreme Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "Re6Yc_a0bd0",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250826",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Est\u00e9e Lauder",
+        "product_name": "Sumptuous Extreme Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "Vitamin Complex"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "High-end mascara designed for volume, length, and curl.",
+        "anchor_quote": "It's designed to give you volume, length, and curl.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "It's around $30 or more, so it's a little bit more expensive, a little bit more high-end"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "It has this unique Moose Light Formula"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "The dual bristle brush is for definition and volume"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Sky High Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Mhx5v6epyuQ",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250825",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "Bamboo Extract"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Budget-friendly drugstore favorite for length, volume, and curl.",
+        "anchor_quote": "It also promises length, volume, and curl",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "It's very budget-friendly around $13."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "it does that through its lightweight washable formula"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "The wand is this flexible flex tower brush that's really designed to grab every single lash."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Est\u00e9e Lauder",
+                "competitor_product": "Sumptuous Extreme Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 35,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 95,
+        "video_id": "Mhx5v6epyuQ",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250825",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Glam & Doll Waterproof",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent waterproof top coat for any mascara.",
+        "anchor_quote": "I use this as a waterproof top coat over every single mascara I use, no matter how expensive they are.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "I use this as a waterproof top coat over every single mascara I use, no matter how expensive they are."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "I use this as a waterproof top coat over every single mascara I use"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "x3_ojZQz7Y0",
+        "influencer": "Floating in Dreams",
+        "upload_date": "20230704",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Lash Changer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Great easy-to-use volumizing mascara, good first coat.",
+        "anchor_quote": "I love this as a great easy to use volumizing mascara. It's a great first coat.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I love this as a great easy to use volumizing mascara."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "I love this as a great easy to use volumizing mascara. It's a great first coat."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "x3_ojZQz7Y0",
+        "influencer": "Floating in Dreams",
+        "upload_date": "20230704",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Lash Princess False Lash Effect",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable, beloved mascara with false lash effect.",
+        "anchor_quote": "This is my most affordable mascara that I love. I've gone through so many tubes of this.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "This is my most affordable mascara that I love."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Essence Lash Princess False Lash Effect."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 19,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "x3_ojZQz7Y0",
+        "influencer": "Floating in Dreams",
+        "upload_date": "20230704",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Paradise Extatic",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hourglass wand provides excellent lash effect.",
+        "anchor_quote": "That our glass shape wand is life and I love that about the Maybelline.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "That our glass shape wand is life"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Falsies Lash Lift",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 27,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 95,
+        "video_id": "x3_ojZQz7Y0",
+        "influencer": "Floating in Dreams",
+        "upload_date": "20230704",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Falsies Lash Lift",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Features a great wand, similar to L'Oreal's.",
+        "anchor_quote": "It's got a very similar wand.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's got a very similar wand."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Paradise Extatic",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 37,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 95,
+        "video_id": "x3_ojZQz7Y0",
+        "influencer": "Floating in Dreams",
+        "upload_date": "20230704",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Panorama Mascara",
+        "specific_variant": "Brown",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline Panorama mascara does not smudge.",
+        "anchor_quote": "o tej panorama se nem\u00e1 v obyzn\u00ed\u0161 otla\u010den\u00e9",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "o tej panorama se nem\u00e1 v obyzn\u00ed\u0161 otla\u010den\u00e9"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Catrice",
+                "competitor_product": "HyperLash Mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "hXtVFjZd5g4",
+        "influencer": "Nicol Mali\u0161kov\u00e1 ",
+        "upload_date": "20260102",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "HyperLash Mascara",
+        "specific_variant": "Brown",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Catrice HyperLash mascara smudges significantly.",
+        "anchor_quote": "M\u016f\u017eete vid\u011bl, \u017ee ta to sa ov\u00e9la b\u011bte otla\u010de",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -8,
+                "context_quote": "M\u016f\u017eete vid\u011bl, \u017ee ta to sa ov\u00e9la b\u011bte otla\u010de"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Panorama Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "hXtVFjZd5g4",
+        "influencer": "Nicol Mali\u0161kov\u00e1 ",
+        "upload_date": "20260102",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Lash Princess Curl & Volume Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Mascara smudges significantly under eyes after 8 hours.",
+        "anchor_quote": "As you can see, the curl and volume mascara is smudging a lot under my eye.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -8,
+                "context_quote": "As you can see, the curl and volume mascara is smudging a lot under my eye."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "iKUZdKynxC4",
+        "influencer": "Kate Carter",
+        "upload_date": "20241119",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Lash Princess False Lash Effect Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Mascara flakes excessively after 8 hours of wear.",
+        "anchor_quote": "And the false lash effect mascara is flaking so much.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -8,
+                "context_quote": "And the false lash effect mascara is flaking so much."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 98,
+        "video_id": "iKUZdKynxC4",
+        "influencer": "Kate Carter",
+        "upload_date": "20241119",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Lash Princess False Lash Effect Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "beeswax",
+            "carnauba wax"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Cost-effective, but clumpy and hard to remove for the creator.",
+        "anchor_quote": "For me, I struggle to take this mascara off and I think that it gets a little bit clumpy. So it's not my personal favorite.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "It's very, very cost effective."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "I struggle to take this mascara off"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "I think that it gets a little bit clumpy."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Essence",
+                "competitor_product": "Call Me Queen Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "MIelfpT6V-E",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260421",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Call Me Queen Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Preferred over Lash Princess mascara.",
+        "anchor_quote": "I think the one mascara that I've tried from essence that I think I like a little bit better is the Call Me Clean mascara versus the false lash effect lash princess mascara.",
+        "attributes": [],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Essence",
+                "competitor_product": "Lash Princess False Lash Effect Mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 31,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 95,
+        "video_id": "MIelfpT6V-E",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260421",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Lash Princess False Lash Effect Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable mascara provides noticeable lift, length, separation, and fullness.",
+        "anchor_quote": "For an affordable mascara, I was honestly impressed with how it performed on that first coat.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It separated well and started giving that fluttery false lash look right away."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Since it's all about a lightweight, buildable formula that's gentle on your lashes and budget friendly."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "For an affordable mascara, I was honestly impressed with how it performed on that first coat."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Lanc\u00f4me",
+                "competitor_product": "Monsieur Big Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "j4THsZGs6pU",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Lanc\u00f4me",
+        "product_name": "Monsieur Big Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Provides nice definition, used as a comparison benchmark.",
+        "anchor_quote": "Both mascara's built nice definition.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "Both mascara's built nice definition."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Essence",
+                "competitor_product": "Lash Princess False Lash Effect Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "j4THsZGs6pU",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": "Sparkle",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in a shopping list.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "j4THsZGs6pU",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in a shopping list.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "j4THsZGs6pU",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nail Care",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in a shopping list.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "j4THsZGs6pU",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Drunk Elephant",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in a shopping list.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "j4THsZGs6pU",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Byoma",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in a shopping list.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "j4THsZGs6pU",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Younique",
+        "product_name": "Collagen",
+        "specific_variant": null,
+        "product_category": "Supplements",
+        "sub_category": "Collagen Supplement",
+        "active_ingredients": [
+            "Collagen"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in a shopping list.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "j4THsZGs6pU",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Lash Princess Curl & Volume Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "This $7 mascara provides high-end, clump-free volume and lift.",
+        "anchor_quote": "Tell me these lashes don't look fake. This is one coat. No clumps, no spider lashes, and it actually lifts the bottom lashes too. Looks high-end, but it's not. It's the essence lash princess mascara. Seven dollars.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "No clumps, no spider lashes"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "No clumps, no spider lashes"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "Looks high-end, but it's not. It's the essence lash princess mascara. Seven dollars."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 8,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "3o5v0_ddRn0",
+        "influencer": "Prunela",
+        "upload_date": "20251226",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Lash Princess False Lash Effect Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Essence mascara claims dramatic false lash look and volume at a lower price.",
+        "anchor_quote": "The essence, lash princess false lash effect mascara is almost half the price and it claims to give you a dramatic false lash look in all day",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "The essence, lash princess false lash effect mascara is almost half the price"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "y2L24IXLpjo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Stiletto Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "Pro Vitamin B5",
+            "stretchable polymers"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Maybelline mascara conditions lashes and provides extra length.",
+        "anchor_quote": "the Maybelline lash salotto mascara includes pro vitamin V five which helps condition the lashes It also has stretchable polymers designed to grip and extend each lash for extra length",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "y2L24IXLpjo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": "Sparkle",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Not in transcript.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "y2L24IXLpjo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Not in transcript.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "y2L24IXLpjo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nails",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Not in transcript.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "y2L24IXLpjo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Drunk Elephant",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Not in transcript.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "y2L24IXLpjo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Byoma",
+        "product_name": "Cleansing Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Not in transcript.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "y2L24IXLpjo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Younique",
+        "product_name": "Collagen",
+        "specific_variant": null,
+        "product_category": "Supplements",
+        "sub_category": "Collagen Supplement",
+        "active_ingredients": [
+            "Collagen"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in caption.",
+        "anchor_quote": "Not in transcript.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "y2L24IXLpjo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20251108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Lash Princess False Lash Effect Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Delivers definition and false lash look, but tough to remove.",
+        "anchor_quote": "With the essence, you're going to get late definition lift more of like that false lash look. The other thing with the essence lash princess, it can be a little bit tough to remove.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "The other thing with the essence lash princess, it can be a little bit tough to remove."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": -2,
+                "context_quote": "I do think with this packaging, it's not like super fancy."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Benefit",
+                "competitor_product": "BADgal BOUNCE Mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 8,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "FLYvSv2SGZY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260319",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Benefit",
+        "product_name": "BADgal BOUNCE Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Gives fuller, thicker roots, but lashes are less separated.",
+        "anchor_quote": "Side by side, I think benefit is going to give you full or looking roots. Your lashes are going to just appear thicker, but they're going to be also less separated.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "Your lashes are going to just appear thicker, but they're going to be also less separated."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Essence",
+                "competitor_product": "Lash Princess False Lash Effect Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "FLYvSv2SGZY",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260319",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Essence",
+        "product_name": "Lash Princess False Lash Effect Mascara",
+        "specific_variant": "Extreme Waterproof",
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Mascara applies well, adds volume, non-clumpy, but lacks curl.",
+        "anchor_quote": "this product so far like it, so far it looks beautiful.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It spreads quite well."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "I've tried to apply it and I tried to remove it. And it's not that it's removed. This product I daily use a cleansing oil or a cleansing balm. If you're gonna use a basic concealer water without any oils, it wouldn't be that easy."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It doesn't look clumpy."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "6YVwjF13EjA",
+        "influencer": "Helga Mua ",
+        "upload_date": "20260218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Wet N Wild",
+        "product_name": "Walking on Eggshells Palette",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Eyeshadow Palette",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Easy-to-use drugstore eyeshadow palette for everyday looks.",
+        "anchor_quote": "Every day basic eye with wet and wild walking on eggshells.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "We're gonna start out just blending back and forth and then we can build that shade a little bit"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "Then I use this kind of camel color just to set up my crease a little bit"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "And just to get everything nicely blended up into the crease"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "Every day basic eye with wet and wild walking on eggshells."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "1X9xjCuRA58",
+        "influencer": "Emily Noel",
+        "upload_date": "20230218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Milani",
+        "product_name": "Eyeshadow Primer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Eye Primer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Essential base for eye makeup application.",
+        "anchor_quote": "I begin with Milani eye shadow primer a tiny bit all over the lids",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I begin with Milani eye shadow primer a tiny bit all over the lids"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 85,
+        "video_id": "1X9xjCuRA58",
+        "influencer": "Emily Noel",
+        "upload_date": "20230218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Persona",
+        "product_name": "Blend+Apply Brush",
+        "specific_variant": null,
+        "product_category": "Tools & Accessories",
+        "sub_category": "Makeup Brush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Versatile double-ended brush for precise eyeshadow application.",
+        "anchor_quote": "Then I use the flat side of my persona double-ended brush and I start patting that deep shade on the outer part of my lid",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "Then I use the flat side of my persona double-ended brush and I start patting that deep shade on the outer part of my lid"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 19,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 90,
+        "video_id": "1X9xjCuRA58",
+        "influencer": "Emily Noel",
+        "upload_date": "20230218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Lash Paradise Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Completes the eye look with defined lashes.",
+        "anchor_quote": "curl and apply lorry out lash paradise",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "curl and apply lorry out lash paradise"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 56,
+        "visual_timestamp_seconds": 57,
+        "confidence_score": 95,
+        "video_id": "1X9xjCuRA58",
+        "influencer": "Emily Noel",
+        "upload_date": "20230218",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Multitasker Wake Me Up Concealer and Foundation",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [
+            "Vitamin C",
+            "Caffeine"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Effective for under-eye dark circles, but applicator and color tint are drawbacks.",
+        "anchor_quote": "I actually really like this product. My under eyes look airbrush under here, but I'm not sure if I love the applicator on this, and I don't think I would use this like all over my face just because it has that little bit of that orange tint.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "I'm not sure if I love the applicator on this, but it does feel very cooling, which is really nice. I don't know. This is kind of getting messy."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -3,
+                "context_quote": "It has a little bit of a red, orangey tint to it. I would say that. Maybe that's good for for color correcting here. I don't think I would use this like all over my face just because it has that little bit of that orange tint."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "but it does feel very cooling, which is really nice. The product feels very light on the skin too. It's not too heavy or anything."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": -5,
+                "context_quote": "Look at that applicator. Was this meant to be like a roll? Ooh, this part spins. I'm not sure if I love the applicator on this."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "YiqA84H9ryw",
+        "influencer": "Maynaay",
+        "upload_date": "20250903",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Kind & Free Skin Tint Foundation",
+        "specific_variant": "Rose Eye Free",
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Stunning, perfect for day-to-day wear, nice and glowy.",
+        "anchor_quote": "This foundation is absolutely stunning, it is literally perfect for day to day wear.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Bluffy Brush to blend this out."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "nice and glowy, really fresh on the skin."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "wjtpTPuTm5M",
+        "influencer": "LuceStephenson",
+        "upload_date": "20220903",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Kind & Free Concealer",
+        "specific_variant": "Tent Fair",
+        "product_category": "Face Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Very light coverage, depends on individual preference.",
+        "anchor_quote": "The concealer is very light coverage, it depends on your eye capacity.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "So this is quite like a lightweight concealer."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Taking the concealer in Tent Fair."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "wjtpTPuTm5M",
+        "influencer": "LuceStephenson",
+        "upload_date": "20220903",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Kind & Free Powder",
+        "specific_variant": "translucent",
+        "product_category": "Face Makeup",
+        "sub_category": "Setting Powder",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Powder is okay, but Rimmel Stay Matte is superior.",
+        "anchor_quote": "The powder is okay, it's nice, but I definitely prefer their Rimmel Stinn, Mac Powder, it just kind of be beaten.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "The powder is okay, it's nice"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Rimmel",
+                "competitor_product": "Stay Matte Powder",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "wjtpTPuTm5M",
+        "influencer": "LuceStephenson",
+        "upload_date": "20220903",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel London",
+        "product_name": "Thrill Seeker Mascara",
+        "specific_variant": "Extreme Black",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "Fibers"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers bold volume and length, but clumps slightly.",
+        "anchor_quote": "It does everything that it says on the bottle.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It does everything that it says on the bottle. So it gives you the thickness, it gives you the length."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -3,
+                "context_quote": "It does clump thick that a little bit."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "WVzCQDAWGj8",
+        "influencer": "Stefy Puglisevich",
+        "upload_date": "20231021",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Wonder Bond Bonding Serum Mascara",
+        "specific_variant": "001 Black",
+        "product_category": "Mascara",
+        "sub_category": "Serum Mascara",
+        "active_ingredients": [
+            "Biotin",
+            "Arginine",
+            "Pro Vitamin B5",
+            "Clover Flower Extract",
+            "Acetyl Tetrapeptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Highly recommended for length, volume, and lift.",
+        "anchor_quote": "Overall I would highly recommend and I'm so impressed with the length, volume & lift the mascara has given. It's everything you could wish for in a mascara.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "The wand applicator is so easy to use and the bridles easily glides through my lashes separating them providing them with great lift & volume."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "The black shade is so dark and gives a bold finish super impressed with the darkness in the finish."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 6,
+                "context_quote": "Wear wise it lasted me around 12hrs, would have lasted longer I suspect but removed for bed. It did transfer slightly, I think it was because of the humidity."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "The mascara is slightly more runnier/wetter than I'm used to I'm assuming it's because it's a serum infused mascara. But it evenly coats my lashes when applying, there is slight transfer when first applied, plus it takes a little longer to dry."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "Plus it's so affordable with fantastic results."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "h5901C_TEqI",
+        "influencer": "Kkrrc321",
+        "upload_date": "20240219",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Thrill Seeker Mascara",
+        "specific_variant": null,
+        "product_category": "Mascara",
+        "sub_category": "Volume Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Great volume and easy application, but dries out fast.",
+        "anchor_quote": "I've been loving the Rimmel Thrill Seeker Extreme Volume Mascara. As you can see it's super easy to apply and the results well, voluminous, defined lashes that last all day. But here's the deal, it's dried out quite a bit after just one month and while that's a little bit of a letdown I still think this is a fantastic buy for the price.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "super easy to apply"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "voluminous, defined lashes that last all day"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "it's dried out quite a bit after just one month"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "I still think this is a fantastic buy for the price"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "ATxyNxBK8uU",
+        "influencer": "Selfcare Karen",
+        "upload_date": "20250122",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "Miracle Pure Skin Reset 2 in 1 Serum Foundation",
+        "specific_variant": "30-40 FAIR TO LIGHT",
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [
+            "Niacinamide",
+            "Bisabolol"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "ChocWiJjLNA",
+        "influencer": "Clare Walch",
+        "upload_date": "20250211",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "Facefinity Bronzer Powder",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Bronzer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 95,
+        "video_id": "ChocWiJjLNA",
+        "influencer": "Clare Walch",
+        "upload_date": "20250211",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "Miracle Pure Infused Cream Blush",
+        "specific_variant": "01 Radiant Rose",
+        "product_category": "Face Makeup",
+        "sub_category": "Cream Blush",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 95,
+        "video_id": "ChocWiJjLNA",
+        "influencer": "Clare Walch",
+        "upload_date": "20250211",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "Lip Liner",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 33,
+        "confidence_score": 70,
+        "video_id": "ChocWiJjLNA",
+        "influencer": "Clare Walch",
+        "upload_date": "20250211",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "Lipstick",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 39,
+        "confidence_score": 70,
+        "video_id": "ChocWiJjLNA",
+        "influencer": "Clare Walch",
+        "upload_date": "20250211",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "Pan Stik",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation Stick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good coverage but can be drying and creases.",
+        "anchor_quote": "\u041f\u0430\u043d\u0441\u0442\u0456\u043a \u0442\u0440\u043e\u0445\u0438 \u0441\u043a\u043e\u0447\u0443\u0454\u0442\u044c\u0441\u044f, \u044f \u0445\u043e\u0442\u044f \u0431 \u0448\u0432\u0438\u0434\u043a\u043e \u0444\u0456\u043a\u0441\u0443\u0432\u0430\u0442\u0438. \u0410\u043b\u0435 \u0432\u043e\u043d\u0430 \u0434\u0443\u0436\u0435 \u0433\u0430\u0440\u043d\u043e \u0431\u043b\u044e\u0440\u0438\u0442\u044c.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "\u043f\u0430\u043b\u044c\u0447\u0438\u043a\u043e\u043c \u043d\u0430\u0433\u0440\u0456\u0432\u0430\u0454\u0442\u0435"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "\u0423 \u043d\u044c\u043e\u0433\u043e \u0442\u0430\u043a\u0430 \u0432\u043e\u0441\u043a\u0432\u0430 \u0442\u0435\u043a\u0441\u0442\u0443\u0440\u0430"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -4,
+                "context_quote": "\u041f\u0430\u043d\u0441\u0442\u0456\u043a \u0442\u0440\u043e\u0445\u0438 \u0441\u043a\u043e\u0447\u0443\u0454\u0442\u044c\u0441\u044f"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "\u0434\u0443\u0436\u0435 \u0433\u0430\u0440\u043d\u043e \u0431\u043b\u044e\u0440\u0438\u0442\u044c"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "\u0431\u043e \u0431\u0443\u0434\u0435 \u043e\u0441\u0443\u0445\u0456\u0441\u0442\u044c"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "\u043f\u0435\u0440\u0435\u043a\u0440\u0438\u0432\u0430\u0454 \u0434\u043e \u0456\u0431\u043e\u0436\u0435"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 11,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "WU_k2nwq2J4",
+        "influencer": "\u0417\u0410\u041a\u041e\u0425\u0410\u041d\u0410 \u0432 \u0441\u0435\u0431\u0435",
+        "upload_date": "20260104",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "Miracle Pure Infused Cream Blush",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Cream Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Highly pigmented cream blush that blends well.",
+        "anchor_quote": "\u042f \u043f\u043e\u043f\u0440\u043e\u0431\u0443\u0432\u0430\u043b\u0430 \u043f\u0456\u0433\u043c\u0435\u043d\u0442\u0430\u0446\u0456\u044e \u0432\u043e\u043d\u0430 \u0448\u0430\u043b\u0435\u043d\u0430. \u0422\u043e\u043c\u0443, \u043e \u0442\u0430\u043a\u0430 \u0441\u0456\u043d\u044c\u043a\u043e, \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u043a\u0430 \u0432\u0456\u0434\u0447\u0438\u0447\u0443\u044e\u0442\u044c. \u0413\u043e\u0442\u043e\u0432\u0430. \u0422\u0430\u043a, \u0440\u043e\u0437\u0442\u0443\u0448\u043e\u0432\u0443\u0454\u043c\u043e \u043d\u044c\u043e\u0433\u043e \u0442\u0430\u043a\u0438\u0439 \u0440\u043e\u0437\u0436\u0438\u0432, \u0437\u043e\u043b\u043e\u0442\u0438\u0441\u0442\u0438\u0439 \u0432\u0456\u0434\u0442\u0456\u043d\u043e\u0447\u043e\u043a.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "\u043f\u0456\u0433\u043c\u0435\u043d\u0442\u0430\u0446\u0456\u044e \u0432\u043e\u043d\u0430 \u0448\u0430\u043b\u0435\u043d\u0430"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "\u0440\u043e\u0437\u0442\u0443\u0448\u043e\u0432\u0443\u0454\u043c\u043e"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 64,
+        "visual_timestamp_seconds": 63,
+        "confidence_score": 95,
+        "video_id": "WU_k2nwq2J4",
+        "influencer": "\u0417\u0410\u041a\u041e\u0425\u0410\u041d\u0410 \u0432 \u0441\u0435\u0431\u0435",
+        "upload_date": "20260104",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "Miracle Pure Golden Glow Bronzer",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Cream Bronzer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Highly pigmented cream bronzer with a warm tone.",
+        "anchor_quote": "\u0412\u0456\u043d \u0442\u0430\u043a\u043e\u0436 \u0434\u0443\u0436\u0435 \u043f\u0456\u0433\u043c\u0435\u043d\u0442\u043e\u0432\u0430\u043d\u0438\u0439. \u0406\u0433\u043e\u0435 \u043d\u0430\u0431\u0438\u0440\u0430\u0454\u043c\u043e \u043d\u0430 \u043f\u0435\u043d\u0437\u043b\u0430\u043a\u0430. \u041d\u044c\u043e\u0433\u043e \u0442\u0430\u043a\u0438\u0439 \u0432\u0456\u0434\u0442\u0456\u043d\u043e\u043a \u0434\u043e\u0441\u044f\u0434 \u0442\u0435\u043f\u043b\u0438\u0439.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "\u0434\u0443\u0436\u0435 \u043f\u0456\u0433\u043c\u0435\u043d\u0442\u043e\u0432\u0430\u043d\u0438\u0439"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "\u0432\u0456\u0434\u0442\u0456\u043d\u043e\u043a \u0434\u043e\u0441\u044f\u0434 \u0442\u0435\u043f\u043b\u0438\u0439"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 62,
+        "visual_timestamp_seconds": 63,
+        "confidence_score": 95,
+        "video_id": "WU_k2nwq2J4",
+        "influencer": "\u0417\u0410\u041a\u041e\u0425\u0410\u041d\u0410 \u0432 \u0441\u0435\u0431\u0435",
+        "upload_date": "20260104",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "Facefinity Compact Foundation",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Compact Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "A nostalgic compact foundation from student days.",
+        "anchor_quote": "\u042f \u043f\u0440\u0438 \u0442\u0430\u043a\u0443 \u043f\u0443\u0434\u0440\u0443 \u0431\u0440\u0456\u043b\u0430 \u043d\u0430 \u043f\u0435\u0440\u0448\u043e\u043c\u0443 \u043a\u0443\u0440\u0441\u0456. \u041c\u0435\u043d\u0435 \u0431\u0443\u043b\u0438 \u043c'\u044f\u0442\u0435\u0446\u044c \u0433\u0440\u043e\u0448\u0456\u0432.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 97,
+        "visual_timestamp_seconds": 96,
+        "confidence_score": 90,
+        "video_id": "WU_k2nwq2J4",
+        "influencer": "\u0417\u0410\u041a\u041e\u0425\u0410\u041d\u0410 \u0432 \u0441\u0435\u0431\u0435",
+        "upload_date": "20260104",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "Colour X-pert Soft Touch Palette",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Eyeshadow Palette",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Eyeshadow palette with luxurious, thin texture and versatile shades.",
+        "anchor_quote": "\u0412\u0456\u043d \u0442\u0430\u043a\u0438\u0439 \u0437\u043d\u0430\u0454, \u044f\u043a \u043b\u0438\u0448\u0435 \u044f\u043a \u043b\u044e\u043a\u0441\u043e\u0432\u043e\u0457 \u0442\u0435\u043a\u0441\u0442\u0443\u0440\u0456\u0457, \u044f\u043a\u043e\u0441\u044c \u0432\u0456\u043d \u0442\u0430\u043a\u0438\u0439 \u0442\u043e\u043d\u0435\u043d\u044c\u043a\u0438\u0439. \u041d\u0430 \u0432\u0441\u0435 \u043e\u043a\u043e \u0439\u043e\u0433\u043e. \u041e, \u0431\u0430\u0447\u0442\u0435, \u0456 \u043d\u0435 \u0441\u0442\u0440\u0430\u0448\u043d\u043e. \u0422\u0440\u043e\u0448\u043a\u0438 \u0432\u043d\u0438\u0437\u0443 \u0434\u043e \u0434\u0430\u043c\u043e\u043c. \u0412\u0456\u043d \u0442\u0443\u0442 \u0442\u0430\u043a\u0438\u0439 \u0441\u0438\u0440\u0438\u0439, \u0430 \u0432 \u0436\u0438\u0442\u0456 \u0442\u0430\u043a\u0438\u0439, \u0437\u043d\u0430\u0454, \u0431\u0456\u0436 \u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u0438\u0439 \u0434\u0443\u0436\u0435 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u0438\u0439.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "\u044f\u043a \u043b\u044e\u043a\u0441\u043e\u0432\u043e\u0457 \u0442\u0435\u043a\u0441\u0442\u0443\u0440\u0456\u0457, \u044f\u043a\u043e\u0441\u044c \u0432\u0456\u043d \u0442\u0430\u043a\u0438\u0439 \u0442\u043e\u043d\u0435\u043d\u044c\u043a\u0438\u0439"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "\u0434\u0443\u0436\u0435 \u0443\u043d\u0456\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u0438\u0439"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 111,
+        "visual_timestamp_seconds": 111,
+        "confidence_score": 95,
+        "video_id": "WU_k2nwq2J4",
+        "influencer": "\u0417\u0410\u041a\u041e\u0425\u0410\u041d\u0410 \u0432 \u0441\u0435\u0431\u0435",
+        "upload_date": "20260104",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "False Lash Effect Supreme Recharge",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Max Factor mascaras are consistently ideal, this one is good.",
+        "anchor_quote": "\u041d\u0443, \u0432 \u0442\u0443\u0448\u0435 \u0437\u0430\u0432\u0436\u0434\u0438 \u0431\u0443\u043b\u0438 \u0432 \u041c\u0430\u043a\u0441 \u0424\u0430\u043a\u0442\u043e\u0440 \u0456\u0434\u0435\u0430\u043b\u044c\u043d\u0456. \u041f\u0435\u0432\u0435\u0440\u0430\u0454\u043c \u043d\u043e\u0432\u0438\u043d\u043a\u0443. \u0414\u0438\u0432\u0456\u0442\u044c\u0441\u044f, \u044f\u043a \u044f \u0434\u043e \u043f\u0456\u0441\u043b\u044f.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "\u0414\u0438\u0432\u0456\u0442\u044c\u0441\u044f, \u044f\u043a \u044f \u0434\u043e \u043f\u0456\u0441\u043b\u044f."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 138,
+        "visual_timestamp_seconds": 138,
+        "confidence_score": 95,
+        "video_id": "WU_k2nwq2J4",
+        "influencer": "\u0417\u0410\u041a\u041e\u0425\u0410\u041d\u0410 \u0432 \u0441\u0435\u0431\u0435",
+        "upload_date": "20260104",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Max Factor",
+        "product_name": "2000 Calorie Lip Glaze",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Popular lip glaze that is not heavy and smells pleasant.",
+        "anchor_quote": "\u041e\u043b\u0456\u0437\u043d\u0430\u0454\u0448, \u0449\u043e \u0446\u0435\u0439 \u0431\u043b\u0438\u0437\u044c\u043a \u0437\u0430\u0432\u0456\u0440\u0443\u0441\u0438\u0432\u0441\u044f \u0432\u0456\u0442\u0430\u043b\u0456 \u0447\u0435\u0440\u0435\u0437 \u0431\u043b\u043e\u0433\u0435\u0440\u0430. \u0406\u043d\u0442\u0435\u043a\u0438 \u0434\u043e \u0441\u0435\u043b\u0456\u0433\u0443\u0441\u0442\u0435\u0439, \u0430\u043b\u0435 \u043d\u0435 \u0432\u0430\u0436\u043a\u0438\u0439, \u0456 \u0433\u0430\u0440\u043d\u043e \u043f\u0430\u0445\u043d\u0435.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "\u043d\u0435 \u0432\u0430\u0436\u043a\u0438\u0439"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "\u0434\u043e \u0441\u0435\u043b\u0456\u0433\u0443\u0441\u0442\u0435\u0439"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "\u0433\u0430\u0440\u043d\u043e \u043f\u0430\u0445\u043d\u0435"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 149,
+        "visual_timestamp_seconds": 150,
+        "confidence_score": 95,
+        "video_id": "WU_k2nwq2J4",
+        "influencer": "\u0417\u0410\u041a\u041e\u0425\u0410\u041d\u0410 \u0432 \u0441\u0435\u0431\u0435",
+        "upload_date": "20260104",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Good Permanent Hair Colour",
+        "specific_variant": "4.15",
+        "product_category": "Hair Care",
+        "sub_category": "Permanent Hair Dye",
+        "active_ingredients": [
+            "Shea Butter"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Garnier Good hair dye is easy to use and provides incredible gloss.",
+        "anchor_quote": "Garnier Good, I am obsessed.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 10,
+                "context_quote": "This is such an incredible dye, it's super easy to use. I love that I mix the products together in the tub itself, it's super simple."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "Once the mix is nice and smooth, I apply it to my hair"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "I love that I mix the products together in the tub itself"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "I've got greys coming through, colour fade, so I want to dye my hair. The gloss that this gives my hair is incredible."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "s13XcjZZWz0",
+        "influencer": "Heather La-Belle",
+        "upload_date": "20250313",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Good Permanent Hair Colour",
+        "specific_variant": "Coffee Roast Brown",
+        "product_category": "Hair Care",
+        "sub_category": "Permanent Hair Colour",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "New hair color looks healthier, refreshed, and shinier.",
+        "anchor_quote": "I feel like my hair looks so much healthier, refreshed and shinier.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "this is going to come out more of a burgundy warm-tone brown which I actually loved."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "I feel like my hair looks so much healthier, refreshed and shinier."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "es0X97j30gM",
+        "influencer": "Sarah New",
+        "upload_date": "20250922",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Absolut Repair Mask",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Hair Mask",
+        "active_ingredients": [
+            "Omega-9",
+            "wheat protein"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Quick, effective hair mask repairs damage, adds shine, reduces breakage.",
+        "anchor_quote": "Ever since I started using it I have seen visible difference. Strong strands, less breakage, more shine.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "It only takes 1-2 minutes, rinse it off, you are done. No longer which will, no first, it's not high maintenance, it's my low maintenance hack."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "Ever since I started using it I have seen visible difference. Strong strands, less breakage, more shine"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "Op91nnwbH8c",
+        "influencer": "Suyash Fashion",
+        "upload_date": "20250624",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Hyaluron Pure Purifying Shampoo",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Shampoo",
+        "active_ingredients": [
+            "Salicylic Acid",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Purifying shampoo effectively cleans oily scalp without stripping.",
+        "anchor_quote": "The shampoo really cleans up the oil without making my scalp feel stripped and just putting it out there the hydration stays.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "The shampoo really cleans up the oil without making my scalp feel stripped"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "transparent formula, feels super light and no buildup"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "Like literally 3 days of soft, fris free hair even in this crazy humidity."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 2,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "zVTwq9A1C88",
+        "influencer": "Shreemayi Reddy",
+        "upload_date": "20250620",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Hyaluron Pure Rehydrating Conditioner",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Conditioner",
+        "active_ingredients": [
+            "Salicylic Acid",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Light conditioner hydrates hair for 72 hours and detangles.",
+        "anchor_quote": "The conditioner is light but actually locks in moisture for 72 hours plus it makes the tangling so much easier.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "The conditioner is light but actually locks in moisture"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "locks in moisture for 72 hours"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "it makes the tangling so much easier"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 47,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 90,
+        "video_id": "zVTwq9A1C88",
+        "influencer": "Shreemayi Reddy",
+        "upload_date": "20250620",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Absolut Repair Shampoo",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Shampoo",
+        "active_ingredients": [
+            "Protein",
+            "Gold Quinoa"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Cleanses hair perfectly, balancing dryness and greasiness.",
+        "anchor_quote": "I love how it cleanses it perfectly. Without it being too dry or it being too greasy, I think it's like a perfect balance.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Without it being too dry or it being too greasy, I think it's like a perfect balance."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I love how it cleanses it perfectly."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "r_zP5FYWNNc",
+        "influencer": "Akanksha Kommirelly",
+        "upload_date": "20240108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Absolut Repair Hair Mask",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Hair Mask",
+        "active_ingredients": [
+            "Gold Quinoa",
+            "Wheat Protein"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Best hair mask for nourishing and hydrating dry, damaged hair.",
+        "anchor_quote": "Now you heard me talk about this a hundred times till now, it was one of the best hair masks out there. I love the way it nourishes and hydrates my hair.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "Hair feels so soft"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "even after all the heat styling, coloring it with my hair, it's still manageable, it's because of this hair mask."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I love the way it nourishes and hydrates my hair."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 21,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "r_zP5FYWNNc",
+        "influencer": "Akanksha Kommirelly",
+        "upload_date": "20240108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Absolut Repair 10 in 1 Oil",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Hair Oil",
+        "active_ingredients": [
+            "Wheat germ oil"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Completes hair routine, providing necessary shine post-wash.",
+        "anchor_quote": "This is like a cherry on the top, I'll just complete your hair care routine. Post hair wash when you apply it, just gives you that right amount of shine which is necessary.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "just gives you that right amount of shine which is necessary."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Post hair wash when you apply it, just gives you that right amount of shine"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 41,
+        "visual_timestamp_seconds": 42,
+        "confidence_score": 95,
+        "video_id": "r_zP5FYWNNc",
+        "influencer": "Akanksha Kommirelly",
+        "upload_date": "20240108",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Elvive Hyaluron Plump Hydrating Shampoo",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Shampoo",
+        "active_ingredients": [
+            "Dimethicone",
+            "Guar Hydroxypropyltrimonium Chloride",
+            "Sodium Hyaluronate"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Shampoo provides decent hydration and good slip.",
+        "anchor_quote": "So, I like it. I like it a lot.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "The methagun, great for slip."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "When a product claims 72 hours of hydration, I'm sat, okay? Fully sat."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "YtnLZQkaXUU",
+        "influencer": "April Basi",
+        "upload_date": "20260103",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Elvive Hyaluron Plump Hydrating Conditioner",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Conditioner",
+        "active_ingredients": [
+            "Dimethicone",
+            "Behentrimonium Chloride",
+            "Cetrimonium Chloride",
+            "Sodium Hyaluronate"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Conditioner lacks hydration and ingredients for curly hair.",
+        "anchor_quote": "Now, the conditioner I wasn't too impressed by because when it's claiming 72 hour hydration, I was hoping for a lot of the hydration to come from the conditioner.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "Less than two hour hydration, I feel like it's a reach."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "However, there's the methagun for slip."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -7,
+                "context_quote": "I don't really see any oils in the conditioner either. And for my curly girls, I love some oil."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -6,
+                "context_quote": "It's not so much of a, I guess, a weekly conditioner, especially from our curly girls who mostly wash weekly. You need more than what this product is offering, unfortunately."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 27,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 95,
+        "video_id": "YtnLZQkaXUU",
+        "influencer": "April Basi",
+        "upload_date": "20260103",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Elvive Hyaluron Plump Serum",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Hair Serum",
+        "active_ingredients": [
+            "Polyquaternium-37",
+            "Polyquaternium-11",
+            "Sodium Hyaluronate",
+            "Behentrimonium Chloride"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Serum's good ingredients may cause buildup, not for all hair types.",
+        "anchor_quote": "I don't know that I love this product for any of the hair types to be honest.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -7,
+                "context_quote": "However, I can see this building up because of all these caranic polymers."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -8,
+                "context_quote": "I don't know that I love this product for any of the hair types to be honest."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 99,
+        "visual_timestamp_seconds": 99,
+        "confidence_score": 90,
+        "video_id": "YtnLZQkaXUU",
+        "influencer": "April Basi",
+        "upload_date": "20260103",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Elvive Colour Protect Shampoo",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Shampoo",
+        "active_ingredients": [
+            "Red Peony",
+            "UV Filter"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gentle, effective shampoo protects colored hair from harsh chemicals.",
+        "anchor_quote": "But this is really really lovely.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "this shampoo is really soft"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "very very gentle yet. It does cleanse"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "it is really nice to use after you've had like some harsh crawling chemicals on your hair."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "Looking for a budget-friendly shampoo that helps your hair colour last longer?"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Ub-JcobAtkA",
+        "influencer": "Selfcare Karen",
+        "upload_date": "20251015",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Elvive Extraordinary Oil Nourishing Shampoo",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Shampoo",
+        "active_ingredients": [
+            "chameleon oils",
+            "lightweight oils"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent shampoo for dry hair with luxurious scent and lather.",
+        "anchor_quote": "overall very, very happy, and would highly recommend this product.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "I love the way that it ladders in the shower as well. So, shampoos, specifically, I used to work in a hairdressing salon, so I have an absolute fetish for shampoos that have a really nice thick sort of a lather without being too bubbly. This one certainly does the job."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "I'm really happy with how my hair feels. I do have really long hair, so I struggle to find a shampoo and conditioner that can help with my breakage, but so far this one feels really, really lovely."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "screams-or-money kind of a scent without a huge price tag attached to it."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "_SAlIEI-CUE",
+        "influencer": "Tamika Louise | Product Reviews and Demonstrations",
+        "upload_date": "20251222",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Elvive Extraordinary Oil Nourishing Conditioner",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Conditioner",
+        "active_ingredients": [
+            "chameleon oils",
+            "lightweight oils"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective conditioner for dry hair, aids detangling and softness.",
+        "anchor_quote": "overall very, very happy, and would highly recommend this product.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "The conditioner went through my hair really nicely. I was able to then use the shower comb with it"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "I'm really happy with how my hair feels. I do have really long hair, so I struggle to find a shampoo and conditioner that can help with my breakage, but so far this one feels really, really lovely."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "screams-or-money kind of a scent without a huge price tag attached to it."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "_SAlIEI-CUE",
+        "influencer": "Tamika Louise | Product Reviews and Demonstrations",
+        "upload_date": "20251222",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Glycolic Gloss 5 Minute Lamination Treatment",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Hair Lamination Treatment",
+        "active_ingredients": [
+            "Glycolic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hair feels instantly smoother and has good consistency.",
+        "anchor_quote": "My hair felt instantly smoother.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "My hair felt instantly smoother."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It's not going to run out everywhere. It's going to stay in your hair."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "RK2oydz-Wqc",
+        "influencer": "Roxanne Latulippe",
+        "upload_date": "20250820",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Iron Sleek Shampoo",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Shampoo",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Shampoo is acceptable, but conditioner fails the system.",
+        "anchor_quote": "The shampoo wouldn't be an issue for me if the conditioner worked, but it didn't.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "It's maybe just a little bit thicker and stiffer"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "I feel like the results are basically the same in terms of the cleaning power."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Glossing Shampoo",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "11fKYY87zEA",
+        "influencer": "Abbey Yung",
+        "upload_date": "20260129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Iron Sleek Conditioner",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Conditioner",
+        "active_ingredients": [
+            "Stearamidopropyl Dimethylamine"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Conditioner causes tangles and potential breakage.",
+        "anchor_quote": "Immediately when I started blow-drying my hair, I noticed that my fingers were getting caught in tangles, which never happens when I use my favorite products. And even after loosening those tangles, my hair still ended up looking like this after drying. And that is a huge deal breaker for me because if my hair is that tangled, I am much more likely to experience breakage from brushing.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -10,
+                "context_quote": "Immediately when I started blow-drying my hair, I noticed that my fingers were getting caught in tangles"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -10,
+                "context_quote": "They say that they use this ingredient to improve softness, slip, detangling, and manageability while reducing breakage from brushing, but that's actually the exact issue that I had with it."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Glossing System",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "11fKYY87zEA",
+        "influencer": "Abbey Yung",
+        "upload_date": "20260129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Iron Sleek Leven Spray",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Leave-in Treatment",
+        "active_ingredients": [
+            "Polysilicone-29",
+            "Stearamidopropyl Dimethylamine"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "The leave-in spray is effective and well-liked.",
+        "anchor_quote": "I really loved the Leven Spray",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I really loved the Leven Spray"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 90,
+        "video_id": "11fKYY87zEA",
+        "influencer": "Abbey Yung",
+        "upload_date": "20260129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Glossing Shampoo",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Shampoo",
+        "active_ingredients": [
+            "Glycolic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides better smoothing than Iron Sleek shampoo.",
+        "anchor_quote": "I notice more immediate smoothing with glossing",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I notice more immediate smoothing with glossing"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Iron Sleek Shampoo",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 45,
+        "visual_timestamp_seconds": 99,
+        "confidence_score": 90,
+        "video_id": "11fKYY87zEA",
+        "influencer": "Abbey Yung",
+        "upload_date": "20260129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Glossing Conditioner",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Conditioner",
+        "active_ingredients": [
+            "Glycolic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides better detangling and manageability than Iron Sleek conditioner.",
+        "anchor_quote": "I feel like I get all of these benefits so much more from the Glossing System, so I would 100% recommend that over this.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I feel like I get all of these benefits so much more from the Glossing System"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Iron Sleek Conditioner",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 99,
+        "visual_timestamp_seconds": 99,
+        "confidence_score": 90,
+        "video_id": "11fKYY87zEA",
+        "influencer": "Abbey Yung",
+        "upload_date": "20260129",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Glycolic Gloss Leave-In Serum",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Leave-In Serum",
+        "active_ingredients": [
+            "Glycolic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "The serum has nice glitter but is slightly sticky.",
+        "anchor_quote": "what I like about it is that there's little glitters in it and it's super, super nice. It's definitely a bit sticky, but not that much.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -2,
+                "context_quote": "It's definitely a bit sticky, but not that much."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "_8gs1QtpCTE",
+        "influencer": "Roxanne Latulippe",
+        "upload_date": "20250820",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Infallible 32 Hour Fresh Wear Foundation",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Lightweight, breathable, long-wearing foundation with natural, buildable coverage.",
+        "anchor_quote": "I love everything about it. This foundation is extremely lightweight. It's very breathable on the skin. It doesn't feel heavy. It doesn't look heavy.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "It has extreme longevity. It's a 32-hour wear. I love the longevity of this foundation. It's a foundation that I can apply in the morning and I don't have to worry about touching up a lot throughout the day. I can trust that my foundation is going to look fresh and natural all day long."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "This foundation is extremely lightweight. It's very breathable on the skin. It doesn't feel heavy. It doesn't look heavy."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I like to start in the center of my face and I just kind of press my brush and bounce it over the skin. This is going to help me build coverage."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "You can still see the glow from underneath my skin. It looks very natural."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "LsonhfkDoaY",
+        "influencer": "L'Or\u00e9al Paris USA",
+        "upload_date": "20251119",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Hyper Liner Brush Eyeliner",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Eyeliner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Pigmented and easy to apply, but not smudge-proof for watery eyes.",
+        "anchor_quote": "Looks beautiful and pigmented but if you have way to water eyes especially close to your inner corners this product is not that smudge proof unfortunately.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "You can easily draw beautiful wings"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "this product is so pigmented and I am impressed. You can easily draw beautiful wings and this product doesn't stuck over dryness and it's pigmented and it's not patching."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -7,
+                "context_quote": "if you have way to water eyes especially close to your inner corners this product is not that smudge proof unfortunately. If we talk about these parts everything was perfect well wearing this product but I tried to draw it in airlines yesterday and they didn't stay perfectly in place and my eyes are quite watery and almost all liners. They they are not smudge proof right here in my case same thing here unfortunately"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "this product doesn't stuck over dryness and it's pigmented and it's not patching."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "Price: 3.95"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "we have a beautiful precise brush here and I like it"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "1FoSoJCj2O0",
+        "influencer": "Helga Mua ",
+        "upload_date": "20260112",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Cloud Tint Cushion Blush",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Cushion Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Blush has poor pigmentation, lifts foundation, and shades are too similar.",
+        "anchor_quote": "Unfortunately, unfortunately shades on swatches look way too similar and on skin they look way too similar as well because this product is not really that big minute starting from shade 10 and of course I'm gonna apply a little bit more for showing you the shades but I can't really suggest you applying a lot because this product as this texture feels a little bit watery it can ruin products applied before and I had an issue while testing this product first time it lifted my foundation unfortunately so be way too careful while applying this product.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "I like the design, I like the packaging, I think that it looks cute"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "shades on swatches look way too similar and on skin they look way too similar as well because this product is not really that big minute"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "this product as this texture feels a little bit watery it can ruin products applied before"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -6,
+                "context_quote": "it lifted my foundation unfortunately so be way too careful while applying this product."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "this product costs almost six years for four grams."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "House of Hur",
+                "competitor_product": "Moist Ampoule Blusher",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "b17Wdg8slFE",
+        "influencer": "Helga Mua ",
+        "upload_date": "20260506",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "House Of Hur",
+        "product_name": "Moist Ampoule Blusher",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Liquid Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Better value and shade range than Catrice blush.",
+        "anchor_quote": "This product from Korea has a huge cost currently on sale less than four years for 10 milliliters and here you have a choice and shade range here is better than here. If I'm not mistaken around 10 shades are available and you can easily find some cool toned shades if it's crucial for you and it's cheaper to buy these products from Korea than to buy these products from countries. So from my side I would probably suggest you try and size products from Korea because they cost less and you would receive more.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "This product from Korea has a huge cost currently on sale less than four years for 10 milliliters and here you have a choice"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "shade range here is better than here. If I'm not mistaken around 10 shades are available and you can easily find some cool toned shades"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "They still can lift your foundation and you should still be careful while working with such textures"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Catrice",
+                "competitor_product": "Cloud Tint Cushion Blush",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 120,
+        "visual_timestamp_seconds": 120,
+        "confidence_score": 95,
+        "video_id": "b17Wdg8slFE",
+        "influencer": "Helga Mua ",
+        "upload_date": "20260506",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Sun Lover Bronzer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Bronzer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Marbled bronzer provides perfect sheen and diffuses beautifully.",
+        "anchor_quote": "Oh yeah I love this. I'm sold. I'm a sucker for a marble product and it just looks so cute. I just love it so much.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It's got a slight sheen in it which is absolutely perfect because I love a little bit of a sheen in my bronzer"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "it just diffuses everything so nicely."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "it just looks so cute."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "MSoueAAUWWQ",
+        "influencer": "Caitlin Costello",
+        "upload_date": "20250505",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Glossy Nectar Lip Oil",
+        "specific_variant": "Shade 1 (purple)",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Shade 1 requires layering for color, but looks lovely and juicy.",
+        "anchor_quote": "If you want to see this shade on lips, you have to layer.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "I can't really suggest you layer in this product because the more you layer, the more the more you layer, the more you layer, the more you layer."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -3,
+                "context_quote": "If you want to see this shade on lips, you have to layer."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "As it is, it looks lovely and juicy."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Catrice",
+                "competitor_product": "Limited Edition Lip Oils",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 2,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "5MIRAZ4wMpA",
+        "influencer": "Helga Mua ",
+        "upload_date": "20260318",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Glossy Nectar Lip Oil",
+        "specific_variant": "Shade 2 (peachy)",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Shade 2 is transparent with imperceptible glitters, but has a synthetic apricot smell.",
+        "anchor_quote": "Shade 2 on lips looks a little bit transparent, but it contains some extra glitters, while shade 1 doesn't contain any glitters.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "I can't really suggest you layer in this product because the more you layer, the more the more you layer, the more you layer, the more you layer."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -3,
+                "context_quote": "Shade 2 on lips looks a little bit transparent"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Glitters are small and I can't feel them on my lips."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "These guys feel a little bit a little bit thicker"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Catrice",
+                "competitor_product": "Limited Edition Lip Oils",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 2,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "5MIRAZ4wMpA",
+        "influencer": "Helga Mua ",
+        "upload_date": "20260318",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Soft Glam Filter Stick",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Filter Stick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creates a soft glam, flawless glow.",
+        "anchor_quote": "This curated selection of Catrice favourites brings natural glow, soft definition and effortless elegance to your makeup routine.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Soft textures, gentle radiance & must-have complexion heroes"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "effortless elegance to your makeup routine"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "zQZxGon8bKE",
+        "influencer": "CATRICE Cosmetics",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Tiny Treasures Eyeshadow Palette",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Eyeshadow Palette",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creates soft definition for eyes.",
+        "anchor_quote": "This curated selection of Catrice favourites brings natural glow, soft definition and effortless elegance to your makeup routine.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "This curated selection of Catrice favourites brings natural glow, soft definition and effortless elegance"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Soft textures, gentle radiance & must-have complexion heroes"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "zQZxGon8bKE",
+        "influencer": "CATRICE Cosmetics",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Soft Glam Baked Blush",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Contributes to a natural glow and soft glam look.",
+        "anchor_quote": "This curated selection of Catrice favourites brings natural glow, soft definition and effortless elegance to your makeup routine.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Soft textures, gentle radiance & must-have complexion heroes"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "This curated selection of Catrice favourites brings natural glow, soft definition and effortless elegance"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "zQZxGon8bKE",
+        "influencer": "CATRICE Cosmetics",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Glam & Doll Sculpt & Volume Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides soft definition and volume for lashes.",
+        "anchor_quote": "This curated selection of Catrice favourites brings natural glow, soft definition and effortless elegance to your makeup routine.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "effortless elegance to your makeup routine"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "zQZxGon8bKE",
+        "influencer": "CATRICE Cosmetics",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Magic Shaper Face Cream Palette",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Face Palette",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Helps achieve a soft glam, refined complexion.",
+        "anchor_quote": "This curated selection of Catrice favourites brings natural glow, soft definition and effortless elegance to your makeup routine.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Soft textures, gentle radiance & must-have complexion heroes"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "effortless elegance to your makeup routine"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "zQZxGon8bKE",
+        "influencer": "CATRICE Cosmetics",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Colour Cushion Juicy Lip Oil",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides gentle radiance and a natural glow for lips.",
+        "anchor_quote": "This curated selection of Catrice favourites brings natural glow, soft definition and effortless elegance to your makeup routine.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Soft textures, gentle radiance & must-have complexion heroes"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "effortless elegance to your makeup routine"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "zQZxGon8bKE",
+        "influencer": "CATRICE Cosmetics",
+        "upload_date": "20251207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Glass Like Gloss Stick",
+        "specific_variant": null,
+        "product_category": "Lipstick",
+        "sub_category": "Gloss Stick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Pleasant texture, non-sticky, and well-wearing gloss stick.",
+        "anchor_quote": "I like this texture like this formula and can suggest.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "I like this texture. It feels great, only. Predict feels great on lips. It's slightly nourish, doesn't have a size dryness. And it's not sticky."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 5,
+                "context_quote": "Now it's just well wearing."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -2,
+                "context_quote": "Fibmentation. Between low and average."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "umDrwVZBI7g",
+        "influencer": "Helga Mua ",
+        "upload_date": "20260116",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Endless Matte Liquid Lipstick",
+        "specific_variant": "060 Red Flag",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Mixing this liquid lipstick with another creates a perfect burgundy lip.",
+        "anchor_quote": "Apply Endless Matte Liquid Lipstick in 060 Red Flag on the lower lip and Endless Matte Lipstick in 100 Coffee Date? on the upper lip \u2014 then rub them together for the ultimate deep-burgundy shade.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "Apply Endless Matte Liquid Lipstick in 060 Red Flag on the lower lip"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "for the ultimate deep-burgundy shade"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "BpTW7a3WZxc",
+        "influencer": "CATRICE Cosmetics",
+        "upload_date": "20251106",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Endless Matte Lipstick",
+        "specific_variant": "100 Coffee Date?",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Mixing this lipstick with another creates a perfect burgundy lip.",
+        "anchor_quote": "Apply Endless Matte Liquid Lipstick in 060 Red Flag on the lower lip and Endless Matte Lipstick in 100 Coffee Date? on the upper lip \u2014 then rub them together for the ultimate deep-burgundy shade.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "and Endless Matte Lipstick in 100 Coffee Date? on the upper lip"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "for the ultimate deep-burgundy shade"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "BpTW7a3WZxc",
+        "influencer": "CATRICE Cosmetics",
+        "upload_date": "20251106",
+        "creator_location": "Unknown"
     }
 ]
