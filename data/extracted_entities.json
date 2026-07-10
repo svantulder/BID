@@ -21091,5 +21091,1065 @@
         "influencer": "CATRICE Cosmetics",
         "upload_date": "20251106",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Catrice",
+        "product_name": "Blushin' Charm Multi Stick",
+        "specific_variant": "060 Toasted Toffee",
+        "product_category": "Makeup",
+        "sub_category": "Blush Stick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Easy to blend, layerable, beautiful multi-stick.",
+        "anchor_quote": "It's quite easy to work with this product. You can easily blend it.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's quite easy to work with this product. You can easily blend it."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "This particular shade doesn't contain any extra glitters. And it looks beautiful and quite interesting on skin."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 5,
+                "context_quote": "This shade is quite interesting. It's a mix of red and brown."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "itddlwy0gBM",
+        "influencer": "Helga Mua ",
+        "upload_date": "20260109",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Powder Foundation",
+        "specific_variant": "330",
+        "product_category": "Makeup",
+        "sub_category": "Powder Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product application demonstrated visually.",
+        "anchor_quote": "No discernible sentiment expressed in transcript.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Creator applies powder foundation smoothly with a puff."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "The applied powder visually matches the creator's skin tone well."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Powder blends seamlessly, reducing shine without appearing cakey."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "No information available to assess longevity."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "No information available to assess value."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": "No specific comments or visual cues about packaging quality beyond its appearance."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "N90vjntltAw",
+        "influencer": "Made By Mona",
+        "upload_date": "20251016",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Infallible Skin Ink 2-in-1 Foundation + Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [
+            "Niacinamide",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Long-lasting for oily/combo skin, but dries very fast.",
+        "anchor_quote": "But here's the catch. This product dries super fast. So you need to blend it out quickly. And it can clean to any dry patches in the area.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "I can confirm it's transfer resistant waterproof, sweat proof, humidity proof. So it makes it perfect for summer or humid climates, or if you have oily skin or combination like I do."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's super lightweight, feels like nothing on the skin, gives enough coverage just to even things out."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -7,
+                "context_quote": "This product dries super fast. So you need to blend it out quickly. And it can clean to any dry patches in the area. So I recommend working in sections, prepping your skin well before applying."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 5,
+                "context_quote": "Three tells that $15 to $19."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 98,
+        "video_id": "pmDMsPPaM6c",
+        "influencer": "The Beauty Shift",
+        "upload_date": "20250721",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Infallible Full Wear Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Incredible full coverage concealer with a smooth, long-wearing finish.",
+        "anchor_quote": "Five stars like all around love it.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "For under $13, Lori L. infallible 24 hour wear full coverage concealer."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "This is a big doe foot applicator, which I love."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Blending out really easy."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "Blending out very flawless to Wow. Incredible coverage."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "I can tell the formula is starting to dry down, but that's good. That means it's going to be long wearing has a really smooth finish to it."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "tn_zFhh_zm0",
+        "influencer": "Makeup By Nikki La Rose",
+        "upload_date": "20231202",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Infallible Full Wear Concealer",
+        "specific_variant": "317",
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Shade 317 is too light, limited shade range for deeper skin tones.",
+        "anchor_quote": "It might suit for light to medium skin tone but for a medium to deep skin tone this definitely does not suit.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "which is long lasting"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -7,
+                "context_quote": "the shade range is very minimal in India and this is the last shade which you can find. As you can see this is very light and probably it can be used for a highlighting purpose. It might suit for light to medium skin tone but for a medium to deep skin tone this definitely does not suit."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 2,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "aQhsafHpaN4",
+        "influencer": "Dusk Beauty",
+        "upload_date": "20240406",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Instant Age Rewind Eraser Multi-Use Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Convenient applicator and good shade range.",
+        "anchor_quote": "I do like this. I'm always here for good drugs to refined. And once again, I do like the fact that you don't have to have a brush in order to blend this out because of how the applicator is.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "I like the design of the packaging you all because it has the little brush applicator. So it's all in one. You don't have to pack another set of brushes to use this product. Truly fun to go."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "I'm always here for good drugs to refined."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "I like the design of the packaging you all because it has the little brush applicator. So it's all in one."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "Just looking at the shades, they sent me. This is gonna be a win because I see multiple that I can use."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Ix4E0knz_kQ",
+        "influencer": "The Santa Maria",
+        "upload_date": "20251225",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Instant Age Rewind Concealer",
+        "specific_variant": "Shade 120",
+        "product_category": "Face Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Drugstore ride or die, consistently loved concealer.",
+        "anchor_quote": "A drugstore ride or die that people often forget about, every time I use this I fall in love all over again.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "every time I use this I fall in love all over again."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "A drugstore ride or die"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "every time I use this I fall in love all over again."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "every time I use this I fall in love all over again."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "gWSqON_e7SA",
+        "influencer": "lexifmakeup",
+        "upload_date": "20251228",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Concealer",
+        "specific_variant": "40",
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Thicker, creamy, high coverage for dark circles.",
+        "anchor_quote": "According to me, fit me is a bit more thicker, gives you more coverage and is more creamy. It is perfect for covering dark circles fast or any hyper pigmentation on the skin.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "fit me is a bit more thicker, gives you more coverage and is more creamy."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "5VStwp54GoE",
+        "influencer": "Prunela",
+        "upload_date": "20250424",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Instant Age Rewind Concealer",
+        "specific_variant": "Caramel",
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Lightweight, natural, breathable, non-cakey, everyday coverage.",
+        "anchor_quote": "Instant rewind has a sponge applicator, it's more lightweight. Here's a natural finish, it's breathable and blendable. This is great if you don't need full coverage, can be used every day and this will not give you cakey under eyes.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it's more lightweight. Here's a natural finish, it's breathable and blendable."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 3,
+                "context_quote": "The sponge tip is super beginner-friendly but maybe not the most precise for spot concealing."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "this will not give you cakey under eyes."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "5VStwp54GoE",
+        "influencer": "Prunela",
+        "upload_date": "20250424",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Instant Age Rewind Eraser Concealer",
+        "specific_variant": "160",
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effectively covers dark circles, brightens eyes, and makes a significant difference.",
+        "anchor_quote": "this completely takes years. Off your life, it makes you have the nice bright eyes. So, goodbye, any dark circles. Hello, nice, light, bright eyes.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "You just twist it to get it into the spund area. Rub it in gently. Just a few seconds and it makes such a difference."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "it makes you have the nice bright eyes. So, goodbye, any dark circles. Hello, nice, light, bright eyes."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "great for all-day wear"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Lightweight formula, blends seamlessly."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "This affordable gem is a favorite for a reason."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "You just twist it to get it into the spund area."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "OXpDy7yHu_E",
+        "influencer": "Deanne Gustafson",
+        "upload_date": "20240724",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "True Match Super Blendable Foundation",
+        "specific_variant": "N7",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Drugstore foundation rivals high-end products for perfect skin.",
+        "anchor_quote": "But when I tell you, this is rivaling some of my foundations that cost 50 dollars.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "Yeah. Yeah. This is the shade. Uh huh. I'm proud of myself. I actually matched myself. I went on their website, the L'Oreal website. And I matched myself just based off of descriptions and everything and it gave me the shade in 7. And yeah, it's a Zachary. This is a Zachary right? Oh yeah. It's getting skin."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "And again, it's under 20 bucks. So that is also a win. I mean, seriously, this is a drugstore foundation. But when I tell you, this is rivaling some of my foundations that cost 50 dollars."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "I love that it comes with the pump. I remember the old version. You used to have to just pour it on the back of your hand or something and I hated that. But this new pump I can get behind."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "But yeah, this is giving skin for sure. And for context, nothing on this side, foundation on this side. This foundation is giving perfect skin and that's what you wanted to look like."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "LrefRmHGCiM",
+        "influencer": "The Santa Maria",
+        "upload_date": "20260219",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Fenty Beauty",
+        "product_name": "Killawatt Freestyle Highlighter",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Highlighter",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Beautiful highlighter but limited to pastel makeup looks.",
+        "anchor_quote": "No doubt ki \u06cc\u06c1 vala shade bhi baha hoti zada pyara hai baha hoti sinda lagte bahut is ke sathik problm hai yar ki ye na sirf pastel klth spink klth pr pl aoni ke sath jata hai",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "No doubt ki \u06cc\u06c1 vala shade bhi baha hoti zada pyara hai baha hoti sinda lagte bahut"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -3,
+                "context_quote": "is ke sathik problm hai yar ki ye na sirf pastel klth spink klth pr pl aoni ke sath jata hai"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "6bnoRhWFqEw",
+        "influencer": "Middle class mua",
+        "upload_date": "20260527",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Donka",
+        "product_name": "Eyeshadow Pigment",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Eyeshadow Pigment",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable eyeshadow pigment is a high-quality, versatile highlighter dupe.",
+        "anchor_quote": "You can't tell Which highlighter is expensive And which highlighter is affordable... This is an eyeshadow pigment Which is so much more fine It is such a good quality You can apply it on your face... You can't buy any highlighter after this And it is so much affordable And so much good quality",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Which is so much more fine"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "And it is so much affordable And so much good quality"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "You can apply it on your face"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Fenty Beauty",
+                "competitor_product": "Killawatt Freestyle Highlighter",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 23,
+        "visual_timestamp_seconds": 39,
+        "confidence_score": 90,
+        "video_id": "6bnoRhWFqEw",
+        "influencer": "Middle class mua",
+        "upload_date": "20260527",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Fenty Beauty",
+        "product_name": "Body Lava",
+        "specific_variant": null,
+        "product_category": "Body Care",
+        "sub_category": "Body Luminizer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Fenty Body Lava provides a gorgeous, dewy, shimmery glow.",
+        "anchor_quote": "Oh my goodness. Look at how gorgeous that is. It is so hydrated and dewy.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "This is supposed to give a silky, sublime, dewy look to the skin. It is so hydrated and dewy."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "I should just see the shimmer in that. Do you see that? Oh my goodness. Look at how gorgeous that is."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "We need to get this on my skin immediately and see how it looks."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "dmHPGANx_N8",
+        "influencer": "Caitlin_Way",
+        "upload_date": "20260517",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Fenty Beauty",
+        "product_name": "Gloss Bomb Universal Lip Luminizer",
+        "specific_variant": "Wattab!*%#",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Beautiful lip gloss with a wearable color.",
+        "anchor_quote": "Ein sehr sch\u00f6ner Lipgloss wieder von Fenty Beauty\ud83d\ude0d Erst war ich etwas skeptisch, aber die Farbe ist definitiv tragbar\ud83d\ude0d",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "Erst war ich etwas skeptisch, aber die Farbe ist definitiv tragbar"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "kUB0VyM3Dd0",
+        "influencer": "Kim Kelle",
+        "upload_date": "20260511",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Milani",
+        "product_name": "Personal Effect Concealer",
+        "specific_variant": "170 Warm Almond",
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good full coverage, but quick dry-down, now has competition.",
+        "anchor_quote": "I have been loving the milani personal effect... Milani we have competition in my book",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "this one has a very quick dry down time"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "this one has a very quick dry down time"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "I have been loving the milani personal effect in the shade 170 or warm almond that I really feel sincere"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Infallible Concealer",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "S8V1MAX-NqI",
+        "influencer": "Life Of Mwale",
+        "upload_date": "20251225",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Infallible Concealer",
+        "specific_variant": "Honey 415",
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent concealer, blends well, and stays in rotation.",
+        "anchor_quote": "I see why yep I see why people like this okay L'Oreal... I love that it's staying in my rotation",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "this consistency doesn't give me quick dry down if you give what I need"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I see why yep I see why people like this"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "this is the end of the day and this is how oh my concealer looks a year L'Oreal buh I love that it's staying in my rotation"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Milani",
+                "competitor_product": "Personal Effect Concealer",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 19,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 95,
+        "video_id": "S8V1MAX-NqI",
+        "influencer": "Life Of Mwale",
+        "upload_date": "20251225",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Infallible 36H Setting Mist",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Setting Spray",
+        "active_ingredients": [
+            "Vitamin E"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "L'Oreal setting spray is preferred despite small size and shiny finish.",
+        "anchor_quote": "I like love the L'Oreal one much much better.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "The only con about the L'Oreal one is that it's small. It's very small."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "the L'Oreal and the vitamin E make my face shiny"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -3,
+                "context_quote": "this L'Oreal one gives you that when you spray it although it wears out"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Makeup Revolution",
+                "competitor_product": "Superfix Super Hold Setting Spray",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "6rfW36eE6F4",
+        "influencer": "Khanyisa Mashele",
+        "upload_date": "20240904",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Makeup Revolution",
+        "product_name": "Superfix Super Hold Setting Spray",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Setting Spray",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Makeup Revolution setting spray is cheaper and larger, but less preferred.",
+        "anchor_quote": "this one is relatively a bit cheaper than this one of which it should be because of the sizing right.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "this one is relatively a bit cheaper than this one of which it should be because of the sizing right."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Infallible 36H Setting Mist",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 21,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "6rfW36eE6F4",
+        "influencer": "Khanyisa Mashele",
+        "upload_date": "20240904",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Revitalift Triple Power Anti-Aging UV Moisturizer",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Vitamin C",
+            "Pro-Retinol"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Lightweight, hydrating, anti-aging moisturizer with SPF protection.",
+        "anchor_quote": "It feels lightweight, but it's still giving me good solid hydration.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It feels lightweight, but it's still giving me good solid hydration."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "It hasn't broken me out."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "JS_q_rF2BVo",
+        "influencer": "Allee-Sutton",
+        "upload_date": "20250822",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Revitalift Derm Intensives Serum",
+        "specific_variant": "1.5% Pure Hyaluronic Acid",
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Microepidermic HA",
+            "Macro HA",
+            "Micro HA"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Serum deeply hydrates, plumps skin, and reduces lines.",
+        "anchor_quote": "From the first hour, hydration is deeply replenished, skin looks plumped and lines already reduced.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "fast absorbing for deep moisture."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "From the first hour, hydration is deeply replenished, skin looks plumped and lines already reduced."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "VF0lWqd4qFs",
+        "influencer": "Svetlana",
+        "upload_date": "20250210",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Revitalift Hyaluronic Acid Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Sticky texture, no noticeable benefits, would not repurchase.",
+        "anchor_quote": "yo no lo volver\u00eda a comprar",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -8,
+                "context_quote": "lo sent\u00ed pegajoso en el rostro, no me gust\u00f3 la textura"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "ni tampoco cuando le extend\u00eda como se sent\u00eda mi piel"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -7,
+                "context_quote": "tampoco note que mi piel lo recibir\u00e1 y se notara como beneficios del producto"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Or\u00e9al",
+                "competitor_product": "Retinol Serum",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 21,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 95,
+        "video_id": "IPcsSUwWUFY",
+        "influencer": "Gabi Rovera",
+        "upload_date": "20260418",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Retinol Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Retinol"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creator loves and is fascinated by this retinol product.",
+        "anchor_quote": "me encanta, me fascina",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 65,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "IPcsSUwWUFY",
+        "influencer": "Gabi Rovera",
+        "upload_date": "20260418",
+        "creator_location": "Unknown"
     }
 ]
