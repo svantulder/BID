@@ -22151,5 +22151,1522 @@
         "influencer": "Gabi Rovera",
         "upload_date": "20260418",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Infallible Skin Ink 2-in-1 Foundation + Concealer",
+        "specific_variant": "Shade 15",
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation + Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Thin, long-lasting foundation + concealer provides smooth coverage.",
+        "anchor_quote": "the makeup still looks smooth on my textured skin.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It has such a unique formula because of how thin it applies onto the skin. Make sure to work in sections because once this dries down, it is set in place all day."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "once this dries down, it is set in place all day. Coverage is still holding up strong."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It has such a unique formula because of how thin it applies onto the skin. the makeup still looks smooth on my textured skin."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "XQm8rYZjeeg",
+        "influencer": "Lavinia Rusanda",
+        "upload_date": "20250813",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Revitalift Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Serum",
+        "active_ingredients": [
+            "Sodium Hyaluron",
+            "Hyaluronic Acid",
+            "Ascorbyl Glucoside",
+            "Humectants",
+            "Peptides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Weightless serum provides deep hydration for all skin types.",
+        "anchor_quote": "they have made this super super nourishing serum which is very weightless in the way even during summer's time and they will give you deep hydration.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "which is very weightless in the way even during summer's time"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "and they will give you deep hydration."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "So my final rating for this product is easily 8 on 10."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "iPvYTftAIhQ",
+        "influencer": "Stay Beautiful with Meenakshi Khanna",
+        "upload_date": "20250216",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Oreal",
+        "product_name": "Revitalift Triple Power Tri Peptides Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Tri-Peptides",
+            "Matrixyl 3000",
+            "Argireline",
+            "Carnosine",
+            "Hyaluronic Acid",
+            "Vitamin C",
+            "Ascorbyl Glucoside"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Serum improves skin elasticity, reduces wrinkles, hydrates, and brightens.",
+        "anchor_quote": "Using this serum on a daily basis will reduce wrinkles, will help with skin firmness and brightness.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Helleronic acid, which helps hydrate and replompio-skin."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "Using this serum on a daily basis will reduce wrinkles, will help with skin firmness and brightness."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "kjr4M_UwqXw",
+        "influencer": "Svetlana",
+        "upload_date": "20251025",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Revitalift Triple Power Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Serum reduces wrinkles, evens skin, and firms.",
+        "anchor_quote": "Triple Power Serum! Reduces Wrinkles! Events! And firm skin!",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "Reduces Wrinkles! Events! And firm skin!"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "_C2bNxi5OJk",
+        "influencer": "L'Or\u00e9al Paris Malaysia",
+        "upload_date": "20260303",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Revitalift Triple Power Day Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Day Cream",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Day Cream improves skin firmness and evenness.",
+        "anchor_quote": "Day Cream! Reduces Wrinkles! Events! And firm skin!",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "Reduces Wrinkles! Events! And firm skin!"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "_C2bNxi5OJk",
+        "influencer": "L'Or\u00e9al Paris Malaysia",
+        "upload_date": "20260303",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Revitalift Laser Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Serum",
+        "active_ingredients": [
+            "Tripeptides",
+            "Vitamin C",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "L'Or\u00e9al Paris Revitalift Laser Serum offers clinically proven anti-aging benefits.",
+        "anchor_quote": "No direct sentiment-proving quote in transcript.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "WRINKLES 76%, SMOOTHNESS 84%, FIRMNESS 79%, EVENNESS 72%"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "AKiMFEDwG2E",
+        "influencer": "L'Oreal Paris South Africa",
+        "upload_date": "20250319",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Revitalift Advanced Firming Facial Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Facial Cream",
+        "active_ingredients": [
+            "Retinol Pro",
+            "Dipeptide",
+            "Vitamin CG"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "New L'Or\u00e9al Revitalift cream offers triple anti-aging benefits.",
+        "anchor_quote": "Triple anti-aging power. Now in one jar, Nulaloreal Paris Revitalift Advanced Firming Facial Cream. Powered by Triple Anti-Aging Ingredients. Gentle and non-irritating. Revitalizes can to be firm, radiant and smooth.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Gentle and non-irritating."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 1,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "jUBLIHvvtXs",
+        "influencer": "L'Or\u00e9al Paris Malaysia",
+        "upload_date": "20250430",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Revitalift Laser Anti-Ageing Day Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Day Cream",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Vitamin Cg"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Day cream hydrates, brightens, and helps firm skin.",
+        "anchor_quote": "First, hyaluronic acid helps with blemish your skin with moisture. Second, vitamin Cg will brighten up your skin. Third, from red no, it helps firm skin.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "hyaluronic acid helps with blemish your skin with moisture."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "vitamin Cg will brighten up your skin."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "from red no, it helps firm skin."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "FBBrVwNiAns",
+        "influencer": "L'Or\u00e9al Paris Australia",
+        "upload_date": "20251204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al Paris",
+        "product_name": "Revitalift Clinical 12% Pure Vitamin C Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Vitamin C",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Vitamin C serum brightens skin and provides radiance.",
+        "anchor_quote": "Second, vitamin Cg will brighten up your skin. I need some of this radiance.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "vitamin Cg will brighten up your skin. I need some of this radiance."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "hyaluronic acid helps with blemish your skin with moisture."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "FBBrVwNiAns",
+        "influencer": "L'Or\u00e9al Paris Australia",
+        "upload_date": "20251204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Cleansing Water in Oil",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Effective for makeup removal but too greasy for oily skin.",
+        "anchor_quote": "I do like this the only thing is it is quite greasy so if you have oily skin you may find that this is a bit too much for your skin",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "taking off makeup particularly eye makeup"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "it is quite greasy"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Bioderma",
+                "competitor_product": "Sensibio H2O Micellar Water",
+                "comparison_nature": "inferior"
+            },
+            {
+                "competitor_brand": "Nivea",
+                "competitor_product": "MicellAir Soothing Micellar Water",
+                "comparison_nature": "inferior"
+            },
+            {
+                "competitor_brand": "Garnier",
+                "competitor_product": "Micellar Cleansing Water",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "phL6Tabl1V4",
+        "influencer": "Selfcare Karen",
+        "upload_date": "20250319",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Bioderma",
+        "product_name": "Sensibio H2O Micellar Water",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A highly preferred micellar water, especially for oily skin.",
+        "anchor_quote": "I love the biodeurma one",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "you prefer to use one of the kind of more regular types of micella water for example I love the biodeurma one"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Garnier",
+                "competitor_product": "Micellar Cleansing Water in Oil",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 40,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "phL6Tabl1V4",
+        "influencer": "Selfcare Karen",
+        "upload_date": "20250319",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Nivea",
+        "product_name": "MicellAir Soothing Micellar Water",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A highly preferred soothing micellar water.",
+        "anchor_quote": "I also love the Nivia soothing one",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "you prefer to use one of the kind of more regular types of micella water for example I love the biodeurma one I also love the Nivia soothing one"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Garnier",
+                "competitor_product": "Micellar Cleansing Water in Oil",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 44,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "phL6Tabl1V4",
+        "influencer": "Selfcare Karen",
+        "upload_date": "20250319",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Cleansing Water",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A good regular micellar water option, especially for oily skin.",
+        "anchor_quote": "there is a Garnier one that's in a pink bottle that or pink lidded bottle that's really good also",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "you prefer to use one of the kind of more regular types of micella water... there is a Garnier one that's in a pink bottle that or pink lidded bottle that's really good also"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Garnier",
+                "competitor_product": "Micellar Cleansing Water in Oil",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 47,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "phL6Tabl1V4",
+        "influencer": "Selfcare Karen",
+        "upload_date": "20250319",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Cleansing Water",
+        "specific_variant": "All-in-1",
+        "product_category": "Skincare",
+        "sub_category": "Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Micellar water effectively cleanses skin, leaving no residue.",
+        "anchor_quote": "This Garnier Masala cleansing water lives my skin 100% clean and removes dirt, pollutants and sunscreen.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Just pour, press and swipe."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It feels so gentle on my skin."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "This Garnier Masala cleansing water lives my skin 100% clean and removes dirt, pollutants and sunscreen."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "nq8hJ-TfjeE",
+        "influencer": "Samapti Banerjee",
+        "upload_date": "20240513",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Cleansing Water",
+        "specific_variant": "All in One",
+        "product_category": "Skincare",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Affordable, minimalist micellar water, but lacks beneficial ingredients.",
+        "anchor_quote": "The reason why it's number five is that it doesn't have the most beneficial skin ingredients.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "It's really affordable and readily available."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "It's a very straightforward cleansing water that removes makeup."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "T_v2-A6XYWE",
+        "influencer": "Brute Choi",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Then I Met You",
+        "product_name": "Living Sea Cleansing Tonic",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Tonic",
+        "active_ingredients": [
+            "deep sea water",
+            "licorice extract",
+            "hyaluronic acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Most hydrating cleansing tonic, great for dry skin.",
+        "anchor_quote": "Definitely the most hydrating formula out of my top five list. And if you have dry skin at all, this is the one that I would recommend.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Definitely the most hydrating formula out of my top five list."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It's kind of a new favorite."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 28,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 95,
+        "video_id": "T_v2-A6XYWE",
+        "influencer": "Brute Choi",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Round Lab",
+        "product_name": "1025 Dokdo Cleansing Water",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Water",
+        "active_ingredients": [
+            "hyaluronic acid",
+            "ceramides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Moisturizing and gentle, but has weaker cleansing power.",
+        "anchor_quote": "I feel like the cleansing power of this cleansing water is a little bit more on the weaker side, but it is more gentle on your skin barrier.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "This has hyaluronic acid as well as ceramides in it. So it is very moisturizing. Very gentle on the skin. It feels very refreshing."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -3,
+                "context_quote": "I feel like the cleansing power of this cleansing water is a little bit more on the weaker side."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 42,
+        "visual_timestamp_seconds": 42,
+        "confidence_score": 95,
+        "video_id": "T_v2-A6XYWE",
+        "influencer": "Brute Choi",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Bioderma",
+        "product_name": "Micellar Water",
+        "specific_variant": "Sensibio H2O",
+        "product_category": "Skincare",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gentle, hydrating, effective eye makeup remover for all skin types.",
+        "anchor_quote": "This is one of my favorite cleansing wonders of all time... it's an amazingly gentle eye makeup remover. It's not skin your eyes. It's not gentle, but it does a really good job of getting great if your eye makeup or your foundation.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "It's an amazingly gentle eye makeup remover. It's not skin your eyes. It's not gentle, but it does a really good job of getting great if your eye makeup or your foundation."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "I also feel like it's very, very hydrating on the skin. It's not over-stripping, and it feels really gentle."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 62,
+        "visual_timestamp_seconds": 63,
+        "confidence_score": 95,
+        "video_id": "T_v2-A6XYWE",
+        "influencer": "Brute Choi",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Ma:nyo",
+        "product_name": "Pure Cleansing Water",
+        "specific_variant": "Sensitive",
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Water",
+        "active_ingredients": [
+            "PHA",
+            "BHA"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Best cleansing power, gentle, and beneficial for acne-prone skin.",
+        "anchor_quote": "This is the best job of cleansing your makeup off your face... it's still very gentle on the skin. Also the only cleansing water with a bit of exfoliating in it, typically PHA and BHA. So if you are acne prone, this will have some ingredients in it that will actually have copier acne.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 10,
+                "context_quote": "This is the best job of cleansing your makeup off your face. The other cleansing waters that I've tried, it takes probably like three cotton pads to get rid of all of my makeup, but with this one, it only needs about two."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's still very gentle on the skin."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 98,
+        "visual_timestamp_seconds": 96,
+        "confidence_score": 95,
+        "video_id": "T_v2-A6XYWE",
+        "influencer": "Brute Choi",
+        "upload_date": "20251229",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Cleansing Water All-in-1",
+        "specific_variant": "Pink",
+        "product_category": "Cleanser",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Original formula stings eyes, not suitable.",
+        "anchor_quote": "but honestly it stings my eyes so I want to try something different this time.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "it stings my eyes"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "GOnjbIZs1Rw",
+        "influencer": "Diba's Quest",
+        "upload_date": "20250306",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Hyaluronic Aloe Water",
+        "specific_variant": "Aloe Water Version",
+        "product_category": "Cleanser",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Good for dehydrated skin, but not needed by creator.",
+        "anchor_quote": "The allowater version contains hyaluronic acid, making it a great option for dehydrated skin, but that's not something I really need right now.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "GOnjbIZs1Rw",
+        "influencer": "Diba's Quest",
+        "upload_date": "20250306",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Vitamin C Cleansing Water",
+        "specific_variant": "Vitamin C1",
+        "product_category": "Cleanser",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [
+            "Vitamin C"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Contains Vitamin C, but creator questions its utility.",
+        "anchor_quote": "Next up is the vitamin C1, but I do really see the point of having active zin-myclensing routine, especially since I'll be using it every day.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 18,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "GOnjbIZs1Rw",
+        "influencer": "Diba's Quest",
+        "upload_date": "20250306",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Cleansing Oil Infused Water All-in-1",
+        "specific_variant": "Oil-Infused Version",
+        "product_category": "Cleanser",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gentle on skin and eyes, best alternative.",
+        "anchor_quote": "this seems like the best option for me.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "which claims to be gentle on both skin and eyes"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 25,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 95,
+        "video_id": "GOnjbIZs1Rw",
+        "influencer": "Diba's Quest",
+        "upload_date": "20250306",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Cleansing Water All-in-1",
+        "specific_variant": "Green",
+        "product_category": "Cleanser",
+        "sub_category": "Micellar Water",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Similar to original, with minor skin type differences.",
+        "anchor_quote": "And finally the green one, honestly, is pretty similar to the original myceler water, which is minor differences in skin types",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 33,
+        "visual_timestamp_seconds": 33,
+        "confidence_score": 95,
+        "video_id": "GOnjbIZs1Rw",
+        "influencer": "Diba's Quest",
+        "upload_date": "20250306",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Water",
+        "specific_variant": "All-in-1",
+        "product_category": "Skincare",
+        "sub_category": "Makeup Remover",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gentle, affordable micellar water effectively removes mascara without scrubbing.",
+        "anchor_quote": "My cellar water and reusable pads are my mascara removal MVP's day or night.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "No scrubbing needed and it gets everything off."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It\u2019s gentle (even with sensitive skin + rosacea)"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "affordable"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "it gets everything off"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 10,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "afdzdllbfBg",
+        "influencer": "Modern Mavennial",
+        "upload_date": "20250922",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Generic",
+        "product_name": "Reusable Pads",
+        "specific_variant": null,
+        "product_category": "Beauty Tool",
+        "sub_category": "Makeup Removal Accessory",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Reusable pads are a sustainable and effective makeup removal tool.",
+        "anchor_quote": "The pads are washable and reusable, which makes them way more sustainable than tossing a cotton round every night.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "The pads are washable and reusable, which makes them way more sustainable than tossing a cotton round every night."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "No scrubbing needed and it gets everything off."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Generic",
+                "competitor_product": "Cotton Rounds",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 15,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 90,
+        "video_id": "afdzdllbfBg",
+        "influencer": "Modern Mavennial",
+        "upload_date": "20250922",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Cleansing Water in Oil",
+        "specific_variant": null,
+        "product_category": "Makeup Remover",
+        "sub_category": "Micellar Cleansing Water in Oil",
+        "active_ingredients": [
+            "Argan oil",
+            "Perfume"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective, gentle, non-drying, and best drugstore makeup remover.",
+        "anchor_quote": "I'd have to say that this is one of the best drugstore makeup removers that I've used, and I think it's worth a try if you've been thinking about getting it.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I think that it's really easy to use."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "it's really effective at removing even super-stay and waterproof eye-end lip products."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "I find this product really gentle and non-drying on my skin"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "I'd have to say that this is one of the best drugstore makeup removers that I've used"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "OxWQaZTwyr0",
+        "influencer": "Scarlette Reviews",
+        "upload_date": "20231124",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Cleansing Water",
+        "specific_variant": "Waterproof",
+        "product_category": "Skincare",
+        "sub_category": "Makeup Remover",
+        "active_ingredients": [
+            "Micelles"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective, gentle micellar water for daily cleansing and makeup removal.",
+        "anchor_quote": "I use my Seller Water every single day, so I was super excited that Garnier sent me this",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I use these pads to soak my lashes and then the Q-tip covered in miceeller water to get any remaining or stubborn glue. I also love to use a miceller soaked Q-tip to get a perfect crisp and lifted eye look and remove any fallout."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "My Seller Water is made up of tiny cleansing magnets called micelles that lift away dirt, oil and makeup without stripping your skin."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "1pQqzFQrKrA",
+        "influencer": "Allee-Sutton",
+        "upload_date": "20251029",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Micellar Cleansing Eco Pads",
+        "specific_variant": null,
+        "product_category": "Skincare Accessory",
+        "sub_category": "Reusable Cleansing Pads",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Eco-friendly, reusable cleansing pads that reduce waste.",
+        "anchor_quote": "these eco-friendly reusable cleansing pads. You can take these in Washington with soap and water and you're ready to go. I love less waste and better skin.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "You can take these in Washington with soap and water and you're ready to go. I love less waste and better skin."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "You can take these in Washington with soap and water and you're ready to go."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 90,
+        "video_id": "1pQqzFQrKrA",
+        "influencer": "Allee-Sutton",
+        "upload_date": "20251029",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "CeraVe",
+        "product_name": "Moisturizing Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cream",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Highly effective and superly underrated.",
+        "anchor_quote": "Mastorizing cream 5.5x5 superly underrated",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "superly underrated"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 95,
+        "video_id": "S4t4ooTNuL4",
+        "influencer": "Dr Ingky",
+        "upload_date": "20260213",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "CeraVe",
+        "product_name": "Hydrating Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "An okay cleanser, but lacks hydration.",
+        "anchor_quote": "3.5x5, saya rasa itu anggota ok cleanser Ya, ini tak sangat hidri di skin begitu banyak",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 2,
+                "context_quote": "saya rasa itu anggota ok cleanser"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -4,
+                "context_quote": "ini tak sangat hidri di skin begitu banyak"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "S4t4ooTNuL4",
+        "influencer": "Dr Ingky",
+        "upload_date": "20260213",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "CeraVe",
+        "product_name": "Sunscreen",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Sun Protection",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Does not recommend the sunscreen.",
+        "anchor_quote": "Syarfi tidak menghantar untuk sunscreen",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -8,
+                "context_quote": "Syarfi tidak menghantar untuk sunscreen"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 14,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 85,
+        "video_id": "S4t4ooTNuL4",
+        "influencer": "Dr Ingky",
+        "upload_date": "20260213",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "CeraVe",
+        "product_name": "Toner",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Toner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Does not recommend this toner.",
+        "anchor_quote": "1.5x5, saya mencari toner, saya tak menghantar",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -8,
+                "context_quote": "saya tak menghantar"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 18,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "S4t4ooTNuL4",
+        "influencer": "Dr Ingky",
+        "upload_date": "20260213",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "CeraVe",
+        "product_name": "Hydrating Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Facial Cleanser",
+        "active_ingredients": [
+            "Ceramides",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Holy grail cleanser for dry, sensitive skin, repairs barrier.",
+        "anchor_quote": "This is my holy grill for dry and sensitive skin.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It's especially nice to use after a double cleanse as the first part of your cleansing routine at night if you have a ton of makeup on."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's free from sulfates that strip your skin and it works for a moving makeup without irritation. If your skin feels tight after cleansing, switch to this immediately."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "Her skin barrier improved dramatically in just two weeks. This product can really be a game changer for sensitive skin or dry skin issues."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "6oLGWqwkvZU",
+        "influencer": "Dr. Mara Weinstein Velez",
+        "upload_date": "20251208",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "Hydro Boost Hyaluronic Acid Moisturizer with Sunscreen",
+        "specific_variant": "Unscented",
+        "product_category": "Skincare",
+        "sub_category": "Sunscreen Moisturizer",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Avobenzone",
+            "Homosalate",
+            "Octisalate",
+            "Octocrylene"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Moisturizing and no white cast, but heavy, greasy, and irritating.",
+        "anchor_quote": "I will not repurchase this sunscreen.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "blended into my skin easily."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "No white cast"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 5,
+                "context_quote": "I could feel there was something on my skin all day."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -8,
+                "context_quote": "it did feel greasy and heavy on my skin. It wasn't lightweight and I could feel there was something on my skin all day."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "wpQ7KamtKt8",
+        "influencer": "Curls On Demand",
+        "upload_date": "20240715",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "CeraVe",
+        "product_name": "Makeup Removing Cleanser Balm",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleansing Balm",
+        "active_ingredients": [
+            "Ceramides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Caused breakouts for acne-prone skin despite good texture.",
+        "anchor_quote": "So sadly, this was not safe for my acne-protein skin.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it had a wonderful texture to it."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "It emulsified pretty well."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "NhAqXe4jrqs",
+        "influencer": "alex greyson",
+        "upload_date": "20250125",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "Hydro Boost SPF50 Hydrating Fluid",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Sunscreen",
+        "active_ingredients": [
+            "hyaluronic acid",
+            "Provitamin B5",
+            "Niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Hydrating fluid with SPF50, but lacks explicit 5-star UVA/UVB rating.",
+        "anchor_quote": "I don't know if I would use, I've probably used this again but I wouldn't rush out and buy it, it was nice, it was okay but I wasn't a fan that it said like the other product I used is a five-star rating for UVA and UVB protection.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 0,
+                "context_quote": "this is a lighter fluid, the one that I usually use is a lot thicker. it is very runny"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "I didn't have any issues with it on my skin"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "I wasn't a fan that it said like the other product I used is a five-star rating for UVA and UVB protection, so you know your skin is completely protected from the sun, there's nothing on it anywhere to say if it's like a five-star rating, which is what you want from all your SPFs"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "I've probably used this again but I wouldn't rush out and buy it, it was nice, it was okay"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "KGaoOMAUNFQ",
+        "influencer": "Scottish Beauty and Spa Guide",
+        "upload_date": "20250901",
+        "creator_location": "Unknown"
     }
 ]
