@@ -105,7 +105,10 @@ export default function SearchHub() {
       {/* Global Market Pulse Cards */}
       {!selectedBrand && (
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4 w-full max-w-4xl mb-12 animate-in fade-in duration-500">
-          <div className="bg-slate-900/50 border border-slate-800 p-5 rounded-xl flex items-center gap-4">
+          <button 
+            onClick={() => router.push('/trends')}
+            className="text-left bg-slate-900/50 border border-slate-800 hover:border-emerald-500 hover:bg-slate-800/50 transition-colors p-5 rounded-xl flex items-center gap-4 cursor-pointer"
+          >
             <div className="p-3 bg-emerald-500/10 rounded-lg">
               <TrendingUp className="text-emerald-400" size={24} />
             </div>
@@ -118,9 +121,12 @@ export default function SearchHub() {
                 </span>
               </p>
             </div>
-          </div>
+          </button>
 
-          <div className="bg-slate-900/50 border border-slate-800 p-5 rounded-xl flex items-center gap-4">
+          <button 
+            onClick={() => router.push('/trends')}
+            className="text-left bg-slate-900/50 border border-slate-800 hover:border-rose-500 hover:bg-slate-800/50 transition-colors p-5 rounded-xl flex items-center gap-4 cursor-pointer"
+          >
             <div className="p-3 bg-rose-500/10 rounded-lg">
               <TrendingDown className="text-rose-400" size={24} />
             </div>
@@ -133,9 +139,12 @@ export default function SearchHub() {
                 </span>
               </p>
             </div>
-          </div>
+          </button>
 
-          <div className="bg-slate-900/50 border border-slate-800 p-5 rounded-xl flex items-center gap-4">
+          <button 
+            onClick={() => router.push(`/trends?brand=${encodeURIComponent(globalPulse.mostDiscussed.name)}`)}
+            className="text-left bg-slate-900/50 border border-slate-800 hover:border-sky-500 hover:bg-slate-800/50 transition-colors p-5 rounded-xl flex items-center gap-4 cursor-pointer"
+          >
             <div className="p-3 bg-sky-500/10 rounded-lg">
               <Flame className="text-sky-400" size={24} />
             </div>
@@ -145,7 +154,7 @@ export default function SearchHub() {
                 <span className="font-bold text-white">{globalPulse.mostDiscussed.name}</span> leads conversation volume
               </p>
             </div>
-          </div>
+          </button>
         </div>
       )}
 
