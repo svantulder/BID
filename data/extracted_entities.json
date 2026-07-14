@@ -22153,7 +22153,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "L'Or\u00e9al Paris",
+        "brand_name": "L'Or\u00e9al",
         "product_name": "Infallible Skin Ink 2-in-1 Foundation + Concealer",
         "specific_variant": "Shade 15",
         "product_category": "Face Makeup",
@@ -22197,7 +22197,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "L'Or\u00e9al Paris",
+        "brand_name": "L'Or\u00e9al",
         "product_name": "Revitalift Serum",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -22247,7 +22247,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "L'Oreal",
+        "brand_name": "L'Or\u00e9al",
         "product_name": "Revitalift Triple Power Tri Peptides Serum",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -22294,7 +22294,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "L'Or\u00e9al Paris",
+        "brand_name": "L'Or\u00e9al",
         "product_name": "Revitalift Triple Power Serum",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -22328,7 +22328,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "L'Or\u00e9al Paris",
+        "brand_name": "L'Or\u00e9al",
         "product_name": "Revitalift Triple Power Day Cream",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -22362,7 +22362,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "L'Or\u00e9al Paris",
+        "brand_name": "L'Or\u00e9al",
         "product_name": "Revitalift Laser Serum",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -22400,7 +22400,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "L'Or\u00e9al Paris",
+        "brand_name": "L'Or\u00e9al",
         "product_name": "Revitalift Advanced Firming Facial Cream",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -22438,7 +22438,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "L'Or\u00e9al Paris",
+        "brand_name": "L'Or\u00e9al",
         "product_name": "Revitalift Laser Anti-Ageing Day Cream",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -22485,7 +22485,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "L'Or\u00e9al Paris",
+        "brand_name": "L'Or\u00e9al",
         "product_name": "Revitalift Clinical 12% Pure Vitamin C Serum",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -22909,7 +22909,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "Ma:nyo",
+        "brand_name": "Ma:Nyo",
         "product_name": "Pure Cleansing Water",
         "specific_variant": "Sensitive",
         "product_category": "Skincare",
@@ -23333,7 +23333,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "CeraVe",
+        "brand_name": "Cerave",
         "product_name": "Moisturizing Cream",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -23367,7 +23367,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "CeraVe",
+        "brand_name": "Cerave",
         "product_name": "Hydrating Cleanser",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -23406,7 +23406,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "CeraVe",
+        "brand_name": "Cerave",
         "product_name": "Sunscreen",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -23440,7 +23440,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "CeraVe",
+        "brand_name": "Cerave",
         "product_name": "Toner",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -23474,7 +23474,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "CeraVe",
+        "brand_name": "Cerave",
         "product_name": "Hydrating Cleanser",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -23576,7 +23576,7 @@
         "creator_location": "Unknown"
     },
     {
-        "brand_name": "CeraVe",
+        "brand_name": "Cerave",
         "product_name": "Makeup Removing Cleanser Balm",
         "specific_variant": null,
         "product_category": "Skincare",
@@ -23667,6 +23667,1547 @@
         "video_id": "KGaoOMAUNFQ",
         "influencer": "Scottish Beauty and Spa Guide",
         "upload_date": "20250901",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "PM Facial Moisturizing Lotion",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Moisturizer",
+        "active_ingredients": [
+            "Niacinamide",
+            "Ceramides",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hydrates, repairs, and is gentle for sensitive skin.",
+        "anchor_quote": "Both are lightweight, fragrance free and perfect for sensitive skin like mine.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Both are lightweight, fragrance free and perfect for sensitive skin like mine. No greasy feeling, just pure hydration and results you'll see."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "repair and hydrature skin overnight."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 2,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "_TGjf4c3Aac",
+        "influencer": "WandeReview Vlogs",
+        "upload_date": "20250717",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Skin Renewing Retinol Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Serum",
+        "active_ingredients": [
+            "Retinol",
+            "Ceramides",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Reduces fine lines, improves texture, and gives a glow.",
+        "anchor_quote": "And this one my favorite, the Skin renewing redinal serum. It helps reduce the fine lights and improves skin texture and gives that fresh, beautiful glow over time.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Both are lightweight, fragrance free and perfect for sensitive skin like mine. No greasy feeling, just pure hydration and results you'll see."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "It helps reduce the fine lights and improves skin texture and gives that fresh, beautiful glow over time."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 2,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "_TGjf4c3Aac",
+        "influencer": "WandeReview Vlogs",
+        "upload_date": "20250717",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "AM Facial Moisturizing Lotion w/SPF 50",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer with SPF",
+        "active_ingredients": [
+            "Ceramides",
+            "Niacinamide",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "SPF 50 moisturizer applies well, feels light, white cast disappears.",
+        "anchor_quote": "It went on nicely. It doesn't feel heavy on my skin. ...the white cast seems to have disappeared. My skin looks pretty normal now.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It went on nicely."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It doesn't feel heavy on my skin."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 5,
+                "context_quote": "I do feel like I have a light White cast on my face... Just a little note the white cast seems to have Disappeared. My skin looks pretty normal now."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "PkN8Xido5lU",
+        "influencer": "Leah, A Relaxed Gal",
+        "upload_date": "20250715",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Superstay Matte Ink Lipstick",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product shown, but no review details provided.",
+        "anchor_quote": "Oh",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 70,
+        "video_id": "gczBF3xrl3Y",
+        "influencer": "Chizzy B Tutorial ",
+        "upload_date": "20250323",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Superstay Matte Ink Lipstick",
+        "specific_variant": "Charmer",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Long-lasting, comfortable matte lipstick that doesn't budge.",
+        "anchor_quote": "Like day before yesterday I wore it all day long and it did not budge even a bit.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "Like day before yesterday I wore it all day long and it did not budge even a bit."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "When I posted this story, I got so many questions asking how does a matte lipstick not feel uncomfortable?"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "it has got this beautiful makeover that I absolutely love."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 10,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "tdsLPe4E37A",
+        "influencer": "Shruti Bakshi",
+        "upload_date": "20250907",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Superstay Vinyl Ink",
+        "specific_variant": "Peppy, Punch, Keen",
+        "product_category": "Lipstick",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Maybelline Superstay Vinyl Ink is sticky and doesn't dry.",
+        "anchor_quote": "My lips feel extremely sticky although applied a very thin coat. I really had high hopes on that. I'm a truly shattered and disappointed.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It's on very easily and super comfortable while applying."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "I like the shade better for my skin tone. Doesn't flush me out and very natural nude for me."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -9,
+                "context_quote": "Not at all trans-approved on my lips."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -10,
+                "context_quote": "My lips feel extremely sticky although applied a very thin coat."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "EVtZE7qrMQU",
+        "influencer": "Anusha Dileep",
+        "upload_date": "20241021",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Serum Lipstick",
+        "specific_variant": "Shade 104",
+        "product_category": "Lipstick",
+        "sub_category": "Satin Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good pigmentation and color, but poor longevity.",
+        "anchor_quote": "The pigmentation on these are absolutely amazing. However, the aid or hydration claim does not stand true because the lipstick itself will not survive for eight hours. This is definitely not a transfer proof formula",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 3,
+                "context_quote": "They come in pretty decent plastic packaging."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "It's a beautiful bold maroon color perfect for Indian skin tones."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Brand claims that it's a one swipe formula. The pigmentation on these are absolutely amazing."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -7,
+                "context_quote": "the lipstick itself will not survive for eight hours. This is definitely not a transfer proof formula"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "it definitely feels and looks absolutely stunning."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "Finally word for 599 rupees. I think they are good high quality lipsticks"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "DMVIH3G3KeY",
+        "influencer": "Chetali Chadha",
+        "upload_date": "20260220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Serum Lipstick",
+        "specific_variant": "Shade 008",
+        "product_category": "Lipstick",
+        "sub_category": "Matte Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Comfortable demi-matte with good color, but requires reapplication.",
+        "anchor_quote": "It feels very comfortable on the lips. The color payoff is amazing. However, this is not a super matte lipstick. It's a demi matte finish. That's why it feels very comfortable on the lips but you will have to reapply it. The moment you eat something it transfers very easily as well.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 3,
+                "context_quote": "They come in pretty decent plastic packaging."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "This is going to be a perfect brown nude for fair to medium skin tone even if you're a deeper skin tone you are going to enjoy this color a lot."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It is definitely a one swipe formula."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It feels very comfortable on the lips. It's a demi matte finish. That's why it feels very comfortable on the lips"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -7,
+                "context_quote": "you will have to reapply it. The moment you eat something it transfers very easily as well."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "Finally word for 599 rupees. I think they are good high quality lipsticks"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Color Sensational Lipstick",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "DMVIH3G3KeY",
+        "influencer": "Chetali Chadha",
+        "upload_date": "20260220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Color Sensational Lipstick",
+        "specific_variant": null,
+        "product_category": "Lipstick",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "New serum lipsticks are similar to OG Color Sensational.",
+        "anchor_quote": "They do however remind me a lot of the Maybelline's OG color sensational lipstick.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 79,
+        "visual_timestamp_seconds": 78,
+        "confidence_score": 90,
+        "video_id": "DMVIH3G3KeY",
+        "influencer": "Chetali Chadha",
+        "upload_date": "20260220",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "SuperStay Vinyl Ink Liquid Lipstick",
+        "specific_variant": "Lippy",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Maybelline Vinyl Ink performs well with proper application.",
+        "anchor_quote": "Once it's completely dry, you can blot the excesses out and see it's not sticky.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Once it's completely dry, you can blot the excesses out and see it's not sticky."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "It's very pigmented."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "How letting the formula set undisturbed is crucial for its longevity and non-tacky finish."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Apply only one layer first. Keep a gap between the lips. Don't smack them together and let it dry."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "FhPToxkbB_w",
+        "influencer": "Prunela",
+        "upload_date": "20250711",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Superstay Vinyl Ink Lipstick",
+        "specific_variant": "Cheeky",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Perfect long-lasting nude shade that wears all day.",
+        "anchor_quote": "Yeah, the reason I love these so much is that they last so well. They literally last me all day.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Oh yes, that is a really nice colour. That's kind of like the perfect nude. It's a really nice pinky nude and yeah, as I say almost identical, well maybe a little bit darker than my natural lip colour, but that is stunning."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "Yeah, the reason I love these so much is that they last so well. They literally last me all day. I could put it on in the morning and it will still be on by like mid afternoon."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "Nq4FaG7VqoE",
+        "influencer": "Clare Walch",
+        "upload_date": "20231201",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Flex Powder Foundation",
+        "specific_variant": "Shade 120",
+        "product_category": "Makeup",
+        "sub_category": "Powder Foundation",
+        "active_ingredients": [
+            "Squalane",
+            "Tocopherol",
+            "Sodium Hyaluronate",
+            "Titanium Dioxide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent, non-cakey powder foundation with smooth application.",
+        "anchor_quote": "And honestly I am super impressed.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "Packaging is super super cute I really like it. So now the packaging is exactly like how a girl would want it."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "And this retail is for 799 rupees so I would say pretty affordable."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "That was like a super smooth application. It does my base in like two minutes."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 10,
+                "context_quote": "I think the shade is the perfect match."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "It doesn't even feel I have a powder foundation on it. It feels like I've used like a normal good foundation because my skin looks like satiny soft buttery smooth on this side. no matter how much I layer it, it still has a very beautiful coverage and it's not looking cakey at all."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Unknown",
+                "competitor_product": "BB cream",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "7xRD-sTMDpQ",
+        "influencer": "Shanice Shrestha Vlogs",
+        "upload_date": "20251016",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Color Riche Satin Lipstick",
+        "specific_variant": "570 Worth It Intense",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "The lipstick delivers a desirable 90s berry-toned color.",
+        "anchor_quote": "My final word is I think a good extent it does, just as to how the swatch looks online. I wouldn't see a chocolatey brown but it has that slight bit of berry undertone. It's giving the 90s.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 0,
+                "context_quote": "My final word is I think a good extent it does, just as to how the swatch looks online. I wouldn't see a chocolatey brown but it has that slight bit of berry undertone."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "9DkyYqTMcdo",
+        "influencer": "Rhea Karki",
+        "upload_date": "20250223",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Paradise Big Deal Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers wispy, defined, voluminous lashes without clumps.",
+        "anchor_quote": "Really nice wispy defined lashes.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Really nice wispy defined lashes. while keeping the definition while keeping the length without being clumpy."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I'm going to go in now. I'm going to build that second coat and we're going to see what happens."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "Rx3IyMxvlgg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Mentioned as a related product.",
+        "anchor_quote": "L'Oreal Telescopic Mascara",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "Rx3IyMxvlgg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Live Tinted",
+        "product_name": "Legacy Lash Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Mentioned as a related product.",
+        "anchor_quote": "Live Tinted Legacy Lash Mascara",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "Rx3IyMxvlgg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": "Sparkle",
+        "product_category": "Makeup",
+        "sub_category": "Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Mentioned as a related product.",
+        "anchor_quote": "Armani Liquid eyeshadow - Sparkle",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "Rx3IyMxvlgg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Mentioned as a related product.",
+        "anchor_quote": "Dior Lip Oil - Pink Lilac",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "Rx3IyMxvlgg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nail Care",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Mentioned as a related product.",
+        "anchor_quote": "Londontown Kur Illuminating Nail Concealer - Bare",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "Rx3IyMxvlgg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Younique",
+        "product_name": "Collagen",
+        "specific_variant": null,
+        "product_category": "Supplements",
+        "sub_category": "Collagen Supplement",
+        "active_ingredients": [
+            "Collagen"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Mentioned as a related product.",
+        "anchor_quote": "Younique Collagen",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "Rx3IyMxvlgg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Paradise Big Deal Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "Castor Oil",
+            "Flower Oil Blend",
+            "Soft Flex Polymers"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Mascara nourishes, applies smoothly, lifts, and holds lashes.",
+        "anchor_quote": "This is going to allow that mascara to really glide on really, really smoothly. Just give you that silky glide over the lashes. It also has soft flex polymers. So what that's going to do, it's going to help lift and hold the curl without weighing down your lashes.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "This is going to allow that mascara to really glide on really, really smoothly. Just give you that silky glide over the lashes."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "it's going to help lift and hold the curl without weighing down your lashes."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "without weighing down your lashes."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "tjXtZbKveso",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in the caption.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "tjXtZbKveso",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Live Tinted",
+        "product_name": "Legacy Lash Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in the caption.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "tjXtZbKveso",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": "Sparkle",
+        "product_category": "Makeup",
+        "sub_category": "Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in the caption.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "tjXtZbKveso",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in the caption.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "tjXtZbKveso",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nails",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product mentioned in the caption.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "tjXtZbKveso",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260127",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Paradise Big Deal Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers clean, wispy, non-clumpy, fluttery volume.",
+        "anchor_quote": "If you're wanting just like a really clean, wispy, not clumpy mascara, I think this is going to be a really solid option for you.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "it does say that this brush is designed to grab every single lash"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "It is a buildable formula that's not supposed to have any kind of flaking."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "And it's supposed to wear all day long."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "If you're wanting just like a really clean, wispy, not clumpy mascara, I think this is going to be a really solid option for you."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "And it's supposed to wear all day long."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "1GhaNXXBqZo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 50,
+        "video_id": "1GhaNXXBqZo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Live Tinted",
+        "product_name": "Legacy Lash Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 50,
+        "video_id": "1GhaNXXBqZo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": "Sparkle",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 50,
+        "video_id": "1GhaNXXBqZo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 50,
+        "video_id": "1GhaNXXBqZo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nail Care",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 50,
+        "video_id": "1GhaNXXBqZo",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260130",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Delivers impressive length and definition, but packaging is tricky.",
+        "anchor_quote": "I was impressed with how the wand grabbed every single lash. I got nice long wispy lashes. It gave a noticeable curl and definitely lived up to its lash defining claim. ... I found it kind of tricky to figure out which side was which",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "the application was actually pretty smooth."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": -5,
+                "context_quote": "I found it kind of tricky to figure out which side was which"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Anastasia Beverly Hills",
+                "competitor_product": "Lash Sculpt Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "RK15UCDaJUg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250905",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Anastasia Beverly Hills",
+        "product_name": "Lash Sculpt Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Stunning, high-end packaging and beautifully defined lashes.",
+        "anchor_quote": "I love the packaging. It's stunning. It feels high end. Application wise, it gave me beautifully defined lashes. Every single lash was captured.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Application wise, it gave me beautifully defined lashes. Every single lash was captured."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 9,
+                "context_quote": "I love the packaging. It's stunning. It feels high end."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Telescopic Mascara",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 40,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "RK15UCDaJUg",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250905",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Paradise Big Deal Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [
+            "Self-Smoothing Complex"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Mature"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Mascara delivers lightweight, non-clumping length and volume with a natural fanned-out effect.",
+        "anchor_quote": "I love this mascara. It gives length, it gives volume, it's a very lightweight formula so it's not going to feel or look heavy on the lashes.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I always like to start at the base of the lashes wiggle back and forth so I get as much product off of the wand and onto the lashes and then I will pull up. It builds the lashes so fast, it's beautiful"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It's a very lightweight formula so it's not going to feel or look heavy on the lashes. It's non-clumping and it has this new self-smoothing complex that just gives a very lightweight look and smooth look to the lashes."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "I love the wand, it's designed to really coat and cover each lash"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "qqwiQaYAGgo",
+        "influencer": "L'Or\u00e9al Paris USA",
+        "upload_date": "20251018",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Lash Paradise",
+        "specific_variant": null,
+        "product_category": "Mascara",
+        "sub_category": "Volume Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides significant volume and thickness to lashes.",
+        "anchor_quote": "En cambio, la l\u00e2x paradas de toda la vida s\u00ed queda mucha volumen. Miren la diferencia del grosor de las pesta\u00f1as de un lado y del otro.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "s\u00ed queda mucha volumen. Miren la diferencia del grosor de las pesta\u00f1as de un lado y del otro."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Paradise Big Deal",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "vVySUX9cArs",
+        "influencer": "Lali Crespo | Makeup Reviews ",
+        "upload_date": "20251227",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Paradise Big Deal",
+        "specific_variant": null,
+        "product_category": "Mascara",
+        "sub_category": "Lengthening Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Separates and lengthens lashes effectively.",
+        "anchor_quote": "en la pr\u00e1ctica notec que me sirvi\u00f3 mucho para peinar las pesta\u00f1as que queden bien separadas y alargarla.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "me sirvi\u00f3 mucho para peinar las pesta\u00f1as que queden bien separadas y alargarla."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "me sirvi\u00f3 mucho para peinar las pesta\u00f1as que queden bien separadas"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Lash Paradise",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "vVySUX9cArs",
+        "influencer": "Lali Crespo | Makeup Reviews ",
+        "upload_date": "20251227",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Lift Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Mascara clumps lashes, difficult to apply, but wears well.",
+        "anchor_quote": "it turned into clump my lashes together.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -7,
+                "context_quote": "the wand is very oddly shaped, and even after trying it all month, I didn't really find a way to make it work for me."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -8,
+                "context_quote": "since it applies way too much product at once, it turned into clump my lashes together."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 6,
+                "context_quote": "One good thing about it is that it did wear fairly well."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "At this price point there are many other mascaras I prefer, so I won't be buying this one again."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Telescopic Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "58c39yzMMrM",
+        "influencer": "Shanrell\u2019s Stash",
+        "upload_date": "20250723",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Layering is difficult, and removal is a hassle.",
+        "anchor_quote": "L'Oreal Telescopic is fine but it's not great for layering plus there's the removal process that I find a hassle.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "not great for layering"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Lash Sensational Sky High Mascara",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 95,
+        "video_id": "pkq1Wa5G4hw",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250720",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Sky High Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers length, volume, curl, easy to build and remove.",
+        "anchor_quote": "But the Mabeline Sky High Mascarra, it's a total win you all, it gives length, volume, curl, it is easy to build and best of all, it's easy to take off.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "it is easy to build"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "L'Oreal",
+                "competitor_product": "Telescopic Mascara",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "pkq1Wa5G4hw",
+        "influencer": "Katie Hoke",
+        "upload_date": "20250720",
         "creator_location": "Unknown"
     }
 ]
