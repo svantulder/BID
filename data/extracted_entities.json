@@ -25209,5 +25209,2836 @@
         "influencer": "Katie Hoke",
         "upload_date": "20250720",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Lipstick",
+        "specific_variant": "127 PARIS,NY",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Demonstrates various shades of L'Oreal Colour Riche Lipsticks",
+        "anchor_quote": "Using the back",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "IdwiMqWbLyw",
+        "influencer": "Erika Tesla",
+        "upload_date": "20260326",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Lipstick",
+        "specific_variant": "135 BALLERINA SHOES",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Demonstrates various shades of L'Oreal Colour Riche Lipsticks",
+        "anchor_quote": "Using the back",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "IdwiMqWbLyw",
+        "influencer": "Erika Tesla",
+        "upload_date": "20260326",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Lipstick",
+        "specific_variant": "185 MISS MAGENTA",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Demonstrates various shades of L'Oreal Colour Riche Lipsticks",
+        "anchor_quote": "Using the back",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "IdwiMqWbLyw",
+        "influencer": "Erika Tesla",
+        "upload_date": "20260326",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Lipstick",
+        "specific_variant": "444 TROPICAL CORAL",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Demonstrates various shades of L'Oreal Colour Riche Lipsticks",
+        "anchor_quote": "Using the back",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "IdwiMqWbLyw",
+        "influencer": "Erika Tesla",
+        "upload_date": "20260326",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Lipstick",
+        "specific_variant": "590 BLUSHING BERRY",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Demonstrates various shades of L'Oreal Colour Riche Lipsticks",
+        "anchor_quote": "Using the back",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 95,
+        "video_id": "IdwiMqWbLyw",
+        "influencer": "Erika Tesla",
+        "upload_date": "20260326",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Lipstick",
+        "specific_variant": "601 WORTH IT",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Demonstrates various shades of L'Oreal Colour Riche Lipsticks",
+        "anchor_quote": "Using the back",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 95,
+        "video_id": "IdwiMqWbLyw",
+        "influencer": "Erika Tesla",
+        "upload_date": "20260326",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Lipstick",
+        "specific_variant": "760 SILVERSTONE",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Demonstrates various shades of L'Oreal Colour Riche Lipsticks",
+        "anchor_quote": "Using the back",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 95,
+        "video_id": "IdwiMqWbLyw",
+        "influencer": "Erika Tesla",
+        "upload_date": "20260326",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Lipstick",
+        "specific_variant": "124 S'IL VOUS PLAIT",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Demonstrates various shades of L'Oreal Colour Riche Lipsticks",
+        "anchor_quote": "Using the back",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 95,
+        "video_id": "IdwiMqWbLyw",
+        "influencer": "Erika Tesla",
+        "upload_date": "20260326",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel London",
+        "product_name": "Wonder Volume Thrill Seeker Mascara",
+        "specific_variant": "Pitch Black",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Mascara demonstrated visually in promotional content.",
+        "anchor_quote": "Are you ready for it?",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 90,
+        "video_id": "MiKSCjrTkos",
+        "influencer": "ZoeyGlitter \u2661",
+        "upload_date": "20230824",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Color Riche Satin Lipstick",
+        "specific_variant": "540 Nu Unstoppable",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hydrating, creamy satin lipstick with good pigmentation.",
+        "anchor_quote": "It's really really hydrating guys. It's like a balm. It doesn't even feel like I have applied a lipstick. It's truly like a balm",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 5,
+                "context_quote": "I really like the packaging. The only issue is that after peeling this sticker like this one, it really gets messy."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Oh, that was one swipe pigmentation."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It's definitely very creamy. It's really really hydrating guys. It's like a balm. It doesn't even feel like I have applied a lipstick. It's truly like a balm"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "It's a neutral nude brown warm tone shade. It's your basic everyday nude shade with slight bit of orange tone to it. It's not very orangey but it's kind of really nice."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "It's a satin formula so it's not gonna be transfer proof but I still want to test it. It's not coming off totally like it's coming out in layers. I'm more think with the lipstick. I tried to remove it off without a micellar water and the tint is still there."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "jjcM8jCvA-4",
+        "influencer": "Shradha Mall",
+        "upload_date": "20260106",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Color Riche Satin Lipstick",
+        "specific_variant": "570 Worth It Intense",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gorgeous deep rich brown shade, suitable for everyday and glam looks.",
+        "anchor_quote": "Oh my god. I'm in love with the shade. This is the deep rich brown shade. It has those early undertones.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 5,
+                "context_quote": "I really like the packaging. The only issue is that after peeling this sticker like this one, it really gets messy."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Oh, that was one swipe pigmentation."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It's definitely very creamy. It's really really hydrating guys. It's like a balm. It doesn't even feel like I have applied a lipstick. It's truly like a balm"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "Oh my god. I'm in love with the shade. This is the deep rich brown shade. It has those early undertones. I think this would go with your everyday and your glam looks as well"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": "It's a satin formula so it's not gonna be transfer proof but I still want to test it. It's not coming off totally like it's coming out in layers. I'm more think with the lipstick. I tried to remove it off without a micellar water and the tint is still there."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 121,
+        "visual_timestamp_seconds": 120,
+        "confidence_score": 95,
+        "video_id": "jjcM8jCvA-4",
+        "influencer": "Shradha Mall",
+        "upload_date": "20260106",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel London",
+        "product_name": "Wonder Extension Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good for length and separation, but watery consistency.",
+        "anchor_quote": "I love how the Rimmel London Wonder Extension mascara separated and lengthened my lashes. However, it has a watery consistency, so I strongly recommend wiping off the excess product from the mascara one onto the mascara bottle before applying.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "However, it has a watery consistency, so I strongly recommend wiping off the excess product from the mascara one onto the mascara bottle before applying. Just so it doesn't smudge on your eyes or make your lashes clumpy."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "However, it has a watery consistency"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "wpIOuBwPTTI",
+        "influencer": "The Sassy Way",
+        "upload_date": "20211019",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel London",
+        "product_name": "Oh My Plump Lipliners",
+        "specific_variant": "Rich Cacao",
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "New Rimmel lip liner is creamy, long-lasting, and a great 90s cool-toned shade.",
+        "anchor_quote": "Remold. You might be competing. One of my favourite lip liners with a new lip liner that you guys are coming out with.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It meant to be super creamy"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "They're meant to be smudge proof and all of this"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "This is the most me lip liner where it's sort of like that 90s vibe."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Let me just go in and add some of that"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Rimmel London",
+                "competitor_product": "Cappuccino Lip Liner",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "eE2KxnK3xlE",
+        "influencer": "Zoe Ilana Hill",
+        "upload_date": "20260115",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel London",
+        "product_name": "Cappuccino Lip Liner",
+        "specific_variant": "Cappuccino",
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A long-standing favorite lip liner used as a benchmark for comparison.",
+        "anchor_quote": "I love my cappuccino lip liner from Rimmel.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "the texture is different"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "This is what my cappuccino lip liner looks like."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 90,
+        "video_id": "eE2KxnK3xlE",
+        "influencer": "Zoe Ilana Hill",
+        "upload_date": "20260115",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Gisou",
+        "product_name": "Lip Oil",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creates a gorgeous lip combo when paired with the Rimmel lip liner.",
+        "anchor_quote": "I'm just going to go in and do my GZ lip oil and look how gorgeous that lip combo is.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "look how gorgeous that lip combo is"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I'm just going to go in and do my GZ lip oil"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 69,
+        "visual_timestamp_seconds": 69,
+        "confidence_score": 90,
+        "video_id": "eE2KxnK3xlE",
+        "influencer": "Zoe Ilana Hill",
+        "upload_date": "20260115",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Bourjois",
+        "product_name": "Macaron Melt Lip & Cheek Blush",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Lip & Cheek Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Bourjois Macaron Melt blushes are magnificent, easy to use, and long-lasting.",
+        "anchor_quote": "ils sont juste magnifiques personne en parle alors qu'ils sont canon",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "facilit\u00e9 de travail de ces petits blushes l\u00e0 m\u00eame si tu as la progressie sont tellement facile \u00e0 travailler"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "vont tenir toute la journ\u00e9e Il va absolument pas bouger. Ils vont pas du tout regresser"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "une apparence de blush cr\u00e8me une fois que tu vas l'utiliser il va avoir une finition de poudre et la... aucun finigrat"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "la tente est tellement pop tellement cute"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "Prendre les uniquement sur le site de notre tino l\u00e0 basse et manger et elle a toujours des cotres mo. Pas sponsoris\u00e9e c'est juste du bon plan de nos pigeons mais la tente est tellement pop tellement cute et vraiment aucun finigrat. Il est tellement joli je vous les conseille \u00e0 fond pour qu'un personne en parle alors qu'ils sont juste des bangers de ouf et en plus de cet am\u00e9ros et un joli pas cadet une bien robuste. La ta d'autre marque qui vont te taxer \u00e7a 40 euros"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "un joli pas cadet une bien robuste"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "MV6cvIWEyj8",
+        "influencer": "Magic Cosmetics",
+        "upload_date": "20260125",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Bourjois",
+        "product_name": "Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Introducing a new Bourjois mascara with a twist mechanism.",
+        "anchor_quote": "I'm excited to try because this one's got a twist mechanism.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "UBFGiQmJZjc",
+        "influencer": "Black Heart Beauty 14",
+        "upload_date": "20231107",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Bourjois",
+        "product_name": "Liquid Eyeliner",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Liquid Eyeliner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Introducing a Bourjois liquid eyeliner, possibly a re-release.",
+        "anchor_quote": "I think the liquid eyeliner and brow pencil, I think they brought these out for absolutely years",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "UBFGiQmJZjc",
+        "influencer": "Black Heart Beauty 14",
+        "upload_date": "20231107",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Bourjois",
+        "product_name": "Eyeshadow Palette",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Eyeshadow Palette",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Introducing a new Bourjois eyeshadow palette.",
+        "anchor_quote": "This eyeshadow palette, I've never seen it before, so I think this is new by them.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "UBFGiQmJZjc",
+        "influencer": "Black Heart Beauty 14",
+        "upload_date": "20231107",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Bourjois",
+        "product_name": "Eyebrow Pencil",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Eyebrow Pencil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Introducing a Bourjois eyebrow pencil, possibly a re-release.",
+        "anchor_quote": "I think the liquid eyeliner and brow pencil, I think they brought these out for absolutely years",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "UBFGiQmJZjc",
+        "influencer": "Black Heart Beauty 14",
+        "upload_date": "20231107",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Glazing Milk",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Serum/Treatment",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Foundation hack provides a skin tint finish.",
+        "anchor_quote": "The finish is giving skin tint",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "I'm giving that a good mix on a foundation brush"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "The finish is giving skin tint"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "Q-EBai_X84o",
+        "influencer": "Jenny Moon",
+        "upload_date": "20250506",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Blush",
+        "specific_variant": "Piggy",
+        "product_category": "Face Makeup",
+        "sub_category": "Cream Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "The blush is soft, adorable, and cute.",
+        "anchor_quote": "It's totally soft",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's totally soft"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "This is a shade Piggy"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 9,
+                "context_quote": "the name Piggy is just so adorable"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 30,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 98,
+        "video_id": "Q-EBai_X84o",
+        "influencer": "Jenny Moon",
+        "upload_date": "20250506",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Lip Liner",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Blendable and natural, but too shiny and moisturizing.",
+        "anchor_quote": "The liner is very natural and also very blendable",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "The liner is very natural and also very blendable"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "Kind of wish it was less shiny and less moisturizing"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "It's actually so cute though"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 42,
+        "visual_timestamp_seconds": 45,
+        "confidence_score": 97,
+        "video_id": "Q-EBai_X84o",
+        "influencer": "Jenny Moon",
+        "upload_date": "20250506",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Colored Lip Treatment",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Balm/Treatment",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Less sticky than original, but color payoff is disappointing; still the most worth it.",
+        "anchor_quote": "It actually feels less sticky",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It actually feels less sticky"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "But the color payoff though? Hmm. Not no."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "No doubt this is the most worth it"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Rhode",
+                "competitor_product": "Original Rhode Lip Balms",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 64,
+        "visual_timestamp_seconds": 63,
+        "confidence_score": 96,
+        "video_id": "Q-EBai_X84o",
+        "influencer": "Jenny Moon",
+        "upload_date": "20250506",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Treatment",
+        "specific_variant": null,
+        "product_category": "Lip Care",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [
+            "Peptides",
+            "Ceramides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "A favorite hydrating lip treatment.",
+        "anchor_quote": "My top two favorite products, Peptide Lipton, and it comes in all sorts of shades. This one's one of my favorites",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "This one's one of my favorites"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "if I have to be honest, this is not like anything like life-changing, okay?"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 54,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "L4wdgvvd0hM",
+        "influencer": "Wendyskin",
+        "upload_date": "20250717",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Glazing Fluid",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Peptides",
+            "Ceramides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hydrating fluid, a popular skincare routine starter.",
+        "anchor_quote": "My top two favorite products... and also the Peptide Glazing Fluid. Every it girl uses this to start with skincare routine. It's very hydrating.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's very hydrating."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Every it girl uses this to start with skincare routine."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "if I have to be honest, this is not like anything like life-changing, okay?"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 59,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "L4wdgvvd0hM",
+        "influencer": "Wendyskin",
+        "upload_date": "20250717",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Tint",
+        "specific_variant": null,
+        "product_category": "Lip Care",
+        "sub_category": "Lip Tint",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Rhode's marketing strategy is highly effective and genius.",
+        "anchor_quote": "Hailey Bieber is a marketing genius queen\ud83d\udc85\ud83c\udffc\ud83e\udd0f\ud83c\udffc",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "O2nDBZUAWp0",
+        "influencer": "Yunam",
+        "upload_date": "20260620",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Mini Kit",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Kit/Set",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Great starter kit for Hailey Bieber's skincare line.",
+        "anchor_quote": "This is a great starter kit.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "FKdJb7QXUZE",
+        "influencer": "Ashley Hawat",
+        "upload_date": "20251122",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Pineapple Refresh Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Cleanser leaves skin feeling soft.",
+        "anchor_quote": "the pineapple refresh cleanser which leaves my skin so soft",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "leaves my skin so soft"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 10,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "FKdJb7QXUZE",
+        "influencer": "Ashley Hawat",
+        "upload_date": "20251122",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Glazing Milk",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Toner/Essence",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Leaves skin feeling refreshed.",
+        "anchor_quote": "It leaves my skin feeling so refreshed",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It leaves my skin feeling so refreshed"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 14,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "FKdJb7QXUZE",
+        "influencer": "Ashley Hawat",
+        "upload_date": "20251122",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Glazing Fluid",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hydrating, dewy layer for dry skin.",
+        "anchor_quote": "It leaves a dewy hydrating layer",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It leaves a dewy hydrating layer"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 19,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 97,
+        "video_id": "FKdJb7QXUZE",
+        "influencer": "Ashley Hawat",
+        "upload_date": "20251122",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Barrier Restore Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Locks in moisture for hydration.",
+        "anchor_quote": "this cream really locks in all the moisture that I just applied",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "this cream really locks in all the moisture that I just applied"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 28,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 96,
+        "video_id": "FKdJb7QXUZE",
+        "influencer": "Ashley Hawat",
+        "upload_date": "20251122",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Lasting Finish Lip Liner",
+        "specific_variant": "Spice",
+        "product_category": "Lip Product",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used as a base for lip oil application.",
+        "anchor_quote": "Lined my lips with RIMMEL lasting finish lip liner in shade spice.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "pKX52OD7nJQ",
+        "influencer": "Ingrida G",
+        "upload_date": "20241003",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Oh My Gloss! Lip Oil",
+        "specific_variant": "Clear Cloud",
+        "product_category": "Lip Product",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Super nourishing, non-sticky, and amazing feeling lip oil.",
+        "anchor_quote": "I absolutely love these lip glosses, it\u2019s super nourishing, non sticky and it smells amazing too!",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "non sticky"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "super nourishing"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "pKX52OD7nJQ",
+        "influencer": "Ingrida G",
+        "upload_date": "20241003",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Oh My Gloss! Lip Oil",
+        "specific_variant": "Pink Flush",
+        "product_category": "Lip Product",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Super nourishing, non-sticky, and amazing feeling lip oil.",
+        "anchor_quote": "I absolutely love these lip glosses, it\u2019s super nourishing, non sticky and it smells amazing too!",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "non sticky"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "super nourishing"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "pKX52OD7nJQ",
+        "influencer": "Ingrida G",
+        "upload_date": "20241003",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Oh My Gloss! Lip Oil",
+        "specific_variant": "Berry Pink",
+        "product_category": "Lip Product",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Super nourishing, non-sticky, and amazing feeling lip oil.",
+        "anchor_quote": "I absolutely love these lip glosses, it\u2019s super nourishing, non sticky and it smells amazing too!",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "non sticky"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "super nourishing"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "pKX52OD7nJQ",
+        "influencer": "Ingrida G",
+        "upload_date": "20241003",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel",
+        "product_name": "Oh My Gloss! Lip Oil",
+        "specific_variant": "Vivid Red",
+        "product_category": "Lip Product",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Super nourishing, non-sticky, and amazing feeling lip oil.",
+        "anchor_quote": "I absolutely love these lip glosses, it\u2019s super nourishing, non sticky and it smells amazing too!",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "non sticky"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "super nourishing"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "pKX52OD7nJQ",
+        "influencer": "Ingrida G",
+        "upload_date": "20241003",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel London",
+        "product_name": "Oh My Gloss Lip Butters",
+        "specific_variant": "Red Velvet",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Butter",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hydrating, affordable, tinted lip butter is a favorite.",
+        "anchor_quote": "I have found my new favorite thing and it is Rimmel Lip Buttons.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "these lip buttons are so hydrating"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "they have the most beautiful tinted color ever."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "And they are so affordable which we all need"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Generic",
+                "competitor_product": "Lipstick",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "a53xMZMwJ6M",
+        "influencer": "Charley",
+        "upload_date": "20250212",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rimmel London",
+        "product_name": "Kind + Free Multisticks",
+        "specific_variant": "Pink Heat",
+        "product_category": "Makeup",
+        "sub_category": "Multistick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable, pigmented, blendable, and long-lasting cream blush.",
+        "anchor_quote": "Overall, I think this formula is so fantastic especially for the price",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "These however are quite pigmented from the jump, which is what I prefer in a cream blush since they just don\u2019t last as long on the skin as a powder formula. I also think this range is nice for only having four shades. There appears to be something for everyone. Pink Heat is definitely my favorite. I haven\u2019t heard anyone else talk about these, which is a shame! And I have applied this over powder on my face because I also feel like that helps it to last longer"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 6,
+                "context_quote": "They're pretty pigmented, which is what I prefer in a cream blush because it helps it to last longer"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "Overall, I think this formula is so fantastic especially for the price"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "this formula blended out so nicely over top powder"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "Pink Heat is definitely my favorite. I love that it's like a punchy cool tone pink"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "QyuXkRlmuHE",
+        "influencer": "TheGarsowTwins",
+        "upload_date": "20240524",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Bourjois",
+        "product_name": "Volume Glamour Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Mascara provides minimal lengthening and volumizing effect.",
+        "anchor_quote": "It feels very moisturizing, but it's not made them very lengthening or volumizing really to be honest.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "Oh, this is a wet formula, this is not a dry formula."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "it still feels a bit tacky, so it's not fully dry."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -3,
+                "context_quote": "Oh, this is a wet formula, this is not a dry formula."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "for a fiver that is just an extreme bargain for bourgeois."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "nWVyXOhKBnM",
+        "influencer": "Black Heart Beauty 14",
+        "upload_date": "20250515",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Satin Lipstick",
+        "specific_variant": "601 Worth it",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [
+            "Argan Oil",
+            "Vitamin E"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Pretty, hydrating pinky nude lipstick with a classic scent.",
+        "anchor_quote": "Okay, wait a minute this color is pretty And this is very hydrating and moisture either",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Oh, that's a nice pinky new type of color. Okay, wait a minute this color is pretty"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "And this is very hydrating and moisture either"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It's available in 52 creamy shades And is formulated to leave a vibrant color with a single swipe"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 29,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 95,
+        "video_id": "t1gOCSOabPM",
+        "influencer": "The Santa Maria",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Satin Lipstick",
+        "specific_variant": "635 Worth It Medium",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [
+            "Argan Oil",
+            "Vitamin E"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hydrating, moisturizing satin lipstick with an easy-to-wear pinky brown color.",
+        "anchor_quote": "Okay, this is truly a sad formula. Okay It's just good. Okay, I like that Very easy where I like that",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "Kind of more of a pinky brown to me"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Okay, this is truly a sad formula."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "Very easy where I like that. I don't have to wear liner with this one if I don't want to so this is what you call a Throw it in the purse and go color."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 60,
+        "visual_timestamp_seconds": 63,
+        "confidence_score": 95,
+        "video_id": "t1gOCSOabPM",
+        "influencer": "The Santa Maria",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Satin Lipstick",
+        "specific_variant": "590 Blushing Berry",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [
+            "Argan Oil",
+            "Vitamin E"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Moisturizing berry shade, buildable for a perfect winter look.",
+        "anchor_quote": "Ooh, she cute And I love how moisturizing this is I can't stress out enough you all see the sheen right?",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Oh, I like blushing berry Oh, this is perfect for right now. very much a berry shade. She's cute"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "And I love how moisturizing this is I can't stress out enough you all see the sheen right?"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "It has more of a sheer finish to me So I had to kind of build it up"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 95,
+        "visual_timestamp_seconds": 102,
+        "confidence_score": 95,
+        "video_id": "t1gOCSOabPM",
+        "influencer": "The Santa Maria",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Satin Lipstick",
+        "specific_variant": "570 Worth it Intense",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [
+            "Argan Oil",
+            "Vitamin E"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Cool-toned brown lipstick with good color payoff and sheen.",
+        "anchor_quote": "This one also has a nice little sheen to it as well, but the color is definitely there",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Ooh, that's more like a brownie color. Okay, I like that too. Let's see what it's giving What's a cool tone brown Okay, I like a cool tone look"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "This one also has a nice little sheen to it as well"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "but the color is definitely there So no issue there"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 139,
+        "visual_timestamp_seconds": 141,
+        "confidence_score": 95,
+        "video_id": "t1gOCSOabPM",
+        "influencer": "The Santa Maria",
+        "upload_date": "20260204",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Colour Riche Lipstick",
+        "specific_variant": "800 Fairest Nude",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Lip combo tutorial featuring this lipstick.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "qvQyE7ePKN0",
+        "influencer": "Julie Dawn Beauty",
+        "upload_date": "20260126",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Color Sensational Shaping Lip Liner",
+        "specific_variant": "104 Gone Griege",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Lip combo tutorial featuring this lip liner.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "qvQyE7ePKN0",
+        "influencer": "Julie Dawn Beauty",
+        "upload_date": "20260126",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Glazing Milk",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Achieves hydrated, glazed skin with an effortless glow.",
+        "anchor_quote": "fans are obsessed with the effortless Rhode glow",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "From hydrated glazed skin"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "effortless Rhode glow"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "FcuaiIJuIgc",
+        "influencer": "Dynamic Feed",
+        "upload_date": "20260512",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Pocket Blush",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Cream Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Creates a natural and wearable blush look.",
+        "anchor_quote": "natural blush",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "simple, fresh, and wearable"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "natural blush"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 90,
+        "video_id": "FcuaiIJuIgc",
+        "influencer": "Dynamic Feed",
+        "upload_date": "20260512",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Shape",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Achieves glossy, defined lips.",
+        "anchor_quote": "glossy lips",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "simple, fresh, and wearable"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "glossy lips"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 90,
+        "video_id": "FcuaiIJuIgc",
+        "influencer": "Dynamic Feed",
+        "upload_date": "20260512",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Unknown",
+        "product_name": "Concealer",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used as a base makeup essential.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 70,
+        "video_id": "FcuaiIJuIgc",
+        "influencer": "Dynamic Feed",
+        "upload_date": "20260512",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Unknown",
+        "product_name": "Brow Gel",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Brow Gel",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used for brow styling.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 70,
+        "video_id": "FcuaiIJuIgc",
+        "influencer": "Dynamic Feed",
+        "upload_date": "20260512",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Glazing Milk",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Facial Essence",
+        "active_ingredients": [
+            "Coconut Alkanes"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Glazing Milk causes breakouts for some users.",
+        "anchor_quote": "I'm trying to return the roadblazing milk.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Ort6wVt8J40",
+        "influencer": "PinkNews",
+        "upload_date": "20250912",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Tint",
+        "specific_variant": null,
+        "product_category": "Lip Care",
+        "sub_category": "Lip Balm",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Rhode lip products receive mixed reviews.",
+        "anchor_quote": "reviews remain split - while some users swear by Rhode, others say the products just aren't for them.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 13,
+        "visual_timestamp_seconds": 51,
+        "confidence_score": 90,
+        "video_id": "Ort6wVt8J40",
+        "influencer": "PinkNews",
+        "upload_date": "20250912",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rare Beauty",
+        "product_name": "Lip Oil",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Rare Beauty Lip Oil has a grainy texture.",
+        "anchor_quote": "Some users have also reported experiencing grainy textures in lip treatments, particularly with the Rare Beauty Lip Oil.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "grainy textures in lip treatments, particularly with the Rare Beauty Lip Oil."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "Ort6wVt8J40",
+        "influencer": "PinkNews",
+        "upload_date": "20250912",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Facial Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Rhode facial cleansers are part of a brand with mixed reviews.",
+        "anchor_quote": "reviews remain split - while some users swear by Rhode, others say the products just aren't for them.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 13,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 80,
+        "video_id": "Ort6wVt8J40",
+        "influencer": "PinkNews",
+        "upload_date": "20250912",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Lotion",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Rhode lotions are part of a brand with mixed reviews.",
+        "anchor_quote": "reviews remain split - while some users swear by Rhode, others say the products just aren't for them.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 13,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 80,
+        "video_id": "Ort6wVt8J40",
+        "influencer": "PinkNews",
+        "upload_date": "20250912",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Blush",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Rhode blushes are part of a brand with mixed reviews.",
+        "anchor_quote": "reviews remain split - while some users swear by Rhode, others say the products just aren't for them.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 13,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 80,
+        "video_id": "Ort6wVt8J40",
+        "influencer": "PinkNews",
+        "upload_date": "20250912",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Glazing Milk",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Facial Essence",
+        "active_ingredients": [
+            "Ceramide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Highly profitable and popular product driving brand success.",
+        "anchor_quote": "Road's glazing milk, the one all over your feed costs roughly $6 to make and sells for $32. Based on estimates that its products run about 19% of sales or an 80% margin.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "QHMVWWdnwBs",
+        "influencer": "Legally Savvy CEO by Nuzayra",
+        "upload_date": "20251206",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Lip Peptide Treatment",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Visually featured as part of the brand's product line.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 80,
+        "video_id": "QHMVWWdnwBs",
+        "influencer": "Legally Savvy CEO by Nuzayra",
+        "upload_date": "20251206",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "The Peptide Eye Prep Patches",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Eye Patches",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Eye patches improve under-eye appearance for concealer.",
+        "anchor_quote": "So I always start with my road patches. I really like the way it looks and when I apply my concealer underneath.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "So I always start with my road patches."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "I really like the way it looks and when I apply my concealer underneath."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "1-F0UTxaOQc",
+        "influencer": "Vogue Australia",
+        "upload_date": "20260306",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Glazing Milk Ceramide Facial Essence",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Facial Essence",
+        "active_ingredients": [
+            "Ceramide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Essence provides glowing, hydrated skin and is versatile.",
+        "anchor_quote": "I really love this product because it just really makes nice skin glowing. I instantly loved it because you can apply it everywhere, so I don't just use it on my face. I use it on my arms or my legs everywhere, everywhere else where I need a bit of a shine.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "I instantly loved it because you can apply it everywhere, so I don't just use it on my face. I use it on my arms or my legs everywhere, everywhere else where I need a bit of a shine."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "I really love this product because it just really makes nice skin glowing."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "I don't need to put too much of that product because with the glazing mill, it's already quite hydrated."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "1-F0UTxaOQc",
+        "influencer": "Vogue Australia",
+        "upload_date": "20260306",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Glazing Fluid",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum/Fluid",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Fluid adds to hydration and glow after Glazing Milk.",
+        "anchor_quote": "Now I apply my glazing fluid. I don't need to put too much of that product because with the glazing mill, it's already quite hydrated.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "Now I apply my glazing fluid."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "I don't need to put too much of that product because with the glazing mill, it's already quite hydrated."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 20,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 90,
+        "video_id": "1-F0UTxaOQc",
+        "influencer": "Vogue Australia",
+        "upload_date": "20260306",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Treatment",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Overconsumption of Rhode lip products is wasteful and unnecessary.",
+        "anchor_quote": "It doesn't make any sense to own 28 lip glosses and half of them look the same on the lips.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -7,
+                "context_quote": "It doesn't make any sense to own 28 lip glosses and half of them look the same on the lips."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -5,
+                "context_quote": "half of them look the same on the lips"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 34,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "9jFyHjqA7S4",
+        "influencer": "Katya Franco",
+        "upload_date": "20260525",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Treatment",
+        "specific_variant": "Ribbon",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [
+            "Peptides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Non-sticky lip treatment with a pretty, everyday shade.",
+        "anchor_quote": "These don't feel sticky at all, which I really like.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "These don't feel sticky at all, which I really like."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "wHVJjjoEP7g",
+        "influencer": "Good Morning America",
+        "upload_date": "20230928",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Treatment",
+        "specific_variant": "Toast",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [
+            "Peptides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Favorite non-sticky nude shade, great for everyday.",
+        "anchor_quote": "I think this one might be my favorite. It still got some pink in it, but I think it's really great for every day.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "This color is toast. This is like a slightly darker nude color. I think this one might be my favorite. It still got some pink in it, but I think it's really great for every day."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 14,
+        "visual_timestamp_seconds": 15,
+        "confidence_score": 95,
+        "video_id": "wHVJjjoEP7g",
+        "influencer": "Good Morning America",
+        "upload_date": "20230928",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Treatment",
+        "specific_variant": "Raspberry Jelly",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [
+            "Peptides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Super pretty and pigmented non-sticky lip treatment.",
+        "anchor_quote": "This is super pretty. It's definitely more pigmented.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "This literally looks like something straight out of a donut. This is super pretty. It's definitely more pigmented."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 26,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 95,
+        "video_id": "wHVJjjoEP7g",
+        "influencer": "Good Morning America",
+        "upload_date": "20230928",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Treatment",
+        "specific_variant": "Espresso",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [
+            "Peptides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Pretty darker brown, good for layering in fall.",
+        "anchor_quote": "As you can see this is like a darker brown color. I think this would be super pretty over a brown or like a rose lipstick, especially this fall.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "As you can see this is like a darker brown color. I think this would be super pretty over a brown or like a rose lipstick, especially this fall."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 36,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 95,
+        "video_id": "wHVJjjoEP7g",
+        "influencer": "Good Morning America",
+        "upload_date": "20230928",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Boost",
+        "specific_variant": "Sugar Mint",
+        "product_category": "Lip Care",
+        "sub_category": "Lip Balm/Treatment",
+        "active_ingredients": [
+            "Peptides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent long-lasting moisture with a smooth, thick texture.",
+        "anchor_quote": "I love this stuff. Personally, I think this is one of my favorite if not my favorite road product to date.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "this stuff is so much thicker, super, super smooth."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "Now I'm sitting at six hours of having this on my lips. And very faintly, I still feel a little bit of that moisture hanging on."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "it's not an awful price. I know 20 bucks is still 20 bucks. But there are crazier prices that I've seen out there for something that is truly going to keep my lips moisturized for this long."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "super, super smooth"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Rhode",
+                "competitor_product": "Peptide Lip Treatment",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "nEUJV6KD_6Q",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Treatment",
+        "specific_variant": null,
+        "product_category": "Lip Care",
+        "sub_category": "Lip Balm/Treatment",
+        "active_ingredients": [
+            "Peptides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "The original formula is good but less thick than the new boost.",
+        "anchor_quote": "That is definitely very different from the lip treatments. These I would say have like a medium thickness, but this stuff is so much thicker, super, super smooth. I mean, honestly, I think I like this formula better.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 3,
+                "context_quote": "These I would say have like a medium thickness"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 38,
+        "visual_timestamp_seconds": 18,
+        "confidence_score": 90,
+        "video_id": "nEUJV6KD_6Q",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260207",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Boost",
+        "specific_variant": "Untinted",
+        "product_category": "Lip Care",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Thicker, longer-lasting lip treatment, ideal for overnight use.",
+        "anchor_quote": "If I want something to use before bed that is going to keep my lips moisturized and I'll wake up and probably still feel that moisture on my lips, I would use the road.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "However, you know who's thicker? This one. It's just the tiniest bit thicker, but enough where I notice it."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "The Ula Hennerksen usually lasts for about four hours on me, and the road has lasted for up to six."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 5,
+                "context_quote": "the road has 0.5 fluid ounces. Very small difference, but still a difference."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Ole Henriksen",
+                "competitor_product": "Pout Preserve Peptide Lip Treatment",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "susOCQAzTvw",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260213",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Ole Henriksen",
+        "product_name": "Pout Preserve Peptide Lip Treatment",
+        "specific_variant": "Peach Glaze",
+        "product_category": "Lip Care",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Moisturizing, smooth, tinted lip treatment, good for daytime use.",
+        "anchor_quote": "Putting some of the Ula Hennerksen on my lips. It's thick, it's moisturizing, it's very smooth.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's thick, it's moisturizing, it's very smooth."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 5,
+                "context_quote": "The Ula Hennerksen usually lasts for about four hours on me"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "the Ula Hennerksen comes in so many different shades. But of course onto the formula because I know that's what you want to say. Putting some of the Ula Hennerksen on my lips. It's thick, it's moisturizing, it's very smooth. ... Ula Hennerksen in shade peach glaze looks like on my lips."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 3,
+                "context_quote": "the Ula Hennerksen has 0.4 fluid ounces"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Rhode",
+                "competitor_product": "Peptide Lip Boost",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "susOCQAzTvw",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260213",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Tint",
+        "specific_variant": "Sweet Pea",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Tint",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Sweet Pea lip tint has good formula but unpleasant chemical scent.",
+        "anchor_quote": "As far as the scent goes, initially I'm definitely getting like this sweet sugary candy scent. However, when I smell it a little bit more, I smell this like weird chemical scent. It's like just enough where I notice it. I think I'm like inhaling it as it's on my lips. And it just smells like they kind of tried to cover that up with the other scent. Not a fan of that.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "I like the formula. I like how moisturizing it is. I like the gloss it gives my lips."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "These retail for $20 each. And every time I talk about the prices of these, I always remember how when I purchased these two years ago, I paid like $16 or $17 for one lip balm. And now they're $20."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 35,
+        "visual_timestamp_seconds": 36,
+        "confidence_score": 98,
+        "video_id": "UKdqITMDXQ8",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260305",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Tint",
+        "specific_variant": "Pretzel",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Tint",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Pretzel lip tint has good formula but very unpleasant chemical taste.",
+        "anchor_quote": "Now, there's something weird here too. There is something weird. I like taste it. I'm upset. I wanted to like this really badly. They describe this as having like a caramel glazed pretzel scent. And when I'm smelling it in the bottle, I get that scent. I smell that. However, when it's on my lips, I'm smelling again like a weird chemical scent. And to be honest, like the scent is in my mouth.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "I like the formula. I like how moisturizing it is. I like the gloss it gives my lips."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -3,
+                "context_quote": "It has definitely sunk into my lips, although they still look moisturized and feel very moisturized. I can still physically feel it on my lips a little bit, but the gloss is gone. ... This is after four hours. I can confirm the moisture is no longer on my lips."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -5,
+                "context_quote": "These retail for $20 each. And every time I talk about the prices of these, I always remember how when I purchased these two years ago, I paid like $16 or $17 for one lip balm. And now they're $20."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "rhode",
+                "competitor_product": "Peptide Lip Treatment",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 58,
+        "visual_timestamp_seconds": 59,
+        "confidence_score": 98,
+        "video_id": "UKdqITMDXQ8",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260305",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Treatment",
+        "specific_variant": null,
+        "product_category": "Lip Care",
+        "sub_category": "Lip Balm",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Original rhode lip balms are preferred over new scented tints.",
+        "anchor_quote": "I will be reaching for the original ones that are not scented. I like those way more.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 135,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "UKdqITMDXQ8",
+        "influencer": "Hannah Campbell",
+        "upload_date": "20260305",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Rhode",
+        "product_name": "Peptide Lip Treatment",
+        "specific_variant": null,
+        "product_category": "Lip Care",
+        "sub_category": "Lip Treatment",
+        "active_ingredients": [
+            "Peptide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Rhode Peptide Lip Treatment's formula is now smooth and improved.",
+        "anchor_quote": "fixed the grainy issue & that day has FINALLY COME",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "not grainy anymore"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "oFSVRWF9Wzw",
+        "influencer": "Abbey Yung",
+        "upload_date": "20250901",
+        "creator_location": "Unknown"
     }
 ]
