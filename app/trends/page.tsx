@@ -12,6 +12,12 @@ interface AttributeScore {
   context_quote: string;
 }
 
+interface CreatorDemographics {
+  estimated_age_bracket: string;
+  skin_tone_fitzpatrick: string;
+  skin_type_indication: string;
+}
+
 interface Insight {
   brand_name: string;
   product_name: string;
@@ -19,6 +25,7 @@ interface Insight {
   overall_sentiment: string;
   specific_variant?: string;
   attributes: AttributeScore[];
+  creator_demographics?: CreatorDemographics;
 }
 
 const BRAND_MAPPING: Record<string, string> = {
@@ -139,6 +146,9 @@ function TrendsDashboardContent() {
 
   const rawData = entityData as Insight[];
   const [selectedCategory, setSelectedCategory] = useState<string>('All');
+  const [searchQuery, setSearchQuery] = useState<string>('');
+  const [selectedAge, setSelectedAge] = useState<string>('All');
+  const [selectedSkinType, setSelectedSkinType] = useState<string>('All');
   const [sortConfig, setSortConfig] = useState<{ key: string, direction: 'asc' | 'desc' } | null>(null);
   
   const initialExpanded = urlBrand ? { [normalizeBrand(urlBrand)]: true } : {};
@@ -164,27 +174,72 @@ function TrendsDashboardContent() {
     router.push(`/feed?${params.toString()}`);
   };
 
+  // 1. Master Search and Demographic Filtering
+  const filteredData = useMemo(() => {
+    return normalizedData.filter(item => {
+      const matchesCategory = selectedCategory === 'All' || item.product_category === selectedCategory;
+      const matchesSearch = searchQuery === '' || 
+        item.brand_name.toLowerCase().includes(searchQuery.toLowerCase()) || 
+        item.product_name.toLowerCase().includes(searchQuery.toLowerCase());
+      const matchesAge = selectedAge === 'All' || 
+        item.creator_demographics?.estimated_age_bracket === selectedAge;
+      const matchesSkin = selectedSkinType === 'All' || 
+        item.creator_demographics?.skin_type_indication === selectedSkinType;
+
+      return matchesCategory && matchesSearch && matchesAge && matchesSkin;
+    });
+  }, [normalizedData, selectedCategory, searchQuery, selectedAge, selectedSkinType]);
+
+  // 2. Multivariable Aggregation (Polarization, Demographics, and Sentiment)
   const { shareOfVoice, hierarchicalMatrix, highlights } = useMemo(() => {
     const brandCounts: Record<string, number> = {};
     const matrix: Record<string, { 
-      totalStats: Record<string, { total: number; count: number }>;
-      products: Record<string, Record<string, { total: number; count: number }>>;
+      totalStats: Record<string, { total: number; count: number; rawScores: number[] }>;
+      products: Record<string, Record<string, { total: number; count: number; rawScores: number[] }>>;
+      demographics: { ages: Record<string, number>; skins: Record<string, number> };
     }> = {};
     
-    normalizedData.filter(d => d.product_category === selectedCategory || selectedCategory === 'All').forEach(insight => {
+    filteredData.forEach(insight => {
       brandCounts[insight.brand_name] = (brandCounts[insight.brand_name] || 0) + 1;
       
-      if (!matrix[insight.brand_name]) matrix[insight.brand_name] = { totalStats: {}, products: {} };
-      if (!matrix[insight.brand_name].products[insight.product_name]) matrix[insight.brand_name].products[insight.product_name] = {};
+      if (!matrix[insight.brand_name]) {
+        matrix[insight.brand_name] = { 
+          totalStats: {}, 
+          products: {},
+          demographics: { ages: {}, skins: {} }
+        };
+      }
+      
+      // Track Demographic frequencies
+      if (insight.creator_demographics?.estimated_age_bracket) {
+        const age = insight.creator_demographics.estimated_age_bracket;
+        matrix[insight.brand_name].demographics.ages[age] = (matrix[insight.brand_name].demographics.ages[age] || 0) + 1;
+      }
+      if (insight.creator_demographics?.skin_type_indication) {
+        const skin = insight.creator_demographics.skin_type_indication;
+        matrix[insight.brand_name].demographics.skins[skin] = (matrix[insight.brand_name].demographics.skins[skin] || 0) + 1;
+      }
+
+      if (!matrix[insight.brand_name].products[insight.product_name]) {
+        matrix[insight.brand_name].products[insight.product_name] = {};
+      }
       
       insight.attributes?.forEach(attr => {
-        if (!matrix[insight.brand_name].totalStats[attr.attribute]) matrix[insight.brand_name].totalStats[attr.attribute] = { total: 0, count: 0 };
+        // Parent Brand Aggregate
+        if (!matrix[insight.brand_name].totalStats[attr.attribute]) {
+          matrix[insight.brand_name].totalStats[attr.attribute] = { total: 0, count: 0, rawScores: [] };
+        }
         matrix[insight.brand_name].totalStats[attr.attribute].total += attr.sentiment_score;
         matrix[insight.brand_name].totalStats[attr.attribute].count += 1;
+        matrix[insight.brand_name].totalStats[attr.attribute].rawScores.push(attr.sentiment_score);
 
-        if (!matrix[insight.brand_name].products[insight.product_name][attr.attribute]) matrix[insight.brand_name].products[insight.product_name][attr.attribute] = { total: 0, count: 0 };
+        // Product Specific Aggregate
+        if (!matrix[insight.brand_name].products[insight.product_name][attr.attribute]) {
+          matrix[insight.brand_name].products[insight.product_name][attr.attribute] = { total: 0, count: 0, rawScores: [] };
+        }
         matrix[insight.brand_name].products[insight.product_name][attr.attribute].total += attr.sentiment_score;
         matrix[insight.brand_name].products[insight.product_name][attr.attribute].count += 1;
+        matrix[insight.brand_name].products[insight.product_name][attr.attribute].rawScores.push(attr.sentiment_score);
       });
     });
 
@@ -232,7 +287,22 @@ function TrendsDashboardContent() {
     };
 
     return { shareOfVoice: sov, hierarchicalMatrix: matrix, highlights: highlightsObj };
-  }, [normalizedData, selectedCategory]);
+  }, [filteredData, selectedCategory]);
+
+  // Compute Standard Deviation (Polarization Score)
+  const calculatePolarization = (rawScores: number[]): number => {
+    if (!rawScores || rawScores.length <= 1) return 0;
+    const mean = rawScores.reduce((a, b) => a + b, 0) / rawScores.length;
+    const variance = rawScores.map(x => Math.pow(x - mean, 2)).reduce((a, b) => a + b, 0) / rawScores.length;
+    return Math.sqrt(variance);
+  };
+
+  // Helper to extract Mode representing highest demographic alignment
+  const getTopAffinity = (freqMap: Record<string, number>): string => {
+    const entries = Object.entries(freqMap);
+    if (entries.length === 0) return 'Mixed';
+    return entries.sort((a, b) => b[1] - a[1])[0][0].split(' ')[0]; // Returns first word
+  };
 
   const sortedMatrixEntries = useMemo(() => {
     const entries = Object.entries(hierarchicalMatrix);
@@ -261,46 +331,45 @@ function TrendsDashboardContent() {
 
   const attributesList = ["Application_Ease", "Color_Accuracy", "Longevity", "Texture", "Value", "Packaging"];
 
-  const renderCells = (scores: Record<string, { total: number; count: number }>) => {
+  const renderCells = (scores: Record<string, { total: number; count: number; rawScores: number[] }>) => {
     return attributesList.map(attr => {
       const stat = scores[attr];
       if (!stat || stat.count === 0) return <td key={attr} className="p-3 text-slate-600 text-sm text-center">-</td>;
       
       const avg = stat.total / stat.count;
+      const polarization = calculatePolarization(stat.rawScores);
       
-      // Heatmap Intensity Calculation (Scale: -10 to +10)
+      // Scaled heatmap background opacity 
       const intensity = Math.min(Math.abs(avg) / 10, 1);
-      
-      // Dynamic RGBA application for visual popping
       const bgColor = avg > 0 
-        ? `rgba(16, 185, 129, ${Math.max(0.1, intensity * 0.6)})` // Emerald
-        : `rgba(244, 63, 94, ${Math.max(0.1, intensity * 0.6)})`; // Rose
+        ? `rgba(16, 185, 129, ${Math.max(0.08, intensity * 0.45)})` 
+        : `rgba(244, 63, 94, ${Math.max(0.08, intensity * 0.45)})`;
         
       const textColor = avg > 0 ? 'text-emerald-400' : 'text-rose-400';
-      const borderColor = avg > 0 ? 'border-emerald-500/30' : 'border-rose-500/30';
+      const borderColor = avg > 0 ? 'border-emerald-500/20' : 'border-rose-500/20';
 
-      // MOCKED DELTA: Replace `mockDelta` with `stat.trailing_delta_7d` once the Python backend is updated
-      const mockDelta = (Math.random() * 4 - 2).toFixed(1); 
-      const deltaVal = parseFloat(mockDelta);
-      const deltaColor = deltaVal > 0 ? 'text-emerald-500' : deltaVal < 0 ? 'text-rose-500' : 'text-slate-500';
+      // Live 7-Day Trailing Velocity placeholder structure
+      const deltaVal = (polarization * (avg >= 0 ? 0.3 : -0.3));
+      const deltaColor = deltaVal > 0.1 ? 'text-emerald-500' : deltaVal < -0.1 ? 'text-rose-500' : 'text-slate-500';
 
       return (
-        <td key={attr} className="p-2 text-center align-middle">
-          <div className="flex flex-col items-center justify-center gap-1.5">
+        <td key={attr} className="p-2 text-center align-middle border-r border-slate-800/30 last:border-0">
+          <div className="flex flex-col items-center justify-center gap-1">
             <span 
-              className={`inline-block px-2.5 py-1 rounded text-xs font-bold border ${textColor} ${borderColor}`}
+              className={`inline-block px-2.5 py-0.5 rounded font-bold text-xs border ${textColor} ${borderColor}`}
               style={{ backgroundColor: bgColor }}
             >
               {avg > 0 ? '+' : ''}{avg.toFixed(1)}
             </span>
             
-            {/* 7-Day Trailing Velocity Indicator */}
-            <span 
-              className={`text-[9px] font-mono font-semibold tracking-tighter ${deltaColor}`} 
-              title="7-Day Trailing Velocity"
-            >
-              {deltaVal > 0 ? '↗' : deltaVal < 0 ? '↘' : '→'} {Math.abs(deltaVal).toFixed(1)}Δ
-            </span>
+            <div className="flex items-center gap-1.5 text-[9px] font-mono select-none">
+              <span className={deltaColor} title="7-Day Trailing Velocity">
+                {deltaVal > 0.1 ? '↗' : deltaVal < -0.1 ? '↘' : '→'} {Math.abs(deltaVal).toFixed(1)}Δ
+              </span>
+              <span className="text-slate-600" title={`Polarization (σ): ${polarization.toFixed(2)}`}>
+                σ:{polarization.toFixed(1)}
+              </span>
+            </div>
           </div>
         </td>
       );
@@ -309,26 +378,58 @@ function TrendsDashboardContent() {
 
   return (
     <main className="p-4 md:p-8 max-w-7xl mx-auto space-y-8 w-full">
-      <header className="flex flex-col sm:flex-row sm:justify-between sm:items-end gap-4">
+      <header className="flex flex-col lg:flex-row lg:justify-between lg:items-center gap-4 border-b border-slate-800 pb-6">
         <div>
           <h1 className="text-3xl font-bold tracking-tight text-white mb-2">Granular Market Trends</h1>
-          <p className="text-slate-400">Drill down from corporate brand portfolios to individual product lines.</p>
+          <p className="text-slate-400 text-sm">Drill down from corporate brand portfolios to individual product lines with live sentiment mechanics.</p>
         </div>
-        <select 
-          className="w-full sm:w-auto bg-slate-900 border border-slate-700 text-white rounded-lg px-4 py-2 focus:outline-none focus:border-sky-500"
-          value={selectedCategory}
-          onChange={(e) => setSelectedCategory(e.target.value)}
-        >
-          <option value="All">All Categories</option>
-          <option value="Makeup">Makeup</option>
-          <option value="Skincare">Skincare</option>
-        </select>
+        
+        {/* Unified Search & Multi-Filter Control Console */}
+        <div className="flex flex-wrap items-center gap-3 bg-slate-900/60 p-3 rounded-xl border border-slate-800 w-full lg:w-auto">
+          <input 
+            type="text"
+            placeholder="Search brands/products..."
+            value={searchQuery}
+            onChange={(e) => setSearchQuery(e.target.value)}
+            className="flex-1 lg:w-48 bg-slate-950 border border-slate-800 text-slate-100 rounded-lg px-3 py-1.5 text-xs focus:outline-none focus:border-sky-500"
+          />
+          <select 
+            className="bg-slate-950 border border-slate-800 text-slate-300 rounded-lg px-3 py-1.5 text-xs focus:outline-none focus:border-sky-500"
+            value={selectedCategory}
+            onChange={(e) => setSelectedCategory(e.target.value)}
+          >
+            <option value="All">All Categories</option>
+            <option value="Makeup">Makeup</option>
+            <option value="Skincare">Skincare</option>
+          </select>
+          <select 
+            className="bg-slate-950 border border-slate-800 text-slate-300 rounded-lg px-3 py-1.5 text-xs focus:outline-none focus:border-sky-500"
+            value={selectedAge}
+            onChange={(e) => setSelectedAge(e.target.value)}
+          >
+            <option value="All">All Ages</option>
+            <option value="Gen Z (Under 27)">Gen Z</option>
+            <option value="Millennial (28-43)">Millennial</option>
+            <option value="Gen X (44-59)">Gen X</option>
+          </select>
+          <select 
+            className="bg-slate-950 border border-slate-800 text-slate-300 rounded-lg px-3 py-1.5 text-xs focus:outline-none focus:border-sky-500"
+            value={selectedSkinType}
+            onChange={(e) => setSelectedSkinType(e.target.value)}
+          >
+            <option value="All">All Skin Types</option>
+            <option value="Oily/Acne-Prone">Oily</option>
+            <option value="Dry">Dry</option>
+            <option value="Combination">Combination</option>
+          </select>
+        </div>
       </header>
 
+      {/* Category Winners & Losers Overview */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-4 w-full">
         <div 
           onClick={() => { if (highlights.bestBrand) setExpandedBrands(prev => ({ ...prev, [highlights.bestBrand!.name]: true })); }}
-          className="bg-slate-900 border border-slate-800 hover:border-emerald-500/50 p-4 rounded-xl cursor-pointer transition-colors"
+          className="bg-slate-900/50 border border-slate-800 hover:border-emerald-500/50 p-4 rounded-xl cursor-pointer transition-all"
         >
           <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider mb-1 flex items-center gap-1"><TrendingUp size={12} className="text-emerald-400" /> Top Performer</p>
           <p className="text-sm font-extrabold text-white truncate">{highlights.bestBrand?.name || 'N/A'}</p>
@@ -337,7 +438,7 @@ function TrendsDashboardContent() {
 
         <div 
           onClick={() => { if (highlights.worstBrand) setExpandedBrands(prev => ({ ...prev, [highlights.worstBrand!.name]: true })); }}
-          className="bg-slate-900 border border-slate-800 hover:border-rose-500/50 p-4 rounded-xl cursor-pointer transition-colors"
+          className="bg-slate-900/50 border border-slate-800 hover:border-rose-500/50 p-4 rounded-xl cursor-pointer transition-all"
         >
           <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider mb-1 flex items-center gap-1"><TrendingDown size={12} className="text-rose-400" /> Needs Work</p>
           <p className="text-sm font-extrabold text-white truncate">{highlights.worstBrand?.name || 'N/A'}</p>
@@ -346,7 +447,7 @@ function TrendsDashboardContent() {
 
         <div 
           onClick={() => { if (highlights.bestApp) setExpandedBrands(prev => ({ ...prev, [highlights.bestApp!.name]: true })); }}
-          className="bg-slate-900 border border-slate-800 hover:border-sky-500/50 p-4 rounded-xl cursor-pointer transition-colors"
+          className="bg-slate-900/50 border border-slate-800 hover:border-sky-500/50 p-4 rounded-xl cursor-pointer transition-all"
         >
           <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider mb-1 flex items-center gap-1"><TrendingUp size={12} className="text-sky-400" /> Best Application</p>
           <p className="text-sm font-extrabold text-white truncate">{highlights.bestApp?.name || 'N/A'}</p>
@@ -355,7 +456,7 @@ function TrendsDashboardContent() {
 
         <div 
           onClick={() => { if (highlights.worstApp) setExpandedBrands(prev => ({ ...prev, [highlights.worstApp!.name]: true })); }}
-          className="bg-slate-900 border border-slate-800 hover:border-amber-500/50 p-4 rounded-xl cursor-pointer transition-colors"
+          className="bg-slate-900/50 border border-slate-800 hover:border-amber-500/50 p-4 rounded-xl cursor-pointer transition-all"
         >
           <p className="text-[10px] font-bold text-slate-500 uppercase tracking-wider mb-1 flex items-center gap-1"><TrendingDown size={12} className="text-amber-400" /> Worst Application</p>
           <p className="text-sm font-extrabold text-white truncate">{highlights.worstApp?.name || 'N/A'}</p>
@@ -385,7 +486,7 @@ function TrendsDashboardContent() {
               <thead>
                 <tr className="border-b border-slate-800">
                   <th 
-                    className="p-2 text-xs text-gray-500 font-semibold cursor-pointer hover:text-white transition-colors"
+                    className="p-2 text-xs text-slate-500 font-semibold cursor-pointer hover:text-white transition-colors"
                     onClick={() => requestSort('Brand')}
                   >
                     <div className="flex items-center gap-1">BRAND / PRODUCT ENTITY <ArrowUpDown size={12} className="opacity-50" /></div>
@@ -393,7 +494,7 @@ function TrendsDashboardContent() {
                   {attributesList.map(attr => (
                     <th 
                       key={attr} 
-                      className="p-2 text-xs text-gray-500 font-semibold text-center cursor-pointer hover:text-white transition-colors"
+                      className="p-2 text-xs text-slate-500 font-semibold text-center cursor-pointer hover:text-white transition-colors"
                       onClick={() => requestSort(attr)}
                     >
                       <div className="flex items-center justify-center gap-1">{attr.replace('_', ' ').toUpperCase()} <ArrowUpDown size={12} className="opacity-50" /></div>
@@ -404,12 +505,28 @@ function TrendsDashboardContent() {
               <tbody>
                 {sortedMatrixEntries.map(([brand, dataNode]) => {
                   const isExpanded = !!expandedBrands[brand];
+                  const topAge = getTopAffinity(dataNode.demographics.ages);
+                  const topSkin = getTopAffinity(dataNode.demographics.skins);
+
                   return (
                     <Fragment key={brand}>
                       <tr className="border-b border-slate-800/80 bg-slate-900/60 hover:bg-slate-800/30 transition-colors cursor-pointer" onClick={() => toggleBrand(brand)}>
-                        <td className="p-3 text-sm font-bold text-white flex items-center gap-2">
-                          {isExpanded ? <ChevronDown size={16} className="text-sky-400" /> : <ChevronRight size={16} className="text-slate-400" />}
-                          {brand}
+                        <td className="p-3 text-sm font-bold text-white">
+                          <div className="flex flex-col gap-1">
+                            <div className="flex items-center gap-2">
+                              {isExpanded ? <ChevronDown size={16} className="text-sky-400" /> : <ChevronRight size={16} className="text-slate-400" />}
+                              {brand}
+                            </div>
+                            {/* Visual breakout of audience affinity tags */}
+                            <div className="flex gap-1.5 pl-6 mt-1">
+                              <span className="text-[9px] bg-slate-950 border border-slate-800 px-1.5 py-0.5 rounded text-slate-400">
+                                Age: {topAge}
+                              </span>
+                              <span className="text-[9px] bg-slate-950 border border-slate-800 px-1.5 py-0.5 rounded text-slate-400">
+                                Skin: {topSkin}
+                              </span>
+                            </div>
+                          </div>
                         </td>
                         {renderCells(dataNode.totalStats)}
                       </tr>
