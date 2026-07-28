@@ -26,6 +26,8 @@ interface Insight {
   specific_variant?: string;
   attributes: AttributeScore[];
   creator_demographics?: CreatorDemographics;
+  upload_date?: string;
+  source_platform?: string;
 }
 
 const BRAND_MAPPING: Record<string, string> = {
@@ -197,6 +199,7 @@ function TrendsDashboardContent() {
       totalStats: Record<string, { total: number; count: number; rawScores: number[] }>;
       products: Record<string, Record<string, { total: number; count: number; rawScores: number[] }>>;
       demographics: { ages: Record<string, number>; skins: Record<string, number> };
+      sentimentDistribution: { positive: number; neutral: number; negative: number; total: number };
     }> = {};
     
     filteredData.forEach(insight => {
@@ -206,9 +209,16 @@ function TrendsDashboardContent() {
         matrix[insight.brand_name] = { 
           totalStats: {}, 
           products: {},
-          demographics: { ages: {}, skins: {} }
+          demographics: { ages: {}, skins: {} },
+          sentimentDistribution: { positive: 0, neutral: 0, negative: 0, total: 0 }
         };
       }
+      
+      // Track top-level sentiment distribution
+      matrix[insight.brand_name].sentimentDistribution.total += 1;
+      if (insight.overall_sentiment === 'positive') matrix[insight.brand_name].sentimentDistribution.positive += 1;
+      else if (insight.overall_sentiment === 'negative') matrix[insight.brand_name].sentimentDistribution.negative += 1;
+      else matrix[insight.brand_name].sentimentDistribution.neutral += 1;
       
       // Track Demographic frequencies
       if (insight.creator_demographics?.estimated_age_bracket) {
@@ -507,29 +517,49 @@ function TrendsDashboardContent() {
                   const isExpanded = !!expandedBrands[brand];
                   const topAge = getTopAffinity(dataNode.demographics.ages);
                   const topSkin = getTopAffinity(dataNode.demographics.skins);
+                  
+                  // Calculate distribution percentages
+                  const total = dataNode.sentimentDistribution.total;
+                  const posPct = total > 0 ? (dataNode.sentimentDistribution.positive / total) * 100 : 0;
+                  const neuPct = total > 0 ? (dataNode.sentimentDistribution.neutral / total) * 100 : 0;
+                  const negPct = total > 0 ? (dataNode.sentimentDistribution.negative / total) * 100 : 0;
 
                   return (
                     <Fragment key={brand}>
+                      {/* Macro Brand Row - Progressive Disclosure */}
                       <tr className="border-b border-slate-800/80 bg-slate-900/60 hover:bg-slate-800/30 transition-colors cursor-pointer" onClick={() => toggleBrand(brand)}>
                         <td className="p-3 text-sm font-bold text-white">
                           <div className="flex flex-col gap-1">
                             <div className="flex items-center gap-2">
                               {isExpanded ? <ChevronDown size={16} className="text-sky-400" /> : <ChevronRight size={16} className="text-slate-400" />}
                               {brand}
+                              <span className="ml-2 px-1.5 py-0.5 bg-slate-800 text-slate-400 rounded text-[10px] font-mono">n={total}</span>
                             </div>
-                            {/* Visual breakout of audience affinity tags */}
                             <div className="flex gap-1.5 pl-6 mt-1">
-                              <span className="text-[9px] bg-slate-950 border border-slate-800 px-1.5 py-0.5 rounded text-slate-400">
-                                Age: {topAge}
-                              </span>
-                              <span className="text-[9px] bg-slate-950 border border-slate-800 px-1.5 py-0.5 rounded text-slate-400">
-                                Skin: {topSkin}
-                              </span>
+                              <span className="text-[9px] bg-slate-950 border border-slate-800 px-1.5 py-0.5 rounded text-slate-400">Age: {topAge}</span>
+                              <span className="text-[9px] bg-slate-950 border border-slate-800 px-1.5 py-0.5 rounded text-slate-400">Skin: {topSkin}</span>
                             </div>
                           </div>
                         </td>
-                        {renderCells(dataNode.totalStats)}
+                        
+                        {/* Macro Sentiment Distribution Bar Spanning the Grid */}
+                        <td colSpan={attributesList.length} className="p-3 align-middle">
+                          <div className="flex flex-col gap-1 w-full max-w-md">
+                            <div className="flex justify-between text-[10px] font-bold tracking-wider uppercase mb-0.5">
+                              <span className="text-emerald-400">{posPct.toFixed(0)}% Pos</span>
+                              <span className="text-slate-500">{neuPct.toFixed(0)}% Neu</span>
+                              <span className="text-rose-400">{negPct.toFixed(0)}% Neg</span>
+                            </div>
+                            <div className="w-full h-2 flex rounded-full overflow-hidden bg-slate-800">
+                              <div style={{ width: `${posPct}%` }} className="bg-emerald-500 transition-all duration-500"></div>
+                              <div style={{ width: `${neuPct}%` }} className="bg-slate-500 transition-all duration-500"></div>
+                              <div style={{ width: `${negPct}%` }} className="bg-rose-500 transition-all duration-500"></div>
+                            </div>
+                          </div>
+                        </td>
                       </tr>
+
+                      {/* Granular Product Rows - Hidden until clicked */}
                       {isExpanded && Object.entries(dataNode.products)
                         .sort(([a], [b]) => a.localeCompare(b))
                         .map(([prodName, prodScores]) => (
