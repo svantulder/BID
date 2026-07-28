@@ -314,8 +314,9 @@ function TrendsDashboardContent() {
     return entries.sort((a, b) => b[1] - a[1])[0][0].split(' ')[0]; // Returns first word
   };
 
-  const sortedMatrixEntries = useMemo(() => {
+ const sortedMatrixEntries = useMemo(() => {
     const entries = Object.entries(hierarchicalMatrix);
+    
     if (sortConfig) {
       entries.sort((a, b) => {
         if (sortConfig.key === 'Brand') {
@@ -327,7 +328,11 @@ function TrendsDashboardContent() {
         const bAvg = bStat && bStat.count > 0 ? bStat.total / bStat.count : -999;
         return sortConfig.direction === 'asc' ? aAvg - bAvg : bAvg - aAvg;
       });
+    } else {
+      // Default: Sort by total sample volume (highest to lowest)
+      entries.sort((a, b) => b[1].sentimentDistribution.total - a[1].sentimentDistribution.total);
     }
+    
     return entries;
   }, [hierarchicalMatrix, sortConfig]);
 
