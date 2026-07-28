@@ -43,6 +43,8 @@ interface Insight {
   confidence_score: number;
   video_id: string;
   influencer?: string;
+  upload_date?: string;
+  source_platform?: string;
 }
 
 const BRAND_MAPPING: Record<string, string> = {
@@ -106,6 +108,7 @@ function FeedStreamContent() {
   const [filterProduct, setFilterProduct] = useState<string>(urlProduct ? normalizeProduct(urlProduct) : 'All');
   const [filterSentiment, setFilterSentiment] = useState<string>(urlSentiment || 'All');
   const [filterInfluencer, setFilterInfluencer] = useState<string>('All');
+  const [filterPlatform, setFilterPlatform] = useState<string>('All');
   
   const [showMobileFilters, setShowMobileFilters] = useState(false);
 
@@ -116,6 +119,7 @@ function FeedStreamContent() {
     return Array.from(new Set(list)).sort();
   }, [normalizedData, filterBrand]);
   const uniqueInfluencers = useMemo(() => Array.from(new Set(normalizedData.map(d => d.influencer).filter(Boolean))).sort(), [normalizedData]);
+  const uniquePlatforms = useMemo(() => Array.from(new Set(normalizedData.map(d => d.source_platform || 'YouTube Shorts'))).sort(), [normalizedData]);
 
   // Reset product if brand changes manually
   useEffect(() => {
@@ -130,9 +134,10 @@ function FeedStreamContent() {
       if (filterProduct !== 'All' && item.product_name !== filterProduct) return false;
       if (filterSentiment !== 'All' && item.overall_sentiment !== filterSentiment) return false;
       if (filterInfluencer !== 'All' && item.influencer !== filterInfluencer) return false;
+      if (filterPlatform !== 'All' && (item.source_platform || 'YouTube Shorts') !== filterPlatform) return false;
       return true;
     });
-  }, [normalizedData, filterBrand, filterProduct, filterSentiment, filterInfluencer]);
+  }, [normalizedData, filterBrand, filterProduct, filterSentiment, filterInfluencer, filterPlatform]);
 
   const handleJumpToTimestamp = (seconds: number | null) => {
     if (seconds !== null) setActiveTimestamp(seconds);
@@ -150,7 +155,7 @@ function FeedStreamContent() {
           </button>
         </div>
         
-        <div className={`${showMobileFilters ? 'grid' : 'hidden'} sm:grid grid-cols-1 sm:grid-cols-4 gap-4`}>
+<div className={`${showMobileFilters ? 'grid' : 'hidden'} sm:grid grid-cols-1 sm:grid-cols-5 gap-4`}>
           <div>
             <label className="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Brand</label>
             <select value={filterBrand} onChange={(e) => setFilterBrand(e.target.value)} className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-sky-500">
@@ -182,6 +187,13 @@ function FeedStreamContent() {
               {uniqueInfluencers.map(i => <option key={i} value={i}>{i}</option>)}
             </select>
           </div>
+          <div>
+            <label className="block text-xs font-semibold text-slate-400 uppercase tracking-wider mb-2">Platform</label>
+            <select value={filterPlatform} onChange={(e) => setFilterPlatform(e.target.value)} className="w-full bg-slate-950 border border-slate-800 rounded-lg px-3 py-2 text-sm text-slate-200 focus:outline-none focus:border-sky-500">
+              <option value="All">All Platforms</option>
+              {uniquePlatforms.map(p => <option key={p} value={p}>{p}</option>)}
+            </select>
+          </div>
         </div>
       </div>
 
@@ -211,6 +223,15 @@ function FeedStreamContent() {
                     isSelected ? 'bg-slate-900 border-sky-500/50 shadow-lg shadow-sky-500/5' : 'bg-slate-900/40 border-slate-800/80 hover:bg-slate-900/80 hover:border-slate-700'
                   }`}
                 >
+                  <div className="flex items-center gap-2 mb-3">
+                    <span className="text-[10px] bg-slate-950 border border-slate-800 text-slate-400 px-1.5 py-0.5 rounded font-mono tracking-wide">
+                      {insight.upload_date || 'Unknown Date'}
+                    </span>
+                    <span className="text-[10px] bg-slate-800 text-slate-300 px-1.5 py-0.5 rounded uppercase tracking-wider font-bold">
+                      {insight.source_platform || 'YouTube Shorts'}
+                    </span>
+                  </div>
+
                   <div className="flex items-center justify-between gap-2 mb-2">
                     <button 
                       onClick={(e) => { 
