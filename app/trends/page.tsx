@@ -492,11 +492,11 @@ function TrendsDashboardContent() {
         <div className="bg-slate-900 border border-slate-800 p-4 md:p-6 rounded-xl xl:col-span-2">
           <h3 className="text-sm font-bold text-slate-300 mb-6 uppercase tracking-wider">Brand Portfolio Breakdown</h3>
           <div className="w-full overflow-x-auto pb-4 custom-scrollbar">
-            <table className="w-full text-left border-collapse min-w-[700px]">
+            <table className="w-full text-left border-collapse min-w-[700px] table-fixed">
               <thead>
                 <tr className="border-b border-slate-800">
                   <th 
-                    className="p-2 text-xs text-slate-500 font-semibold cursor-pointer hover:text-white transition-colors"
+                    className="p-2 text-xs text-slate-500 font-semibold cursor-pointer hover:text-white transition-colors w-[30%]"
                     onClick={() => requestSort('Brand')}
                   >
                     <div className="flex items-center gap-1">BRAND / PRODUCT ENTITY <ArrowUpDown size={12} className="opacity-50" /></div>
@@ -544,7 +544,7 @@ function TrendsDashboardContent() {
                         
                         {/* Macro Sentiment Distribution Bar Spanning the Grid */}
                         <td colSpan={attributesList.length} className="p-3 align-middle">
-                          <div className="flex flex-col gap-1 w-full max-w-md">
+                          <div className="flex flex-col gap-1 w-full pr-4 md:pr-12">
                             <div className="flex justify-between text-[10px] font-bold tracking-wider uppercase mb-0.5">
                               <span className="text-emerald-400">{posPct.toFixed(0)}% Pos</span>
                               <span className="text-slate-500">{neuPct.toFixed(0)}% Neu</span>
