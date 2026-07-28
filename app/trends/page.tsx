@@ -491,10 +491,10 @@ function TrendsDashboardContent() {
 
         <div className="bg-slate-900 border border-slate-800 p-4 md:p-6 rounded-xl xl:col-span-2">
           <h3 className="text-sm font-bold text-slate-300 mb-6 uppercase tracking-wider">Brand Portfolio Breakdown</h3>
-          <div className="w-full overflow-x-auto pb-4 custom-scrollbar">
-            <table className="w-full text-left border-collapse min-w-[700px] table-fixed">
-              <thead>
-                <tr className="border-b border-slate-800">
+          <div className="w-full max-h-[75vh] overflow-auto pb-4 custom-scrollbar">
+            <table className="w-full text-left border-collapse min-w-[700px] table-fixed relative">
+              <thead className="sticky top-0 z-20 bg-slate-900 shadow-[0_1px_0_0_#1e293b]">
+                <tr>
                   <th 
                     className="p-2 text-xs text-slate-500 font-semibold cursor-pointer hover:text-white transition-colors w-[30%]"
                     onClick={() => requestSort('Brand')}
