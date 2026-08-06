@@ -43992,5 +43992,1383 @@
         "upload_date": "20240603",
         "source_platform": "YouTube Shorts",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Age Perfect Le Duo Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Vitamin B3",
+            "Vitamin C"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Serum delivers 10 benefits, absorbs quickly, non-greasy.",
+        "anchor_quote": "This serum absorbs quickly, it's non-greasy and does not clog up pores.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "This serum absorbs quickly, it's non-greasy and does not clog up pores."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Jme_ZDFBtaw",
+        "influencer": "Svetlana",
+        "upload_date": "20251024",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Infallible Fresh Wear Cushion Foundation",
+        "specific_variant": "300 Cool",
+        "product_category": "Makeup",
+        "sub_category": "Cushion Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good lightweight formula, but shade match is difficult.",
+        "anchor_quote": "Base is looking pretty beautiful today, except the shade mismatch.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Supplying very smoothly."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -8,
+                "context_quote": "Oh yeah, the shade is definitely on the smatch."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's looking fresh, natural, pretty lightweight as well. The duiness is definitely from a highlighter that I applied, but overall, it's a soft matte finish."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 7,
+                "context_quote": "kising looks like, very chic in classy. I love and all black packaging. So this is how it opens up. It's a bulky little packaging, but really chic and nice. And inside over a mirror, which is very helpful, especially if you're traveling."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "wZZS_1K0TYk",
+        "influencer": "Sathyapriya",
+        "upload_date": "20260204",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Light Straight",
+        "specific_variant": null,
+        "product_category": "Hair Styling Tool",
+        "sub_category": "Flat Iron",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Innovative flat iron uses infrared light for faster, lower-heat styling.",
+        "anchor_quote": "And it was pretty impressive.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "This one, it claims that you can just do things three times faster because you just do one pass and it can curl. You can do one pass and it'll straighten."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "The hair was not hot to the touch after the curl and a big thing about using the light is that not only does it dry faster, you can use less heat. So typical flat iron is used about 400 degrees to style the hair. This is about 300."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Generic",
+                "competitor_product": "Flat Iron",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "tJn-r0X3Qes",
+        "influencer": "The Verge",
+        "upload_date": "20260107",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "LED Mask",
+        "specific_variant": null,
+        "product_category": "Skincare Device",
+        "sub_category": "LED Mask",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Flexible, close-fitting LED masks offer innovative skincare technology.",
+        "anchor_quote": "We also saw some pretty funky LED masks.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "the mask itself is made of this flexible kind of silicon type material. And it's very thin."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "the difference is that the light sits a lot closer to your face. And the mask itself is made of this flexible kind of silicon type material. And it's very thin. So conceptually, it's a lot more like a sheet mask that you would regularly use than those big Jason."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 5,
+                "context_quote": "You still look a little funky in these masks, but the difference is that the light sits a lot closer to your face. And the mask itself is made of this flexible kind of silicon type material. And it's very thin."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Generic",
+                "competitor_product": "LED Mask",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 61,
+        "visual_timestamp_seconds": 60,
+        "confidence_score": 95,
+        "video_id": "tJn-r0X3Qes",
+        "influencer": "The Verge",
+        "upload_date": "20260107",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lifter Foundation",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Glowy foundation with skincare benefits and 24-hour hydration.",
+        "anchor_quote": "Oh that looks so pretty, too",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Oh that looks so pretty, too"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "He's my skin before he's my skin after"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "fBPJa3vogeg",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20260223",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lifter Concealer",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Full coverage serum concealer that blends seamlessly and disappears.",
+        "anchor_quote": "did you see that it literally just disappeared",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "did you see that it literally just disappeared"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "this says full coverage serum concealer"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 27,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 95,
+        "video_id": "fBPJa3vogeg",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20260223",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Cloudtopia Cheek And Lip Mist",
+        "specific_variant": "Coral",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Tint",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Whipped formula provides blurred matte finish, minimizing texture.",
+        "anchor_quote": "that is a straight up 10 out of 10",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "Oh, they feel whipped Oh My god, yeah, they're a whipped formula that is beautiful."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "Definitely like a soft focus matte finish"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "I feel like they're really minimizing texture"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 48,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 98,
+        "video_id": "fBPJa3vogeg",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20260223",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Sculpting Stix Eyeliner",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Eyeliner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Pigmented, creamy eyeliner with blending brush for easy winged looks.",
+        "anchor_quote": "That might be the quickest and easiest winged eyeliner. I've done it a long time",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "That might be the quickest and easiest winged eyeliner. I've done it a long time"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "very creamy, too"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "very pigmented, too"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 74,
+        "visual_timestamp_seconds": 75,
+        "confidence_score": 95,
+        "video_id": "fBPJa3vogeg",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20260223",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Body Mascara",
+        "specific_variant": null,
+        "product_category": "Eye Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides insane body and volume with a nice dry formula.",
+        "anchor_quote": "I'm going to give you like insane body and insane volume.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "It's a really nice dry formula"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I'm going to give you like insane body and insane volume."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 90,
+        "visual_timestamp_seconds": 90,
+        "confidence_score": 95,
+        "video_id": "fBPJa3vogeg",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20260223",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Serum Lipsticks",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Beautiful, lightweight, serum-infused lipsticks that feel like a lip balm.",
+        "anchor_quote": "one of the most Beautiful lightweight formulas. They are actually infused with serum like for your lips",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "Beautiful lightweight formulas. They are actually infused with serum like for your lips Literally, they feel like a lip bar."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Literally, they feel like a lip bar."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 102,
+        "visual_timestamp_seconds": 102,
+        "confidence_score": 95,
+        "video_id": "fBPJa3vogeg",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20260223",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Cloudtopia Cheek and Lip Mousse",
+        "specific_variant": "Twilight Berry, Ethereal Rouge, Toasted Sky",
+        "product_category": "Makeup",
+        "sub_category": "Mousse Blush",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Excellent mousse blush with soft texture and longevity, but drying on lips.",
+        "anchor_quote": "But as a blush, totally worth it. If you want the pigmentation and the smooth blend of a cream blush without the added duetness, this is for you. Now I will say, I do not like it on the lips.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "I personally like using a brush with this formula best, but here's my tip, super important. When you dip your brush into the jar, it's going to pick up this moosey texture a little bit in globs. Stab the product out onto your hand so it makes an even layer on your brush, which will apply an even layer on your skin. And the smooth blend of a cream blush."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "incredible pigmentation seriously applied with a light hand."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "They claim the color lasts up to 14 hours while staying air-light with a velvet finish. And the color does last without fading or becoming patchy. It really does hang in there and stays looking fresh."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "These are a little thinner of a formula. They still have that super soft texture and it's supposed to give you this soft focus matte appearance, not flat matte or dry matte, but it doesn't take away from the glow."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": -5,
+                "context_quote": "Plus, I'm not carrying a jar of product with me to reapply with my hands out in the wild."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Maybelline",
+                "competitor_product": "Dream Mousse Blush",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 8,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "vqkgAJoHcco",
+        "influencer": "Slashed Beauty",
+        "upload_date": "20260220",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Plump & Glow Foundation",
+        "specific_variant": "Shade 340, Shade 355",
+        "product_category": "Face Makeup",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Foundation shade range is problematic, requiring mixing.",
+        "anchor_quote": "That is my major major major gripe about this foundation is why didn't they come out with the neutral shade 350 that would have been perfect. The shade 340 is warm and undertone which is a little bit too warm for my skin complexion especially during the winter time and just a tad bit too light and then the shade 355 is a tad bit too dark. So for me and my personal collection I would have to continuously mix both shades and I didn't love it that much to have to buy two different shades and mix it to get so yeah",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -8,
+                "context_quote": "That is my major major major gripe about this foundation is why didn't they come out with the neutral shade 350 that would have been perfect. The shade 340 is warm and undertone which is a little bit too warm for my skin complexion especially during the winter time and just a tad bit too light and then the shade 355 is a tad bit too dark. So for me and my personal collection I would have to continuously mix both shades and I didn't love it that much to have to buy two different shades and mix it to get so yeah"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "yAZn_GMofPY",
+        "influencer": "Angela Denise ",
+        "upload_date": "20260216",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Pat Mcgrath",
+        "product_name": "Legendary Longwear Lipliner",
+        "specific_variant": "Divine Brown",
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Part of creator's lip combo.",
+        "anchor_quote": "Lip Liner: Pat McGrath Legendary Longwear Lipliner \u2013 Divine Brown",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "yAZn_GMofPY",
+        "influencer": "Angela Denise ",
+        "upload_date": "20260216",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Addict Lip Maximizer Gloss",
+        "specific_variant": null,
+        "product_category": "Lip Makeup",
+        "sub_category": "Lip Gloss",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Part of creator's lip combo.",
+        "anchor_quote": "Lip Gloss: Dior Addict Lip Maximizer Gloss",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "yAZn_GMofPY",
+        "influencer": "Angela Denise ",
+        "upload_date": "20260216",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Bright Complete Serum Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Facial Cleanser",
+        "active_ingredients": [
+            "Vitamin C"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Brightening cleanser is effective, gentle, but may clog pores for some.",
+        "anchor_quote": "Gue kasih rat 8 per 10. Tapi textur kayak gini tuh rawan menyubat pori.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Texturnya creamy dan ini for all skin tone ya. Glinser ini tuh busanya lumayan banyak. Dan lembut juga."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Glinser ini tuh busanya lumayan banyak. Dan lembut juga."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "eFna_vM-b7k",
+        "influencer": "Risa Florendo",
+        "upload_date": "20250319",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Bright Complete 30x Vitamin C Booster Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum",
+        "active_ingredients": [
+            "Lemon Extract"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Garnier Vitamin C Serum lacks potent L-Ascorbic Acid.",
+        "anchor_quote": "Aur as Ghani hai ki, Whiteaman C-Saram me wo LS Cobi Cassid hai hai hi nahin.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": -10,
+                "context_quote": "Leven post Whiteaman C-Saram me ka koi bhi benefit iar result nahin me na wala."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "g8KprBNHVqM",
+        "influencer": "Yuveraj Singh Bajwa",
+        "upload_date": "20240414",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "GOOD Permanent Hair Colour",
+        "specific_variant": "Honey Blonde",
+        "product_category": "Hair Color",
+        "sub_category": "Permanent Hair Dye",
+        "active_ingredients": [
+            "No Ammonia",
+            "Shea Butter"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Innovative packaging, but mixing and application have minor issues.",
+        "anchor_quote": "I love how the packaging is a bowl so you can use everything including the actual package it comes in.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "I love how the packaging is a bowl so you can use everything including the actual package it comes in."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -3,
+                "context_quote": "I'm going to use my own mixing brush that I already have because I find this so much easier to mix the color to get rid of all the clumps even though there were still a little bit of clumps in there. It's much easier to apply it to at the very base of your head for the rest of the length of the hair. It's a lot easier just to spread it with your fingers."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -2,
+                "context_quote": "to get rid of all the clumps even though there were still a little bit of clumps in there."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "-ZuY6VPodac",
+        "influencer": "Victoria Hammond",
+        "upload_date": "20250829",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Whole Blends Honey Water Moisture Restoring Conditioner",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Conditioner",
+        "active_ingredients": [
+            "Stearamidopropyl Dimethylamine",
+            "Sunflower Seed Oil",
+            "Honey",
+            "Glycerin",
+            "Honey Extract",
+            "Rose Extract"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good budget conditioner, but not for extreme dry hair.",
+        "anchor_quote": "This is a pretty good product for, you know, like you really can't go wrong if you're in a tight budget and just want something that I can get the job done. This is good if you wash your hair every few days, but if you're looking for something, you know, like I said earlier, something that you can use weekly and use for from extreme dry hair, then probably opt for a different product.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "really can't go wrong if you're in a tight budget"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -5,
+                "context_quote": "if you look at for a product that will give you extreme hydration or conditioning, looking to the red can frizz, this product has their might or propil dimethylamine."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "It's a fact that I not only hope to condition your hair, but it also acts like a silicone."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "So it's able to control frizz, reduce static in your hair and condition the hair"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Redken",
+                "competitor_product": "Frizz",
+                "comparison_nature": "inferior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 10,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "opHLT1_2XhY",
+        "influencer": "April Basi",
+        "upload_date": "20260218",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Redken",
+        "product_name": "Frizz",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Conditioner/Treatment",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Superior for extreme hydration and conditioning.",
+        "anchor_quote": "if you look at for a product that will give you extreme hydration or conditioning, looking to the red can frizz",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 25,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "opHLT1_2XhY",
+        "influencer": "April Basi",
+        "upload_date": "20260218",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Fresh & Bright Sorbet Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Vitamin C",
+            "Hyaluronic Acid",
+            "Niacinamide",
+            "BHA"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Lightweight, refreshing sorbet cream perfect for hot, humid weather.",
+        "anchor_quote": "It's ultra light, refreshingly hydrating, no greasy, so no heavy, greasy nonsense, just cool bright, happy skin.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "this super unique sorbet moisturizer texture that literally melts into the skin like a cooling summer dessert. It's light, refreshing and it melts right in."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "it melts right in."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "to help skin feel hydrated, fresh, and bright-looking throughout the day without any oily feeling."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "no sticky feeling in this hot, humid condition. It's ultra light, refreshingly hydrating, no greasy, so no heavy, greasy nonsense, just cool bright, happy skin."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 100,
+        "video_id": "jY_kSe6bZ5M",
+        "influencer": "Loved by Mercy Bivin",
+        "upload_date": "20260602",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Hydrating Sorbet Cream",
+        "specific_variant": "Vitamin C",
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Vitamin C",
+            "Niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Innovative sorbet texture provides cooling hydration and a blurred matte finish.",
+        "anchor_quote": "It is the lightest area sorbet texture honestly I have never come across anything like this",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "It is the lightest area sorbet texture honestly I have never come across anything like this"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "they lay out so beautifully well underneath makeup"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 49,
+        "visual_timestamp_seconds": 48,
+        "confidence_score": 98,
+        "video_id": "aqbTHLQTXY8",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20260626",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Hydrating Sorbet Cream",
+        "specific_variant": "Hyaluron",
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Innovative sorbet texture provides cooling hydration and a blurred matte finish.",
+        "anchor_quote": "It is the lightest area sorbet texture honestly I have never come across anything like this",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "It is the lightest area sorbet texture honestly I have never come across anything like this"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "they lay out so beautifully well underneath makeup"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 54,
+        "visual_timestamp_seconds": 54,
+        "confidence_score": 98,
+        "video_id": "aqbTHLQTXY8",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20260626",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Hydrating Sorbet Cream",
+        "specific_variant": "Salicylic",
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Salicylic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Innovative sorbet texture provides cooling hydration and a blurred matte finish.",
+        "anchor_quote": "It is the lightest area sorbet texture honestly I have never come across anything like this",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "It is the lightest area sorbet texture honestly I have never come across anything like this"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "they lay out so beautifully well underneath makeup"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 57,
+        "visual_timestamp_seconds": 60,
+        "confidence_score": 98,
+        "video_id": "aqbTHLQTXY8",
+        "influencer": "Nikkia Joy",
+        "upload_date": "20260626",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Foaming Facial Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Facial Cleanser",
+        "active_ingredients": [
+            "ceramides",
+            "hyaluronic acid",
+            "niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Improves skin health with active ingredients and satisfying foam.",
+        "anchor_quote": "Sarah V. delivers active components that actively improve skin health over time.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "This $12 powerhouse contains three essential ceramides, hyaluronic acid, and niacinamide to restore your skin barrier"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Caravage Rich Foam feels deeply cleansing and satisfying."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "Sarah V. users see improved skin texture and fewer breakouts long term."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "Neutrogena",
+                "competitor_product": "Ultra-Gentle Daily Cleanser",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "KMMeLMKawto",
+        "influencer": "Product Battles",
+        "upload_date": "20250615",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "Ultra-Gentle Daily Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Facial Cleanser",
+        "active_ingredients": [
+            "ultra-mild cleansers",
+            "glycerin"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gentle cleanser perfect for sensitive skin and strong acne treatments.",
+        "anchor_quote": "Nutrogena wins on gentleness crucial if you're already using strong acne treatments.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "At just $8 this dermatologist developed formula uses ultra-mild cleansers and glycerin perfect for sensitive skin"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "Nutrogena wins on gentleness crucial if you're already using strong acne treatments."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Nutrogena's non-foaming formula will not strip your skin's natural oils."
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "CeraVe",
+                "competitor_product": "Foaming Facial Cleanser",
+                "comparison_nature": "superior"
+            }
+        ],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 21,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "KMMeLMKawto",
+        "influencer": "Product Battles",
+        "upload_date": "20250615",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Intensive Moisturizing Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Moisturizer",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Ceramides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "An underrated, buttery, and favorite moisturizer.",
+        "anchor_quote": "It's probably one of my favorite moisturizers from Sterev-y, completely underrated. It's got your reanna, and it feels so buttery on the skin.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it feels so buttery on the skin."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "P91Yg96ZWE8",
+        "influencer": "Doctorly",
+        "upload_date": "20260527",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Hydrating Facial Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cleanser",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Ceramides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Good for dry, sensitive skin but lacks foam.",
+        "anchor_quote": "It's great for patients with dry sensitive skin, but I personally just don't enjoy it.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -5,
+                "context_quote": "so it feels like you're rubbing lotion on your face with absolutely no foam at all."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 5,
+                "context_quote": "It's great for patients with dry sensitive skin"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 11,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "P91Yg96ZWE8",
+        "influencer": "Doctorly",
+        "upload_date": "20260527",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Resurfacing Retinol Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Serum",
+        "active_ingredients": [
+            "Retinol",
+            "Ceramides",
+            "Niacinamide"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Excellent starter retinol for new users.",
+        "anchor_quote": "If you are new to retinol, I'd say this is one of the best ones to start with. A great starter retinol.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "one of the best ones to start with. A great starter retinol."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 21,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 95,
+        "video_id": "P91Yg96ZWE8",
+        "influencer": "Doctorly",
+        "upload_date": "20260527",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Hydrating Cream-to-Foam Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Cleanser",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Ceramides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Balanced cleanser that hydrates without stripping.",
+        "anchor_quote": "So this is one of the most balanced cleansers you'll find. Everyone will probably enjoy this. It doesn't strip. It's hydrating, but it has a nice ladder.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's hydrating, but it has a nice ladder."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "one of the most balanced cleansers you'll find. Everyone will probably enjoy this."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 29,
+        "visual_timestamp_seconds": 30,
+        "confidence_score": 95,
+        "video_id": "P91Yg96ZWE8",
+        "influencer": "Doctorly",
+        "upload_date": "20260527",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Daily Moisturizing Lotion",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Moisturizer",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Ceramides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Not moisturizing enough for dry skin.",
+        "anchor_quote": "It's just simply not moisturizing enough for dry skin.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": -7,
+                "context_quote": "It's just simply not moisturizing enough for dry skin."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 38,
+        "visual_timestamp_seconds": 39,
+        "confidence_score": 95,
+        "video_id": "P91Yg96ZWE8",
+        "influencer": "Doctorly",
+        "upload_date": "20260527",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Skin Renewing Vitamin C Serum",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Serum",
+        "active_ingredients": [
+            "L-Ascorbic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Oxidizes too quickly, making it ineffective.",
+        "anchor_quote": "Pure oil is scorbit acid, but this thing oxidizes super quick.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -8,
+                "context_quote": "this thing oxidizes super quick."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 45,
+        "visual_timestamp_seconds": 45,
+        "confidence_score": 95,
+        "video_id": "P91Yg96ZWE8",
+        "influencer": "Doctorly",
+        "upload_date": "20260527",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Anti-Dandruff Hydrating Shampoo",
+        "specific_variant": null,
+        "product_category": "Haircare",
+        "sub_category": "Shampoo",
+        "active_ingredients": [
+            "Pyrithione Zinc"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective, fragrance-free dandruff shampoo.",
+        "anchor_quote": "It's very rare to find a fragrance-free dandruff shampoo, and it actually works very well.",
+        "attributes": [
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "It's very rare to find a fragrance-free dandruff shampoo, and it actually works very well."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 52,
+        "visual_timestamp_seconds": 51,
+        "confidence_score": 95,
+        "video_id": "P91Yg96ZWE8",
+        "influencer": "Doctorly",
+        "upload_date": "20260527",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
     }
 ]
