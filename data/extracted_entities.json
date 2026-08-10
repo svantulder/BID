@@ -47671,5 +47671,668 @@
         "upload_date": "20250515",
         "source_platform": "YouTube Shorts",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Matte Ink Liquid Lipstick",
+        "specific_variant": "Charmer",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "This long-lasting matte liquid lipstick is an original favorite.",
+        "anchor_quote": "Maybelline Will Always Be the OG",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "Lasts Up to 16 Hours"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "Affordable drugstore lipstick 2025"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Everyday nude lipstick shade"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Matte Ink Liquid Lipstick"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "Maybelline New York Super Stay Matte Ink Liquid Lipstick"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": "Maybelline New York Super Stay Matte Ink Liquid Lipstick"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "y7hLJhbYAkk",
+        "influencer": "Sneha Sen Indian Beauty Blogger",
+        "upload_date": "20250924",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Matte Ink",
+        "specific_variant": "Pioneer",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "This liquid lipstick is incredibly long-lasting and transfer-proof.",
+        "anchor_quote": "Oil makeup remover, makeup removing wipes, nothing worked. I had to scrub and scrub and scrub to get it off. So it stays put. That's for sure.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "It is a 16 hour wear lipstick and it says that it lasts up to 1000 touches. So drinking, brushing your teeth, kissing, eating, like it's supposed to last for all of it."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "Oil makeup remover, makeup removing wipes, nothing worked. I had to scrub and scrub and scrub to get it off. So it stays put. That's for sure."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -2,
+                "context_quote": "While it's wet, it's like sticky."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "Look at that swatch. And this is all been one dip into the tube."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "SW9pitJbrWg",
+        "influencer": "Summer Penney",
+        "upload_date": "20260208",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Unknown",
+        "product_name": "Lip Pencil",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Used to create a crisp lip line before lipstick application.",
+        "anchor_quote": "By doing a pencil first, I just make sure that the edge is super crisp and then I'll go in with the lipstick.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 20,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 80,
+        "video_id": "SW9pitJbrWg",
+        "influencer": "Summer Penney",
+        "upload_date": "20260208",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Matte Ink",
+        "specific_variant": "Lover",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Long-lasting, easy-to-apply, beautiful matte liquid lipstick.",
+        "anchor_quote": "Thank you Mabeline, I love it!",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "The applicator makes it super easy to apply, which is honestly such a relief, because some of these matte lipsticks are just too hard to put on."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "And the best part about it is that it lasts up to 16 hours, so as you can see there's absolutely zero transfer."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "but once it dries out, it's just this beautiful matte finish, which honestly I'm so in love with."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "This is shade 15 lover, which is the prettiest pink."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "FhSB0pKz-dQ",
+        "influencer": "full circle mar",
+        "upload_date": "20250305",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Matte Ink Liquid Lipstick",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Liquid lipstick offers impressive 6-hour wear without dryness.",
+        "anchor_quote": "I've been wearing this lip for six hours and look at how good it looks. I'm so shocked by this. I really was not expecting it to look this good and to stand my lips this long. I'm so impressed.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "I've been wearing this lip for six hours and look at how good it looks. I'm so shocked by this. I really was not expecting it to look this good and to stand my lips this long. I'm so impressed."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "It feels kind of sticky and my lips look really wrinkly so I don't know that liquid lipsticks are for me but... Also really impressed with how my lips feel right now. They don't feel like overly dry like other liquid lipsticks will make my lips feel and they don't even look super super dry either."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "FNpxW1WZUB4",
+        "influencer": "Rainier Cramer",
+        "upload_date": "20251031",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Super Stay Matte Ink",
+        "specific_variant": "Exhilarator",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Long-lasting, mask-proof, and food-proof liquid lipstick.",
+        "anchor_quote": "It lasts all day long and it's mass proof and food proof and everything.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "It lasts all day long and it's mass proof and food proof and everything."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": -3,
+                "context_quote": "It's thicker and more goopy going on."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": -5,
+                "context_quote": "It is a little kind of fussy to deal with. It's thicker and more goopy going on. So I always suggest to make sure that your lips are completely clean, no makeup, no powder on them, line your lips and then use a very thin layer to begin with and then I always blot in between layers."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 100,
+        "video_id": "cX4Oz2qsa7U",
+        "influencer": "The Glambassador",
+        "upload_date": "20230411",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Mac Cosmetics",
+        "product_name": "Lipliner",
+        "specific_variant": "Brick",
+        "product_category": "Makeup",
+        "sub_category": "Lip Liner",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Recommended lipliner used with the main product.",
+        "anchor_quote": "I used 'Brick' liner from MAC Cosmetics here.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "cX4Oz2qsa7U",
+        "influencer": "The Glambassador",
+        "upload_date": "20230411",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Hydrating Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Cleanser",
+        "active_ingredients": [
+            "Ceramides",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gentle, hydrating cleanser with ceramides and hyaluronic acid.",
+        "anchor_quote": "\u0b8e\u0ba9\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bc1\u0bb1\u0bc8\u0baa\u0bcd \u0baa\u0bc1\u0b9f\u0bbf\u0ba4\u0bcd\u0ba4\u0bc1\u0bb5\u0bbf\u0bb7\u0baf\u0bae\u0bc8\u0baf\u0bbf\u0bb2\u0bcd",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Lotion Based Silky Consistency"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Lotion Based Silky Consistency"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "3WwDNzk3d-s",
+        "influencer": "Essential Tamil Channel",
+        "upload_date": "20250409",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Moisturizing Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Ceramides",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Amazing, versatile, cost-effective moisturizer with ceramides and hyaluronic acid.",
+        "anchor_quote": "This product is actually amazing.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "absorbs pretty well, so it's not gonna feel too pasty or thick on any skin type."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "It's also thick enough for very dry skin, but absorbs pretty well, so it's not gonna feel too pasty or thick on any skin type."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "Costco are one of your bulk stores, usually sells a package of two or three for just under at 15 bucks. ... and cost effective."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "The MVE technology, which is an all-saravie product, releases moisture for up to 24 hours."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "ro4wh3kMHeE",
+        "influencer": "Dr. Mara Weinstein Velez",
+        "upload_date": "20251209",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Hydrating Oil Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Oil Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effectively removes makeup and cleanses without greasy residue.",
+        "anchor_quote": "I love that it removes the makeup at first wash and it feels clean. My skin feels clean at the end of an oil cleansing. That's amazing.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "it forms a very low foaming and I wasn't expecting like a heavy foaming action, which is cool. I love that."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "I love that it removes the makeup at first wash"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "it feels clean. My skin feels clean at the end of an oil cleansing."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 12,
+        "confidence_score": 95,
+        "video_id": "fAzMNGv-XcI",
+        "influencer": "Sandy Esprit",
+        "upload_date": "20240815",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Moisturizing Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Moisturizer",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Ceramides"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "CeraVe Moisturizing Cream is best for dry, sensitive skin.",
+        "anchor_quote": "Searching for the best moisturizer for dry skin and sensitive skin? CeraVe Moisturizing Cream provides long-lasting hydration with hyaluronic acid and ceramides. Repairs skin barrier. Non-comedogenic formula. Fragrance-free & gentle. Suitable for face & body.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "long-lasting hydration"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Suitable for face & body"
+            }
+        ],
+        "direct_comparisons": [
+            {
+                "competitor_brand": "CeraVe",
+                "competitor_product": "Intensive Moisturizing Cream",
+                "comparison_nature": "similar"
+            }
+        ],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 100,
+        "video_id": "MMlPHTpsUkE",
+        "influencer": "dee outstores",
+        "upload_date": "20260320",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Blemish Control Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Wash / Cleanser",
+        "active_ingredients": [
+            "Niacinamide",
+            "Salicylic Acid",
+            "Ceramides",
+            "Hyaluronic Acid"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Blemish Control Cleanser is a game-changer for breakouts.",
+        "anchor_quote": "That's why Seraway's Bremish Control cleanser is a game changer.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 8,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 95,
+        "video_id": "a4zYDUyAHwU",
+        "influencer": "Smytten",
+        "upload_date": "20250915",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Foaming Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Wash / Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Review of CeraVe Foaming Cleanser for oily/acne-prone skin.",
+        "anchor_quote": "Honest review of CeraVe Foaming Face Wash & Salicylic Acid Cleanser",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "a4zYDUyAHwU",
+        "influencer": "Smytten",
+        "upload_date": "20250915",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cetaphil",
+        "product_name": "Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Wash / Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Cetaphil cleanser is a comparison point for CeraVe.",
+        "anchor_quote": "Comparing ingredients and effectiveness with other top cleansers like Cetaphil and Minimalist.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "a4zYDUyAHwU",
+        "influencer": "Smytten",
+        "upload_date": "20250915",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Minimalist",
+        "product_name": "Cleanser",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Face Wash / Cleanser",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Minimalist cleanser is a comparison point for CeraVe.",
+        "anchor_quote": "Comparing ingredients and effectiveness with other top cleansers like Cetaphil and Minimalist.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 70,
+        "video_id": "a4zYDUyAHwU",
+        "influencer": "Smytten",
+        "upload_date": "20250915",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Cerave",
+        "product_name": "Balancing Air Foam Cleanser",
+        "specific_variant": "For Normal to Combination Skin",
+        "product_category": "Skincare",
+        "sub_category": "Foam Cleanser",
+        "active_ingredients": [
+            "Glycolysine Cleansing Technology",
+            "Ceramides",
+            "Allantoin"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Combination"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Effective foam cleanser leaves skin soft, hydrated, and clean.",
+        "anchor_quote": "I definitely would highly recommend. I definitely would give it a 9 out of 10.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Wash in my face with foam was definitely a different experience. it still gets the job done."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "It's a very lightweight formula obviously because it's foam but it still gets the job done. my face feels nice and soft and definitely hydrated. My face feels nice and smooth after so the balancing air foam is a win in my"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "I love the fact that I thought I used this face wash my face did not feel extra dry because you know sometimes some face wash after you use it your face feels so dry and like sticky but this one did not."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "Ps2YaXFsL3E",
+        "influencer": "PrettyGirlTV",
+        "upload_date": "20250925",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
     }
 ]
