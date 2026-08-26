@@ -48334,5 +48334,2002 @@
         "upload_date": "20250925",
         "source_platform": "YouTube Shorts",
         "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Bright Complete Vitamin C Serum",
+        "specific_variant": "30x Vitamin C+",
+        "product_category": "Skincare",
+        "sub_category": "Face Serum",
+        "active_ingredients": [
+            "Vitamin C"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Garnier Vitamin C serum has safe pH and promotes glowing skin.",
+        "anchor_quote": "This serum is very good, you can try it",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "absorbed quickly , so you can use it in daily skin care routine."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "This is called Halka Non-Extracheal, which is absorbed quickly"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "Its price is 129 Rs , you will get a level of ease in any local store."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "qf0QTA2OC_g",
+        "influencer": "Glow check",
+        "upload_date": "20260725",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Bright Complete Vitamin C Serum Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Serum Cream",
+        "active_ingredients": [
+            "Vitamin C",
+            "UV filter"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "negative",
+        "primary_claim": "Garnier Vitamin C Serum Cream leaves white cast and doesn't fade dark spots.",
+        "anchor_quote": "For me, Garnia is not a product I'm not happy, I will not attempt",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "See, its texture is quite light It quickly absorbs the skin, easily gets dead"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": -8,
+                "context_quote": "it is a bit white It shows when you apply it... It's giving this white color Just like it's giving me the right to my skin"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "It quickly absorbs the skin, easily gets dead"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": -7,
+                "context_quote": "the dark spots are not that weak It's been a month since I've done this"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "vSBwBYMcRPI",
+        "influencer": "Shreya Kansal",
+        "upload_date": "20260219",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Brightening Dry Touch Moisturizer with Vitamin C",
+        "specific_variant": null,
+        "product_category": "Moisturizer",
+        "sub_category": "Dry Touch Moisturizer",
+        "active_ingredients": [
+            "Vitamin C"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "1vJngTxkIgw",
+        "influencer": "Dream's Life",
+        "upload_date": "20260720",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Skin Active Vitamin C Brightening Day Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Day Cream",
+        "active_ingredients": [
+            "Vitamin C"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Highly recommended, affordable day cream for soft, glowing skin.",
+        "anchor_quote": "Then I highly recommend Garnier Skin Active Vitamin C Brightening Day Cream.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "absorbs quickly into the skin"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "the texture of the cream is so luxurious and velvety"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "it's very affordable"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "Comes in a lovely premium glass jar"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "leaves your complexion feeling soft and with a lovely healthy looking glow"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "Eon-DCwshYw",
+        "influencer": "Heather La-Belle",
+        "upload_date": "20240706",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "Hydro Boost Hyaluronic Acid Facial Moisturizer with SPF 50",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Sunscreen",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Glycerin"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Hydrating, lightweight SPF melts into skin, great for dry skin.",
+        "anchor_quote": "I like how this feels. I like how I felt my hands. I like how one on.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It is melting on my hands. Look at that. I like how this feels. I like how I felt my hands. I like how one on. If you're dry, this is gonna be a jam. It blends it in really nice"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It is melting on my hands. Look at that. It's really lightweight."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": -3,
+                "context_quote": "This is at Target $16.99. That ends up being about $9.99 An ounce and not the cheapest."
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 5,
+                "context_quote": "It's 1.7 ounce. It's tiny. Popp gives me about one finger length. I like it. This is nice."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 10,
+        "visual_timestamp_seconds": 9,
+        "confidence_score": 98,
+        "video_id": "NRoZX79Un9s",
+        "influencer": "Dr. Aleksandra Brown DO, FAAD",
+        "upload_date": "20240902",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "Ultra Sheer Moisturizing Face Serum Sunscreen",
+        "specific_variant": "SPF 60+, Fragrance Free",
+        "product_category": "Skincare",
+        "sub_category": "Sunscreen",
+        "active_ingredients": [
+            "Vitamin E"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Sunscreen applies smoothly, leaving a hydrated finish.",
+        "anchor_quote": "",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Creator smoothly applies the serum across her face and neck."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "Product spreads easily and leaves a dewy finish."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "X6e8o--cDdE",
+        "influencer": "Dr Dray",
+        "upload_date": "20240421",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "Rapid Wrinkle Repair Retinol Regenerating Cream",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Retinol Cream",
+        "active_ingredients": [
+            "Retinol"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Neutrogena Retinol Cream is a powerful yet gentle anti-aging solution.",
+        "anchor_quote": "The Neutrogena Rapid Wrinkle Repair Regenerating Cream is a powerful yet gentle retinal for smoother, more radiant looking skin.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Apply it to cleanse skin on the face and neck, massaging it in until fully absorbed."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "massaging it in until fully absorbed."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 8,
+                "context_quote": "you do not need to be in some elite club to access high quality, effective skin care formulas."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 19,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "yfDKafVv-hM",
+        "influencer": "Dr Dray",
+        "upload_date": "20240413",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Neutrogena",
+        "product_name": "ULTRA SHEER Invisible Gel Face Sunscreen",
+        "specific_variant": null,
+        "product_category": "Sunscreen",
+        "sub_category": "Gel Sunscreen",
+        "active_ingredients": [
+            "Silicones",
+            "Helioplex",
+            "Vitamin E"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Clear, lightweight gel sunscreen with no white cast.",
+        "anchor_quote": "Once it's on the skin, there is zero, zero white cast.",
+        "attributes": [
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 10,
+                "context_quote": "Once it's on the skin, there is zero, zero white cast. There's not even a white chalkiness to it"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It goes into hair bearing areas really easily and does not leave any kind of residue on the hair."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "This is a very, very silicone dominant formulation. Silicones are wonderful. They provide slip, glide. They reduce trans epidermal water loss, but they feel a lot more lightweight on the skin."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "iyosuAg4bC0",
+        "influencer": "Dr Dray",
+        "upload_date": "20260210",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Color Riche Blurred Matte",
+        "specific_variant": "601 Worth It",
+        "product_category": "Lipstick",
+        "sub_category": "Blurred Matte Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Unknown",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "L'Or\u00e9al Paris Color Riche Blurred Matte is worth it.",
+        "anchor_quote": "Worth It",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "COLOR RICHE BLURRED MATTE"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "Worth It"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "Worth It"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "ocBhGm-2pqU",
+        "influencer": "Helga Mua ",
+        "upload_date": "20260305",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Color Riche Intense Volume Matte Lipstick",
+        "specific_variant": "365",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Matte Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Unknown",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Comfortable, long-lasting, waterproof matte lipstick that doesn't settle into lines.",
+        "anchor_quote": "\u0e2a\u0e34\u0e17\u0e34\u0e15\u0e19\u0e31\u0e49\u0e19 \u0e15\u0e34\u0e14\u0e17\u0e19 \u0e1b\u0e25\u0e48\u0e32\u0e2a\u0e1a\u0e32\u0e22\u0e1b\u0e32\u0e01",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "\u0e23\u0e34\u0e1f\u0e41\u0e21\u0e17\u0e40\u0e19\u0e37\u0e2d\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e2a\u0e1a\u0e32\u0e22"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 9,
+                "context_quote": "\u0e40\u0e22\u0e2d\u0e30\u0e19\u0e49\u0e33\u0e41\u0e04\u0e48\u0e44\u0e2b\u0e19\u0e01\u0e47\u0e44\u0e21\u0e48\u0e2b\u0e27\u0e32\u0e19\u0e08\u0e30\u0e17\u0e32\u0e07 \u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e40\u0e01\u0e48\u0e32\u0e44\u0e2b\u0e19 \u0e2a\u0e35\u0e01\u0e40\u0e27\u0e22\u0e19\u0e31\u0e49\u0e19"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 8,
+                "context_quote": "\u0e2a\u0e35\u0e01\u0e40\u0e27\u0e22\u0e19\u0e31\u0e49\u0e19"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "\u0e17\u0e38\u0e01\u0e04\u0e19\u0e25\u0e32\u0e22\u0e1e\u0e23\u0e30\u0e40\u0e08\u0e49\u0e32\u0e02\u0e2d\u0e07\u0e02\u0e49\u0e2d\u0e1a\u0e04\u0e33\u0e21\u0e32\u0e01\u0e34\u0e14\u0e17\u0e33\u0e43\u0e2b\u0e49\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e1b\u0e32\u0e01\u0e44\u0e14\u0e49\u0e07\u0e48\u0e32\u0e22"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "r1fF2myHpWw",
+        "influencer": "Zayraroom",
+        "upload_date": "20260727",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Color Riche Satin Lipstick",
+        "specific_variant": "S'IL VOUS PLAIT",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Luxurious, pigmented satin lipstick perfect for wedding season.",
+        "anchor_quote": "Oh my god look at that pigment. This shade looks so damn beautiful. I'm going to carry this around every day from now on.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 9,
+                "context_quote": "I love the golden packaging of the newly launched Colourige satin lipsticks and they come in 11 gorgeous shades. This one screams luxury and goes perfectly with my fit too. I love how unique the packaging is."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "these satin-finish lipsticks will make you the star of every function. A rich, satin finish that feels as good as it looks."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "Oh my god look at that pigment. This shade looks so damn beautiful."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "Comfortable wear that lasts through all-day celebrations."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I'm using this deep red shade"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "Love the whole lux vibe it's giving which is perfect for the wedding season."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 18,
+        "visual_timestamp_seconds": 21,
+        "confidence_score": 95,
+        "video_id": "ERFY2Zbw4pQ",
+        "influencer": "Shreemayi Reddy",
+        "upload_date": "20250107",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Color Riche Satin Lipstick",
+        "specific_variant": "BRUN CUIVRE",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gorgeous shade with good pigment and luxurious packaging.",
+        "anchor_quote": "Oh my god look at that pigment. This shade looks so damn beautiful.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 9,
+                "context_quote": "I love the golden packaging of the newly launched Colourige satin lipsticks and they come in 11 gorgeous shades. This one screams luxury and goes perfectly with my fit too. I love how unique the packaging is."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "these satin-finish lipsticks will make you the star of every function. A rich, satin finish that feels as good as it looks."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "Oh my god look at that pigment. This shade looks so damn beautiful."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "Comfortable wear that lasts through all-day celebrations."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I'm using this deep red shade"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "Love the whole lux vibe it's giving which is perfect for the wedding season."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 24,
+        "confidence_score": 90,
+        "video_id": "ERFY2Zbw4pQ",
+        "influencer": "Shreemayi Reddy",
+        "upload_date": "20250107",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Color Riche Satin Lipstick",
+        "specific_variant": "WORTH IT INTENSE",
+        "product_category": "Makeup",
+        "sub_category": "Lipstick",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Gorgeous shade with good pigment and luxurious packaging.",
+        "anchor_quote": "Oh my god look at that pigment. This shade looks so damn beautiful.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 9,
+                "context_quote": "I love the golden packaging of the newly launched Colourige satin lipsticks and they come in 11 gorgeous shades. This one screams luxury and goes perfectly with my fit too. I love how unique the packaging is."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "these satin-finish lipsticks will make you the star of every function. A rich, satin finish that feels as good as it looks."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "Oh my god look at that pigment. This shade looks so damn beautiful."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "Comfortable wear that lasts through all-day celebrations."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I'm using this deep red shade"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": "Love the whole lux vibe it's giving which is perfect for the wedding season."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 27,
+        "confidence_score": 90,
+        "video_id": "ERFY2Zbw4pQ",
+        "influencer": "Shreemayi Reddy",
+        "upload_date": "20250107",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless Foundation",
+        "specific_variant": "115 Ivory",
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Best matte foundation for oily skin, hides pores.",
+        "anchor_quote": "Ye oily skin ke liye best hai, matte finish deta hai aur pores bhi hide karta hai.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Texture dekho Itna smooth"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 9,
+                "context_quote": "\u20b9199 Maybelline Fit Me Foundation Review"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "WvJKxECxVJM",
+        "influencer": "Desk of D ",
+        "upload_date": "20260726",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless Foundation",
+        "specific_variant": "Shade 220",
+        "product_category": "Foundation",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Shade 220 is a neutral undertone for light-medium skin.",
+        "anchor_quote": "First up is shade number 220, which is under tone neutral. And this is for a light medium skin tone.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "4IGs-En5ITA",
+        "influencer": "WaySheBlushes",
+        "upload_date": "20251123",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless Foundation",
+        "specific_variant": "Shade 230",
+        "product_category": "Foundation",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Shade 230 is a neutral undertone for light-medium skin with a slight warm hint.",
+        "anchor_quote": "Next up I have shade number 230. Again this is for light medium skin tone and this is also under tone. It is quite neutral. It is very slight warm in it.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "4IGs-En5ITA",
+        "influencer": "WaySheBlushes",
+        "upload_date": "20251123",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless Foundation",
+        "specific_variant": "Shade 228",
+        "product_category": "Foundation",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Shade 228 is a completely neutral undertone shade.",
+        "anchor_quote": "Next up I have shade number 228, which is also a completely neutral under tone shade.",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 18,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "4IGs-En5ITA",
+        "influencer": "WaySheBlushes",
+        "upload_date": "20251123",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless Foundation",
+        "specific_variant": "123",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Swatching new Maybelline Fit Me Foundation shades for lighter skin.",
+        "anchor_quote": "All these shades are for lighter skin tones",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 4,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "-0jtCX0m13c",
+        "influencer": "WaySheBlushes",
+        "upload_date": "20260521",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless Foundation",
+        "specific_variant": "126",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Swatching new Maybelline Fit Me Foundation shades for lighter skin.",
+        "anchor_quote": "All these shades are for lighter skin tones",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 6,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "-0jtCX0m13c",
+        "influencer": "WaySheBlushes",
+        "upload_date": "20260521",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless Foundation",
+        "specific_variant": "127",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Swatching new Maybelline Fit Me Foundation shades for lighter skin.",
+        "anchor_quote": "All these shades are for lighter skin tones",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 8,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "-0jtCX0m13c",
+        "influencer": "WaySheBlushes",
+        "upload_date": "20260521",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Matte + Poreless Foundation",
+        "specific_variant": "128",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Swatching new Maybelline Fit Me Foundation shades for lighter skin.",
+        "anchor_quote": "All these shades are for lighter skin tones",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 12,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "-0jtCX0m13c",
+        "influencer": "WaySheBlushes",
+        "upload_date": "20260521",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Fit Me Foundation",
+        "specific_variant": "120 Classic Ivory",
+        "product_category": "Makeup",
+        "sub_category": "Matte Foundation",
+        "active_ingredients": [
+            "SPF 22 PA++"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Oily/Acne-Prone"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Affordable Maybelline Fit Me foundation is excellent for oily skin.",
+        "anchor_quote": "I will trade this a 4.5 out of 5 because this is genuinely so so good",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 9,
+                "context_quote": "It feels very light on the skin blends in seconds and even though it has a matte finish this is not a patchy one application was smooth as butter"
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 10,
+                "context_quote": "and the shade match was bang on Honestly the shade match was a chef's kiss"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "and this is how my makeup was looking after 10 plus Rs without any setting powder or setting spray"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "Feels very light, blends easily l, doesn\u2019t feel dry, patchy or cakey on the skin."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "Honestly this is truly one of the best matte foundation in affordable category"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 98,
+        "video_id": "dK8Rn-WLImI",
+        "influencer": "Lifestyle with Shaifali",
+        "upload_date": "20260308",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "True Match Foundation",
+        "specific_variant": "N7",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type V-VI (Brown/Dark)",
+            "skin_type_indication": "Dry"
+        },
+        "overall_sentiment": "mixed",
+        "primary_claim": "Affordable, lightweight foundation with natural coverage, but has average longevity and may be too luminous for oily skin.",
+        "anchor_quote": "I give this about a 7 out of 12 on the lasting power of it, meaning it lasts 7 out of maybe a 12 hours. Somebody with oily to combination skin this could be problematic.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 3,
+                "context_quote": "I give this about a 7 out of 12 on the lasting power of it, meaning it lasts 7 out of maybe a 12 hours."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 5,
+                "context_quote": "it's very lightweight."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "This foundation is available in drug stores for $10"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 6,
+                "context_quote": "this time adding a pump that so many people have asked for"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "oz1lTJ9QiHo",
+        "influencer": "Lia Lavon",
+        "upload_date": "20230816",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "True Match Super-Blendable Foundation",
+        "specific_variant": "C4",
+        "product_category": "Face",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 100,
+        "video_id": "YYRJ3WlU_eM",
+        "influencer": "DebNYCurl",
+        "upload_date": "20241208",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "True Match Radiant Serum Concealer",
+        "specific_variant": null,
+        "product_category": "Face",
+        "sub_category": "Liquid Concealer",
+        "active_ingredients": [
+            "Hyaluronic Acid",
+            "Caffeine"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 100,
+        "video_id": "YYRJ3WlU_eM",
+        "influencer": "DebNYCurl",
+        "upload_date": "20241208",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "True Match Foundation",
+        "specific_variant": "W4 Warm Light Medium",
+        "product_category": "Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "L'Oreal True Match Foundation offers good coverage and blendability.",
+        "anchor_quote": "Overall I really like this foundation",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "how easy the application pump was to use"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "how vulnerable the formula is"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 0,
+                "context_quote": ""
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 0,
+                "context_quote": "On camera this looks like the perfect match but in person my face does have a light warm to it that I would personally prefer to keep more neutral."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 5,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "DuuKq6hu95o",
+        "influencer": "Malana Bouarouy",
+        "upload_date": "20250605",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Giorgio Armani",
+        "product_name": "Luminous Silk",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides excellent longevity for a long-wearing base.",
+        "anchor_quote": "I love this one for the longevity.",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 10,
+                "context_quote": "I love this one for the longevity."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": 2,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 90,
+        "video_id": "iLOxoPJ7TGk",
+        "influencer": "Allie Glines",
+        "upload_date": "20260212",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "True Match",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Provides a skin-like finish when mixed for a long-wearing base.",
+        "anchor_quote": "L'Oreal True Match because it just looked so skin-like",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 10,
+                "context_quote": "L'Oreal True Match because it just looked so skin-like"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 7,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 95,
+        "video_id": "iLOxoPJ7TGk",
+        "influencer": "Allie Glines",
+        "upload_date": "20260212",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Guerlain",
+        "product_name": "Terracotta Le Teint",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Not applicable",
+        "anchor_quote": "Not applicable",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": false,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 80,
+        "video_id": "iLOxoPJ7TGk",
+        "influencer": "Allie Glines",
+        "upload_date": "20260212",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "True Match Super Blendable Foundation",
+        "specific_variant": null,
+        "product_category": "Face Makeup",
+        "sub_category": "Liquid Foundation",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen X (44-59)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Foundation offers seamless, lightweight, medium coverage, and blends easily.",
+        "anchor_quote": "It literally melts into my skin. I mean, you can't tell where my foundation ends and where I begin. Lightweight medium coverage.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "super blendable foundation. It literally melts into my skin."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 9,
+                "context_quote": "The shade? Seamless. I mean, you can't tell where my foundation ends and where I begin."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "super blendable foundation. It literally melts into my skin. Lightweight medium coverage."
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 10,
+                "context_quote": "Only 1099 for this magic."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 9,
+        "visual_timestamp_seconds": 6,
+        "confidence_score": 98,
+        "video_id": "MZc35xthX8M",
+        "influencer": "Carla Rockmore",
+        "upload_date": "20251211",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Fructis Sleek & Shine Anti-Frizz Serum",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Anti-Frizz Serum",
+        "active_ingredients": [
+            "Argan Oil",
+            "Vegan Care System"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Serum effectively controls frizz, adds shine, and softens hair.",
+        "anchor_quote": "The after is way more sleek and way more polished",
+        "attributes": [
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "Clinically proven frizz control up to three days even in 97% humidity."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "control frizz without feeling heavy or greasy"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "I use a small amount and I focus on my mid-links and ends"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "It left my hair feeling soft and looking really shiny"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 39,
+        "confidence_score": 95,
+        "video_id": "gyIizKFfPYY",
+        "influencer": "Diana Veronica DIY",
+        "upload_date": "20260326",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Garnier",
+        "product_name": "Fructis Sleek & Shine Anti-Frizz Serum",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Anti-Frizz Serum",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Gen Z (Under 27)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Serum makes hair hydrated and frizz-free, even in winter.",
+        "anchor_quote": "But the best part was how hydrated my hair looked, despite it being winter where my hair would usually be all dry and frizzy.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 7,
+                "context_quote": "After curling my hair, I applied a decent amount to my curls"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it made my hair smell so nice. But the best part was how hydrated my hair looked"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 8,
+                "context_quote": "But the best part was how hydrated my hair looked, despite it being winter where my hair would usually be all dry and frizzy."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 1,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 98,
+        "video_id": "gCIm3pShGJ0",
+        "influencer": "Jacy's Archive",
+        "upload_date": "20260327",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "Sleek & Stay Heat Activated Serum",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Hair Serum",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Serum delivers shiny, sleek, straight, anti-frizz hair.",
+        "anchor_quote": "Clearly it works. I'm not saying that this side was bad. I'm just saying this side is better.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 0,
+                "context_quote": "shake well before you apply this evenly, to throughout your damp hair, one little pump at a time."
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 5,
+                "context_quote": "even if this lasts 24 hours, I'll be happy with it."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "Is it possible for my hair to get softer?"
+            },
+            {
+                "attribute": "Value",
+                "sentiment_score": 7,
+                "context_quote": "Drugstore price, salon finish"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 3,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 98,
+        "video_id": "0RlqygQpTkQ",
+        "influencer": "Sonia Castaneda",
+        "upload_date": "20250404",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "Keratin Sleek & Stay Anti-Frizz Hair Serum",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Hair Serum",
+        "active_ingredients": [
+            "Alpha-Silane technology",
+            "Keratin"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Achieves glossy, sleek, frizz-free hair with heat activation.",
+        "anchor_quote": "Glossy shiny hair",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Step 1: Shake it, Step 2: Heat it, Step 3: Sleek It"
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 9,
+                "context_quote": "Glossy shiny hair"
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "LLv11hUzOsQ",
+        "influencer": "Garnier AU & NZ",
+        "upload_date": "20260316",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Charlotte Tilbury",
+        "product_name": "Frizz Tamer",
+        "specific_variant": null,
+        "product_category": "Hair Care",
+        "sub_category": "Hair Oil",
+        "active_ingredients": [
+            "Argan Oil"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Highly effective, lightweight frizz tamer for humidity.",
+        "anchor_quote": "I just reordered a new one because I love it so much.",
+        "attributes": [
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It's basically a silicone hair oil in a mascara bottle."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "doesn't weigh down the hair at all"
+            },
+            {
+                "attribute": "Longevity",
+                "sentiment_score": 7,
+                "context_quote": "great for... curls here on the side and they like to come out and poof out in the humidity"
+            },
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 5,
+                "context_quote": "It's basically a silicone hair oil in a mascara bottle."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "J8l-k6uWyWo",
+        "influencer": "Dr Dray",
+        "upload_date": "20251103",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Paradise Big Deal Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Mascara provides wispy, defined lashes without clumping.",
+        "anchor_quote": "It is not clumping which is amazing. I am maintaining wispy looking lashes.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 8,
+                "context_quote": "it is not clumping which is amazing."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "I am maintaining wispy looking lashes."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "DePAfPLccb4",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260129",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "DePAfPLccb4",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260129",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Live Tinted",
+        "product_name": "Legacy Lash Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "DePAfPLccb4",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260129",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": "Sparkle",
+        "product_category": "Makeup",
+        "sub_category": "Liquid Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "DePAfPLccb4",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260129",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "DePAfPLccb4",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260129",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nails",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "Product listed in description.",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "DePAfPLccb4",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260129",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Paradise Big Deal Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Delivers nice curl, wispy lashes, and easy cleanup.",
+        "anchor_quote": "You can see really nice curl, really wispy looking lashes. It just picks it right up. The key though is you have to be patient and let it dry. You can't do like a panic cleanup, but look, it didn't even mess up my eye makeup look. So so good.",
+        "attributes": [
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "really wispy looking lashes"
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "It just picks it right up. The key though is you have to be patient and let it dry. You can't do like a panic cleanup, but look, it didn't even mess up my eye makeup look."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 0,
+        "visual_timestamp_seconds": 3,
+        "confidence_score": 95,
+        "video_id": "BQQvVlHKC2A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260128",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "L'Or\u00e9al",
+        "product_name": "Telescopic Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "BQQvVlHKC2A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260128",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Live Tinted",
+        "product_name": "Legacy Lash Mascara",
+        "specific_variant": null,
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "BQQvVlHKC2A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260128",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Armani",
+        "product_name": "Liquid Eyeshadow",
+        "specific_variant": "Sparkle",
+        "product_category": "Makeup",
+        "sub_category": "Eyeshadow",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "BQQvVlHKC2A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260128",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Dior",
+        "product_name": "Lip Oil",
+        "specific_variant": "Pink Lilac",
+        "product_category": "Makeup",
+        "sub_category": "Lip Oil",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "BQQvVlHKC2A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260128",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Londontown",
+        "product_name": "Kur Illuminating Nail Concealer",
+        "specific_variant": "Bare",
+        "product_category": "Nail Care",
+        "sub_category": "Nail Concealer",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "BQQvVlHKC2A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260128",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Younique",
+        "product_name": "Collagen",
+        "specific_variant": null,
+        "product_category": "Skincare",
+        "sub_category": "Supplement",
+        "active_ingredients": [
+            "Collagen"
+        ],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 80,
+        "video_id": "BQQvVlHKC2A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260128",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Younique",
+        "product_name": "Beauty Box",
+        "specific_variant": null,
+        "product_category": "Beauty",
+        "sub_category": "Subscription Box",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type III-IV (Medium/Olive)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "neutral",
+        "primary_claim": "",
+        "anchor_quote": "",
+        "attributes": [],
+        "direct_comparisons": [],
+        "mentioned_in_audio": false,
+        "mentioned_in_caption": true,
+        "shown_visually": false,
+        "spoken_timestamp_seconds": null,
+        "visual_timestamp_seconds": null,
+        "confidence_score": 75,
+        "video_id": "BQQvVlHKC2A",
+        "influencer": "Katie Hoke",
+        "upload_date": "20260128",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
+    },
+    {
+        "brand_name": "Maybelline",
+        "product_name": "Lash Sensational Body Mascara",
+        "specific_variant": "Black",
+        "product_category": "Makeup",
+        "sub_category": "Mascara",
+        "active_ingredients": [],
+        "creator_demographics": {
+            "estimated_age_bracket": "Millennial (28-43)",
+            "skin_tone_fitzpatrick": "Type I-II (Fair/Light)",
+            "skin_type_indication": "Unknown"
+        },
+        "overall_sentiment": "positive",
+        "primary_claim": "Mascara provides gorgeous length, curve, and separation.",
+        "anchor_quote": "The length is just gorgeous. I love the curve. I love the separation of the lashes. Look at my lashes. This is crazy. I love it.",
+        "attributes": [
+            {
+                "attribute": "Packaging",
+                "sentiment_score": 8,
+                "context_quote": "Here is the packaging itself. Look how gorgeous this is."
+            },
+            {
+                "attribute": "Application_Ease",
+                "sentiment_score": 8,
+                "context_quote": "Nice curved brush, very flexible. And bristles are not super duper stiff. So I really, really like that."
+            },
+            {
+                "attribute": "Texture",
+                "sentiment_score": 7,
+                "context_quote": "And bristles are not super duper stiff."
+            },
+            {
+                "attribute": "Color_Accuracy",
+                "sentiment_score": 7,
+                "context_quote": "And I got it in a shade black as the black."
+            }
+        ],
+        "direct_comparisons": [],
+        "mentioned_in_audio": true,
+        "mentioned_in_caption": true,
+        "shown_visually": true,
+        "spoken_timestamp_seconds": 47,
+        "visual_timestamp_seconds": 0,
+        "confidence_score": 95,
+        "video_id": "_AtGiM3MWic",
+        "influencer": "Svetlana",
+        "upload_date": "20251221",
+        "source_platform": "YouTube Shorts",
+        "creator_location": "Unknown"
     }
 ]
